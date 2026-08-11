@@ -1,10 +1,10 @@
 # Climate Security Index
 
-[![Pages](https://github.com/MonarchCastleTech/climate-security-index/actions/workflows/pipeline.yml/badge.svg)](https://github.com/MonarchCastleTech/climate-security-index/actions/workflows/pipeline.yml)
+[![Pages](https://github.com/SDCofA/climate-security-index/actions/workflows/pipeline.yml/badge.svg)](https://github.com/SDCofA/climate-security-index/actions/workflows/pipeline.yml)
 
 Compound climate and security risk indicators from open data.
 
-**Live dashboard:** https://monarchcastletech.github.io/climate-security-index/
+**Live dashboard:** https://sdcofa.github.io/climate-security-index/
 
 ## Run locally
 
@@ -26,4 +26,4 @@ Source availability varies. The dashboard identifies its generation time and ope
 
 ## Brand
 
-Part of Monarch Castle Technologies. See [BRAND.md](BRAND.md) for approved asset use.
+Published by SDCofA, the endorsed analytical unit of Monarch Castle Technologies. See [BRAND.md](BRAND.md) for approved asset use.
