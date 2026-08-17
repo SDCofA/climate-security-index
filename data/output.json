@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "climate-security-index",
-    "generated": "2026-08-17T13:11:34.128177+00:00",
+    "generated": "2026-08-17T19:03:46.006118+00:00",
     "mode": "live",
     "sources": [
       "gdelt_articles",
@@ -32,7 +32,404 @@
     }
   ],
   "live_data": {
-    "gdelt_articles": [],
+    "gdelt_articles": [
+      {
+        "title": "Spotlight on UN desertification summit as it mulls how to spend $12bn war chest",
+        "url": "https://www.theguardian.com/environment/2026/aug/17/spotlight-on-un-cop17-desertification-summit-mongolia",
+        "domain": "theguardian.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260817T061500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Spotlight on UN desertification summit as it mulls how to spend $12bn war chest",
+        "url": "https://www.aol.co.uk/articles/spotlight-un-desertification-summit-mulls-050047000.html",
+        "domain": "aol.co.uk",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260817T054500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "UK PM Burnham steps up farmer funds amid extreme heat , drought conditions",
+        "url": "https://www.dailyexcelsior.com/uk-pm-burnham-steps-up-farmer-funds-amid-extreme-heat-drought-conditions/",
+        "domain": "dailyexcelsior.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260816T234500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "La ONU abre en Mongolia una cumbre global para acelerar la restauración de tierras y combatir la degradación ambiental",
+        "url": "https://www.ecoportal.net/mundo/onu-mongolia-degradacion-tierras/",
+        "domain": "ecoportal.net",
+        "language": "Spanish",
+        "tone": 0,
+        "seendate": "20260817T181500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Agua no debe ser moneda de cambio para el T - MEC : Mario Vázquez",
+        "url": "https://www.tiempo.com.mx/local/mario-vazquez-agua-no-es-moneda-de-cambio-tmec-chihuahua-2026/",
+        "domain": "tiempo.com.mx",
+        "language": "Spanish",
+        "tone": 0,
+        "seendate": "20260817T183000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Ouverture de la COP17 à la CNULCD dans la capitale de la Mongolie , Oulan - Bator - Xinhua",
+        "url": "http://french.xinhuanet.com/20260817/6ec3a38502394f39bb7345974064d763/c.html",
+        "domain": "french.xinhuanet.com",
+        "language": "French",
+        "tone": 0,
+        "seendate": "20260817T091500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Saudi Arabia hands land degradation baton to Mongolia",
+        "url": "https://www.arabnews.com/node/2654990",
+        "domain": "arabnews.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260817T150000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Ethiopia : Wars , Strategic Rivalries and a Deepening Humanitarian Strain",
+        "url": "https://allafrica.com/stories/202608170107.html",
+        "domain": "allafrica.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260817T063000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "小麦新品种  天宁138  通过国家初审 _ 中华网",
+        "url": "https://hea.china.com/articles/20260817/202608171942267.html",
+        "domain": "hea.china.com",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260817T080000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Cigler Kralj : Rejce živine pozivamo , naj ne začnejo v paniki prodajati živine",
+        "url": "https://www.rtvslo.si/slovenija/cigler-kralj-rejce-zivine-pozivamo-naj-ne-zacnejo-v-paniki-prodajati-zivine/791100",
+        "domain": "rtvslo.si",
+        "language": "Slovenian",
+        "tone": 0,
+        "seendate": "20260817T141500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "王义桅 ： 多瑙河裸露的河床 ， 露了欧洲治理的底",
+        "url": "https://baijiahao.baidu.com/s?id=1873730497397504911",
+        "domain": "baijiahao.baidu.com",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260817T040000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Nigeria : Premium Times Journalist , Five Others Selected for Unccd COP17 Media Fellowship in Mongolia",
+        "url": "https://allafrica.com/stories/202608170120.html",
+        "domain": "allafrica.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260817T060000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Cigler Kralj : Rejce živine pozivamo , naj ne začnejo v paniki prodajati živine",
+        "url": "https://www.rtvslo.si/okolje/cigler-kralj-rejce-zivine-pozivamo-naj-ne-zacnejo-v-paniki-prodajati-zivine/791100",
+        "domain": "rtvslo.si",
+        "language": "Slovenian",
+        "tone": 0,
+        "seendate": "20260817T124500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Thames Water just proved the system is broken - it the perfect sign | united kingdom | News",
+        "url": "https://www.express.co.uk/news/uk/2239125/thames-water-chiefs-1m-payment",
+        "domain": "express.co.uk",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260817T061500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": " ¿ Brasil sigue sin estar preparado para las olas de calor ? ",
+        "url": "http://diariojornada.com.ar/421893/internacional/brasil_sigue_sin_estar_preparado_para_las_olas_de_calor",
+        "domain": "diariojornada.com.ar",
+        "language": "Spanish",
+        "tone": 0,
+        "seendate": "20260816T210000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "جريدة الرياض | المملكة تُسلّم رئاسة مؤتمر الأطراف لمنغوليا",
+        "url": "https://www.alriyadh.com/2202753",
+        "domain": "alriyadh.com",
+        "language": "Arabic",
+        "tone": 0,
+        "seendate": "20260817T181500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Desertificazione , al via la Cop17 in Mongolia",
+        "url": "https://it.euronews.com/my-europe/2026/08/17/desertificazione-al-via-la-cop17-in-mongolia-dalle-terre-dipende-la-stabilita-economica",
+        "domain": "it.euronews.com",
+        "language": "Italian",
+        "tone": 0,
+        "seendate": "20260817T141500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": " « Самая горячая пора »: хлеборобы идут к 9 миллиону тонн зерна",
+        "url": "https://ont.by/ru/society-ru/view/samaja-gorjachaja-pora-xleboroby-idut-k-9-millionu-tonn-zerna-324006-2026",
+        "domain": "ont.by",
+        "language": "Russian",
+        "tone": 0,
+        "seendate": "20260817T060000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Decision on Jackdaw and Rosebank could be  life or death  in North Sea – Tories",
+        "url": "https://www.aol.co.uk/articles/decision-jackdaw-rosebank-could-life-230100000.html",
+        "domain": "aol.co.uk",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260816T234500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Decision on Jackdaw and Rosebank could be  life or death  in North Sea – Tories",
+        "url": "https://www.lbc.co.uk/article/cd7a58f814ba4c9695998e33bf0d70be-5Hjdg7N_2/",
+        "domain": "lbc.co.uk",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260816T234500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "A股全线走强 ： 三大指数高开高走 ， 粮食概念站上风口",
+        "url": "https://finance.sina.com.cn/tech/roll/2026-08-17/doc-ininreap6984020.shtml",
+        "domain": "finance.sina.com.cn",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260817T074500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "La ONU reúne a 197 países en Mongolia para frenar el avance de la desertificación",
+        "url": "https://es.euronews.com/my-europe/2026/08/17/la-onu-reune-a-197-paises-en-mongolia-para-frenar-el-avance-de-la-desertificacion",
+        "domain": "es.euronews.com",
+        "language": "Spanish",
+        "tone": 0,
+        "seendate": "20260817T160000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "UNCCD COP17 opens in Mongolia capital - Xinhua",
+        "url": "https://english.news.cn/20260817/80b458b1ebff4410a73b0cdaab40a9ca/c.html",
+        "domain": "english.news.cn",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260817T060000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "欧洲热浪冲击当地企业 430亿欧元损失仅获5亿保险赔付 _ 东方财富网",
+        "url": "https://finance.eastmoney.com/a/202608173843287223.html",
+        "domain": "finance.eastmoney.com",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260817T110000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Crisi idrica in Europa : Italia al sesto posto tra i Paesi più colpiti",
+        "url": "https://it.euronews.com/my-europe/2026/08/17/crisi-idrica-in-europa-italia-al-sesto-posto-tra-i-paesi-piu-colpiti",
+        "domain": "it.euronews.com",
+        "language": "Italian",
+        "tone": 0,
+        "seendate": "20260817T181500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Cape Town should not sacrifice its water for data centres",
+        "url": "https://mg.co.za/thought-leader/2026-08-17-cape-town-should-not-sacrifice-its-water-for-data-centres/",
+        "domain": "mg.co.za",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260817T043000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "As Mongolia Hosts COP17 , Pastoralists Demand Space to Restore",
+        "url": "https://www.ipsnews.net/2026/08/as-mongolia-hosts-cop17-pastoralists-demand-space-to-move-survive-and-restore/",
+        "domain": "ipsnews.net",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260817T144500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Kenya : The Grass Beneath Our Feet - Why Rangelands Matter",
+        "url": "https://allafrica.com/stories/202608170069.html",
+        "domain": "allafrica.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260817T060000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "DEBATT : MP : Klimatkrisen bryr sig inte om politisk färg",
+        "url": "https://www.vt.se/debatt/artikel/mp-klimatkrisen-bryr-sig-inte-om-politisk-farg/rex9pqxl",
+        "domain": "vt.se",
+        "language": "Swedish",
+        "tone": 0,
+        "seendate": "20260816T194500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Sécheresse : les élus de Martinique réclament une part de leffort national pour sauver lagriculture locale",
+        "url": "https://la1ere.franceinfo.fr/martinique/secheresse-les-elus-de-martinique-reclament-une-part-de-l-effort-national-pour-sauver-l-agriculture-locale-1728580.html",
+        "domain": "la1ere.franceinfo.fr",
+        "language": "French",
+        "tone": 0,
+        "seendate": "20260816T194500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Tak źle z wodą w Polsce jeszcze nie było ? Ekspertka ostrzega",
+        "url": "https://wiadomosci.onet.pl/kraj/tak-zle-z-woda-w-polsce-jeszcze-nie-bylo-ekspertka-ostrzega/cd9mz0c",
+        "domain": "wiadomosci.onet.pl",
+        "language": "Polish",
+        "tone": 0,
+        "seendate": "20260817T044500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Nigeria : Special Report - As COP17 Nears , Nigeria Rangelands Crisis Deepens , Threatening Farmers , Pastoral Livelihoods",
+        "url": "https://allafrica.com/stories/202608170128.html",
+        "domain": "allafrica.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260817T060000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "El cambio extremo en la tendencia del clima obliga a los agricultores a prepararse anticipadamente para proteger las cosechas • Periódico Digital Centroamericano y del Caribe",
+        "url": "https://newsinamerica.com/pdcc/noticias/otrasnoticias/2026/el-cambio-extremo-en-la-tendencia-del-clima-obliga-a-los-agricultores-a-prepararse-anticipadamente-para-proteger-las-cosechas/",
+        "domain": "newsinamerica.com",
+        "language": "Spanish",
+        "tone": 0,
+        "seendate": "20260816T203000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "La sequía lleva al límite a pueblos enteros del norte que ya necesitan camiones de agua para abastecerse",
+        "url": "https://www.eldiario.es/sociedad/sequia-lleva-limite-pueblos-enteros-norte-necesitan-camiones-agua-abastecerse_1_13447119.html",
+        "domain": "eldiario.es",
+        "language": "Spanish",
+        "tone": 0,
+        "seendate": "20260817T061500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Weird Wide Web – Kaas te duur om koel te hou ! ",
+        "url": "https://www.ofm.co.za/article/offbeat/342846/weird-wide-web-kaas-te-duur-om-koel-te-hou-",
+        "domain": "ofm.co.za",
+        "language": "Afrikaans",
+        "tone": 0,
+        "seendate": "20260817T170000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Dolores del Castillo , científica del CSIC experta en alimentación :  Todo lo natural no tiene por qué ser sano  ",
+        "url": "https://www.eldiario.es/cantabria/dolores-castillo-cientifica-csic-experta-alimentacion-natural-no-sano_1_13440843.html",
+        "domain": "eldiario.es",
+        "language": "Spanish",
+        "tone": 0,
+        "seendate": "20260817T061500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "El guayule , inesperado aliado frente al ataque del hongo que amenaza al 85 % de las colmenas españolas",
+        "url": "https://www.eldiario.es/castilla-la-mancha/agroalimentaria/guayule-inesperado-aliado-frente-ataque-hongo-amenaza-85-colmenas-espanolas_1_13387085.html",
+        "domain": "eldiario.es",
+        "language": "Spanish",
+        "tone": 0,
+        "seendate": "20260817T061500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Afghanistan Floods 2026 : Why Natural Disasters Have Hit More Than 97 , 000 People and Deepened the Humanitarian Crisis",
+        "url": "https://openthemagazine.com/world/afghanistan-natural-disasters-why-floods-have-hit-more-than-97000-people-in-2026",
+        "domain": "openthemagazine.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260817T061500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": " 《 求是 》 杂志发表习近平总书记重要文章 《 提高防灾减灾救灾能力 》 ",
+        "url": "http://www.dangjian.cn/tt/2026/08/17/detail_202608177836342.html",
+        "domain": "dangjian.cn",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260817T030000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Ерөнхий сайд Н . Учрал : COP17 бол өмнөх шийдвэр , тунхаглалыг давтах бус , хэрэгжилтийг хурдасгах бага хурал байх учиртай",
+        "url": "http://www.unen.mn/a/127560",
+        "domain": "unen.mn",
+        "language": "Mongolian",
+        "tone": 0,
+        "seendate": "20260817T084500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Fleet , EV and automotive sectors react to ZEV mandate consultation",
+        "url": "https://evfleetworld.co.uk/fleet-ev-and-automotive-sectors-react-to-zev-mandate-consultation/",
+        "domain": "evfleetworld.co.uk",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260817T174500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "北京女孩放弃美国的工作 ， 跑到贵州盖房种地 ： 靠天吃饭很踏实",
+        "url": "https://www.163.com/dy/article/L4HEJODO052582BB.html",
+        "domain": "163.com",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260817T034500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Data , Drone and AI : Technology transforming Indian agriculture",
+        "url": "https://organiser.org/2026/08/16/375418/bharat/data-drone-and-ai-how-technology-is-transforming-indian-agriculture/",
+        "domain": "organiser.org",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260816T210000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Narni . Pillole . Adiberto Favilli sempre propositivo , Ciao Luciana , la panchina rossa scolorita . Quindi oggi ... ",
+        "url": "https://terninrete.it/notizie-di-terni-narni-pillole-adiberto-favilli-sempre-propositivo-ciao-luciana-la-panchina-rossa-scolorita-quindi-oggi/",
+        "domain": "terninrete.it",
+        "language": "Italian",
+        "tone": 0,
+        "seendate": "20260817T181500Z",
+        "source": "GDELT"
+      }
+    ],
     "exchange_rates": [
       {
         "currency": "USD",
@@ -116,8 +513,225 @@
       }
     ]
   },
-  "entities": [],
-  "events": [],
+  "entities": [
+    {
+      "id": 1,
+      "name": "Spotlight on UN desertification summit as it mulls how to sp",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260817T061500Z",
+      "source": "theguardian.com"
+    },
+    {
+      "id": 2,
+      "name": "Spotlight on UN desertification summit as it mulls how to sp",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260817T054500Z",
+      "source": "aol.co.uk"
+    },
+    {
+      "id": 3,
+      "name": "UK PM Burnham steps up farmer funds amid extreme heat , drou",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260816T234500Z",
+      "source": "dailyexcelsior.com"
+    },
+    {
+      "id": 4,
+      "name": "La ONU abre en Mongolia una cumbre global para acelerar la r",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260817T181500Z",
+      "source": "ecoportal.net"
+    },
+    {
+      "id": 5,
+      "name": "Agua no debe ser moneda de cambio para el T - MEC : Mario Vá",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260817T183000Z",
+      "source": "tiempo.com.mx"
+    },
+    {
+      "id": 6,
+      "name": "Ouverture de la COP17 à la CNULCD dans la capitale de la Mon",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260817T091500Z",
+      "source": "french.xinhuanet.com"
+    },
+    {
+      "id": 7,
+      "name": "Saudi Arabia hands land degradation baton to Mongolia",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260817T150000Z",
+      "source": "arabnews.com"
+    },
+    {
+      "id": 8,
+      "name": "Ethiopia : Wars , Strategic Rivalries and a Deepening Humani",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260817T063000Z",
+      "source": "allafrica.com"
+    },
+    {
+      "id": 9,
+      "name": "小麦新品种  天宁138  通过国家初审 _ 中华网",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260817T080000Z",
+      "source": "hea.china.com"
+    },
+    {
+      "id": 10,
+      "name": "Cigler Kralj : Rejce živine pozivamo , naj ne začnejo v pani",
+      "score": 5.0,
+      "category": "news",
+      "last_seen": "20260817T141500Z",
+      "source": "rtvslo.si"
+    }
+  ],
+  "events": [
+    {
+      "title": "Spotlight on UN desertification summit as it mulls how to spend $12bn war chest",
+      "url": "https://www.theguardian.com/environment/2026/aug/17/spotlight-on-un-cop17-desertification-summit-mongolia",
+      "domain": "theguardian.com",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260817T061500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Spotlight on UN desertification summit as it mulls how to spend $12bn war chest",
+      "url": "https://www.aol.co.uk/articles/spotlight-un-desertification-summit-mulls-050047000.html",
+      "domain": "aol.co.uk",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260817T054500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "UK PM Burnham steps up farmer funds amid extreme heat , drought conditions",
+      "url": "https://www.dailyexcelsior.com/uk-pm-burnham-steps-up-farmer-funds-amid-extreme-heat-drought-conditions/",
+      "domain": "dailyexcelsior.com",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260816T234500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "La ONU abre en Mongolia una cumbre global para acelerar la restauración de tierras y combatir la degradación ambiental",
+      "url": "https://www.ecoportal.net/mundo/onu-mongolia-degradacion-tierras/",
+      "domain": "ecoportal.net",
+      "language": "Spanish",
+      "tone": 0,
+      "seendate": "20260817T181500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Agua no debe ser moneda de cambio para el T - MEC : Mario Vázquez",
+      "url": "https://www.tiempo.com.mx/local/mario-vazquez-agua-no-es-moneda-de-cambio-tmec-chihuahua-2026/",
+      "domain": "tiempo.com.mx",
+      "language": "Spanish",
+      "tone": 0,
+      "seendate": "20260817T183000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Ouverture de la COP17 à la CNULCD dans la capitale de la Mongolie , Oulan - Bator - Xinhua",
+      "url": "http://french.xinhuanet.com/20260817/6ec3a38502394f39bb7345974064d763/c.html",
+      "domain": "french.xinhuanet.com",
+      "language": "French",
+      "tone": 0,
+      "seendate": "20260817T091500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Saudi Arabia hands land degradation baton to Mongolia",
+      "url": "https://www.arabnews.com/node/2654990",
+      "domain": "arabnews.com",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260817T150000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Ethiopia : Wars , Strategic Rivalries and a Deepening Humanitarian Strain",
+      "url": "https://allafrica.com/stories/202608170107.html",
+      "domain": "allafrica.com",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260817T063000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "小麦新品种  天宁138  通过国家初审 _ 中华网",
+      "url": "https://hea.china.com/articles/20260817/202608171942267.html",
+      "domain": "hea.china.com",
+      "language": "Chinese",
+      "tone": 0,
+      "seendate": "20260817T080000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Cigler Kralj : Rejce živine pozivamo , naj ne začnejo v paniki prodajati živine",
+      "url": "https://www.rtvslo.si/slovenija/cigler-kralj-rejce-zivine-pozivamo-naj-ne-zacnejo-v-paniki-prodajati-zivine/791100",
+      "domain": "rtvslo.si",
+      "language": "Slovenian",
+      "tone": 0,
+      "seendate": "20260817T141500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "王义桅 ： 多瑙河裸露的河床 ， 露了欧洲治理的底",
+      "url": "https://baijiahao.baidu.com/s?id=1873730497397504911",
+      "domain": "baijiahao.baidu.com",
+      "language": "Chinese",
+      "tone": 0,
+      "seendate": "20260817T040000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Nigeria : Premium Times Journalist , Five Others Selected for Unccd COP17 Media Fellowship in Mongolia",
+      "url": "https://allafrica.com/stories/202608170120.html",
+      "domain": "allafrica.com",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260817T060000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Cigler Kralj : Rejce živine pozivamo , naj ne začnejo v paniki prodajati živine",
+      "url": "https://www.rtvslo.si/okolje/cigler-kralj-rejce-zivine-pozivamo-naj-ne-zacnejo-v-paniki-prodajati-zivine/791100",
+      "domain": "rtvslo.si",
+      "language": "Slovenian",
+      "tone": 0,
+      "seendate": "20260817T124500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Thames Water just proved the system is broken - it the perfect sign | united kingdom | News",
+      "url": "https://www.express.co.uk/news/uk/2239125/thames-water-chiefs-1m-payment",
+      "domain": "express.co.uk",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260817T061500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": " ¿ Brasil sigue sin estar preparado para las olas de calor ? ",
+      "url": "http://diariojornada.com.ar/421893/internacional/brasil_sigue_sin_estar_preparado_para_las_olas_de_calor",
+      "domain": "diariojornada.com.ar",
+      "language": "Spanish",
+      "tone": 0,
+      "seendate": "20260816T210000Z",
+      "source": "GDELT"
+    }
+  ],
   "timeseries": [],
   "llm_summary": "Pending API key..."
 }
