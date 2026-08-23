@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "climate-security-index",
-    "generated": "2026-08-22T18:55:31.922597+00:00",
+    "generated": "2026-08-23T02:05:32.200818+00:00",
     "mode": "live",
     "sources": [
       "gdelt_articles",
@@ -18,7 +18,7 @@
     },
     {
       "label": "News Domains",
-      "value": "45",
+      "value": "46",
       "delta": "deduplicated"
     },
     {
@@ -89,21 +89,21 @@
         "source": "GDELT"
       },
       {
+        "title": "Czeskie rolnictwo w kryzysie . Zbiory najniższe od 15 lat",
+        "url": "https://www.bankier.pl/wiadomosc/Czeskie-rolnictwo-w-kryzysie-Zbiory-najnizsze-od-15-lat-9185045.html",
+        "domain": "bankier.pl",
+        "language": "Polish",
+        "tone": 0,
+        "seendate": "20260822T193000Z",
+        "source": "GDELT"
+      },
+      {
         "title": "This year devastating El Niño event could be the  strongest in a lifetime  ",
         "url": "https://www.independent.co.uk/climate-change/el-nino-weather-us-temperature-forecast-warning-b3037452.html",
         "domain": "independent.co.uk",
         "language": "English",
         "tone": 0,
         "seendate": "20260822T123000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "超强厄尔尼诺正在形成 良种良法保障粮食生产",
-        "url": "https://www.stcn.com/article/detail/4099714.html",
-        "domain": "stcn.com",
-        "language": "Chinese",
-        "tone": 0,
-        "seendate": "20260822T000000Z",
         "source": "GDELT"
       },
       {
@@ -149,15 +149,6 @@
         "language": "Slovenian",
         "tone": 0,
         "seendate": "20260822T061500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "El Niño istoric : Temperaturi oceanice la niveluri nemaiîntâlnite",
-        "url": "https://www.stiripesurse.ro/el-nino-istoric-temperaturi-record-seceta-globala_3914038",
-        "domain": "stiripesurse.ro",
-        "language": "Romanian",
-        "tone": 0,
-        "seendate": "20260822T020000Z",
         "source": "GDELT"
       },
       {
@@ -233,42 +224,6 @@
         "source": "GDELT"
       },
       {
-        "title": "Italien : Felder unter Druck – Hitze , Dürre und Schädlinge bedrohen Landwirtschaft",
-        "url": "https://www.morgenpost.de/wirtschaft/article412908073/italiens-felder-unter-druck-hitze-duerre-und-schaedlinge-bedrohen-landwirtschaft.html",
-        "domain": "morgenpost.de",
-        "language": "German",
-        "tone": 0,
-        "seendate": "20260821T211500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Italien : Felder unter Druck – Hitze , Dürre und Schädlinge bedrohen Landwirtschaft",
-        "url": "https://www.thueringer-allgemeine.de/wirtschaft/article412908073/italiens-felder-unter-druck-hitze-duerre-und-schaedlinge-bedrohen-landwirtschaft.html",
-        "domain": "thueringer-allgemeine.de",
-        "language": "German",
-        "tone": 0,
-        "seendate": "20260821T211500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "La COP17 avanza con la firma de la Declaración de Ulán Bator para frenar la degradación del suelo",
-        "url": "https://www.ecoportal.net/mundo/la-cop17-ulan-bator/",
-        "domain": "ecoportal.net",
-        "language": "Spanish",
-        "tone": 0,
-        "seendate": "20260822T003000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "O arroz italiano é um aviso para Portugal",
-        "url": "https://sapo.pt/artigo/o-arroz-italiano-e-um-aviso-para-portugal-6a88d72557577bfcb5c90083",
-        "domain": "sapo.pt",
-        "language": "Portuguese",
-        "tone": 0,
-        "seendate": "20260821T233000Z",
-        "source": "GDELT"
-      },
-      {
         "title": "Meteorologii se așteaptă la cel mai puternic El Niño din ultimul secol . „ Acest lucru este nemaiauzit în înregistrările climatice moderne  ",
         "url": "https://ziare.com/schimbari-climatice/cel-mai-puternic-el-nino-istorie-secol-2031196",
         "domain": "ziare.com",
@@ -278,39 +233,12 @@
         "source": "GDELT"
       },
       {
-        "title": "2026 va aduce cel mai puternic El Niño din ultimul secol . Meteorologii avertizează asupra unor efecte „ fără precedent  ",
-        "url": "https://adevarul.ro/stiri-externe/europa/2026-va-aduce-cel-mai-puternic-el-nino-din-ultimul-2551350.html",
-        "domain": "adevarul.ro",
-        "language": "Romanian",
-        "tone": 0,
-        "seendate": "20260822T014500Z",
-        "source": "GDELT"
-      },
-      {
         "title": "La sequía en Hungría revela el costo del drenaje de sus recursos hídricos",
         "url": "https://www.cadena3.com/noticia/mundo/la-sequia-en-hungria-revela-el-costo-del-drenaje-de-sus-recursos-hidricos_586058",
         "domain": "cadena3.com",
         "language": "Spanish",
         "tone": 0,
         "seendate": "20260822T040000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Suframa teme demissão de trabalhadores com avanço da estiagem",
-        "url": "https://www.acritica.com/economia/suframa-teme-demiss-o-de-trabalhadores-com-avanco-da-estiagem-1.412914",
-        "domain": "acritica.com",
-        "language": "Portuguese",
-        "tone": 0,
-        "seendate": "20260821T200000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Χιλή : Επιστήμονες αποκωδικοποίησαν το γονιδίωμα ενός από τα πιο ανθεκτικά φυτά της Ανταρκτικής",
-        "url": "https://www.cretalive.gr/epistimes/hili-epistimones-apokodikopoiisan-gonidioma-enos-apo-ta-pio-anthektika-fyta-tis",
-        "domain": "cretalive.gr",
-        "language": "Greek",
-        "tone": 0,
-        "seendate": "20260822T000000Z",
         "source": "GDELT"
       },
       {
@@ -338,6 +266,15 @@
         "language": "Indonesian",
         "tone": 0,
         "seendate": "20260822T143000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Κλιματική αλλαγή : Πώς θα παράγουμε τροφή στο μέλλον",
+        "url": "https://www.skaikritis.gr/klimatiki-allagi-pos-tha-paragoume-trofi-sto-mellon/",
+        "domain": "skaikritis.gr",
+        "language": "Greek",
+        "tone": 0,
+        "seendate": "20260822T193000Z",
         "source": "GDELT"
       },
       {
@@ -467,6 +404,24 @@
         "source": "GDELT"
       },
       {
+        "title": "Danau Semayang di Kukar Surut , Warga Ramai - ramai Tanam Padi , Tradisi Sejak 1982",
+        "url": "https://kaltim.tribunnews.com/tribun-etam/1162589/danau-semayang-di-kukar-surut-warga-ramai-ramai-tanam-padi-tradisi-sejak-1982",
+        "domain": "kaltim.tribunnews.com",
+        "language": "Indonesian",
+        "tone": 0,
+        "seendate": "20260823T014500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "全国肥料  双交会  为内蒙古旱区农业注入科创活水 - 新闻中心 - 内蒙古新闻网",
+        "url": "https://inews.nmgnews.com.cn/system/2026/08/23/030389647.shtml",
+        "domain": "inews.nmgnews.com.cn",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260823T010000Z",
+        "source": "GDELT"
+      },
+      {
         "title": "Heatwaves , drought put European agriculture under mounting pressure",
         "url": "http://www.europesun.com/news/279258012/heatwaves-drought-put-european-agriculture-under-mounting-pressure",
         "domain": "europesun.com",
@@ -483,6 +438,51 @@
         "tone": 0,
         "seendate": "20260822T153000Z",
         "source": "GDELT"
+      },
+      {
+        "title": "Heatwaves , drought put European agriculture under mounting pressure",
+        "url": "http://www.greekherald.com/news/279258012/heatwaves-drought-put-european-agriculture-under-mounting-pressure",
+        "domain": "greekherald.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260822T150000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "El Niño causará CALOR histórico en México 2027 | Fechas y dónde - Grupo Milenio",
+        "url": "https://www.milenio.com/el-clima/calor-historico-en-mexico-2027-el-nino-fechas-y-zonas-con-sequias-smn",
+        "domain": "milenio.com",
+        "language": "Spanish",
+        "tone": 0,
+        "seendate": "20260822T183000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Detallan descubrimientos en cuevas zoques",
+        "url": "https://www.cuartopoder.mx/chiapas/detallan-descubrimientos-en-cuevas-zoques/588462",
+        "domain": "cuartopoder.mx",
+        "language": "Spanish",
+        "tone": 0,
+        "seendate": "20260822T124500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Crisi climatica e danni Pioggia battente e vento Scoperchiata una palazzina",
+        "url": "https://www.zazoom.it/2026-08-22/crisi-climatica-e-danni-pioggia-battente-e-vento-scoperchiata-una-palazzina/19592713/",
+        "domain": "zazoom.it",
+        "language": "Italian",
+        "tone": 0,
+        "seendate": "20260822T040000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "El Nino bi lahko bil najmočnejši v več kot stoletju",
+        "url": "https://primorske.si/svet/el-nino-bi-lahko-bil-najmocnejsi-v-vec-kot-stoletju/",
+        "domain": "primorske.si",
+        "language": "Slovenian",
+        "tone": 0,
+        "seendate": "20260822T053000Z",
+        "source": "GDELT"
       }
     ],
     "exchange_rates": [
@@ -496,15 +496,15 @@
       },
       {
         "currency": "AFN",
-        "rate": 74.77
+        "rate": 64.54
       },
       {
         "currency": "ALL",
-        "rate": 87.5
+        "rate": 79.12
       },
       {
         "currency": "AMD",
-        "rate": 356.51
+        "rate": 361.76
       },
       {
         "currency": "ANG",
@@ -512,7 +512,7 @@
       },
       {
         "currency": "AOA",
-        "rate": 934.92
+        "rate": 916.63
       },
       {
         "currency": "ARS",
@@ -528,7 +528,7 @@
       },
       {
         "currency": "AZN",
-        "rate": 1.59
+        "rate": 1.69
       },
       {
         "currency": "BAM",
@@ -540,7 +540,7 @@
       },
       {
         "currency": "BDT",
-        "rate": 121.86
+        "rate": 121.6
       },
       {
         "currency": "BGN",
@@ -552,7 +552,7 @@
       },
       {
         "currency": "BIF",
-        "rate": 2665.4
+        "rate": 2966.62
       },
       {
         "currency": "BMD",
@@ -564,7 +564,7 @@
       },
       {
         "currency": "BOB",
-        "rate": 7.01
+        "rate": 11.44
       }
     ]
   },
@@ -625,21 +625,21 @@
       "source": "GDELT"
     },
     {
+      "title": "Czeskie rolnictwo w kryzysie . Zbiory najniższe od 15 lat",
+      "url": "https://www.bankier.pl/wiadomosc/Czeskie-rolnictwo-w-kryzysie-Zbiory-najnizsze-od-15-lat-9185045.html",
+      "domain": "bankier.pl",
+      "language": "Polish",
+      "tone": 0,
+      "seendate": "20260822T193000Z",
+      "source": "GDELT"
+    },
+    {
       "title": "This year devastating El Niño event could be the  strongest in a lifetime  ",
       "url": "https://www.independent.co.uk/climate-change/el-nino-weather-us-temperature-forecast-warning-b3037452.html",
       "domain": "independent.co.uk",
       "language": "English",
       "tone": 0,
       "seendate": "20260822T123000Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "超强厄尔尼诺正在形成 良种良法保障粮食生产",
-      "url": "https://www.stcn.com/article/detail/4099714.html",
-      "domain": "stcn.com",
-      "language": "Chinese",
-      "tone": 0,
-      "seendate": "20260822T000000Z",
       "source": "GDELT"
     },
     {
@@ -688,21 +688,21 @@
       "source": "GDELT"
     },
     {
-      "title": "El Niño istoric : Temperaturi oceanice la niveluri nemaiîntâlnite",
-      "url": "https://www.stiripesurse.ro/el-nino-istoric-temperaturi-record-seceta-globala_3914038",
-      "domain": "stiripesurse.ro",
-      "language": "Romanian",
-      "tone": 0,
-      "seendate": "20260822T020000Z",
-      "source": "GDELT"
-    },
-    {
       "title": "El fenómeno de El Niño 2026 impacta al agro brasileño con sequías e inundaciones",
       "url": "https://www.cadena3.com/noticia/mundo/el-fenomeno-de-el-nino-2026-impacta-al-agro-brasileno-con-sequias-e-inundaciones_586106",
       "domain": "cadena3.com",
       "language": "Spanish",
       "tone": 0,
       "seendate": "20260822T123000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "El fenómeno de El Niño 2026 impacta al agro brasileño con sequías e inundaciones",
+      "url": "https://www.cadena3.com/noticia/cadena-3-mundo/el-fenomeno-de-el-nino-2026-impacta-al-agro-brasileno-con-sequias-e-inundaciones_586106",
+      "domain": "cadena3.com",
+      "language": "Spanish",
+      "tone": 0,
+      "seendate": "20260822T143000Z",
       "source": "GDELT"
     }
   ],
