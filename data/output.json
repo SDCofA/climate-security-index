@@ -1,13 +1,15 @@
 {
   "meta": {
     "project": "climate-security-index",
-    "generated": "2026-08-23T13:08:16.503061+00:00",
+    "generated": "2026-08-23T18:55:12.925900+00:00",
     "mode": "live",
     "sources": [
       "gdelt_articles",
       "exchange_rates"
     ],
-    "source_notes": [],
+    "source_notes": [
+      "GDELT unavailable; headlines sourced via Google News RSS fallback."
+    ],
     "version": "1.1.0"
   },
   "stats": [
@@ -18,7 +20,7 @@
     },
     {
       "label": "News Domains",
-      "value": "45",
+      "value": "41",
       "delta": "deduplicated"
     },
     {
@@ -35,454 +37,454 @@
   "live_data": {
     "gdelt_articles": [
       {
-        "title": " Je nai jamais vu un signal aussi intense  : le phénomène climatique El Niño , dune ampleur sans précdent cette année",
-        "url": "https://www.parismatch.com/Actu/Environnement/je-nai-jamais-vu-un-signal-aussi-intense-le-phenomene-climatique-el-nino-dune-ampleur-sans-precedent-cette-annee-274533",
-        "domain": "parismatch.com",
-        "language": "French",
+        "title": "As litigation looms and drought takes its toll, state officials defiant over Colorado River's future",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZURvUm1qWm4xcEY3ZGowVjlyeHF6aVpHREdvand5Ym5HWGFEdmJSaTByR3lmNEc5Y3lnaDJJNEc4Nl80d2pKUWhZNTVzYUFaZ2VOMWFxN29wTk0zQ0t3b29NZmdPeXRZS2pyLXZMaF9QY3ZpWDZPSHBYZm56TlE1TlluSjZvY1JSaURNWTB0ZWRHRm0xX014T25JSEloZ0ZmMWJNMkoySWxlR3JFMnJfTXZPWjNObEE1MWFxaXgwQ2g0N3NJZlJmY2JDOExCekNp?oc=5",
+        "domain": "kunc",
+        "language": "",
         "tone": 0,
         "seendate": "20260823T120000Z",
-        "source": "GDELT"
+        "source": "GoogleNews"
       },
       {
-        "title": "Κλιματική αλλαγή : Πώς θα παράγουμε τροφή στο μέλλον",
-        "url": "https://www.skai.gr/news/environment/klimatiki-allagi-pos-tha-paragoume-trofi-sto-mellon",
-        "domain": "skai.gr",
-        "language": "Greek",
+        "title": "Earth's forests took 100,000 years to recover from the last climate shock — this one is moving 10 times faster",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMzd3Q0lUV2o2ckI0alp3bFgtOVJ4NFZkcWVxSDBqVFhoS0otV0xQWF96dEo3NFVIX2dZb3laTzJBUXBmUy1VU19BZU9FSGs3eE5iM3VvRHRaQkpVUEtEcG1ia2VpSTl4QnhsanY3cXNWUTJ5aXNCUVI1eHpJT2E0dGYzbw?oc=5",
+        "domain": "fortune",
+        "language": "",
         "tone": 0,
-        "seendate": "20260822T131500Z",
-        "source": "GDELT"
+        "seendate": "20260823T151700Z",
+        "source": "GoogleNews"
       },
       {
-        "title": "Hitze und Dürre : Wie Landwirte unter dem Klimawandel leiden",
-        "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/landwirtschaft-milchwirtschaft-muss-sich-an-klimawandel-anpassen-konzepte-und-finanzierung-100.html",
-        "domain": "swr.de",
-        "language": "German",
+        "title": "Thousands rally in Sweden to protest climate policies ahead of general election",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeVM5VU0taVNxUnltRlRBVFJVNUQzdGJEdjVsc21OLWYtOU53Z0ljS3VfOHlubFFXTUg5WkNrenI0R1V0T3NfRFl3TkFuQ2RSaFRUaFpRQ0ppWWtpOXhuajJDV3RVSHN2RG9lUTJZQjlVcTdSWDBqMUM1a2FiUkdVWFJIM0tzR2NrSXVLUmFjQ25vQVRrX09Ld2hvQkxHWFRVYUlMYlpNVkJCR1hJLXVMYUplYUZ1UjB3YVFzRjNOREw?oc=5",
+        "domain": "france24",
+        "language": "",
         "tone": 0,
-        "seendate": "20260822T163000Z",
-        "source": "GDELT"
+        "seendate": "20260823T145912Z",
+        "source": "GoogleNews"
       },
       {
-        "title": "Nga thatësira te përmbytjet : Si po ndryshon klima dhe çfarë do të thotë për bujqësinë e Kosovës",
-        "url": "https://www.zeri.info/ekonomia/634604/nga-thatesira-te-permbytjet-si-po-ndryshon-klima-dhe-cfare-do-te-thote-per-bujqesine-e-kosoves/",
-        "domain": "zeri.info",
-        "language": "Albanian",
+        "title": "Subtropical fruits in Germany? Farmers adapting to drought",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxON3l2Wmw0TlZVcTBoeFBOaTJfM0NWZVNhWFdUajMyNDhwZ3M1b1FFWVBtYnN6ajlGVXlDUTNxZEppNWZYQ1l5S0pyOHNlYXc3OUFsLU5maW5QT1MyS2xMVHlOa0pXMXloTHY3R0ZGTVV1VXhrSlJxOVpsaTl4SWQzdExWR3N5Q2lqSENIWlR4NFFEX2ZBLXEyOUhn?oc=5",
+        "domain": "dw",
+        "language": "",
         "tone": 0,
-        "seendate": "20260823T120000Z",
-        "source": "GDELT"
+        "seendate": "20260823T103938Z",
+        "source": "GoogleNews"
       },
       {
-        "title": "Kementerian PU menangani sebanyak 1 . 229 lokasi kekeringan",
-        "url": "https://www.antaranews.com/berita/5707129/kementerian-pu-menangani-sebanyak-1229-lokasi-kekeringan",
-        "domain": "antaranews.com",
-        "language": "Indonesian",
+        "title": "Utah Wildlife Board approves additional antlerless elk permits due to drought, updates for bison hunters",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSW1Cd2NPZGkyX2gxOTFjNTJRTkFDbEIwU2N6cTlZLVlnLVNPeW9IckhCZ1J5U3dyUlFtbXF1bTBKS0ZNTE42NWRsLVRiOUwwNDljVmNyQjMtLUI1TzlTbVp3clNOTXFxcEt5M1BhYm1rSExOU0VvNnBHRW5BaWY4d3J6ZkhDakdTVHdDQTFBRXlaeEdSWEhzbDFKbTNMR2NEcU5XMkIwNzJlTEJZVk03Y3RZR1h6OGhfZVdHOS1ncW1hTE1kNnZJS1lMaDVNeTk4c3BIcmY2Uko?oc=5",
+        "domain": "utahdivisionofwildliferesources.gov",
+        "language": "",
         "tone": 0,
-        "seendate": "20260822T173000Z",
-        "source": "GDELT"
+        "seendate": "20260821T152000Z",
+        "source": "GoogleNews"
       },
       {
-        "title": "Czeskie rolnictwo w kryzysie . Zbiory najniższe od 15 lat",
-        "url": "https://www.bankier.pl/wiadomosc/Czeskie-rolnictwo-w-kryzysie-Zbiory-najnizsze-od-15-lat-9185045.html",
-        "domain": "bankier.pl",
-        "language": "Polish",
+        "title": "U.S. Cuts Colorado River Water for Arizona, California and Nevada",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSWttMG1jZXlmR3dYTVpNZHRVdG1FNEdzaEhiV0l0SlNYQ09uSlZwd0xxUjJseGNTUndFd0hNdHhmVlRfNGVmWkdCRjNmMGRlRF9iVS1tSGVPZGwzSmNjNVhZbUZ5SVB6Z0VPMmUtejZUbEw1YURRUnQtWGR1SGpkOVViSzNmZzdC?oc=5",
+        "domain": "thenewyorktimes",
+        "language": "",
         "tone": 0,
-        "seendate": "20260822T193000Z",
-        "source": "GDELT"
+        "seendate": "20260821T202553Z",
+        "source": "GoogleNews"
       },
       {
-        "title": "Nga thatësira te përmbytjet : Si po ndryshon klima dhe çfarë do të thotë për bujqësinë e Kosovës",
-        "url": "https://www.gazetaexpress.com/nga-thatesira-te-permbytjet-si-po-ndryshon-klima-dhe-cfare-do-te-thote-per-bujqesine-e-kosoves/",
-        "domain": "gazetaexpress.com",
-        "language": "Albanian",
+        "title": "Boulder, Colorado, and Big Oil Prepare for High-Stakes Clash in Supreme Court",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZUtRUnpBTG0wUDZpYm5fX0Jrdl9XZzdNNGxsQWpkNGktRXBYME00bzVaOG5vd21UTEw3dU5rVGtQRlB6OHo4aEZaZFFkX2pPcVdWemYzRzN3VVNIT29BT2IzOUNtSDlOQ0s1V2NJQU5mWXg1VlJaTDhkbDJwd281clBRZHlPTUVGMUI3alRvNFV2QQ?oc=5",
+        "domain": "insideclimatenews",
+        "language": "",
         "tone": 0,
-        "seendate": "20260823T103000Z",
-        "source": "GDELT"
+        "seendate": "20260823T085500Z",
+        "source": "GoogleNews"
       },
       {
-        "title": "PU Tangani 1 . 229 Lokasi Kekeringan Akibat El Nino",
-        "url": "https://www.tempo.co/ekonomi/pu-tangani-1-229-lokasi-kekeringan-el-nino-2283443",
-        "domain": "tempo.co",
-        "language": "Indonesian",
+        "title": "Europe’s heatwave is a warning: today’s interconnected climate risks need a unified landscapes approach",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSUVKVFFlU0YyczV5eUg1dmFDTXF1Nl8zNkFnN1lNUHF0dFV4NC04eDU3VGFCbjBKa0tERkJlSFMtcHh4VXRBOXh6SEgwNGw2T3BvaWNpakFUTzBab0lUV21ScWkxU0tXVHFIY1A2MFZDYlJDdWVZWDFYYzhZYmhSUU5ZQ0hZRzVGV1JYZUZzYzlTZVAxUG1pX3h0azVWdW5kMWFTeXo1d1N5Zm5JQjEwUnRtV19YdzBxUlBqdkc0MUs4cHRCcWc?oc=5",
+        "domain": "fairplanet",
+        "language": "",
         "tone": 0,
-        "seendate": "20260823T061500Z",
-        "source": "GDELT"
+        "seendate": "20260823T120117Z",
+        "source": "GoogleNews"
       },
       {
-        "title": "Klimawandel : Könnte Europa der globalen Erderwärmung entkommen ? ",
-        "url": "https://www.handelsblatt.com/politik/deutschland/klimawandel-koennte-europa-der-globalen-erderwaermung-entkommen/100240355.html",
-        "domain": "handelsblatt.com",
-        "language": "German",
+        "title": "SEC desperate to end 3-year championship drought. Will Alabama, Georgia, LSU or Texas come through?",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMVpfUFNjOHl3aVVjbjh5MUI1NDN5dWV5djZtcF8yYUhacE5pdXExalB3RjJaNG9nU2dTM01BQTFHbXRJZVpCaUQ0a2VEdkxxdVoweC1SQUo0ZkE0ZkQ2ZTh5VzRSNjFXS21QWDJocUdycDRIYUR1Mi13VzJWM3YyX3JvRU53SmtCX1JOeUZLcGRVbUt5U0VpY2JKSTQzcDN6bG9WY0JOaWxGOE9PaHNkbnZvbkpjLW1qWkR1WldWak50SlE?oc=5",
+        "domain": "wbrc",
+        "language": "",
         "tone": 0,
-        "seendate": "20260822T153000Z",
-        "source": "GDELT"
+        "seendate": "20260823T180200Z",
+        "source": "GoogleNews"
       },
       {
-        "title": "The silence before the storm | Capital Newspaper",
-        "url": "https://capitalethiopia.com/2026/08/23/the-silence-before-the-storm/",
-        "domain": "capitalethiopia.com",
-        "language": "English",
+        "title": "Carpe Wine: The grapes built for climate change",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNHdrX01lQndFbk1YcVUwMlRZOG9PT2J5QjdqV1lONVdLaUZ2MDRRcndkM0M0dkN0S1VnYzBLclBkZW1uSDV0N3VmVUNGeEhGaVd1NEQteFZSUW1PM0FJcnBBVXhNUnpPWWc4X3pKZXkwMUdTdW5PUkl3WkFaNEhqVXpVSmk?oc=5",
+        "domain": "vaildaily.com",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260823T072500Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Thousands in Sweden protest over climate policy as election looms",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPc0ZLb2xFOWtma0tuOFdYdk1mU2c2bUhEMjZQNmNNOHZTeEV0cERpR2ZEV3N5UmJQVHNEVnlfZjZhSWhCU21rbF9LM3dobmpCQmVtUEhBaHBoQzB5M2hJYTFSVUxCclVuWi1iaTBqVWhsMWowakZPMml1LURCSXBnSHdnWUZ6Nkx0TG0yNGRTdFJQMUpLeFkzRThOXzAxNy1MZk5CUGNOdXpOYmhQSXBxcnBBeHFjMWp6aDdrXzBNaGNHeUlX?oc=5",
+        "domain": "euronews.com",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260823T163227Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "North Carolina drought improves in some counties, persists i...",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQTVTWHlrUEVxVFdRdkc2NkVLMldkcmdKUWd5TFpkYzZ4ZnR5M0xWTFJ5WERId2FZQXZpWXIya3ZDME5IRWZKeFFscGRkbkJYWXMwMUItbUlpdUdmUHR0UHdyUS1xcEpwRW9kdUtKQTR2a05Ndi1zdzJFdUtjT2Y5OEl5Njkxd2MyWFFNZW1EVUt0aFIwTnRIU0NtR0ZZNzhuUlM4RnFldWVUNWQ0?oc=5",
+        "domain": "thewakeweekly",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260823T180344Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Screwworm.gov | Animal and Plant Health Inspection Service",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUzc2WGdFNVZjSHFEWUM2M2ZGYmhIZ0lpd2FiMzlYSVU3eUNQUEl0bHBpNjI3Z1JwOEo3djV1UHJiV3ptREJVRE5jbVNxZTZ3QjZpcFZReWZJTGVBSUhIYlh3aXRjeFo1Ml9DREUyQUEzZ2dheU5COTB5dFNidHNoSkdiQjNtWm1rQnVTeWFpa1RBZ0FnRHJlZw?oc=5",
+        "domain": "aphis.usda.gov",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260820T070000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Drought dries out rivers and gardens in Twin Cities metro",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMnFQdnlkNnNqWFdIZWpsYUd6SUFVNHRwMWJGcFNJWFVGYlZRSGY5bmdpc2FhQmVhVmV5Z1l2MFJ3QzBPRWducUl5V09fMkljd0xEUWItSm5EeFlqa2o4UzNPVEhzcmxtX25RVkNFSkpLbkVmeGIzQmR0NkZOTFAxVWJwc0hxVWF4UnAzRzEwSThuVkNIM2R0MWlMekpDMlk?oc=5",
+        "domain": "mprnews",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260822T192000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Europe's hottest town says climate change is reshaping daily life",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNGprSDRDTVlCc044X3ZGN0VKUkNfb3o2azduVG9Ed2hfU0JYMHFJeERrTGN5WFdHeWJWR2Jwak95MlZGWmN0bVE1M253QWZtdzRid21zbllXTUJtSVhQOGNZY040ekdmMHFhWUY5bXRJMXUyaXQyZzZ0ZTJxZTM2X0tkOUR3VGlrdE5STlpBTUp5NnZUSFdHd1MtQndRX05KdnZUVHlsQ3lRTGg2Q3V4UW1BQ2xJNVNkb1JHRmxn?oc=5",
+        "domain": "reuters",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260821T104436Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Stray dogs attack 20 animals at Somerset ISD agriculture barn",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOFd5X0ZVQzczcW42X3g1MG1nV2txaW1QNzRLY3NGdnN0YlE3RU9tWDBiTGlmWGRWSzA0WVZRWG9rYnN2aTdrV2VDYjBCbFk2b1BqLWZkTzhrb29NQUV2Q3VzY094ZHVrZU85OUZUVmtYMHlrekp3UHBGdzV4bjRaS092R2hkeU9OR2RCTGM2WDRieWo2SkFJalVHVHBTM3NrbXd2dXNYT2pjN3JLNFZfS0RnSGg5RUtMQjVET0pn?oc=5",
+        "domain": "kens5.com",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260823T120500Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Intermountain West Drought Persists Due to Heat and Lackluster Monsoon; Despite Short-Term Relief, Long-Term Water Crisis Continues",
+        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQbnRFYTY5WnByVThxcWJnLXdwa2VuMzFuWGtKVDZIZ0VoTFpudHBmRU8xa2JmVlp0YzB0VE11Zi10OUtDSEQ2RC16bklpZk5LX1VaUlI0Y0xld21QNUVTcFNialBqUDBldVYwUkpWdWdyczV6N2p6SVFReXVlUjlZbDJCdlNrbWhqOXlCYkhWTUdGOE9VS19XZU9UZUVlbmdxbGZ3Z0dzVmZIOTR1d1BvRWZYVUw0ZG1YYVdTeTQzZkp5WUxiUmZ0NHZZdTU4SjduR01kNEN2SWlKaldXenV6VDJxNElMS0t2QWk3b09lSkNnNjQ1dkZiS0hjdmE?oc=5",
+        "domain": "theprowersjournal",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260823T164651Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Marion Cotillard: ‘Losing interest in climate change is totally crazy’",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQd0NUNTMxcTJXQ2pzX3JfU0FSQU95WmdBbG5UY3RDckFESm5OUDZkNE11eU1McXM5Q01XTXJCN2hZal9nM2hUaV84d0VIUGZCNE5aZ0hYRkVJbmY4UmY0cVR1WVZ4ZlkwZlpTSzBlVVZmUWRVMnd3bi1TUzY0Y1JRc2NVNkg3YVUyOVBrUnVVcWlvVDlnV29TTzBUcnBXTVlWa0RwSmdYUjRzNUVzeU5vV0Q2OGRnTF9f0gHMAUFVX3lxTFBhQ3FxZnUzUDA1R2x2a2FPT2pYQmNaVTNob0U4MWdhcFp5NzhiU1VYanA1Wk1GS2RENjBlYVdNX2dZLUVKcnJCenV0NUt4MnJWbVltMjkwUGI4TWMxNFRtZ3VYQjJ3a1RTYmw1MUEtb1R1bnR2bzZTTzVYX0E4cVVKRXFXLUpUbndSclZRZjYzVUk5Z1Z1cGdTV1FOV0dSQ3J0OXduSGlzSjN4emszMTMzdms0LU5VbnNESFRhMlRIRjZCa0VmSklOc0ZIMw?oc=5",
+        "domain": "elpasenglish",
+        "language": "",
         "tone": 0,
         "seendate": "20260823T050000Z",
-        "source": "GDELT"
+        "source": "GoogleNews"
       },
       {
-        "title": "Nataša Pirc Musar : Hrana ni samoumevna",
-        "url": "https://www.zurnal24.si/slovenija/natasa-pirc-musar-hrana-ni-samoumevna-464004",
-        "domain": "zurnal24.si",
-        "language": "Slovenian",
+        "title": "Soaking August rains push DC area farther from drought",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbTluWjZ0SUNiNWhmNkFwU3IxME0tZVNyeGcxNGw2Z1E0aU5nS09BTFhNdlFHUHYwZGw2YnY1M3FFeUdRdHREOGVJMC1YX0p0czAtV2tfd1NFSjRKVTVVdS1RWmdMWlcxdTdSVktwdXcwcTlMeDJkN21kZDg1UF9GVXlQamRic3JUTHpsbE1Lbw?oc=5",
+        "domain": "capitalweather",
+        "language": "",
         "tone": 0,
-        "seendate": "20260822T173000Z",
-        "source": "GDELT"
+        "seendate": "20260823T173730Z",
+        "source": "GoogleNews"
       },
       {
-        "title": "Podle Babiše vláda sucho řeší , klimatickou změnu odmítl komentovat",
-        "url": "https://www.idnes.cz/zpravy/domaci/premier-andrej-babis-diskuze-sucho-spory-vlada.A260822_094835_domaci_vank",
-        "domain": "idnes.cz",
-        "language": "Czech",
+        "title": "Minnesota is getting warmer and wetter. What does that mean for drought?",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTkNzQ1JsNEFEVUI5bHAzUEo5NXRRdTZucVJXVnJTOWcwMEZaVG1OV0Z3cXBaZWpyM0hCdlpZMnpveFNBeE9YeU15Y1MtTEtyOVk1SXYwMjNzTlIteFBIMVI0b0hYcnFwOVRQdS1oaGlIZ1Bxdm4zRUtZaV9yTWZudFZhX2I5MEM0TEJCTXVMa05ZUjBFRTkxY0N6bTNsVklwdmVnYTl3bw?oc=5",
+        "domain": "mprnews",
+        "language": "",
         "tone": 0,
-        "seendate": "20260822T143000Z",
-        "source": "GDELT"
+        "seendate": "20260821T090000Z",
+        "source": "GoogleNews"
       },
       {
-        "title": "Klimawandel : Europas Heizung schwächelt – kommen kühlere statt heißere Sommer ? ",
-        "url": "https://www.handelsblatt.com/politik/deutschland/klimawandel-europas-heizung-schwaechelt-kommen-kuehlere-statt-heissere-sommer/100240355.html",
-        "domain": "handelsblatt.com",
-        "language": "German",
+        "title": "Drought conditions worsen across New Mexico, West",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZzUzaHNfc1pNeXFDVjZSdmRLelBrWUJlam1CSy1IOUxQOWYzcFdyZDRqYVpHcGhhSXJ0ZjR5OWhEcmsySExCb3ZRMHp6d3p1RzRqaEV3Ym4yRHNOY3RyUnVlc0hnNDdfZnBucmYwcG9wZ2M1SmdOdlpYd29KOXZrUnZKMGFWNk9Y?oc=5",
+        "domain": "sourcenewmexico",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260821T190136Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "As Europe bakes, momentum grows for climate-resilient farming",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSENkSnU3NHlCc21YX3hpUFhKekIyakN2Y1czNnVicm5fSlhDVGlDeVVxTzQyMnBBUWM5T2pSVUpHelF3cml5OHR3OE9kWFFoYkZ3RnJmZXdvanMtbzB5M000TTVYMW9jR3VaMDVINHVoV0twTTFZVWtmQlZXaVRiMGVYS1h6OWFCRlpwZ2tCVkpsdlRiTDRkMDVIcw?oc=5",
+        "domain": "lacrossetribune",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260823T113000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Iowa City's Climate Fest is back with EV shows, film and more",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUjRWck9VejJGN29RSFJNRTF1MDdyTzN5d1BhX2JqeTNXTmlLc3hicnRnQ1E4NVZnN3lwRjBINElZRGstazdrVmd2TnNrVmNGZW5Pakc3cVpMcU1qM3RSZTB4Y1JjczJEVzNza09Ba1JFbjlaWjZjV0d5eGd1UUw3QWo5ZjBUdGR2Y2dmbHN6RlJmTzB3QlhLT0pGR1d6UEd4bXZVOGhxczAwVXNIZGQ3c3VBbzBrZ1pmaVhDMHJ1Y1h0RUhIeDZMcXh6S0VuNW9j?oc=5",
+        "domain": "kwwl",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260823T144000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Ella Baron on AI and the drought – cartoon",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYW9yREFvanYtS1V0eDVUUkJ1MUltd0dtdDdpSjdGbi11SGNJNnZQbkdidU9Sc25nU25OS3plVGJxZGdRS3ZlWXVLYVBRTnhpcWNwSDJoOFFvdE95c21BVHFYY2dNdG81RnNZS2dBUTY1cmplSzB0TzRaVnVJOWVlZXJ0N0dIS1BxWjZzaHp1X2tmeFk0eGNSZTg5ZHZVczN0cC1KSw?oc=5",
+        "domain": "theguardian",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260823T170500Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "San Antonio area's drought might have eased, but it's not over",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORDgtOUdTZVRkYUFMSE13bU1EREdTcGNvZ0ZJdWxidzd2QkRVMlpEajhzRC1mckEtMllweDJIT2trWmFicHdOVGhXZUlFR1UzRVdUbjVwTV9xVFh2QzZVdG9MTUtVUnV6TEVMTk9HdTNTN093Y2xXLTFZZndWYzlWazJzWms2UlpMd0czSW1QdXZXV3NoTUdWbTdieE9BekFxOFpGYzFYa2NvQQ?oc=5",
+        "domain": "sanantonioexpress-news",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260823T091542Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "How 'Hurricane Resistant' Babcock Ranch Is Pioneering the Future of Climate-Resilient Living",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSHlydnRnTHk0cnVlS1JPLVVCUmtCSkY2cDZ1bGREU0FLS0RLb1EwUW9SUkZRMHZXSS1oYnUxOFprQ1dPeFR4bWJmM2VHWk8tb2ZkT2xDUFE1WERjNGM4UV9qRzZWZENPQ2k4b2VsaV9zX0NFSHg5R1MtenprZkNWTHNEb0R4ekdTLXhRMThPOWhhMFV0NmJF?oc=5",
+        "domain": "realtor.com",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260823T183700Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Capturing Indiana agriculture: Photo contest winners announced",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTzhUeVl5Wk1fYVJ6MjRFWGJrQUc3ZXktbVRGeElSTkNwZEZtSGJjeVl6SWgtY1NaVzJ6X0IyUTZjSGFVTTc5REhOdld5elQ3VEF6MDVfSGE2SjBqd2ZMblZMeDIyeWtMQXB1ZVRwTzRFVTdQUWNhb1NyM1BoNzJzZXh2eGNwMWVjWjhrM0pucTFHUHNVZDkyWnNlX3A5bm1ERTFyc01SNnVabXhZbXNGSVJB?oc=5",
+        "domain": "agrinews-pubs.com",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260823T164511Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "How Trump Is Trying to Crush California’s Environmental Policies",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBjdkc4cnMtdlVyUW9Ja3Z3V0JNenFuRUlsd2s2ZlA1YXRERHB4QzdhOWNTRjRlYWpHdEJwaFVWM2pRRVYtVEtFNWh3V291Y2xGT2lpampJbURTZExtd0JKbVdtdTNpV2JncTYxN2VFV2JBa2hCMm1VaVN1LVA?oc=5",
+        "domain": "thenewyorktimes",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260820T090347Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Five years into Green Worcester plan, city touts progress—but major climate goals face headwinds",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcmJVM2ZDcERqX1VmODJhX052VGdPN0NPVGtIN3Z6Y0x4S3d1LVFYeHE5N0tyRU9nQmpLQlhZNkZHTUMycUJsLVkzbUI5RmxpQy1RcHhmbS1YNUhBSGVmczZ2eE9sclR1bE03ZjloYVN1ZGwzcDhVOGUxeHFNMXB4d0hWS3VfMzB5Sm9XdnVUWDJ4YzJCWmo3bzE3NXcxUFZRWXdidU13SWhjZFIweUg5b1RHVzJZNnA3d1NuMHRGdXFxbS1XQmpITlVxbw?oc=5",
+        "domain": "theworcesterguardian",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260823T184400Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "As Europe bakes, momentum grows for climate-resilient farming",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOMXhyVXFuU0JEdTBwRGdsdkYzUzQtZmhCT0lzV2VYc2VJbXEwSURtY3ZZY3lCXzZzbXlxZVg3a01qNmI0dk82V2ZKYlFDTmtEbmFmZy14UXBjMHZGQzRNbGNUSG5Ed3BwSTNjenp5VGh1YWNlSHV5RGh3TXM1LUJneTVEYm5NUzFuYkFQemFnVWFUU210bVA4Rl8zVE5kaDNMUEMyVTV2OG5McHI4X0VNQkFpWG9CT3JiOV9Lc1JBSzJvU1l3RVpVVXkwT25wRXJNXzNFUGVGZjFiUUZfNFBGQWs0OA?oc=5",
+        "domain": "leenewscentral",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260823T113000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "As Europe bakes, momentum grows for climate-resilient farming",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVmluTTVjTVFOdjhuVzBRNHRPbGVETGNhT2tHUjc2VnhteldKMUdGMkZVWUM2Vlg5d0lBOWxLSkd4OGV1cjhDWlNwMWVMTEFxbEdVb1BPYXFtZjNuU0hsN2dYSEFOZWxoaFBYbWgtZWVuS3dSb1VERkpJUEpIS1F1T292SXZiSTBJRlhEdkU3eFZfN1ZF?oc=5",
+        "domain": "thepantagraph",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260823T113000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Marine Heatwave NEP25A Shaping The U.S. Upper Air Pattern",
+        "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOWGVCTmo3RzNEc25zdkdfcXJNeGpSZWRfUTdyUFpfREQ2aDQtMzhCVDYzdU96NGx3ZHpwR2tKdjlPYm5VSHlTemh2SThYMHpua2oyRGVTUU93UVhXdWtZMHdKLURDSjQ4NmIwRkZhSU1OSjFKNGJHcTI2VlI3S3BJbjlnbFEyTW1DR0Jhem93b2c1WFhwUlQ3MnRMLUNYd0hRYzdkd0EwV0FYeW5FX1NOMTZnVVE3QkcyRUdoQ3B1OFBObUlxR2xIS0puWHA4TlppTVBlZDYxYk1hRzhNQThmUk9oTkR1b3FJRHJNdVhFMmtFOUJkQ2U3a2hWQVBkTFJrY0pRZWZGUWMwcHBxaU9RLWVCbmlvQ0U?oc=5",
+        "domain": "climateimpactcompany",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260823T105118Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Solar buoyed Europe’s grid amid record-breaking heat and drought this summer",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBJdk1fVXhpblJSTnU5SmxuTFBkc2tKMnlWNWcyR3hMUDdIZWZkTFJBM2dLeXNiTUl4LXliX3l1QmVCS3J6VTJoRFQ2M1o0YlRSaTZrT3hlR2hkR01uQXowUGRuX09LWVNsMFJlTDZn?oc=5",
+        "domain": "grist.org",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260821T084634Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "In a drier world, some infectious diseases are unexpectedly thriving",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaFdDQzhuMGhVaUVkNEpqRWlpNEtsVVl0NlZCTlh6SlM1blBraFNSS29Ed1ZUenBNMmwyOGNRaktRQzlHcVhZV3lGUGNOR2RhSlJvekdZMXBQVldmdGpNeWxOWnBkV1pkNTVRaDc4MTBmcXZNckdyNm56b0dRcHpwZ21uSXg?oc=5",
+        "domain": "grist.org",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260821T084634Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Triple-digit heat continues Sunday across Southeast Texas",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1rX2QwSFVSazdJUy1FTk1rOVpEdGw3R211RVlJUzBkTS1GSUNmblpnTmI2Qkt3UWRQTkJ3WnFXM2xPRzNUYTlOeHNjeU50NFNURk02YkF4S29jVEhKWkswQWFn0gFnQVVfeXFMTUFLWUExLWFQZkxBUjI0ZV9EbDFSbG93dkFSLWptZG45OEs3LVhwWVcyakx1b0RvZF9MYWcyeEwtcEw3a2g3cnE5YlpWb3NHTU1zenowMHNOMXZkeVlRbzRsdXd6UnlKVQ?oc=5",
+        "domain": "cw39houston",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260823T115600Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Burning Questions Confront Wildland Firefighters in Maine and Across New England",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTWZEa0ZLZ0txWWZjS0tSQXJhQkNmNU0tTzY5aDVzZmNRTG0tc0pLMVhVR2VvSmtBdDFMemVaOWs3OXU3WWk2ZjgxQjBRdllIVlprYktCQWMzNkJkdGh3V0NwNTlkUjU4ZV9qQlJZX0VCMWF1Z3ZBSHl1b19oVEhycFEtTFBlNWhHcm9Zc2JGLTJyaUlOZ1prN1c1XzBROFZTYXZxRm1wNXdfSC1l?oc=5",
+        "domain": "insideclimatenews",
+        "language": "",
         "tone": 0,
         "seendate": "20260823T090000Z",
-        "source": "GDELT"
+        "source": "GoogleNews"
       },
       {
-        "title": "El fenómeno de El Niño 2026 impacta al agro brasileño con sequías e inundaciones",
-        "url": "https://www.cadena3.com/noticia/cadena-3-mundo/el-fenomeno-de-el-nino-2026-impacta-al-agro-brasileno-con-sequias-e-inundaciones_586106",
-        "domain": "cadena3.com",
-        "language": "Spanish",
+        "title": "Climate change could triple the price of wheat",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9FZjg1NGV2R3h3ME9wVzlHTF9Obnc2VTFtTW85NVVmR3ZKV2N3QWRpanpfWXBVVEtPTjNIbzZuTlU4U2F3b1VtMzA5SC0wV3dsS20zeW1qdFEydXBsZWk0cldlR3BORzhzeUhXZmdB?oc=5",
+        "domain": "phys.org",
+        "language": "",
         "tone": 0,
-        "seendate": "20260822T143000Z",
-        "source": "GDELT"
+        "seendate": "20260821T212001Z",
+        "source": "GoogleNews"
       },
       {
-        "title": "Chiny mają 820 tys . ha szklarni . Tak budują bezpieczeństwo żywnościowe",
-        "url": "https://www.farmer.pl/fakty/chiny-maja-820-tys-ha-szklarni-tak-buduja-bezpieczenstwo-zywnosciowe,182057.html",
-        "domain": "farmer.pl",
-        "language": "Polish",
+        "title": "Lawsuit Seeks to Block Closure of Top Federal Climate Research Center",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQXNzWmhPbkY0ME1TU2FqN2R5SzNFSWF2LTFGVXNqTUJyeVJVcFluaVhZdUpGOHE2ZTlrWEtOS295LUhFTloxZEZzNU9oeTh5RFVlOWtLZlNYSWQtRllJZlZRRzNyMl9RMUJGOVZkampnTlE0d1pMM3YwdUF4Q1kyaGJTY2QyYUpTXzNBenh6dlhrSmhjeE9WNg?oc=5",
+        "domain": "insideclimatenews",
+        "language": "",
         "tone": 0,
-        "seendate": "20260822T183000Z",
-        "source": "GDELT"
+        "seendate": "20260821T205952Z",
+        "source": "GoogleNews"
       },
       {
-        "title": "ALARM U HRVATSKOJ : Poljoprivreda pred slomom zbog klimatskih nepogoda , hrana bi mogla biti skuplja za 40 posto",
-        "url": "https://www.slobodna-bosna.ba/vijest/501462/alarm_u_hrvatskoj_poljoprivreda_pred_slomom_zbog_klimatskih_nepogoda_hrana_bi_mogla_biti_skuplja_za_40_posto.html",
-        "domain": "slobodna-bosna.ba",
-        "language": "Croatian",
-        "tone": 0,
-        "seendate": "20260823T120000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "KemenPU Tangani 1 . 229 Titik Kekeringan : 41 Ribu Hektar Sawah & 616 Ribu Jiwa Terbantu",
-        "url": "https://koran-jakarta.com/2026-08-23/kemenpu-tangani-1229-titik-kekeringan-el-nino-41-ribu-hektar-sawah-616-ribu-jiwa-terbantu",
-        "domain": "koran-jakarta.com",
-        "language": "Indonesian",
-        "tone": 0,
-        "seendate": "20260823T033000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Kmetijski minister napovedal 8 , 1 milijona evrov pomoči kmetom zaradi višjih cen energentov in gnojil",
-        "url": "https://www.rtvslo.si/slovenija/kmetijski-minister-napovedal-8-1-milijona-evrov-pomoci-kmetom-zaradi-visjih-cen-energentov-in-gnojil/791620",
-        "domain": "rtvslo.si",
-        "language": "Slovenian",
-        "tone": 0,
-        "seendate": "20260822T181500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": " „ Vin flăcările spre tine și n - ai ce să faci ! Mesajul disperat al unei fermiere românce a pus pe jar internetul",
-        "url": "https://adevarul.ro/stiri-interne/societate/vin-flacarile-spre-tine-si-n-ai-ce-sa-faci-2551383.html",
-        "domain": "adevarul.ro",
-        "language": "Romanian",
-        "tone": 0,
-        "seendate": "20260822T163000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Strategi Kementan Percepat Swasembada Pangan Melalui Optimalisasi Lahan Rawa",
-        "url": "https://lampung.tribunnews.com/lampung/1216514/strategi-kementan-percepat-swasembada-pangan-melalui-optimalisasi-lahan-rawa",
-        "domain": "lampung.tribunnews.com",
-        "language": "Indonesian",
-        "tone": 0,
-        "seendate": "20260822T143000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Κλιματική αλλαγή : Πώς θα παράγουμε τροφή στο μέλλον",
-        "url": "https://www.skaikritis.gr/klimatiki-allagi-pos-tha-paragoume-trofi-sto-mellon/",
-        "domain": "skaikritis.gr",
-        "language": "Greek",
-        "tone": 0,
-        "seendate": "20260822T193000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Agricoltura , Accademia Iniziativa Comune :  Siccità è problema prioritario da risolvere  ",
-        "url": "https://ilgiornaledellazio.it/agricoltura-accademia-iniziativa-comune-siccita-e-problema-prioritario-da-risolvere/",
-        "domain": "ilgiornaledellazio.it",
-        "language": "Italian",
-        "tone": 0,
-        "seendate": "20260822T151500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Barajlar doldu ama su riski sürüyor : Prof . Dr . Kadıoğlu uyardı",
-        "url": "https://www.haberler.com/yerel/barajlarda-doluluk-artti-uzman-uyardi-iyi-bir-su-20169290-haberi/",
-        "domain": "haberler.com",
-        "language": "Turkish",
-        "tone": 0,
-        "seendate": "20260823T114500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Kemarau Panjang Bikin Petani Cemas , 1 . 400 Hektare Lahan Parigi Moutong Terdampak Kekeringan",
-        "url": "https://koran-jakarta.com/2026-08-22/kemarau-panjang-bikin-petani-cemas-1400-hektare-lahan-parigi-moutong-terdampak-kekeringan",
-        "domain": "koran-jakarta.com",
-        "language": "Indonesian",
-        "tone": 0,
-        "seendate": "20260822T160000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Vlada izdvaja više novca za investicije , navodnjavanje i preradu",
-        "url": "https://www.novosti.rs/ekonomija/poljoprivreda/1640534/velike-promene-srpske-poljoprivrednike-vlada-izdvaja-vise-novca-investicije-navodnjavanje-preradu",
-        "domain": "novosti.rs",
-        "language": "Serbian",
-        "tone": 0,
-        "seendate": "20260822T150000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Voldsomt vejr truer Europas varmeste by :  Det er forfærdeligt  ",
-        "url": "https://www.bt.dk/udland/voldsomt-vejr-truer-europas-varmeste-by-det-er-forfaerdeligt",
-        "domain": "bt.dk",
-        "language": "Danish",
-        "tone": 0,
-        "seendate": "20260823T103000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Lawn experts warn gardeners not to put one thing on your grass",
-        "url": "https://www.express.co.uk/life-style/garden/2240661/lawn-experts-warn-gardeners",
-        "domain": "express.co.uk",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260823T114500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Tchad : 66 ans dindépendance , pourquoi lagriculture attend - elle encore la pluie ? ",
-        "url": "https://www.alwihdainfo.com/tchad-66-ans-dindependance-pourquoi-lagriculture-attend-elle-encore-la-pluie/",
-        "domain": "alwihdainfo.com",
-        "language": "French",
-        "tone": 0,
-        "seendate": "20260822T150000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Nga thatësira te përmbytjet : Si po ndryshon klima dhe çfarë do të thotë për bujqësinë e Kosovës",
-        "url": "https://www.evropaelire.org/a/thatesira-permbytje-bujqesia-kosove/33835154.html",
-        "domain": "evropaelire.org",
-        "language": "Albanian",
+        "title": "Drought and wildfires causing wildlife to appear in residential areas",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQTEZBMkxwclk1U0pHVWFKMVk0ZXpCamppZUp0RnZpUE5ub21xRXBlWjNRaXRHeWZjU2hOWHVxRTJTTWUxN0VKRklGc0FxY0JQZUpJbGU4VlhSMHZIb1p5bWo5VTJQbnFYbGtkWHdzNGxkczFlcS1YQk5ndV9TMUdWTTFEQTRPSlZUa1l3SDNqQzhIRERLUklUZmtGX24xenVKLXpPcDVKM1ZkNHRIWTloZDlmWlpleXBEbElzU1ZlTkFlWnotcHFOWXJXUXotb2xDeHNURWd6MDNOZXprUHFkQnhQY3NrX2MwZnoxcnpB?oc=5",
+        "domain": "cachevalleydaily",
+        "language": "",
         "tone": 0,
         "seendate": "20260823T120000Z",
-        "source": "GDELT"
+        "source": "GoogleNews"
       },
       {
-        "title": "Äpfel fürs Klima : Streuobstwiesen können mehr",
-        "url": "https://www.ndr.de/nachrichten/mecklenburg-vorpommern/aepfel-fuers-klima-streuobstwiesen-koennen-mehr,streuobstwiesen-100.html",
-        "domain": "ndr.de",
-        "language": "German",
+        "title": "Cobb climate summary & weather forecast for Sunday, August 23, 2026",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOekJqcDBvZERBRUNMdFlHSkFBN2NsRkVta1hkeUZwNHJwazhVcnhMNVd0cTlaUzBQbGpsNkF1eFdEQnNrOTRZYkY0VWdxMU51cVU2ZENpRWxULVp5VDg0c2tIQWZqVkF0VWpHcm1GNGxQYy1uUnVXblI4TXRRMXh1MTkxWDhsb1ZZeGUtNVY0RHBodmJ6RXJMMlRaNnBUWWdiWk1oaA?oc=5",
+        "domain": "cobbcourier",
+        "language": "",
         "tone": 0,
-        "seendate": "20260822T134500Z",
-        "source": "GDELT"
+        "seendate": "20260823T112653Z",
+        "source": "GoogleNews"
       },
       {
-        "title": "Sudan farms lie barren as El Nino leaves Nile banks dry",
-        "url": "https://www.africanews.com/2026/08/22/sudan-farms-lie-barren-as-el-nino-leaves-nile-banks-dry/",
-        "domain": "africanews.com",
-        "language": "English",
+        "title": "A Global Gathering to Tackle the Planet’s Soil Crisis Is Underway in Mongolia",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcjlOYWFrYzRhYWVvV0Y4MGRiS2ktZ0dhS1htbm41Snc3bkpHUzlnTUtDOGtXWGdlRTdiWUtFQW9vSlBSVm55SkZ5RDVaLUJmNnZKaVFHQ2ZYUEVaN19ENjlkdE9uZEtmTXVSQWpEcUxQSklWTjV5YnR2M25FaENHZXNrLW43X216QlhIZG9FVUpUSDQ5YzVDZTFBSGp1N3BFbXoxenFQZw?oc=5",
+        "domain": "insideclimatenews",
+        "language": "",
         "tone": 0,
-        "seendate": "20260822T174500Z",
-        "source": "GDELT"
+        "seendate": "20260822T090000Z",
+        "source": "GoogleNews"
       },
       {
-        "title": "Nga thatësira te përmbytjet : Si po ndryshon klima dhe çfarë do të thotë për bujqësinë e Kosovës ? ",
-        "url": "https://realiteti.net/nga-thatesira-te-permbytjet-si-po-ndryshon-klima-dhe-cfare-do-te-thote-per-bujqesine-e-kosoves/",
-        "domain": "realiteti.net",
-        "language": "Albanian",
+        "title": "Opinion/Guest column: McGovern fights data centers' threat to climate",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVnM3SzM5bWd1eUtBNl9SbU5zVzg4Z2M5OWtNVmZ0OUROb1F0TjVOMW5kbDlQTDh6czBCeWdQRG1lLUNIV3REbGZrczhIZXVGSHNQRElQX2pFVlpvOTJYRFBpWHM4eWpRVVh1NEFUTEo4TWhmMEtRSmdURjF0N0lTal9OaGUtX1RsYlVDNkJFVk1YUlJnei1CZzd1LTdhTkpMMXRZNllma09HNFdWUFdpMUh1ZW1zd21DZk5kWWVYSEtFMDBhZ0kybjBFOXpZcVlTREhIQ1liMW55M0k?oc=5",
+        "domain": "theworcestertelegramgazette",
+        "language": "",
         "tone": 0,
-        "seendate": "20260823T120000Z",
-        "source": "GDELT"
+        "seendate": "20260823T090000Z",
+        "source": "GoogleNews"
       },
       {
-        "title": "Nga thatësira te përmbytjet : Si po ndryshon klima dhe çfarë do të thotë për bujqësinë e Kosovës",
-        "url": "https://ekonomiaonline.com/nga-thatesira-te-permbytjet-si-po-ndryshon-klima-dhe-cfare-do-te-thote-per-bujqesine-e-kosoves/",
-        "domain": "ekonomiaonline.com",
-        "language": "Albanian",
+        "title": "Fired Federal Employees Are Bringing Climate Change Info Back to the People",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeGpnZDN6emptbGxQSGstQUhOWndKSWpBRUtnTlZjQkNNRGpNSUlBRUhpcFVpek5WanQ5RjNFMjlrUkotTzQ3STdHVWd3ZHBDVV9yc2h6ZUt1aXBpZ1dfVGUzemJVSEVXeDk3SDBlRE5oSDJqZGpVZHU1NHo5b3BhQTFnajdVNkRnU2dLd2FEdWNhMV93dU1xMHN3MGNPUWM3TVQyU0ZMWTU2UQ?oc=5",
+        "domain": "truthout",
+        "language": "",
         "tone": 0,
-        "seendate": "20260823T120000Z",
-        "source": "GDELT"
+        "seendate": "20260822T153250Z",
+        "source": "GoogleNews"
       },
       {
-        "title": "高温影响苹果采收 意大利农业面临气候挑战",
-        "url": "https://world.qianlong.com/2026/0823/8716204.shtml",
-        "domain": "world.qianlong.com",
-        "language": "Chinese",
+        "title": "Move over bears. Colorado’s Fat Marmot Week puts a spotlight on the alpine rodents",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5IZmpkTW9CNHJ1ekJCdDFKQ0xPNThsaXVIN1F6bHlzUUhzRjZFZlkwNUI1d0ZxNlA3WUlWSS1NRmRBVnZEdnl1MGFJQVJVRTBDZlZLc3doM1d3eG5BMDJyd2J1cGNBbTA?oc=5",
+        "domain": "coloradopublicradio",
+        "language": "",
         "tone": 0,
-        "seendate": "20260823T040000Z",
-        "source": "GDELT"
+        "seendate": "20260823T102245Z",
+        "source": "GoogleNews"
       },
       {
-        "title": "Nga thatësira te përmbytjet : Si po ndryshon klima dhe çfarë do të thotë për bujqësinë e Kosovës",
-        "url": "https://periskopi.com/sq/2026/8/thatesira-permbytjet-ndryshon-klima-do-thote-bujqesine-kosoves",
-        "domain": "periskopi.com",
-        "language": "Albanian",
+        "title": "Agriculture in NWLA: Check out an LSU AgCenter homesteader workshop",
+        "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNSnoxcWRSREp2ZTcySlZVajRXbmNZSW1lWGwyNjJDREo4Zlp2VlVDZFVJc3VpZERCVWNhQ3FRanRJLUYydE94WkhUZVY0bXFhVlVHVGVPSnV5V0txX0tJX1hTY2tPbVlLZXZzTDd3Rjh6cWJISlJOalNwQzJNSndYcUlDdmxNYmc4UUkyOWJ0RHpnZldsQ0ZjVWRMSHBMZ2J3NDBKWWMzcklrZ09aelh6Y2hUaU9SYWhlZTBmS2NCSDZjdmYxYWhndExaNWdLOG1CTmsyeG02bVQzLVI0WHhxdW9qZmlnWFNna2s5Tk11S1BhQkdKMTJldU15Z0ZfSXA4R3ktQzc4cXBtWmE0RDdCNFdQQklXcS1wVGlNeUZsTnNOZG9MRVE?oc=5",
+        "domain": "theshreveport-bossiercityadvocate",
+        "language": "",
         "tone": 0,
-        "seendate": "20260823T120000Z",
-        "source": "GDELT"
+        "seendate": "20260823T094500Z",
+        "source": "GoogleNews"
       },
       {
-        "title": "Mendagri Larang Bakar Lahan , Gubernur Kaltim Instruksikan Bupati dan Walikota Turun Lapangan",
-        "url": "https://kaltim.tribunnews.com/tribun-etam/1162665/mendagri-larang-bakar-lahan-gubernur-kaltim-instruksikan-bupati-dan-walikota-turun-lapangan",
-        "domain": "kaltim.tribunnews.com",
-        "language": "Indonesian",
+        "title": "Confirmed Detections of New World Screwworm | Animal and Plant Health Inspection Service",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPamlFS1JCUGM5ZEVPblRXYmJBMzEyRlhKNEcwNTh6SW1NZEcxUHRUZHRHeFFxNTQtYzF3WGo2cGpRM1pMV2YzTlZhcno1VHNCbDdjcnYxQWlhdDVhR3FXZ0tDU1BXOW9FTTl4bXlSVWxuOGEtX2M4eVE1UlpHSTJfU2xybml5YnpnRkdpTUxOVGpRdnZJbU14Ui1rVjFFN2lkYUZwSEtIUzZIaXUtUm53WkhJVUo5eXZDLWc?oc=5",
+        "domain": "aphis.usda.gov",
+        "language": "",
         "tone": 0,
-        "seendate": "20260823T121500Z",
-        "source": "GDELT"
+        "seendate": "20260821T070000Z",
+        "source": "GoogleNews"
       },
       {
-        "title": "Isabel , ganadera :  Las vacas , en días de calor , dan un 30 por ciento menos de leche ; no estamos preparados para afrontar estas transformaciones climáticas  ",
-        "url": "https://www.cope.es/programas/agropopular/audios/isabel-ganadera-vacas-dias-calor-dan-30-ciento-leche-no-preparados-afrontar-transformaciones-climaticas-20260823_3423575.html",
-        "domain": "cope.es",
-        "language": "Spanish",
+        "title": "Barcelona preview: Can Catalan giants end Champions League drought without a proper striker?",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSkRLQThIMFV2dFNYQ3B0X2JrZ0w3Z0YxRWhmeThRenRJVkt0WWcyQ0Z4dWZSUXB5RjVBSjY4QVhjWlNOYktQVktPOHhaX3p4QnlZT2NBRzUtS1p2OWxXVEh1aW04LUN6RXI2dGVaNFAxTWNyc0h4WkJsa2dETXp3TThrLU55TF8tQzFlZVFNWFpEd2s?oc=5",
+        "domain": "cbssports",
+        "language": "",
         "tone": 0,
-        "seendate": "20260823T093000Z",
-        "source": "GDELT"
+        "seendate": "20260823T131400Z",
+        "source": "GoogleNews"
       },
       {
-        "title": "Heatwaves , drought put European agriculture under mounting pressure",
-        "url": "http://www.europesun.com/news/279258012/heatwaves-drought-put-european-agriculture-under-mounting-pressure",
-        "domain": "europesun.com",
-        "language": "English",
+        "title": "Cam Coley shares drought updates from Charlotte Water",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZFdUUlk0Y3JQbUF3WTRiZGJGbS1ZVS0zQU5QSTBSSzFIdGxtOXZYMlZ4LTBpZWFXT0pHWTdyYS1TeWVPbFVUd1JGS1VJSDVsX0pZVjVYQk8wdFlPeUlJUU9xSFVMbExMeXpvRnRXbXRLSFNyVHJpbTJDRDJnN3I0SUNndFJ0N21KdFlfT1pFSEo?oc=5",
+        "domain": "wbtv",
+        "language": "",
         "tone": 0,
-        "seendate": "20260822T143000Z",
-        "source": "GDELT"
+        "seendate": "20260823T015827Z",
+        "source": "GoogleNews"
       },
       {
-        "title": "Heatwaves , drought put European agriculture under mounting pressure",
-        "url": "http://www.parisguardian.com/news/279258012/heatwaves-drought-put-european-agriculture-under-mounting-pressure",
-        "domain": "parisguardian.com",
-        "language": "English",
+        "title": "Current Status | Animal and Plant Health Inspection Service",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeGpPNUpMeVA2Z3JndnNKNDllbmt1T1RqZGNmN3pNQi00Qk5JZ3dnTmI2NzE1UzlmeHBHdV9XQTBDMk5VVGNhU1hXQ3dlRG9OYnpWeEluc2c4SXdENjhTSnd5ejU0cTVoZURta0ZLWWRubjNzeTdKcmVHZE1jUzZJQVVBdlVReTRpQlhDbXVzdVFpWXVEOE9nQWRjSmp2TnA0WTg2TzNOeWhlQVNu?oc=5",
+        "domain": "aphis.usda.gov",
+        "language": "",
         "tone": 0,
-        "seendate": "20260822T153000Z",
-        "source": "GDELT"
+        "seendate": "20260820T070000Z",
+        "source": "GoogleNews"
       },
       {
-        "title": "Heatwaves , drought put European agriculture under mounting pressure",
-        "url": "http://www.greekherald.com/news/279258012/heatwaves-drought-put-european-agriculture-under-mounting-pressure",
-        "domain": "greekherald.com",
-        "language": "English",
+        "title": "Agriculture in NWLA: See inside the tomato greenhouses at Red River Research Station",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNM3VCdFJwb2lvc2xLSllmd21PZ0FESFRzZUxkODFkbFpVYW5tWk5vTW5GZXJSTjJIdFZwaUswQ1d5T0twczBiWW02OUlxWWFhRGw1Ull6ZTRTX0w1Zm1WZmplcl9OOGpsT2o0cUw1ZGVfaGVQY3l2NEI1VC05VWxmRVRLTmlLUFlreVpJUmxRVUwxQjg5dy1rUnJNNWRqcEM0Q2FXY3FWZllkUl9GMGhWUVZ5S3FycDg2SUdJZDRtNW5UbzhmSFJQRnVySlFqZnlQVl9KbzZ1N2NJZ2cxLUhjWnNrRjZralpmY2RJUHd1eGhTVjFEb3R1R3hGemt2WkNlMHZYWkM2cGU0Qmpt?oc=5",
+        "domain": "theshreveport-bossiercityadvocate",
+        "language": "",
         "tone": 0,
-        "seendate": "20260822T150000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "El Niño causará CALOR histórico en México 2027 | Fechas y dónde - Grupo Milenio",
-        "url": "https://www.milenio.com/el-clima/calor-historico-en-mexico-2027-el-nino-fechas-y-zonas-con-sequias-smn",
-        "domain": "milenio.com",
-        "language": "Spanish",
-        "tone": 0,
-        "seendate": "20260822T183000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Heatwaves , drought put European agriculture under mounting pressure",
-        "url": "http://en.people.cn/n3/2026/0823/c90000-20491306.html",
-        "domain": "en.people.cn",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260823T110000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Economic Watch : Heatwaves , drought put European agriculture under mounting pressure - Xinhua",
-        "url": "https://english.news.cn/20260822/20d21dc1181c4746b48f6e272446e017/c.html",
-        "domain": "english.news.cn",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260822T134500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Economic Watch : Heatwaves , drought put European agriculture under mounting pressure - Xinhua",
-        "url": "https://english.news.cn/europe/20260822/00e9424833144affad3946228dbb8bfc/c.html",
-        "domain": "english.news.cn",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260822T134500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Economic Watch : Heatwaves , drought put European agriculture under mounting pressure",
-        "url": "http://www.greekherald.com/news/279257987/economic-watch-heatwaves-drought-put-european-agriculture-under-mounting-pressure",
-        "domain": "greekherald.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260822T150000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "EE . UU . declara zonas de desastre en las Islas Vírgenes ante la severa sequía",
-        "url": "https://eldiariony.com/2026/08/22/ee-uu-declara-zonas-de-desastre-en-las-islas-virgenes-ante-la-severa-sequia/",
-        "domain": "eldiariony.com",
-        "language": "Spanish",
-        "tone": 0,
-        "seendate": "20260822T230000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Κλιματική αλλαγή : Πώς θα παράγουμε τροφή στο μέλλον",
-        "url": "http://www.reporter.gr/eidhseis/epicheirhseis/farms/683468-klimatiki-allagi-pos-tha-paragoume-trofi-sto-mellon",
-        "domain": "reporter.gr",
-        "language": "Greek",
-        "tone": 0,
-        "seendate": "20260822T231500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Comisionado residente Pablo José Hernández solicita para Puerto Rico declaración federal de emergencia agrícola ante la sequía",
-        "url": "https://eldiariony.com/2026/08/22/comisionado-residente-pablo-jose-hernandez-solicita-para-puerto-rico-declaracion-federal-de-emergencia-agricola-ante-la-sequia/",
-        "domain": "eldiariony.com",
-        "language": "Spanish",
-        "tone": 0,
-        "seendate": "20260822T134500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "FPÖ – Schnedlitz : „ Wenn ÖVP - Landesparteien und Landeshauptleute nicht sofort eingreifen , sind alle mitschuldig ! ",
-        "url": "https://www.ots.at/presseaussendung/OTS_20260822_OTS0016/fpoe-schnedlitz-wenn-oevp-landesparteien-und-landeshauptleute-nicht-sofort-eingreifen-sind-alle-mitschuldig",
-        "domain": "ots.at",
-        "language": "German",
-        "tone": 0,
-        "seendate": "20260822T150000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "农事  丰  景丨一粒  洋种子 ， 在黄土高原变成了  金穗子 - 新华网",
-        "url": "https://www.news.cn/politics/20260823/716a27cf5dce4f65a54b3cfb9de95915/c.html",
-        "domain": "news.cn",
-        "language": "Chinese",
-        "tone": 0,
-        "seendate": "20260823T061500Z",
-        "source": "GDELT"
+        "seendate": "20260823T094500Z",
+        "source": "GoogleNews"
       }
     ],
     "exchange_rates": [
@@ -571,139 +573,139 @@
   "entities": [],
   "events": [
     {
-      "title": " Je nai jamais vu un signal aussi intense  : le phénomène climatique El Niño , dune ampleur sans précdent cette année",
-      "url": "https://www.parismatch.com/Actu/Environnement/je-nai-jamais-vu-un-signal-aussi-intense-le-phenomene-climatique-el-nino-dune-ampleur-sans-precedent-cette-annee-274533",
-      "domain": "parismatch.com",
-      "language": "French",
+      "title": "As litigation looms and drought takes its toll, state officials defiant over Colorado River's future",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZURvUm1qWm4xcEY3ZGowVjlyeHF6aVpHREdvand5Ym5HWGFEdmJSaTByR3lmNEc5Y3lnaDJJNEc4Nl80d2pKUWhZNTVzYUFaZ2VOMWFxN29wTk0zQ0t3b29NZmdPeXRZS2pyLXZMaF9QY3ZpWDZPSHBYZm56TlE1TlluSjZvY1JSaURNWTB0ZWRHRm0xX014T25JSEloZ0ZmMWJNMkoySWxlR3JFMnJfTXZPWjNObEE1MWFxaXgwQ2g0N3NJZlJmY2JDOExCekNp?oc=5",
+      "domain": "kunc",
+      "language": "",
       "tone": 0,
       "seendate": "20260823T120000Z",
-      "source": "GDELT"
+      "source": "GoogleNews"
     },
     {
-      "title": "Κλιματική αλλαγή : Πώς θα παράγουμε τροφή στο μέλλον",
-      "url": "https://www.skai.gr/news/environment/klimatiki-allagi-pos-tha-paragoume-trofi-sto-mellon",
-      "domain": "skai.gr",
-      "language": "Greek",
+      "title": "Earth's forests took 100,000 years to recover from the last climate shock — this one is moving 10 times faster",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMzd3Q0lUV2o2ckI0alp3bFgtOVJ4NFZkcWVxSDBqVFhoS0otV0xQWF96dEo3NFVIX2dZb3laTzJBUXBmUy1VU19BZU9FSGs3eE5iM3VvRHRaQkpVUEtEcG1ia2VpSTl4QnhsanY3cXNWUTJ5aXNCUVI1eHpJT2E0dGYzbw?oc=5",
+      "domain": "fortune",
+      "language": "",
       "tone": 0,
-      "seendate": "20260822T131500Z",
-      "source": "GDELT"
+      "seendate": "20260823T151700Z",
+      "source": "GoogleNews"
     },
     {
-      "title": "Hitze und Dürre : Wie Landwirte unter dem Klimawandel leiden",
-      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/landwirtschaft-milchwirtschaft-muss-sich-an-klimawandel-anpassen-konzepte-und-finanzierung-100.html",
-      "domain": "swr.de",
-      "language": "German",
+      "title": "Thousands rally in Sweden to protest climate policies ahead of general election",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeVM5VU0taVNxUnltRlRBVFJVNUQzdGJEdjVsc21OLWYtOU53Z0ljS3VfOHlubFFXTUg5WkNrenI0R1V0T3NfRFl3TkFuQ2RSaFRUaFpRQ0ppWWtpOXhuajJDV3RVSHN2RG9lUTJZQjlVcTdSWDBqMUM1a2FiUkdVWFJIM0tzR2NrSXVLUmFjQ25vQVRrX09Ld2hvQkxHWFRVYUlMYlpNVkJCR1hJLXVMYUplYUZ1UjB3YVFzRjNOREw?oc=5",
+      "domain": "france24",
+      "language": "",
       "tone": 0,
-      "seendate": "20260822T163000Z",
-      "source": "GDELT"
+      "seendate": "20260823T145912Z",
+      "source": "GoogleNews"
     },
     {
-      "title": "Nga thatësira te përmbytjet : Si po ndryshon klima dhe çfarë do të thotë për bujqësinë e Kosovës",
-      "url": "https://www.zeri.info/ekonomia/634604/nga-thatesira-te-permbytjet-si-po-ndryshon-klima-dhe-cfare-do-te-thote-per-bujqesine-e-kosoves/",
-      "domain": "zeri.info",
-      "language": "Albanian",
+      "title": "Subtropical fruits in Germany? Farmers adapting to drought",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxON3l2Wmw0TlZVcTBoeFBOaTJfM0NWZVNhWFdUajMyNDhwZ3M1b1FFWVBtYnN6ajlGVXlDUTNxZEppNWZYQ1l5S0pyOHNlYXc3OUFsLU5maW5QT1MyS2xMVHlOa0pXMXloTHY3R0ZGTVV1VXhrSlJxOVpsaTl4SWQzdExWR3N5Q2lqSENIWlR4NFFEX2ZBLXEyOUhn?oc=5",
+      "domain": "dw",
+      "language": "",
       "tone": 0,
-      "seendate": "20260823T120000Z",
-      "source": "GDELT"
+      "seendate": "20260823T103938Z",
+      "source": "GoogleNews"
     },
     {
-      "title": "Kementerian PU menangani sebanyak 1 . 229 lokasi kekeringan",
-      "url": "https://www.antaranews.com/berita/5707129/kementerian-pu-menangani-sebanyak-1229-lokasi-kekeringan",
-      "domain": "antaranews.com",
-      "language": "Indonesian",
+      "title": "Utah Wildlife Board approves additional antlerless elk permits due to drought, updates for bison hunters",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSW1Cd2NPZGkyX2gxOTFjNTJRTkFDbEIwU2N6cTlZLVlnLVNPeW9IckhCZ1J5U3dyUlFtbXF1bTBKS0ZNTE42NWRsLVRiOUwwNDljVmNyQjMtLUI1TzlTbVp3clNOTXFxcEt5M1BhYm1rSExOU0VvNnBHRW5BaWY4d3J6ZkhDakdTVHdDQTFBRXlaeEdSWEhzbDFKbTNMR2NEcU5XMkIwNzJlTEJZVk03Y3RZR1h6OGhfZVdHOS1ncW1hTE1kNnZJS1lMaDVNeTk4c3BIcmY2Uko?oc=5",
+      "domain": "utahdivisionofwildliferesources.gov",
+      "language": "",
       "tone": 0,
-      "seendate": "20260822T173000Z",
-      "source": "GDELT"
+      "seendate": "20260821T152000Z",
+      "source": "GoogleNews"
     },
     {
-      "title": "Czeskie rolnictwo w kryzysie . Zbiory najniższe od 15 lat",
-      "url": "https://www.bankier.pl/wiadomosc/Czeskie-rolnictwo-w-kryzysie-Zbiory-najnizsze-od-15-lat-9185045.html",
-      "domain": "bankier.pl",
-      "language": "Polish",
+      "title": "U.S. Cuts Colorado River Water for Arizona, California and Nevada",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSWttMG1jZXlmR3dYTVpNZHRVdG1FNEdzaEhiV0l0SlNYQ09uSlZwd0xxUjJseGNTUndFd0hNdHhmVlRfNGVmWkdCRjNmMGRlRF9iVS1tSGVPZGwzSmNjNVhZbUZ5SVB6Z0VPMmUtejZUbEw1YURRUnQtWGR1SGpkOVViSzNmZzdC?oc=5",
+      "domain": "thenewyorktimes",
+      "language": "",
       "tone": 0,
-      "seendate": "20260822T193000Z",
-      "source": "GDELT"
+      "seendate": "20260821T202553Z",
+      "source": "GoogleNews"
     },
     {
-      "title": "Nga thatësira te përmbytjet : Si po ndryshon klima dhe çfarë do të thotë për bujqësinë e Kosovës",
-      "url": "https://www.gazetaexpress.com/nga-thatesira-te-permbytjet-si-po-ndryshon-klima-dhe-cfare-do-te-thote-per-bujqesine-e-kosoves/",
-      "domain": "gazetaexpress.com",
-      "language": "Albanian",
+      "title": "Boulder, Colorado, and Big Oil Prepare for High-Stakes Clash in Supreme Court",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZUtRUnpBTG0wUDZpYm5fX0Jrdl9XZzdNNGxsQWpkNGktRXBYME00bzVaOG5vd21UTEw3dU5rVGtQRlB6OHo4aEZaZFFkX2pPcVdWemYzRzN3VVNIT29BT2IzOUNtSDlOQ0s1V2NJQU5mWXg1VlJaTDhkbDJwd281clBRZHlPTUVGMUI3alRvNFV2QQ?oc=5",
+      "domain": "insideclimatenews",
+      "language": "",
       "tone": 0,
-      "seendate": "20260823T103000Z",
-      "source": "GDELT"
+      "seendate": "20260823T085500Z",
+      "source": "GoogleNews"
     },
     {
-      "title": "PU Tangani 1 . 229 Lokasi Kekeringan Akibat El Nino",
-      "url": "https://www.tempo.co/ekonomi/pu-tangani-1-229-lokasi-kekeringan-el-nino-2283443",
-      "domain": "tempo.co",
-      "language": "Indonesian",
+      "title": "Europe’s heatwave is a warning: today’s interconnected climate risks need a unified landscapes approach",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSUVKVFFlU0YyczV5eUg1dmFDTXF1Nl8zNkFnN1lNUHF0dFV4NC04eDU3VGFCbjBKa0tERkJlSFMtcHh4VXRBOXh6SEgwNGw2T3BvaWNpakFUTzBab0lUV21ScWkxU0tXVHFIY1A2MFZDYlJDdWVZWDFYYzhZYmhSUU5ZQ0hZRzVGV1JYZUZzYzlTZVAxUG1pX3h0azVWdW5kMWFTeXo1d1N5Zm5JQjEwUnRtV19YdzBxUlBqdkc0MUs4cHRCcWc?oc=5",
+      "domain": "fairplanet",
+      "language": "",
       "tone": 0,
-      "seendate": "20260823T061500Z",
-      "source": "GDELT"
+      "seendate": "20260823T120117Z",
+      "source": "GoogleNews"
     },
     {
-      "title": "Klimawandel : Könnte Europa der globalen Erderwärmung entkommen ? ",
-      "url": "https://www.handelsblatt.com/politik/deutschland/klimawandel-koennte-europa-der-globalen-erderwaermung-entkommen/100240355.html",
-      "domain": "handelsblatt.com",
-      "language": "German",
+      "title": "SEC desperate to end 3-year championship drought. Will Alabama, Georgia, LSU or Texas come through?",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMVpfUFNjOHl3aVVjbjh5MUI1NDN5dWV5djZtcF8yYUhacE5pdXExalB3RjJaNG9nU2dTM01BQTFHbXRJZVpCaUQ0a2VEdkxxdVoweC1SQUo0ZkE0ZkQ2ZTh5VzRSNjFXS21QWDJocUdycDRIYUR1Mi13VzJWM3YyX3JvRU53SmtCX1JOeUZLcGRVbUt5U0VpY2JKSTQzcDN6bG9WY0JOaWxGOE9PaHNkbnZvbkpjLW1qWkR1WldWak50SlE?oc=5",
+      "domain": "wbrc",
+      "language": "",
       "tone": 0,
-      "seendate": "20260822T153000Z",
-      "source": "GDELT"
+      "seendate": "20260823T180200Z",
+      "source": "GoogleNews"
     },
     {
-      "title": "The silence before the storm | Capital Newspaper",
-      "url": "https://capitalethiopia.com/2026/08/23/the-silence-before-the-storm/",
-      "domain": "capitalethiopia.com",
-      "language": "English",
+      "title": "Carpe Wine: The grapes built for climate change",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNHdrX01lQndFbk1YcVUwMlRZOG9PT2J5QjdqV1lONVdLaUZ2MDRRcndkM0M0dkN0S1VnYzBLclBkZW1uSDV0N3VmVUNGeEhGaVd1NEQteFZSUW1PM0FJcnBBVXhNUnpPWWc4X3pKZXkwMUdTdW5PUkl3WkFaNEhqVXpVSmk?oc=5",
+      "domain": "vaildaily.com",
+      "language": "",
       "tone": 0,
-      "seendate": "20260823T050000Z",
-      "source": "GDELT"
+      "seendate": "20260823T072500Z",
+      "source": "GoogleNews"
     },
     {
-      "title": "Nataša Pirc Musar : Hrana ni samoumevna",
-      "url": "https://www.zurnal24.si/slovenija/natasa-pirc-musar-hrana-ni-samoumevna-464004",
-      "domain": "zurnal24.si",
-      "language": "Slovenian",
+      "title": "Thousands in Sweden protest over climate policy as election looms",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPc0ZLb2xFOWtma0tuOFdYdk1mU2c2bUhEMjZQNmNNOHZTeEV0cERpR2ZEV3N5UmJQVHNEVnlfZjZhSWhCU21rbF9LM3dobmpCQmVtUEhBaHBoQzB5M2hJYTFSVUxCclVuWi1iaTBqVWhsMWowakZPMml1LURCSXBnSHdnWUZ6Nkx0TG0yNGRTdFJQMUpLeFkzRThOXzAxNy1MZk5CUGNOdXpOYmhQSXBxcnBBeHFjMWp6aDdrXzBNaGNHeUlX?oc=5",
+      "domain": "euronews.com",
+      "language": "",
       "tone": 0,
-      "seendate": "20260822T173000Z",
-      "source": "GDELT"
+      "seendate": "20260823T163227Z",
+      "source": "GoogleNews"
     },
     {
-      "title": "Podle Babiše vláda sucho řeší , klimatickou změnu odmítl komentovat",
-      "url": "https://www.idnes.cz/zpravy/domaci/premier-andrej-babis-diskuze-sucho-spory-vlada.A260822_094835_domaci_vank",
-      "domain": "idnes.cz",
-      "language": "Czech",
+      "title": "North Carolina drought improves in some counties, persists i...",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQTVTWHlrUEVxVFdRdkc2NkVLMldkcmdKUWd5TFpkYzZ4ZnR5M0xWTFJ5WERId2FZQXZpWXIya3ZDME5IRWZKeFFscGRkbkJYWXMwMUItbUlpdUdmUHR0UHdyUS1xcEpwRW9kdUtKQTR2a05Ndi1zdzJFdUtjT2Y5OEl5Njkxd2MyWFFNZW1EVUt0aFIwTnRIU0NtR0ZZNzhuUlM4RnFldWVUNWQ0?oc=5",
+      "domain": "thewakeweekly",
+      "language": "",
       "tone": 0,
-      "seendate": "20260822T143000Z",
-      "source": "GDELT"
+      "seendate": "20260823T180344Z",
+      "source": "GoogleNews"
     },
     {
-      "title": "Klimawandel : Europas Heizung schwächelt – kommen kühlere statt heißere Sommer ? ",
-      "url": "https://www.handelsblatt.com/politik/deutschland/klimawandel-europas-heizung-schwaechelt-kommen-kuehlere-statt-heissere-sommer/100240355.html",
-      "domain": "handelsblatt.com",
-      "language": "German",
+      "title": "Screwworm.gov | Animal and Plant Health Inspection Service",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUzc2WGdFNVZjSHFEWUM2M2ZGYmhIZ0lpd2FiMzlYSVU3eUNQUEl0bHBpNjI3Z1JwOEo3djV1UHJiV3ptREJVRE5jbVNxZTZ3QjZpcFZReWZJTGVBSUhIYlh3aXRjeFo1Ml9DREUyQUEzZ2dheU5COTB5dFNidHNoSkdiQjNtWm1rQnVTeWFpa1RBZ0FnRHJlZw?oc=5",
+      "domain": "aphis.usda.gov",
+      "language": "",
       "tone": 0,
-      "seendate": "20260823T090000Z",
-      "source": "GDELT"
+      "seendate": "20260820T070000Z",
+      "source": "GoogleNews"
     },
     {
-      "title": "El fenómeno de El Niño 2026 impacta al agro brasileño con sequías e inundaciones",
-      "url": "https://www.cadena3.com/noticia/cadena-3-mundo/el-fenomeno-de-el-nino-2026-impacta-al-agro-brasileno-con-sequias-e-inundaciones_586106",
-      "domain": "cadena3.com",
-      "language": "Spanish",
+      "title": "Drought dries out rivers and gardens in Twin Cities metro",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMnFQdnlkNnNqWFdIZWpsYUd6SUFVNHRwMWJGcFNJWFVGYlZRSGY5bmdpc2FhQmVhVmV5Z1l2MFJ3QzBPRWducUl5V09fMkljd0xEUWItSm5EeFlqa2o4UzNPVEhzcmxtX25RVkNFSkpLbkVmeGIzQmR0NkZOTFAxVWJwc0hxVWF4UnAzRzEwSThuVkNIM2R0MWlMekpDMlk?oc=5",
+      "domain": "mprnews",
+      "language": "",
       "tone": 0,
-      "seendate": "20260822T143000Z",
-      "source": "GDELT"
+      "seendate": "20260822T192000Z",
+      "source": "GoogleNews"
     },
     {
-      "title": "Chiny mają 820 tys . ha szklarni . Tak budują bezpieczeństwo żywnościowe",
-      "url": "https://www.farmer.pl/fakty/chiny-maja-820-tys-ha-szklarni-tak-buduja-bezpieczenstwo-zywnosciowe,182057.html",
-      "domain": "farmer.pl",
-      "language": "Polish",
+      "title": "Europe's hottest town says climate change is reshaping daily life",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNGprSDRDTVlCc044X3ZGN0VKUkNfb3o2azduVG9Ed2hfU0JYMHFJeERrTGN5WFdHeWJWR2Jwak95MlZGWmN0bVE1M253QWZtdzRid21zbllXTUJtSVhQOGNZY040ekdmMHFhWUY5bXRJMXUyaXQyZzZ0ZTJxZTM2X0tkOUR3VGlrdE5STlpBTUp5NnZUSFdHd1MtQndRX05KdnZUVHlsQ3lRTGg2Q3V4UW1BQ2xJNVNkb1JHRmxn?oc=5",
+      "domain": "reuters",
+      "language": "",
       "tone": 0,
-      "seendate": "20260822T183000Z",
-      "source": "GDELT"
+      "seendate": "20260821T104436Z",
+      "source": "GoogleNews"
     }
   ],
   "timeseries": [],
