@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "climate-security-index",
-    "generated": "2026-08-29T16:48:55.755937+00:00",
+    "generated": "2026-08-29T21:01:05.276374+00:00",
     "mode": "live",
     "sources": [
       "news_articles",
@@ -18,7 +18,7 @@
     },
     {
       "label": "News Domains",
-      "value": "40",
+      "value": "39",
       "delta": "deduplicated"
     },
     {
@@ -35,12 +35,57 @@
   "live_data": {
     "news_articles": [
       {
+        "title": "Colorado River plan to cut water amid drought brings uncertainty for cities and farmers",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYzczQlBMWjJOc1RlQlBXVTd6Ym5jMXdXNEZOdFRGODdBbGZ5SGhJbl9GQm5YeWxvZXFDYkxGR2UwT1RJNWxWbWJxdEZZM3Z3Z1NSOHBEZVVTRTNLNnZaZEZYNE1haUY3aHFnV0tLM0JGaFRUMDN0TDBFSUxpUThnTS1aV05lMEZWeE5TRkpuay1yYnNEejBjSVVfcURlUVJaYVNEZVZ4ckN6RlQ2aEFVeG9nSGFIR1VWaFd1eWhrUDk?oc=5",
+        "domain": "pbs",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260829T153917Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Colorado River Drought",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPM01HcUdvTXRVd2FyUGx2TXBCN0gyVzdwNEk0Rm0zLS1GME8tN3NDTG4tVW50ZjlRUUgwLXV4b0YtTVZCMU0tOWVlSFdrY2xNcGlGRUJXMGkzQWRZUGVuSHRiT3h4RjF0RWw4aWRXWlpyRDNIS01NMjlnaEI5R0FCMS1GZkU4SmZyanFPSjdVMmxZVE83dlE?oc=5",
+        "domain": "telegraphherald.com",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260829T192340Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "Oregon’s drought is worsening, and winter might not offer the reprieve that some expect",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeWlTQWRkTzdaekFMUVE2QThqclhKREdOQ0Q3S0xlN292aUE0ZDdXVXo4ODVzbU5qVG9RVm9aY2I1RTNTc0ZnS2lnTFA3Rk9ITlNvd1lmUGkyTW15Rm5yYkpIaTFpSVBpRENrM0dYRGxqSlFGNlJudmxTX05ZeWRYUkNCbkU5NEV0YkFBSF80TGVtcDEtQWNydFVOdjhkUjYxVUpKdkpvaUN5SUM0UmNLYlRvRW12QkZrSGZuMFEyV0I0U0FNcHZkNw?oc=5",
         "domain": "nprfororegonians",
         "language": "",
         "tone": 0,
         "seendate": "20260829T130000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Minnesota finally gets a drink: widespread rain showers bring much-needed precipitation",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNDMyaVM3ZHE4UUZIdmdRbUpaeFJVSDAtLWxLbmxKdk40RDUtMFdXVi1Rc2p1UnltY2NnNkkwMlNfTU45RFJjajlYODE2ZWFhR0hmeVVGLVJUdGt2SzN6akpILVNPOFVIVXYweHdhZG1yOTBsUHdLTmwtaHc1Zm5EYmhnbGJYSi1lYnh2aGsxaWdjNzR5ZWhWTFRlUjEwZ2pSMFVCVXV0bHVfTGxDTXFNN3NRYkVGUmg2SFNZemoxcXFvbnRh?oc=5",
+        "domain": "mprnews",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260829T201300Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "The Earth is sizzling, but climate isn’t a hot topic for Democrats in this year’s campaigns",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa0lNSnBPSHBtVW11eVZ6MzBMa1AzdVhrZm5wSXBrbFllRG0wX0c4RmFyX0psR2RRaU1KNVIxRGszd240bGpyMmY5U0p3b1BGclVUaUZmRVNLYjFpRTdDWnRHUTdqeGxESVQzSDBQTFRicVBQM3V6cWd2MlhwYTc0M0VXQVRoTl82aGV6YzBhNDc0cFJSSWNWZXVDRTRheUFFQnBZbTJ4aHl2ZUZHWkRlek55RmxXemNpMzgw?oc=5",
+        "domain": "apnews",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260829T165200Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Entire state faces drought conditions as fire weather risks continue",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSTFvMWlLMlVBdVd4eUJFUXJKQzNLUUswZDdPYUE4VmJVdkpMTzk1bUtvZVh4YUVPR2JpYWhvS2MxbFd5TWlmcW95MlhzTnhhUjNUdVMyV2xGeUtHRXlMdzgxM0tYWFFUdVpKV1gtNVpVRlJqNjI3ZVEwa2ZWWnpIUGR1T1ZXVG5XS2J4VWFKdFkxVTE4R0czS3k3NXVrTFk?oc=5",
+        "domain": "kokh",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260829T185225Z",
         "source": "GoogleNews"
       },
       {
@@ -53,39 +98,57 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Plan to cut Colorado River water use amid drought brings uncertainty for cities, farmers",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWFJ1WlVFa25vX1QyVnBMSWtzNDhKaURKVGxCcnpMWXZZblcyNlhJWXlVTlJ0Y0ZsOGNEeXdVV2ctS0pTZFBPMWkyMzBURlJLeWtwLUI2SmFCM0xMSVEyODVfcDZtRFJzWnZCQ3l5OHNDenV1VFg4M00ycnU3NFQ2UEpsMmFYLVdXTVoxWlFrd3I5YThTcTlUeG5KMWs?oc=5",
-        "domain": "wptz",
+        "title": "West Point ordered professors not to teach human causes of climate change, lawsuit says",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQclEzOWRPMDVEU1Y0ZDlHRkw2NWNPeUlEcEpuc3MtT3c4R0VTOUZrTTBFWnBoOWRKbi1GVnhQSURZYUJ3Mi0wdFljcHViWWUtdnNnTGhTSFhsRGNUeXdDdEVodk9QaVY0M1hydHVDRmNlZ0QwMGhTaG9lR1pJRk81dkVUYS1WUm1kclNnUDRnSHR2X19wYlJuN1FjLWFQWG9YRFRYUm54dE1lQWtzalUtakp0bzlmaTRoTHc2dTRPejF6dUR3Q2N1TWpWcXVhb05aaHZiZEtfWmhPbk1ZbTlHTQ?oc=5",
+        "domain": "militarytimes",
         "language": "",
         "tone": 0,
-        "seendate": "20260829T154100Z",
+        "seendate": "20260828T151259Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Drought and heat a one-two punch for Colorado’s remaining glaciers",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeHhvRzk2SEJkVjYzM1FiNDY0TXNRcUhpYWFzTTNnLXN1c1gxVm14R3A0VjZvZGxCcmFsVkhsSHpSRjVZZEJ1Mm0xRkJUTmdyZlBNa3BTOUZzWHdKbDBpRFFSZE15UlFDQXRvN25ScjFKeklVWlMyeGRCby1VUTh3V1F1cmFxMEpaSkZjOW1qMVJveU9sQUE?oc=5",
-        "domain": "coloradopublicradio",
+        "title": "West Point’s only climate scientist fired after continuing to teach human causes of climate change",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWl9PaXBuYW1NcHN5R2N6NXdPUzJ2X2RXY2FMZENvN2UwLWlkOHlHdkpUdGlmdEo5M0tqWlU4ckRjd0J5ZTdXbW9XS2ZkampSQzBCdDlLRk93aUlQVGRRZWV2aHdCRjZaVEFEcFZ0VUw3YTN1ZGNwSUlweUJrdHlXRTViS21TRU5jdXc?oc=5",
+        "domain": "theguardian",
         "language": "",
         "tone": 0,
-        "seendate": "20260828T205739Z",
+        "seendate": "20260827T190800Z",
         "source": "GoogleNews"
       },
       {
-        "title": "H2B2 Electrolysis Technologies",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBocklWSThISlo4b0s4REd4MjJBRGY1Qnh2a3c4ckZ2Xzd4R1pWSWpIZ3BaQ1ljRDdXengzM2JTSjhqZmFvNU9ORE1FeDN0bnI0NWZTQUljc0tMbU5RRVZCYlZNazFMbU9oSmstUEdpRW5jam9r?oc=5",
-        "domain": "insideclimatenews",
+        "title": "High schools students help open climate justice lab in Columbus",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdGlyZFh3ekdDX3lZWWMwb1l1MGRhbEk5RjVXeW5aMFVqVVpGZlE4WkhXQUcxbVZlTmFaU0VoWUl4bUxEMG5IYWVvYkVKNm9MeE9USktOQkJQSmgtV2doNkdqV3k0d2JpX1VzcUNpY1h1UjNZZXRWbTRBaTRDWDI4OUZkUTBrV0J2Vl9EeUloQzFZX1l6eTdWUUQ0dTN3RVhxa3RoWml6OXNRa1NiRWJ0dNIBtgFBVV95cUxOVEZzUGZFSmJWS0tjdmp4TWNsMWJRYXpLSmlMMlVNQTUtRXltUkJidHU4cFF6ZFFlOTM4NXl5MTNTRjJPUXpvN05DeS1ZMkY2SWFZRVJBbzF3LUUzb1gwSTcwQUgyc2tWUG9QY1FVMW5xN0VacnRZcGl6aThXd1ktekl2TUEwTnVhUmNUV2tMZjNUNzJCZ1o2U1pCcW1kYjZrdkcwN3NqblE1dFA1UUhOQ2VQWm5DUQ?oc=5",
+        "domain": "nbc4wcmh-tv",
         "language": "",
         "tone": 0,
-        "seendate": "20260829T122107Z",
+        "seendate": "20260829T181901Z",
         "source": "GoogleNews"
       },
       {
-        "title": "The Earth is sizzling, but climate isn't a hot topic for Democratic candidates",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPV2xXSWx3Q21xb3h2ekkzUV92RFhXN0N3bmpfejg0N2o5UXFsa3J5Mm10YWVONGxvaTZwd1ZwaVdGcGVfbEIwTHVWbDNPMTRhYkdEWXByVUdIdGtYTDhhMHJhS1VWcHpOOFBOSUo5MUUxczFWamhNOHByQ2FvYlhGWDZCc3g5em9RRkwxS3VjeDdGWWVQMUE?oc=5",
-        "domain": "gulfcoastnewsandweather",
+        "title": "Sudan’s date palm trees under threat from drought and wildfires",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUmlEWHQ4R1RqNXRSS0lyalZqUnZsTFhWMTZKaUxnM0RwU3E3RS1KVnhjUmJia0xyVHluclR4NUxoeTgxZEJrUXlBM3pjNkhvTkZ4cXRRSXJGcFJjdFVScE5xZjJlOVF1cnVhcXR1WjItYVB3aTltYnpOT2Jad3h3Qk9adDNGOEQ4ekdQYURVM0ZCM1gtZEdBUkRNOWtEWEptNmdUdC1hcFEzNVFCWlk1bnk4c9IBuAFBVV95cUxPeEZBLTQyRmNGOTZ0RlNLMEJNSnlNUHZhcURiNlEtZkJVNmRMMUhLeDNJVE5EWnBWc3I0RTZoZnBtVVJhWkZaN0twcjRQN2ptMjYzekxyWGh6bmNTUnBOdklNR2VWcFVXdGFPUjRMeTEycWNsRHhBQlRPb2k0NzZpLVl3UnRJZlVISENnQ0pJUG4yZURncnQzMDJsTTBqaWxhRmtmX21KcTNhaUM3UDFsZDd4VmlLOUxj?oc=5",
+        "domain": "aljazeera",
         "language": "",
         "tone": 0,
-        "seendate": "20260829T140700Z",
+        "seendate": "20260829T181801Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "As drought conditions worsen, #Denver Board of Water Commissioners declares formal end to lawn watering season October 1, 2026: Resolution orders sprinkler shut-downs, end to lawn watering; hand-watering for trees and gardens still allowed — DenverW",
+        "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPVWc1X3VIRnRmSTRYUEEtSi1NVUlTYWk5Wmw1NVFmS1dzZXFlRG1lX2pHWTRCV3FIZnp3SzNMMm43TE9DSlpNOEhJNDNBNXdxQ3JpU3U0T0ZjWWI0RUNJZ0x3UTdnbG5iQk5TRmRmNFBOU1lrY1JkTnJjRnJ5Y3ZOLVdZR3J2NjVSVFBjREhhMWp5ckYydDYxNGstSjg0NkdQZGVZblZtR2VxT1hHcU1Xc2dYZTBtOE5ndDNpSWt0TERES0NrOHBxanFFWFlESG9XVV9FTUdJczluZ2J5VmNTci15bVRDZUdyNWpDeWwzVFg3MzdpWlNJem5WZkNBTEJiUnc1QXpTcDJBNVR1VjllbHVITkZVX0dCd0NGclkyME91TExjTzNwUUxQcnVUUHVXT3VCbDBlZ2diaGkxeWVILWZHOV9SOEpxbmV6cjZLOUU?oc=5",
+        "domain": "coyotegulch.blog",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260829T190931Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "When a mountain falls: How ice and rock triggered Nepal’s catastrophic flood – and why climate change is raising the risks",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWmU3OGtsSERSVEVCM3pBQU1GYkFFZ3BwTHRvcE5pbFg3UHlVSzhvMUV0SzhhcG1fVWxqS1RoN2ZFU1VtUXF6Rlcxa0puR2NJaG04d3pKdVpTUWx2djZjM3k5ZGlkWjdjcGF0dGpacXdiZE1NZWxQQmFHZUdHbTdUOEZqd281WlRUOHJLd2VQVFBXYXZ0NFNNc3pRZ3pRUUJCcmxoc3AtY1VpOWdkQWRUWTM1LVo1UmJLUnl4eEx0N3dsQWt1dDNEa1lDUndyU0NUZVVibnNUclRadzJycXQzb3hZZU82dE8x?oc=5",
+        "domain": "theconversation",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260829T165704Z",
         "source": "GoogleNews"
       },
       {
@@ -107,57 +170,30 @@
         "source": "GoogleNews"
       },
       {
+        "title": "Colorado River plan to cut water amid drought brings uncertainty for cities and farmers",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTXNES3NaNU4tb21qenRKVGx5alBEa0tFbXU0SVJSdGtLV1NETlRSeXVITlRsX2tZUFVXdmdvSGNGUWpfTjhxTWlaTDRzMHpwRGtZeGI5aHRMcEFWZUVaam54cnRhRWd1N3BqNl9LN0lRd0wta1VQajFXVHVkR3JFYmMyRVR1ektsRVR6ZTEtbE1nZ1ctbXhrTzVtOXlsNDZTNlZwQzlhU0w0eE5mdzVGdnFqZkwwSW1TVy1kaUg2aFN2RkxxV0E?oc=5",
+        "domain": "albuquerquejournal",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260829T195023Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "Remnants of TS Dolly to bring drought relief, then find new life?",
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNemlvU1NoYjlfX0hjbjBoY1djenRoWUpXbTRJVU9yeFJKOTZmTkhpMVZpR0tqeFY2ZS1GVDNLQ1JVNTE3alA3Z18xcS1WQXZnd242d0V0SGMwZ3M1cFV6S3FBalE4LW1FTzFuVXJGa2ZtYkw5aVVuN0xTZUdRUjVQWmstY2JYRmp2RDN1cV8tb000N2dVRmhVZmRMN2NOb0kydHdwY2tpdTVQVE1wa2c?oc=5",
         "domain": "theweatherchannel",
         "language": "",
         "tone": 0,
-        "seendate": "20260829T152141Z",
+        "seendate": "20260829T153200Z",
         "source": "GoogleNews"
       },
       {
-        "title": "West Point’s only climate scientist fired after continuing to teach human causes of climate change",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWl9PaXBuYW1NcHN5R2N6NXdPUzJ2X2RXY2FMZENvN2UwLWlkOHlHdkpUdGlmdEo5M0tqWlU4ckRjd0J5ZTdXbW9XS2ZkampSQzBCdDlLRk93aUlQVGRRZWV2aHdCRjZaVEFEcFZ0VUw3YTN1ZGNwSUlweUJrdHlXRTViS21TRU5jdXc?oc=5",
-        "domain": "theguardian",
+        "title": "Colorado River Drought",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMUFPaDcwQllEcndQTWZLQUthbFg4N3FNYUJMSEkwYm1EN0NVTWVEbkJaajVJNXRWMVZ3cVZVWDM3YXd2X0VwZzczc2JJMHctTDhrazBmcDlBY0JzRkFraWRaVkZHcXRBakRyZ3pzQ0pycW5BNXNGcC1UaThodjEza09NTS1tQ2Z4WE5rNy1TN0x0ZVVteEE?oc=5",
+        "domain": "telegraphherald.com",
         "language": "",
         "tone": 0,
-        "seendate": "20260827T190800Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "West Point ordered professors not to teach human causes of climate change, lawsuit says",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQclEzOWRPMDVEU1Y0ZDlHRkw2NWNPeUlEcEpuc3MtT3c4R0VTOUZrTTBFWnBoOWRKbi1GVnhQSURZYUJ3Mi0wdFljcHViWWUtdnNnTGhTSFhsRGNUeXdDdEVodk9QaVY0M1hydHVDRmNlZ0QwMGhTaG9lR1pJRk81dkVUYS1WUm1kclNnUDRnSHR2X19wYlJuN1FjLWFQWG9YRFRYUm54dE1lQWtzalUtakp0bzlmaTRoTHc2dTRPejF6dUR3Q2N1TWpWcXVhb05aaHZiZEtfWmhPbk1ZbTlHTQ?oc=5",
-        "domain": "militarytimes",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260828T151259Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Minnesota AG candidate Ron Schutz hoping to win, end long drought for Republicans",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZWJoQzRya0tmMmkxV0p2b21mYnIyWW16SVpHVG5zQ3kwN2RDYkRnVnJOd1hTallWY1hzM05hbzNXaFlJek1uX3pBVGFWQ2E3RGY1N1g2TGhwYXVEd3hNM2tNMmViYjVkbEdvMTQ2UHViR1ZsVk9LS1BfNzVScFpCdEtFLW5ndDg1eFhiYW5YYkpSVXBleWVkUjFWSFZVa29qdmZQR3YxV0xJNlZaZXJWSjVNRERqLTdr?oc=5",
-        "domain": "5eyewitnessnews",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260829T132653Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Gary, Indiana, Is America’s Latest Climate Victim",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPblNmdjg4VVZSaVozZmxTTzR1aVJwOFp5cEpEMHppbGxUbjZjY1pxOVdYYUJjNFZ6TWx3VkdSM0dicnN1U2JjNXhsNG9LTC1sY1VVM3FqRlp0VWZHRmdnWm5oZ2RMV3poZUtLcGM3MC1kTWotY1FFTk9RYVRZZzZ0bU9B?oc=5",
-        "domain": "theamericanprospect",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260828T093000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Drought reveals Danube’s lost treasures – and deadly legacy of war",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeTdPZE9Qd0tzVkxZMkJzRkhZN3c3Z3FXNkRvYzF5VTZxRm5mQW1CNllRRy03aHRZbk5JWmhmWlhvUzF0R25uOEVySmlDRlQyVnZkdFpkd2d5amtzdnhlYUk5Q0RaNGFuX2VPa0wzdy1MZU9BY2lzTGUyMEtra0ptOUUtcF9fYy1fSmQ4WTJuNHIwVjN0R3JIbmNQa0d6bmRzZHdGZXVJT2NpMHV2U1E?oc=5",
-        "domain": "thetelegraph",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260829T095800Z",
+        "seendate": "20260829T192214Z",
         "source": "GoogleNews"
       },
       {
@@ -170,15 +206,6 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Farmers Struggle to Get Basic Services From Depleted Agriculture Dept.",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRmQyWnROQ29nSXFVa0YyVldYVkZaREhsNjJVLWx4dEhpOWc5V2VWSFFiUWZUdzM4UHJ1UzV2S2xfLTRRbWJHOVpmWVYzVGtTZGI2NnR5dHFJVzI0WWZxTEliMERHYWVfNndVRGk2Z01lYVJVMk5RUXgtUWJnbm93clhiaDVmZ0ZlR0E?oc=5",
-        "domain": "thenewyorktimes",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260824T090251Z",
-        "source": "GoogleNews"
-      },
-      {
         "title": "Climate crisis could be destabilising mountain areas like Nepal, experts warn",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbndyajNIeDhsemxBWHQ1bUlyYlE5NmxGRDQxU3pBTG1pRVpGUHZBVVhObGczcmNrU3ROWlRReXdkYW4tT2FuRDB6dEVYM1ZZZnEwSVdKVU4ybzFBVzVSYXRIaU9yS2MtS1hxT3Q2c1BqVGprdkdoN29ndXpLTXFZVEtFOU9BMDQxZHNfa3pJa1pLZm1YVjNuSVFBNGg?oc=5",
         "domain": "theguardian",
@@ -188,48 +215,75 @@
         "source": "GoogleNews"
       },
       {
-        "title": "West Point Climate Professor Says He Was Fired for Refusing to ‘Defy Science’",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORFVsZTVOTU1oTXpSUGMtbkxaUjRFbWhSZlQ5R1dXbjRwWlNpX3RfVkRrS01aRVhsQm91c280QXhQOVhuVG0tU25rTFhvY3N1S19DeWdURDg2a0NlYk03cF9SeGQ4QUJjOEllVzFtU29ySXBSbXRxYkFYMy1oaF9TYmdOWEZUTGxicW5NWUR5Rm5wZw?oc=5",
-        "domain": "thenewyorktimes",
+        "title": "As super El Nino strengthens, study suggests that climate change is intensifying El Ninos",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcTVXSE93eTN2dUtZZE5sbXVmV2FIaklXYUZIQ18zMzM2a21HZExCWk9CRHF1d190dVB6ckVCN280MUNnTlJMM1ZGNEs1NlRwZE9Cdi1Ca25wY2dsbEtaMlRVTWQyQmRid29OeUowOW8tTzJ1SndzaEJlQ0FoUUJxd1dFbzk4RThyVmo1bjlHRUt5ZkY2LWdPbkJ1R184MnpUVGt3YTZ3MHo3a181U0tkRW1UdmY2U0EzcEdQR0M0dw?oc=5",
+        "domain": "whec.com",
         "language": "",
         "tone": 0,
-        "seendate": "20260826T220024Z",
+        "seendate": "20260829T153819Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Glacier collapse that caused Nepal floods is most likely linked to thawing permafrost, scientists say",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTS1abVpRbVBoaWVUWmoxaHg5eUVXdWN0NUpRSWN0NGtyZ3JvbXl0Rk1waUxoam5nMmUzUEp6X0x5bTY5RmFmMDkxOFdmbGExMFhsd2R4MHZDbzhVdTJ0Z2R6bmJpX0NJSUFDeFJwSlNtTm8yVDQ5b2N5WTZDWjBDQ1RCc3dBSUIwVm5hMWptWkcySV95S3hDSk5nOG9ZYVZ1XzA2dg?oc=5",
-        "domain": "nbcnews",
+        "title": "In Nepal, the search for survivors – and climate answers – continues",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSjhTYmxMdk9fWUs1UmprWW9BRThqcmxOWkxVMXg2dzVnNFIwNjBmdFRRRW5BbTRyamQtbDBIYzF0YWpFRFVNOXNHdWZteWJTRHRNUmwyUDVWZmR6TmhPRTZ5UFM1Ml9CN3Yyc3B2b2liU3hleko4Y2MyNnVWeU1NYWtTYUtUMnZxVjdnQ2ZscndTYlA0cEhpTy01TdIBtAFBVV95cUxOQ1hOdjhROEZzcmtGek9wUGxUdlFLRzFLb3Q3YzBqNVVpZ1FqSGwzSDJTY3NCVWh5eGg0bVZwZDRMY2VTVHZKOUd6RUlodkI4UzhxQUJMNmJyd0Y4cHRSVFFxOW9yd0tJVHRIQ19MN1ktd1BoYThvc0dpa2c1clRDVERKV3dfcEVqUFhwSGtNX0YwVGl3Q2JmSVh6ajRCMjBjZXAxOVBmd0RaMEg1NjByRUg4WnE?oc=5",
+        "domain": "thechristiansciencemonitor",
         "language": "",
         "tone": 0,
-        "seendate": "20260828T091500Z",
+        "seendate": "20260828T223401Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Why scientists fear Nepal's disaster is just a glimpse of the carnage climate change could cause",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUWNMS2Q4V1JGQzhtelJ6NG1saTkwNTNDRW42VXRoYWtLbUhycGRzTHV6ak9jUjdrXzFla1FTVEVjOTVGLTRCZVpnVEl6RGM4WVJMMkI1aEptMTMtbF9LRTg4OFpBS01DeDJPaElWWUt2V3hIVEE1QjNyOWZEZG9RWEh1bm1NdVJvU3AzYQ?oc=5",
-        "domain": "cbc",
+        "title": "Will this summer's climate disasters push French politicians and citizens to act?",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPMi1UY21DVXFJTXk2WW5jTkM1N1FOTnV6YXhiU3huNzZiemtCd0JxcUFuNXlrMUZvZ2h1TzlFdkNXemEzdXJ2OWlnQ2lhQUZsbWg2aXlkbWpTbHNjX0s4RGRMeWVvT2tFRE5DSlpWVVJqbVpwME1XLUo5ellxWE5XaTh2RUhObURJR051SGcyTFZHNHBtNlZ6YXpwUzBtcmc0LWFKbEw4dXFCa2NHcGdwZFN2dVpfSUZLMW1UMVFMWkNtVVpKVmRTVmFrcUVaaXd4SFc4TUZMT2lvS2Y2V241UnIyRzFHN05QVlE?oc=5",
+        "domain": "lemonde.fr",
         "language": "",
         "tone": 0,
-        "seendate": "20260829T080000Z",
+        "seendate": "20260829T180007Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Europe’s summer drought threatens fish in rivers, lakes and farms",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaF9uQURoVlRkMV9SOWYyVTdzY0lTSWVqSXNPYm5QS2V6RFhFNldjMURJN0Y5enV0TTFPNVZLSGFRTXNFYmt0Yl9XS0RjMDRsN3c2WUpDZVNrdEtJb3dVX1NKT3MxNm5taWdkdWpBSlVuQkNDQlVLWENTQUlneDktT3F0MUlBUTdKd1Riamxiak4?oc=5",
-        "domain": "apnews",
+        "title": "Colorado River Drought",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaERpRzU2YndPSlFDV2tabUZ0bXRrNWtDdEVLcEo4a2JfVXE2dXVycXBIVEpSR184Tm1ZemRLNmVDcHFpSFBWWjg5bW12cFNhTWZmb01kd0hZRjNyUGFuNmJ4REIxLVlpdGJpeVBFRjFNSlNtRHU5SUpzSHVNTDY3bjJ0aEY1TXhOczhjLW1YV3pxUDF5ODJ2QQ?oc=5",
+        "domain": "telegraphherald.com",
         "language": "",
         "tone": 0,
-        "seendate": "20260829T053300Z",
+        "seendate": "20260829T193047Z",
         "source": "GoogleNews"
       },
       {
-        "title": "All about ag, healthcare and fraud at COACT Farm Picnic",
-        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPVDdjcGdoWjB4dG4tWkdmSmhJYWREV2VNZktRbjJWTUtfQXNDNFJOZzVaQ0xWMnBVSEM5MVlOdndLZm9zWXhXVlo4TGhuc3hCdUZ6TVpVcnRGLXhjQ3RyLXJUYjZmUDZTdVR0dXdsQ1ZIRlQwaVZIZk9PaFFFUXJMN1JzZks1eVNHVkZidVZrS3JraUZDUjlBaGdKeGFEenlXa2toWWVSekV0UmxPZHhCU3dvOHRSbjRpamJzcGdBZWZ0alJvSFprVmNoV0o0Q0Q3Zjl0RURFbTh3X3diUkhjNXdyU2gtWkFtNE04YkFVMG84ZEE4RE44S2dKd3lWYXZrUVZOWkRB?oc=5",
-        "domain": "hometownsource.com",
+        "title": "Drought concerns continue across northeast Wisconsin as August winds down",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZVJVVWY4U3ZlWDVaeDFDMkg4WENLMnlVazhKOFJIZDAtSnk3ZktwMkM0Uy00RnlVNGttTlJSNG5hdC1xUlpuZlFnMmFKNjVGRENiRWwwbDczeUJDa1BQUW9YekdvWEdPaHlTRlVkX1lVd1NleE5kSFFiNW93YXZRLTV3YUM2Ny0zUnA1c2ZaWkV1VElrMDJWNjRYVXEwNlpSa2xVM2pXNEl2dw?oc=5",
+        "domain": "yahoo",
         "language": "",
         "tone": 0,
-        "seendate": "20260829T153000Z",
+        "seendate": "20260829T170815Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Napa County’s climate action plan is nearing completion.",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRTNsVERVUFdNcm4xelBfYlA1VjN1RlFyQ09CeHZQMG1Pano1RFBmZ0FiVXAzVmVXa2dTeG1pYUhLZV80UlVLVG10Z2I1ckVFRkd6YmpYbTdlNmV6SkxsTHE2c2EzTGxOYnNUNk9jNXg3ZnMxc0dDbEZuZlk0dTduRnFHZUZqbWUtdS1EakRhOFAyc04wRjltanFpNkhMUTc2cU1sWEV4YkZjNFptam5UQjk4WEk3OWZmMVVYeTJJT2ZmVE5aR0kyYThobFBwekw0S3ZaelFn?oc=5",
+        "domain": "thenapavalleyregister",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260829T150000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Drought and heat a one-two punch for Colorado’s remaining glaciers",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeHhvRzk2SEJkVjYzM1FiNDY0TXNRcUhpYWFzTTNnLXN1c1gxVm14R3A0VjZvZGxCcmFsVkhsSHpSRjVZZEJ1Mm0xRkJUTmdyZlBNa3BTOUZzWHdKbDBpRFFSZE15UlFDQXRvN25ScjFKeklVWlMyeGRCby1VUTh3V1F1cmFxMEpaSkZjOW1qMVJveU9sQUE?oc=5",
+        "domain": "coloradopublicradio",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260828T205739Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Entire state faces drought conditions as fire weather risks continue",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQa1F3WkFVTjh0T0x2eUtRSFFVblFzeTJaV1FZUnhvNlRHOTN6MGROMC00eTVGNkJWMTFZQlZELXYtTzEzN0xySk5NbU1uUnhVSHoyaTVNd0RiX2dneXZXVVJILXI2VjNDUW5Nbm10SW1jZ0ZRWF85UG5SRWtURy02VjRrRWxENWpGVFF0dGI1WUFXWjVrRWlMNDR0NUc3Q3g3MW9hMnc4by1Udw?oc=5",
+        "domain": "kokh",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260829T185501Z",
         "source": "GoogleNews"
       },
       {
@@ -242,21 +296,57 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Drought Conditions Improve in Raccoon Valley Radio Listening Area",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQei0xNXExT0ttYXQxWG91Sm04NWVDUEhQZnlWZDZIcEJkNDUxdF9Gdi1mUG1INzliUGZ1eXRzZHEtT2JjaHRwYmNjY0N5V3RseGJxak52TzlXQm9FUEw2dmVtaDhLT3lTUjJhdjBqd25GdFBQVnVuTlVYcHFSRW1KS19wMUtoNkJaZEI4SU9leE9kcmNNMU4xUGYzSVU2TE5Uc3ZCeWFqaDZ4RWR0aVBJaXJ3?oc=5",
-        "domain": "raccoonvalleyradio",
+        "title": "Nepal-Tibet disaster linked to climate change – a glaciologist explains",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQndjYVVDQV9NQU5peE12dnRxc2JPeUtlbkJKdVMzRHZDTjhacEtwSlh1aU5IbGZURjdEWk91WEl6djZYR25ucXA2LUcyWUg4MXpYRzZsR2FVM1dhMDZmamVGbEk2TWEzQVZtMWRaRkdrY2hJQ2k3TjZoQ2lkamxaTGpjdjFKVlpjUmczcW1kU0F3YUREMmlDazE0eXpsTWZNejFfVnB4Yw?oc=5",
+        "domain": "theconversation",
         "language": "",
         "tone": 0,
-        "seendate": "20260829T130413Z",
+        "seendate": "20260828T113556Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Letter: Drought, Rate Hikes, and Hypocrisy: Is Ipswich Risking Its Own Drinking Water?",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdkZjZ3NFdDlkUVVKcERmd1ZTd2FjbHZ5bEZ4RWk5U2h3Ti1IVmhXRk4tdTJGY25uRklVenRONXJrRVFwaGRSNlRlRnNybzlSZFFWQXhUQ1RBNFhNWW1JOHItREdjalpMMmYzVmFEYkRRZndnMEM1UExPeWNuWGU0aEhnRTdBZ3Z6WkRtQkJGb3J0SU5PcmJRUmJLUXZpNkMyd0FiN3Zud0dIbFdYb0x3VG9laXpTTFRQWnAw?oc=5",
-        "domain": "thelocalnews.news",
+        "title": "Drought reveals Danube’s lost treasures – and deadly legacy of war",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeTdPZE9Qd0tzVkxZMkJzRkhZN3c3Z3FXNkRvYzF5VTZxRm5mQW1CNllRRy03aHRZbk5JWmhmWlhvUzF0R25uOEVySmlDRlQyVnZkdFpkd2d5amtzdnhlYUk5Q0RaNGFuX2VPa0wzdy1MZU9BY2lzTGUyMEtra0ptOUUtcF9fYy1fSmQ4WTJuNHIwVjN0R3JIbmNQa0d6bmRzZHdGZXVJT2NpMHV2U1E?oc=5",
+        "domain": "thetelegraph",
         "language": "",
         "tone": 0,
-        "seendate": "20260829T124147Z",
+        "seendate": "20260829T095800Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Europe’s summer drought threatens fish in rivers, lakes and farms",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaF9uQURoVlRkMV9SOWYyVTdzY0lTSWVqSXNPYm5QS2V6RFhFNldjMURJN0Y5enV0TTFPNVZLSGFRTXNFYmt0Yl9XS0RjMDRsN3c2WUpDZVNrdEtJb3dVX1NKT3MxNm5taWdkdWpBSlVuQkNDQlVLWENTQUlneDktT3F0MUlBUTdKd1Riamxiak4?oc=5",
+        "domain": "apnews",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260829T053300Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "A melting glacier contributed to the deadly Nepal floods. We can expect more like this",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQTdNS205cXRUWXBrRkNyb2xNb0M5UHdUSzFkZFMtOXhXb2lCMXdhTVdmZE5VRTNNbmdpbnNnOTdLcHpiRnVQbklwQjJIYlFiU1laU18zTXpmeWhnWDZJMkNfckRfcC1VdlBTZC1zcm1LQ2Y4WmdqTl9YXy1YUGZSN0V1NVpsM3hoZXc?oc=5",
+        "domain": "npr",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260828T090000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Drought, Heat, Low Water Levels: Europe’s River Cruises Take a Hit",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbUdCVVlNQ2pzek1CMlIwaURjUEZKRUp5T2tLVTFoUU5Ibk5IVndkZDY1WWZpOVpfaGVESElXMGVxZy0xM2JBVVFlWnBtVEx6bHllVTBXdkZoZ2NPQ2tTcjR3QVByRnplamRTN3d2SWdXcDJTUExCb3NNOWY3VzdZOQ?oc=5",
+        "domain": "thenewyorktimes",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260828T090254Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "All about ag, healthcare and fraud at COACT Farm Picnic",
+        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPVDdjcGdoWjB4dG4tWkdmSmhJYWREV2VNZktRbjJWTUtfQXNDNFJOZzVaQ0xWMnBVSEM5MVlOdndLZm9zWXhXVlo4TGhuc3hCdUZ6TVpVcnRGLXhjQ3RyLXJUYjZmUDZTdVR0dXdsQ1ZIRlQwaVZIZk9PaFFFUXJMN1JzZks1eVNHVkZidVZrS3JraUZDUjlBaGdKeGFEenlXa2toWWVSekV0UmxPZHhCU3dvOHRSbjRpamJzcGdBZWZ0alJvSFprVmNoV0o0Q0Q3Zjl0RURFbTh3X3diUkhjNXdyU2gtWkFtNE04YkFVMG84ZEE4RE44S2dKd3lWYXZrUVZOWkRB?oc=5",
+        "domain": "hometownsource.com",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260829T153000Z",
         "source": "GoogleNews"
       },
       {
@@ -274,61 +364,7 @@
         "domain": "scienceblog.com",
         "language": "",
         "tone": 0,
-        "seendate": "20260829T154731Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Napa County’s climate action plan is nearing completion.",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRTNsVERVUFdNcm4xelBfYlA1VjN1RlFyQ09CeHZQMG1Pano1RFBmZ0FiVXAzVmVXa2dTeG1pYUhLZV80UlVLVG10Z2I1ckVFRkd6YmpYbTdlNmV6SkxsTHE2c2EzTGxOYnNUNk9jNXg3ZnMxc0dDbEZuZlk0dTduRnFHZUZqbWUtdS1EakRhOFAyc04wRjltanFpNkhMUTc2cU1sWEV4YkZjNFptam5UQjk4WEk3OWZmMVVYeTJJT2ZmVE5aR0kyYThobFBwekw0S3ZaelFn?oc=5",
-        "domain": "thenapavalleyregister",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260829T150000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Screwworm.gov | Animal and Plant Health Inspection Service",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUzc2WGdFNVZjSHFEWUM2M2ZGYmhIZ0lpd2FiMzlYSVU3eUNQUEl0bHBpNjI3Z1JwOEo3djV1UHJiV3ptREJVRE5jbVNxZTZ3QjZpcFZReWZJTGVBSUhIYlh3aXRjeFo1Ml9DREUyQUEzZ2dheU5COTB5dFNidHNoSkdiQjNtWm1rQnVTeWFpa1RBZ0FnRHJlZw?oc=5",
-        "domain": "aphis.usda.gov",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260824T070000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Energy and climate deals for the week of Aug. 24",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPd2ZuQTVyOUhPaGQtTmkxWTFobTBYYmZoV3Jac29MekxwNUhFME9Xa2JHLWJOQnhhSFZ3OXhkbjZ4cllLam56RFRaMXAtMmUyeFJOamhVZGQyS0N5bDB1SGJoREgxQm8tSXViUU1wREh6bEw4SFdlQkl3MUFXVmtLS1ZQREpsVGZ6WGY3R3BLc3hGOGU3?oc=5",
-        "domain": "axios",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260829T115844Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Nepal calls for 'global effort' to address climate change after devastating flash floods",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSTdaMlBteVBsbGlqSm96WGdveDNfV2prQ2Q1TmFPdkk2d1M0VEx3OV9wckF3eUtSeXV0THVybXR3Y2VGRlB1MWxfU0s4cnFFMVctbU1TR25jdGxrQjZGbHVVUHBuOHowR2lBTElBVi0ycExZNHpHbXY2em9TbE9uMGE3NXRBVEhDZXFBWHZHT3Q?oc=5",
-        "domain": "yahoo",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260829T155921Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "England’s Water Network Buckles Under Sudden Summer Drought",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMXZ0VXRreGY4cXJERmhHR3UyVTNSOFEzT0dQazNfREJUeE1PVTZFZmlLZTc5cGZ2TXNWNnpoYjFWYXZYV0tUWElMaDdoQjhGYW12OHU3MjlhNHZwZ3RIN09GYWszVXVUdzh5MDlRdmpTUFRKaHNkNkRYb195ZUJkc1IzX1phQXdKWEZYaW44QndCZ2ZNNDNHQzVwVW5CNDNINjY2US0xN1RUN1MzRlVR?oc=5",
-        "domain": "bloomberg.com",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260829T070000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Drought, Heat, Low Water Levels: Europe’s River Cruises Take a Hit",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbUdCVVlNQ2pzek1CMlIwaURjUEZKRUp5T2tLVTFoUU5Ibk5IVndkZDY1WWZpOVpfaGVESElXMGVxZy0xM2JBVVFlWnBtVEx6bHllVTBXdkZoZ2NPQ2tTcjR3QVByRnplamRTN3d2SWdXcDJTUExCb3NNOWY3VzdZOQ?oc=5",
-        "domain": "thenewyorktimes",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260828T090254Z",
+        "seendate": "20260829T164621Z",
         "source": "GoogleNews"
       },
       {
@@ -341,48 +377,57 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Inside KELOLAND: Agriculture’s challenges this summer",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSnBsZHd6djQ5MGRPcmlMOWRsQ1k2RF9LZ0doZjhUUkxsMm1HWVk1ZmVQRk9ISkZ4Wk1qZHgzUE5WekJxVEc2S2U2SENyX3VIaF9WTDhqS0JWU21udk1tZ0V1Yks3NHFUQjJtbWJETEpab19pSVZxdzhxb1Nqc0Z6TnZwdnZYSm1qX1c4V2x0bE5xckZLck9waWJwVHFCeVl0?oc=5",
+        "title": "Colorado River plan to cut water amid drought brings uncertainty for cities and farmers",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSE8zZFZ5bXRoNFQ2MUpodHlERHhyeEI1UDVDb08wUUwxYXZBaFE3RmJQY0xmRDBGTm94aEVfeXdSa1VLdUVYQ2dRRHR2MDlnbGlYWVJOdExmdmpORGZLMGV0VW42QXVaWVhBSGhMQk14S09jaE9aWmVFem1iQzdKbnJXS0c0bzllQkpJVFFFZF9MY1NfRE5aUU43RkZfVUh0X0M1YXJEMDNUM0o3Q0JBbE02RWZ5dWNJZXRz?oc=5",
+        "domain": "drgnews",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260829T165422Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Why scientists fear Nepal's disaster is just a glimpse of the carnage climate change could cause",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUWNMS2Q4V1JGQzhtelJ6NG1saTkwNTNDRW42VXRoYWtLbUhycGRzTHV6ak9jUjdrXzFla1FTVEVjOTVGLTRCZVpnVEl6RGM4WVJMMkI1aEptMTMtbF9LRTg4OFpBS01DeDJPaElWWUt2V3hIVEE1QjNyOWZEZG9RWEh1bm1NdVJvU3AzYQ?oc=5",
+        "domain": "cbc",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260829T080000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Nepal calls for 'global effort' to address climate change after devastating flash floods",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSTdaMlBteVBsbGlqSm96WGdveDNfV2prQ2Q1TmFPdkk2d1M0VEx3OV9wckF3eUtSeXV0THVybXR3Y2VGRlB1MWxfU0s4cnFFMVctbU1TR25jdGxrQjZGbHVVUHBuOHowR2lBTElBVi0ycExZNHpHbXY2em9TbE9uMGE3NXRBVEhDZXFBWHZHT3Q?oc=5",
         "domain": "yahoo",
         "language": "",
         "tone": 0,
-        "seendate": "20260829T140000Z",
+        "seendate": "20260829T155921Z",
         "source": "GoogleNews"
       },
       {
-        "title": "A melting glacier contributed to the deadly Nepal floods. We can expect more like this",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQTdNS205cXRUWXBrRkNyb2xNb0M5UHdUSzFkZFMtOXhXb2lCMXdhTVdmZE5VRTNNbmdpbnNnOTdLcHpiRnVQbklwQjJIYlFiU1laU18zTXpmeWhnWDZJMkNfckRfcC1VdlBTZC1zcm1LQ2Y4WmdqTl9YXy1YUGZSN0V1NVpsM3hoZXc?oc=5",
-        "domain": "npr",
+        "title": "Ship Pays Record Amount to Cross Panama Canal Amid Drought Restrictions",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRjNsS0ZLUncxMjhoQ19VLWxpZzlmcEVQSGdmRmVocmRBNDhkOFlNRTNlcUpsYVFIQXpfMERNRFpjcnJ0bHZDcm9TNFhJSnUtelp3V1BfMUN6aTVMaWxGLXdyQ2QtbzI4bzNmT3ZtRkhVUXB3M0xRbUFzY2loaWpBbFRwTmN1SkNYRzdnQ2tPODlMQmVyNFU4bC1XVDF2WG53S0hnNW9HTQ?oc=5",
+        "domain": "theticotimes",
         "language": "",
         "tone": 0,
-        "seendate": "20260828T090000Z",
+        "seendate": "20260829T170000Z",
         "source": "GoogleNews"
       },
       {
-        "title": "El Niño climate events are now stronger than they have been in over 1,000 years",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeFY1clRkZE5zV0ppWXJLZ1hoSnotRWM5cHAxVEFlSThKaGJBbGZJc2VwdFN5U0s1YzZCTlNON3NlOTZfWjBlbUJpRFZKN2pTVXpKblJndXJJcVZqeHhzazZRN1VxU0VxMGdsR3BXcDdjYTEyZFBLb3dWclU0S2pNb2k3cXFEM3U2YmZ5cEYzanBPMnZRTEo5alFB?oc=5",
-        "domain": "earth.com",
+        "title": "England’s Water Network Buckles Under Sudden Summer Drought",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMXZ0VXRreGY4cXJERmhHR3UyVTNSOFEzT0dQazNfREJUeE1PVTZFZmlLZTc5cGZ2TXNWNnpoYjFWYXZYV0tUWElMaDdoQjhGYW12OHU3MjlhNHZwZ3RIN09GYWszVXVUdzh5MDlRdmpTUFRKaHNkNkRYb195ZUJkc1IzX1phQXdKWEZYaW44QndCZ2ZNNDNHQzVwVW5CNDNINjY2US0xN1RUN1MzRlVR?oc=5",
+        "domain": "bloomberg.com",
         "language": "",
         "tone": 0,
-        "seendate": "20260829T122300Z",
+        "seendate": "20260829T070000Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Colorado River plan to cut water amid drought brings uncertainty for cities and farmers",
-        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPRGpucHNhUU8zX3BpSHZXZ1BhSjlKRnh4Nkg4emRjMUFRemhQMy0xQjg0YVZLLUUyY0MwWjdRMGpmaEh4b3lSYU9kX0JFMmNMUktLUzdkZ3FabjJNb1J4RzZIektSS1owVThSZFpSZ1hRWlpSUWcyNExtNFliU2djTFliLUNkQlFXVklFU0N0YWJfOFdWRFU0cFdLdEZ0b01NRU4tUDJ0WE43N296WFNENV9pam4tQ1FicVU3UU5ITUJ4dzhfdlkwSU1PZDNXenJxdGxnamVPYXphOW5MNkZ0RDIzZUpINXNleU9sdEVEQ2p1YThfaEdxX01kbkNVVmNkZ3I0VnNxRHhKR2tn?oc=5",
-        "domain": "newcastlenews",
+        "title": "Climate: Two Hypotheses, Two Futures",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQTFuNURvaDdVOTRxUUV5d0g5RHV0TmtfcnVpY1paZ09ob0pxUFJtYW1TbTlCRmEya2dZeHB3dkxaUjN1UkRVMS1IdTd0cVdjWW4xRVZmM0pPbGk1ckcxQ2tuZ1hka2txQTNaZy1hUHA4RVF4d0VSd1VIYTdXLTl0Nk5iTGhqdVRMUU1xdDJFcmg0enh6VURsTkg2dm1oOXM?oc=5",
+        "domain": "dailykos",
         "language": "",
         "tone": 0,
-        "seendate": "20260829T120642Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Robusta coffee climate resilience 'an internet myth,' author of new study says",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRVZLX3lUMi16TWtRR3M5U3RCbER3WjF5VW42RlNzOE4ybnI3S2ItZjRiM3JleC0yMFoyZFNtLURUTDdVbHhQV0ZwalJUU3k1QUJiN3F1VkpfMUFkZGRLaktDUnIyNmMwcTFrT0NjaW5TSGFVQzlVQ2JBc3FOak83OWtjSXlJakppeFQwNEtUQlQ3XzF5Znl1ZnQyZDZOdm12aEhyc1VBOGFpaWVqRzNUZmJqWjd5UnBOd3o0S3lUQlZEUV8yOHc?oc=5",
-        "domain": "reuters",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260828T175409Z",
+        "seendate": "20260829T173945Z",
         "source": "GoogleNews"
       },
       {
@@ -395,57 +440,21 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Gaza forced to use unreliable online payments amid ‘cash famine’",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNEJ3N1FraGRhc2JObzBUaDFGUUFWX0pWV2lQUUZHdzVfbmt0bXhXMkZNUHVGUUp2NWNIcUhYNTJmRU90ZVI0YWZEMTFEZWxBQzhPandLdW5vMmZfYTNBQTFBa0dDVThZWEdVRWdIQi1kX0JyUDZGRFFiMkZ0QWRrY09MS2FuQ0tBdmc4VzRWVWg0SUs0LWxuVlVfZTQySkpXSmR4NmlR0gGrAUFVX3lxTE9rdUJobHkxcnlqU3ZVM2xwUTFEVDdFUFBsWWNfaG9aamlWQ3d0Nk5VTl96bERTUGx1WExvanN3dDk1Y2xlU1dscHlGQ1VSamU2Q0tfYV9qRmFiZzh5T2pZbTRKTEFaUnhjV2NsalE5TWN5RmMwZW84MkZ2UTBGMWUxY3NOVHRBRUdPMm9QUEVTcDVFaFlrSFpoQXlsN2Y4SFlrbDExQzJpTE9aaw?oc=5",
-        "domain": "aljazeera",
+        "title": "For Houston, after long drought, commotion in the sky",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMjY0RVdmZjczWm5vQk9FeE9Mb0E5bU9IbGZuYm05VEMxaEZGLThWY0pnQURlTVdrc24wbXRfSUZBZXRiWWE1TE1SYnpuQ3N3bW9mUzByUGJYY1FnYjMwM3VaNElyQnBRSzd1cUFiZW03bnVtazhfYmJwQkJIdlppM0ZDLWdDUi0t?oc=5",
+        "domain": "spacecityweather",
         "language": "",
         "tone": 0,
-        "seendate": "20260828T180433Z",
+        "seendate": "20260828T103057Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Flash floods have devastated Nepal. Climate change could make them routine",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdGR6Z2JoTHRXc1hXak5kUVBxemw4VmEzOTRwaHZCSERlNXVJaWprWjh0R2pkdmtkZ1M3cXA2V29RZ2tuRk5JMHcxa1E2NHowZUlwQ3hxNlpCMEhXc2pNNkY3eHplazY2TjMyY1p5SmVocmxoLWFiZ3NOZVZTaGkwRHR5TkpOblVsaTJvSF9KOVV6RU4tOWY4SnV6Q1dzMC1YQXl3?oc=5",
-        "domain": "theindependent",
+        "title": "Photos show European fishers on the brink as summer drought parches rivers, lakes and farms",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQd2EzRmQ3UDdyWnB1TTh6YlJMX2xiR0hhVklqVWdEZDlwMzIwRHhMcV9jUVBqMFVHZlNtaEJfQkU0YXUtVmVlOGdyQW9DQXV3dG40c0xqTmkzLUNTV1RlUUt6QVZSc2JYRFc0YnUzbEJNMTl5QWhyREw3dU93bGVHNS1LcWFmUS00bmx6S0JJb3N4c2tZY2VvZ2hNaTdseTBSMHNYUHZzZzFvaHhpaGlLV2N0LXIwLUp3bXZFMW9xYXhMUUFyMF9VM1hCSXFzR0ItMmlHRXVHOHh3dw?oc=5",
+        "domain": "apnews",
         "language": "",
         "tone": 0,
-        "seendate": "20260829T132800Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Nepal and China resume flood rescue as death toll surpasses 600",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeFpCbVNKQmk1RXRwMzdtQ0lnSUVEVGQ1SVQwaTZ2N2MtRlpVTGRfRVh2ZENJM0Z4cXZSbUMwM0NGd3JnOVlhdGtaM1VZSUtsQ25Pa1owY19VLWljekVrOXVfbjg1MkN5cDZjalVrcURQdWo5MFhDaFdUS3JrWFY2aDJEVDczTHJEaDVBd1dhYnNRWk5WR2NjQlhDTVA0V2FXdUHSAacBQVVfeXFMT2pidHFmRXFDSGEwczQxQnpTcEg3a2ZJZ3RHUlFyUlBENmpnZkZQeDlZUEN4ZWVJSzRqNWYyenhvellWZWlwZjlNU2FXVXNqZWNaSWViSzhHVGM0R3VkX2J2Zkc2NEdocEthQWg4VG1yREtsS2tZMWVCSHE3TjVBdkppdE5NZVlhQnZkdV9FcTlUUzFzUkNLVFI4U0ZKenowZld6a1hvSDQ?oc=5",
-        "domain": "aljazeera",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260829T144542Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Moto2™ recap: Lopez ends 1162-day pole drought at Aragon",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWlkzUU5hcHBISkVQNWp3cGZZVmVhUkxKeVhHSjN4ek1qWmg1S3B2NkhKeVJ0bndVTHo4QlRXbWd4UGNfUWotdUJOU0FBWDAwQ0pDcnZqSDZFYWljLVlJR0t4M2hGUFlpQjhMZjhQQ2dmX0dzckxHbGVVblY4dndyTHBqS01NX1M4UUpsQ1poTW9WNGp6WlZ2al94U2Jzanh1cjNqbGU4bFdnc1ZwLUZjQ3RqVUpaY2lrSXYzMzV1TWJaZw?oc=5",
-        "domain": "motogp.com",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260829T131400Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Martin Rowson on Trump and the consequences of the climate crisis – cartoon",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdE82ZHQ5VjRoYWFESUM0a0JTTHdNcWxXNVkwRFpKamk4N1QtYm9ma2xuenpSWjQ0VWNkc2lRNG5rLXhod1BXUUM2V003WFl1VTVvNk9KWl9yQXRtWUVxZ1JHVGJsWU5lNFlFU2Z1TExJZUwxcERIWDhyaExKdXFFcTNqTHQ2RDU3WTVmMHUyZ0ZfXzRSQWRlRjBzdF9RdFppTnNWNHdjcVZNeHNEQVFqYldLa3IzSVNp?oc=5",
-        "domain": "theguardian",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260828T163900Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Colorado River plan to cut water amid drought brings uncertainty for cities and farmers",
-        "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNTmQ2UF8yWTFoTFZTdFFFcTRrMnYzbHdRRTdQMzQ5cUFPQ3owdDhzYjBhRF9OMGZnbzhTYWt0U0prdHNubE8zOGxPb1ZfcTBjdWUwazV1ZDY1OWNVcTFMRlVkNC1TY2lfUWV5Nm5GSXg3N25pZmhHRlJ4WUVHbUs2QVpscWdxNmVUOUtzbW1OWE4zMG03M2J2V0FwOWhfamhYWjEyX1FrcldwU0JPQ3A2UEJzSUo1X25xVEtJUnRocDdQbm9SQVU4M3dtWVRjbWFyT1VfWi02QkJjTThYZjhKZjhodDNQclc2VXFsN25hRG92cXp5NzRIYWxxYWljbTl2UU15bV9wSm0wSzIwTmxfYkdCc3k?oc=5",
-        "domain": "torontostar",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260829T041002Z",
+        "seendate": "20260829T061700Z",
         "source": "GoogleNews"
       },
       {
@@ -458,30 +467,21 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Dutch farmers report fewer crops, smaller carrots, onions and potatoes after drought",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObTYycVZvOFc2UHVQaVdWbXlJeUYzc3pPTFY4R3lybjFkcGRxTkF6X3RtUjNXYjhPUUpRRjg4VnQyc1UwNC1mMTQyaFBhNTJfd3FUa2NXMDdGVkc4emNYcldpWkRxMkN2QThKdHFCd0FzREszaUI5bmZUVmFKMVF6X1JVUXFnTldlaTBLZE5Md3NJb19rRVlhTDI3ckd1MUxfWkVEcA?oc=5",
-        "domain": "nltimes",
+        "title": "Life in the climate crisis",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE93VExYXy1kTGVTaG5ybE9xNVY2SUNRODl2dEhPN3Z1VFlWX3ZQNWlYRk5vZW1UbmctdXZBYmFxQUg2cEs3eVNhMk5fTnRaY0lsUmlfbGJEdUc2RlEzSjJHUWFBc3RuZ2tlckNydmZPN2VlWXFTMERLZkg0QWw?oc=5",
+        "domain": "ekathimerini.com",
         "language": "",
         "tone": 0,
-        "seendate": "20260829T092530Z",
+        "seendate": "20260829T173104Z",
         "source": "GoogleNews"
       },
       {
-        "title": "What Is Climate Change?",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1OZDFtS3pLbm5odElyZ1JISFhTRkhYb3dITGo1MkRXZU9IVWRpSXdfbDhYMkt2eHU3ZFJBdmlxWE4tMGZzQ2xPRURWSjRiaXMxSC10bGZudEVlWVh4?oc=5",
-        "domain": "nrdc",
+        "title": "Colorado River plan to cut water amid drought brings uncertainty for cities and farmers",
+        "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNTmQ2UF8yWTFoTFZTdFFFcTRrMnYzbHdRRTdQMzQ5cUFPQ3owdDhzYjBhRF9OMGZnbzhTYWt0U0prdHNubE8zOGxPb1ZfcTBjdWUwazV1ZDY1OWNVcTFMRlVkNC1TY2lfUWV5Nm5GSXg3N25pZmhHRlJ4WUVHbUs2QVpscWdxNmVUOUtzbW1OWE4zMG03M2J2V0FwOWhfamhYWjEyX1FrcldwU0JPQ3A2UEJzSUo1X25xVEtJUnRocDdQbm9SQVU4M3dtWVRjbWFyT1VfWi02QkJjTThYZjhKZjhodDNQclc2VXFsN25hRG92cXp5NzRIYWxxYWljbTl2UU15bV9wSm0wSzIwTmxfYkdCc3k?oc=5",
+        "domain": "torontostar",
         "language": "",
         "tone": 0,
-        "seendate": "20260814T070000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "In Chile, hair-woven mats were used on drought-hit farmland; the developer reported 71% lower evaporation",
-        "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNYUxwWldlVXRWbkoweWRVamgxRktaYkhyaEtfUGk4MXRic0ZrVUtkNzYyQVJ1TWg4bHVpdGZ0ZWdBVUhtLXBncTdZYTZHcVFYeWRXemtoY3NhZmJpbnJrNjltaVNjaUZ2ZlJBOEtIZjR6bDczN0hBWXJISDhRc19ZcTlWYWtMS2liOWJMa3UzLXpURW1sRVN6eGZrZ1k3R0F5ZTdKSHpNbml0V1d4bVVBVm1HcUU2SHVXSjZTYmRmS1FoQnhmNzQwWnQ4OThGVWNleHhXVW5obHZpaExNYjBuRDAxMFpiNTFUcnYzRzA0dmsydlN6WU5wZElDRmg4WGNXUmxzakkyTzJKX0k5SHpPNkQtdG51LUdRd2xjLUtYNG4yWEkyeWhzbkloUHRPaVhuYWcyQllMZjNJaEJTcjhLcdIBxgJBVV95cUxNY2F0RFRRQVp6bVNUODYyRWtoZ2Z6NktQU1gwT1FjZGFIZm5FWmZEUUdGLUYzVGJ4WHpuQlV4SDV1UzF4TDFYZWJJdmx2S2NNRHhYcW85UFo4WTFQTVJKVkVJVUFpS1dVS3ZRbkNSTHZlekMwMW16WVNtWXFaUHFYTVVpb19zc0pwRXI3S29Jakl0TC12TE1SWVJhRDc0SHVfR1dxbHJNMkgyVjFXcmkxWlF4OVBxQXotbVU1MGhLOFJTd2dFMHVzaFpMTlBkLS1EQmU0bWlJUUVoTkVMUks4eW02cVBQaGcxRGYzTXlfbGVfRU5ybkRjLUtwQUtyUFA4cnd0bzk2X3kxYlVUVklGNlRFMXBpMkQwVWN5STFXMGJ3OGNlU2tSX0liMXV6MXRNclludEJRMGhmVGljZEtlY2VhSm5pUQ?oc=5",
-        "domain": "thetimesofindia",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260829T131000Z",
+        "seendate": "20260829T120819Z",
         "source": "GoogleNews"
       }
     ],
@@ -571,12 +571,57 @@
   "entities": [],
   "events": [
     {
+      "title": "Colorado River plan to cut water amid drought brings uncertainty for cities and farmers",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYzczQlBMWjJOc1RlQlBXVTd6Ym5jMXdXNEZOdFRGODdBbGZ5SGhJbl9GQm5YeWxvZXFDYkxGR2UwT1RJNWxWbWJxdEZZM3Z3Z1NSOHBEZVVTRTNLNnZaZEZYNE1haUY3aHFnV0tLM0JGaFRUMDN0TDBFSUxpUThnTS1aV05lMEZWeE5TRkpuay1yYnNEejBjSVVfcURlUVJaYVNEZVZ4ckN6RlQ2aEFVeG9nSGFIR1VWaFd1eWhrUDk?oc=5",
+      "domain": "pbs",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260829T153917Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Colorado River Drought",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPM01HcUdvTXRVd2FyUGx2TXBCN0gyVzdwNEk0Rm0zLS1GME8tN3NDTG4tVW50ZjlRUUgwLXV4b0YtTVZCMU0tOWVlSFdrY2xNcGlGRUJXMGkzQWRZUGVuSHRiT3h4RjF0RWw4aWRXWlpyRDNIS01NMjlnaEI5R0FCMS1GZkU4SmZyanFPSjdVMmxZVE83dlE?oc=5",
+      "domain": "telegraphherald.com",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260829T192340Z",
+      "source": "GoogleNews"
+    },
+    {
       "title": "Oregon’s drought is worsening, and winter might not offer the reprieve that some expect",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeWlTQWRkTzdaekFMUVE2QThqclhKREdOQ0Q3S0xlN292aUE0ZDdXVXo4ODVzbU5qVG9RVm9aY2I1RTNTc0ZnS2lnTFA3Rk9ITlNvd1lmUGkyTW15Rm5yYkpIaTFpSVBpRENrM0dYRGxqSlFGNlJudmxTX05ZeWRYUkNCbkU5NEV0YkFBSF80TGVtcDEtQWNydFVOdjhkUjYxVUpKdkpvaUN5SUM0UmNLYlRvRW12QkZrSGZuMFEyV0I0U0FNcHZkNw?oc=5",
       "domain": "nprfororegonians",
       "language": "",
       "tone": 0,
       "seendate": "20260829T130000Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Minnesota finally gets a drink: widespread rain showers bring much-needed precipitation",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNDMyaVM3ZHE4UUZIdmdRbUpaeFJVSDAtLWxLbmxKdk40RDUtMFdXVi1Rc2p1UnltY2NnNkkwMlNfTU45RFJjajlYODE2ZWFhR0hmeVVGLVJUdGt2SzN6akpILVNPOFVIVXYweHdhZG1yOTBsUHdLTmwtaHc1Zm5EYmhnbGJYSi1lYnh2aGsxaWdjNzR5ZWhWTFRlUjEwZ2pSMFVCVXV0bHVfTGxDTXFNN3NRYkVGUmg2SFNZemoxcXFvbnRh?oc=5",
+      "domain": "mprnews",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260829T201300Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "The Earth is sizzling, but climate isn’t a hot topic for Democrats in this year’s campaigns",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa0lNSnBPSHBtVW11eVZ6MzBMa1AzdVhrZm5wSXBrbFllRG0wX0c4RmFyX0psR2RRaU1KNVIxRGszd240bGpyMmY5U0p3b1BGclVUaUZmRVNLYjFpRTdDWnRHUTdqeGxESVQzSDBQTFRicVBQM3V6cWd2MlhwYTc0M0VXQVRoTl82aGV6YzBhNDc0cFJSSWNWZXVDRTRheUFFQnBZbTJ4aHl2ZUZHWkRlek55RmxXemNpMzgw?oc=5",
+      "domain": "apnews",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260829T165200Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Entire state faces drought conditions as fire weather risks continue",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSTFvMWlLMlVBdVd4eUJFUXJKQzNLUUswZDdPYUE4VmJVdkpMTzk1bUtvZVh4YUVPR2JpYWhvS2MxbFd5TWlmcW95MlhzTnhhUjNUdVMyV2xGeUtHRXlMdzgxM0tYWFFUdVpKV1gtNVpVRlJqNjI3ZVEwa2ZWWnpIUGR1T1ZXVG5XS2J4VWFKdFkxVTE4R0czS3k3NXVrTFk?oc=5",
+      "domain": "kokh",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260829T185225Z",
       "source": "GoogleNews"
     },
     {
@@ -589,39 +634,57 @@
       "source": "GoogleNews"
     },
     {
-      "title": "Plan to cut Colorado River water use amid drought brings uncertainty for cities, farmers",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWFJ1WlVFa25vX1QyVnBMSWtzNDhKaURKVGxCcnpMWXZZblcyNlhJWXlVTlJ0Y0ZsOGNEeXdVV2ctS0pTZFBPMWkyMzBURlJLeWtwLUI2SmFCM0xMSVEyODVfcDZtRFJzWnZCQ3l5OHNDenV1VFg4M00ycnU3NFQ2UEpsMmFYLVdXTVoxWlFrd3I5YThTcTlUeG5KMWs?oc=5",
-      "domain": "wptz",
+      "title": "West Point ordered professors not to teach human causes of climate change, lawsuit says",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQclEzOWRPMDVEU1Y0ZDlHRkw2NWNPeUlEcEpuc3MtT3c4R0VTOUZrTTBFWnBoOWRKbi1GVnhQSURZYUJ3Mi0wdFljcHViWWUtdnNnTGhTSFhsRGNUeXdDdEVodk9QaVY0M1hydHVDRmNlZ0QwMGhTaG9lR1pJRk81dkVUYS1WUm1kclNnUDRnSHR2X19wYlJuN1FjLWFQWG9YRFRYUm54dE1lQWtzalUtakp0bzlmaTRoTHc2dTRPejF6dUR3Q2N1TWpWcXVhb05aaHZiZEtfWmhPbk1ZbTlHTQ?oc=5",
+      "domain": "militarytimes",
       "language": "",
       "tone": 0,
-      "seendate": "20260829T154100Z",
+      "seendate": "20260828T151259Z",
       "source": "GoogleNews"
     },
     {
-      "title": "Drought and heat a one-two punch for Colorado’s remaining glaciers",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeHhvRzk2SEJkVjYzM1FiNDY0TXNRcUhpYWFzTTNnLXN1c1gxVm14R3A0VjZvZGxCcmFsVkhsSHpSRjVZZEJ1Mm0xRkJUTmdyZlBNa3BTOUZzWHdKbDBpRFFSZE15UlFDQXRvN25ScjFKeklVWlMyeGRCby1VUTh3V1F1cmFxMEpaSkZjOW1qMVJveU9sQUE?oc=5",
-      "domain": "coloradopublicradio",
+      "title": "West Point’s only climate scientist fired after continuing to teach human causes of climate change",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWl9PaXBuYW1NcHN5R2N6NXdPUzJ2X2RXY2FMZENvN2UwLWlkOHlHdkpUdGlmdEo5M0tqWlU4ckRjd0J5ZTdXbW9XS2ZkampSQzBCdDlLRk93aUlQVGRRZWV2aHdCRjZaVEFEcFZ0VUw3YTN1ZGNwSUlweUJrdHlXRTViS21TRU5jdXc?oc=5",
+      "domain": "theguardian",
       "language": "",
       "tone": 0,
-      "seendate": "20260828T205739Z",
+      "seendate": "20260827T190800Z",
       "source": "GoogleNews"
     },
     {
-      "title": "H2B2 Electrolysis Technologies",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBocklWSThISlo4b0s4REd4MjJBRGY1Qnh2a3c4ckZ2Xzd4R1pWSWpIZ3BaQ1ljRDdXengzM2JTSjhqZmFvNU9ORE1FeDN0bnI0NWZTQUljc0tMbU5RRVZCYlZNazFMbU9oSmstUEdpRW5jam9r?oc=5",
-      "domain": "insideclimatenews",
+      "title": "High schools students help open climate justice lab in Columbus",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdGlyZFh3ekdDX3lZWWMwb1l1MGRhbEk5RjVXeW5aMFVqVVpGZlE4WkhXQUcxbVZlTmFaU0VoWUl4bUxEMG5IYWVvYkVKNm9MeE9USktOQkJQSmgtV2doNkdqV3k0d2JpX1VzcUNpY1h1UjNZZXRWbTRBaTRDWDI4OUZkUTBrV0J2Vl9EeUloQzFZX1l6eTdWUUQ0dTN3RVhxa3RoWml6OXNRa1NiRWJ0dNIBtgFBVV95cUxOVEZzUGZFSmJWS0tjdmp4TWNsMWJRYXpLSmlMMlVNQTUtRXltUkJidHU4cFF6ZFFlOTM4NXl5MTNTRjJPUXpvN05DeS1ZMkY2SWFZRVJBbzF3LUUzb1gwSTcwQUgyc2tWUG9QY1FVMW5xN0VacnRZcGl6aThXd1ktekl2TUEwTnVhUmNUV2tMZjNUNzJCZ1o2U1pCcW1kYjZrdkcwN3NqblE1dFA1UUhOQ2VQWm5DUQ?oc=5",
+      "domain": "nbc4wcmh-tv",
       "language": "",
       "tone": 0,
-      "seendate": "20260829T122107Z",
+      "seendate": "20260829T181901Z",
       "source": "GoogleNews"
     },
     {
-      "title": "The Earth is sizzling, but climate isn't a hot topic for Democratic candidates",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPV2xXSWx3Q21xb3h2ekkzUV92RFhXN0N3bmpfejg0N2o5UXFsa3J5Mm10YWVONGxvaTZwd1ZwaVdGcGVfbEIwTHVWbDNPMTRhYkdEWXByVUdIdGtYTDhhMHJhS1VWcHpOOFBOSUo5MUUxczFWamhNOHByQ2FvYlhGWDZCc3g5em9RRkwxS3VjeDdGWWVQMUE?oc=5",
-      "domain": "gulfcoastnewsandweather",
+      "title": "Sudan’s date palm trees under threat from drought and wildfires",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUmlEWHQ4R1RqNXRSS0lyalZqUnZsTFhWMTZKaUxnM0RwU3E3RS1KVnhjUmJia0xyVHluclR4NUxoeTgxZEJrUXlBM3pjNkhvTkZ4cXRRSXJGcFJjdFVScE5xZjJlOVF1cnVhcXR1WjItYVB3aTltYnpOT2Jad3h3Qk9adDNGOEQ4ekdQYURVM0ZCM1gtZEdBUkRNOWtEWEptNmdUdC1hcFEzNVFCWlk1bnk4c9IBuAFBVV95cUxPeEZBLTQyRmNGOTZ0RlNLMEJNSnlNUHZhcURiNlEtZkJVNmRMMUhLeDNJVE5EWnBWc3I0RTZoZnBtVVJhWkZaN0twcjRQN2ptMjYzekxyWGh6bmNTUnBOdklNR2VWcFVXdGFPUjRMeTEycWNsRHhBQlRPb2k0NzZpLVl3UnRJZlVISENnQ0pJUG4yZURncnQzMDJsTTBqaWxhRmtmX21KcTNhaUM3UDFsZDd4VmlLOUxj?oc=5",
+      "domain": "aljazeera",
       "language": "",
       "tone": 0,
-      "seendate": "20260829T140700Z",
+      "seendate": "20260829T181801Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "As drought conditions worsen, #Denver Board of Water Commissioners declares formal end to lawn watering season October 1, 2026: Resolution orders sprinkler shut-downs, end to lawn watering; hand-watering for trees and gardens still allowed — DenverW",
+      "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPVWc1X3VIRnRmSTRYUEEtSi1NVUlTYWk5Wmw1NVFmS1dzZXFlRG1lX2pHWTRCV3FIZnp3SzNMMm43TE9DSlpNOEhJNDNBNXdxQ3JpU3U0T0ZjWWI0RUNJZ0x3UTdnbG5iQk5TRmRmNFBOU1lrY1JkTnJjRnJ5Y3ZOLVdZR3J2NjVSVFBjREhhMWp5ckYydDYxNGstSjg0NkdQZGVZblZtR2VxT1hHcU1Xc2dYZTBtOE5ndDNpSWt0TERES0NrOHBxanFFWFlESG9XVV9FTUdJczluZ2J5VmNTci15bVRDZUdyNWpDeWwzVFg3MzdpWlNJem5WZkNBTEJiUnc1QXpTcDJBNVR1VjllbHVITkZVX0dCd0NGclkyME91TExjTzNwUUxQcnVUUHVXT3VCbDBlZ2diaGkxeWVILWZHOV9SOEpxbmV6cjZLOUU?oc=5",
+      "domain": "coyotegulch.blog",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260829T190931Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "When a mountain falls: How ice and rock triggered Nepal’s catastrophic flood – and why climate change is raising the risks",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWmU3OGtsSERSVEVCM3pBQU1GYkFFZ3BwTHRvcE5pbFg3UHlVSzhvMUV0SzhhcG1fVWxqS1RoN2ZFU1VtUXF6Rlcxa0puR2NJaG04d3pKdVpTUWx2djZjM3k5ZGlkWjdjcGF0dGpacXdiZE1NZWxQQmFHZUdHbTdUOEZqd281WlRUOHJLd2VQVFBXYXZ0NFNNc3pRZ3pRUUJCcmxoc3AtY1VpOWdkQWRUWTM1LVo1UmJLUnl4eEx0N3dsQWt1dDNEa1lDUndyU0NUZVVibnNUclRadzJycXQzb3hZZU82dE8x?oc=5",
+      "domain": "theconversation",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260829T165704Z",
       "source": "GoogleNews"
     },
     {
@@ -640,69 +703,6 @@
       "language": "",
       "tone": 0,
       "seendate": "20260829T120000Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Remnants of TS Dolly to bring drought relief, then find new life?",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNemlvU1NoYjlfX0hjbjBoY1djenRoWUpXbTRJVU9yeFJKOTZmTkhpMVZpR0tqeFY2ZS1GVDNLQ1JVNTE3alA3Z18xcS1WQXZnd242d0V0SGMwZ3M1cFV6S3FBalE4LW1FTzFuVXJGa2ZtYkw5aVVuN0xTZUdRUjVQWmstY2JYRmp2RDN1cV8tb000N2dVRmhVZmRMN2NOb0kydHdwY2tpdTVQVE1wa2c?oc=5",
-      "domain": "theweatherchannel",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260829T152141Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "West Point’s only climate scientist fired after continuing to teach human causes of climate change",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWl9PaXBuYW1NcHN5R2N6NXdPUzJ2X2RXY2FMZENvN2UwLWlkOHlHdkpUdGlmdEo5M0tqWlU4ckRjd0J5ZTdXbW9XS2ZkampSQzBCdDlLRk93aUlQVGRRZWV2aHdCRjZaVEFEcFZ0VUw3YTN1ZGNwSUlweUJrdHlXRTViS21TRU5jdXc?oc=5",
-      "domain": "theguardian",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260827T190800Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "West Point ordered professors not to teach human causes of climate change, lawsuit says",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQclEzOWRPMDVEU1Y0ZDlHRkw2NWNPeUlEcEpuc3MtT3c4R0VTOUZrTTBFWnBoOWRKbi1GVnhQSURZYUJ3Mi0wdFljcHViWWUtdnNnTGhTSFhsRGNUeXdDdEVodk9QaVY0M1hydHVDRmNlZ0QwMGhTaG9lR1pJRk81dkVUYS1WUm1kclNnUDRnSHR2X19wYlJuN1FjLWFQWG9YRFRYUm54dE1lQWtzalUtakp0bzlmaTRoTHc2dTRPejF6dUR3Q2N1TWpWcXVhb05aaHZiZEtfWmhPbk1ZbTlHTQ?oc=5",
-      "domain": "militarytimes",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260828T151259Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Minnesota AG candidate Ron Schutz hoping to win, end long drought for Republicans",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZWJoQzRya0tmMmkxV0p2b21mYnIyWW16SVpHVG5zQ3kwN2RDYkRnVnJOd1hTallWY1hzM05hbzNXaFlJek1uX3pBVGFWQ2E3RGY1N1g2TGhwYXVEd3hNM2tNMmViYjVkbEdvMTQ2UHViR1ZsVk9LS1BfNzVScFpCdEtFLW5ndDg1eFhiYW5YYkpSVXBleWVkUjFWSFZVa29qdmZQR3YxV0xJNlZaZXJWSjVNRERqLTdr?oc=5",
-      "domain": "5eyewitnessnews",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260829T132653Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Gary, Indiana, Is America’s Latest Climate Victim",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPblNmdjg4VVZSaVozZmxTTzR1aVJwOFp5cEpEMHppbGxUbjZjY1pxOVdYYUJjNFZ6TWx3VkdSM0dicnN1U2JjNXhsNG9LTC1sY1VVM3FqRlp0VWZHRmdnWm5oZ2RMV3poZUtLcGM3MC1kTWotY1FFTk9RYVRZZzZ0bU9B?oc=5",
-      "domain": "theamericanprospect",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260828T093000Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Drought reveals Danube’s lost treasures – and deadly legacy of war",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeTdPZE9Qd0tzVkxZMkJzRkhZN3c3Z3FXNkRvYzF5VTZxRm5mQW1CNllRRy03aHRZbk5JWmhmWlhvUzF0R25uOEVySmlDRlQyVnZkdFpkd2d5amtzdnhlYUk5Q0RaNGFuX2VPa0wzdy1MZU9BY2lzTGUyMEtra0ptOUUtcF9fYy1fSmQ4WTJuNHIwVjN0R3JIbmNQa0d6bmRzZHdGZXVJT2NpMHV2U1E?oc=5",
-      "domain": "thetelegraph",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260829T095800Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "El Niño climate patterns supercharged by burning of fossil fuels, study finds",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNlJsamVwbEVJU1dSVFRXckpZcWE2TWRGUmgzclVCM3l4QmhDR0VYUW1UU2ltY1ZCSi1pU29jZ0xNLXVGN3llaE1zTFpsRXU5NUVuNzhocEh2R0x0VDh5b2xlMGROeGNYbXFOUjNvWkVLRDUzVzZBcEJDVVBQTUVHUG9pMWVZQWZ4RmxReS10WWFESW8?oc=5",
-      "domain": "theguardian",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260827T180000Z",
       "source": "GoogleNews"
     }
   ],
