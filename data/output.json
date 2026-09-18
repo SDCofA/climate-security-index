@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "climate-security-index",
-    "generated": "2026-09-18T04:55:02.494513+00:00",
+    "generated": "2026-09-18T11:29:20.697904+00:00",
     "mode": "live",
     "sources": [
       "news_articles",
@@ -18,7 +18,7 @@
     },
     {
       "label": "News Domains",
-      "value": "44",
+      "value": "46",
       "delta": "deduplicated"
     },
     {
@@ -34,15 +34,6 @@
   ],
   "live_data": {
     "news_articles": [
-      {
-        "title": "Drought Update 09/17/26",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQ2Z0ZDdhWjJQZUFPTUxKQWNFYVpPZkt4VS00dDVkd3ZrZXI2VUdyNC11d0U0dDFvREVXcG9OdHV6WHBkS0tKQVlRRHQ3emJIbnUzaGhLRElMS3FrSUVSdTBpT2ZaQnBYWk9EdHRJOUlJOGwxbk9wNUdsZExWd3pFaFN2cVVJcFB5RUFZWkplMEVEZGxOQ0s0UWM1VTlxcE5YZWt3UzZR?oc=5",
-        "domain": "utahdivisionofwaterresources.gov",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260917T210946Z",
-        "source": "GoogleNews"
-      },
       {
         "title": "Climate change made deadly Nepal glacier and rock collapse more likely, analysis finds",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOUQtdHJWdlIxOUlWUVMyMWNDVDgzOTZNNWh3S28xelB0VjlXNUVVOV9BMnJfVmU5TlRoSkE2UlhvZ2ZVRi1tQ0RfTHpKWEoyMjctSG92ZDYxRThQUUh4X3d0ZEdKTVVNSy1CM3Ria2VIWkRzTkpRQ3hNeVB0S1hqV1FweVpSZ0ZZTm1XV2lXM2N2aTRnWkhweGFzd25ma0RKQ1JrUmRYclEtMFBUQUtfMy1yNkZ0OU5JaGlSbnhiZ9IBxAFBVV95cUxNVTNORkU4UlRLVnFQSi1Wa1FxTDN5aTU3M3BsM2hUTU9hNHNXZUN4RG9haGNhRUdWUE5EYXhnbHdPUHZqbUNDazBXOUZRYUZwdExOVTZ3QUpTR3VqRFViY0R6RFdpRzI2VHY1b2F2U2xoM2pacUhkd2FmZVlUWklVZlB2N0F3bGFmUGpJTXgyQ19WZWFVaGRldlVibE96NVFEbFJJbnhhV2dWQmdMX29RNzZuSGtFMUJ4aHhXa3dPeDhYdjUy?oc=5",
@@ -62,21 +53,75 @@
         "source": "GoogleNews"
       },
       {
+        "title": "Guatemala: Drought, Hunger, Dispossession, and an Unfulfilled Agrarian Agreement",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOFBST1VOQzhZYjktQjFsRWdhNXJZdHBLUTNzMHZkUUM2WmNoOWxjMFFoR3BDMTlGOGlMbXU1NnNxN1hma1liTnNmSWJuWjktUXJWQlY2bXNKcEtVYlBmQTBkYUZ0WWM0YzRHbDlZZDZUT01UeEh0SXdEeGxRdlhuMW5iWEM2cEFvbUgyZTFybmZEWlRMTFAxZEU4d2hVVXpIMzBDdDFmeXRkd2REVVhZSjRKSQ?oc=5",
+        "domain": "viacampesina.org",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260918T111423Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Drought Update 09/17/26",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQ2Z0ZDdhWjJQZUFPTUxKQWNFYVpPZkt4VS00dDVkd3ZrZXI2VUdyNC11d0U0dDFvREVXcG9OdHV6WHBkS0tKQVlRRHQ3emJIbnUzaGhLRElMS3FrSUVSdTBpT2ZaQnBYWk9EdHRJOUlJOGwxbk9wNUdsZExWd3pFaFN2cVVJcFB5RUFZWkplMEVEZGxOQ0s0UWM1VTlxcE5YZWt3UzZR?oc=5",
+        "domain": "utahdivisionofwaterresources.gov",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260917T210946Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "US wheat farmers navigate uncertainty amid drought and geopolitical chaos",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPN01TSnNxQ1poLUdQdXRuZlZ6RERDV21NekdOcWw4MEFyTjZ3bTZZNEpVRnhoVGlwN2xOVHFpeGZEYllPdEgwVXRGdnpleG5ONURFenRQWmVzSEcwbXFXMWxqVFBSMTBFQVBESTJBM2x2Wks2ZktFWENWVHRXcjlhMkJzdmpWTkxIOGc?oc=5",
+        "domain": "theguardian",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260918T110100Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Oklahoma’s current drought is bad, but residents lived through worse, climatologist says",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVEZKbFJZUERGTUhWdHVrZTI4cjdPSXBfMXJsUW8wU3JuUHo1dGp2TDVvazB6LXl1eUpBdzZhNDk2dXRJNU9ETlRuOHc0eWhidHdteHczYTFhbG40aUdLWVNsUVF4RUdRZTlZMzRwZ3o4TVR4b0N1ZmQzWkdjM3BGNk5pYjZuWm1UQTh5RVhhamFXZVBRTXJ2SVZtSk5kMUFJUDE0aXU1d3ItYXdsc0tpcHkzbEFmYWw5ZExlRG9YTzZoRXVJUk5ER21nc2tlOG5aMExj?oc=5",
+        "domain": "kgou",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260918T085800Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Science Behind the Forecast: How bees are adjusting to climate change",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRktqSEdaSGFmT1ZMazFhcHZyUUhBVUZFczVucXlPeGFVd0tnUjhEMU9oTHNXZmI4TXdjZFZnOHVYNmcwLXg2blZiUnBhU0NNRUlVcF95dzBBazBoY2hHSHM4NUJZWTRLMnpLckNPRVczUERiLTlEblFRSEVpVWdHS3pBNXc3a1o5cHBHa1BDZVdXbkpJRGppZ2NyUWM3Z2dDRS1YN3V3UQ?oc=5",
+        "domain": "louisvillepublicmedia",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260918T090000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Burlington headquarters move to Philly highlights N.J. business struggles",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORnd2VnR1ZWVCYzRYRHFZV1lSS1NPaE9WSHh6WmFHVkdMT2hBVzMzeWxpcE03cUtJWksxUWUzTkx5RlhJWFphYUJMUExBekVWbUc3bmY0aFpqOWI0eWJoc19PZ1R0aHRNaG40T0ZJM1hMSlhnYWFINE1QZHF5R2YtOG5HZ0k0cXZiN3NFdUNyWFVWU1dMMlE?oc=5",
+        "domain": "whyy",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260918T093345Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Screenshot",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQU3JGRnRUUUFBYUp0TS1kd0ZmN1hJanNXUFdxSDF4VXVZZ1RCQzBqeWRCNWlYRXYxUUxvSjJodlJ2cnFBemx5WmZEdHZHMDY2M0ZQc1AtRXlwUEtfaFFWTVFac21qT2VobnphY1FvN1Rac0JRRUFYckp0UWkyZ3htVElYemlWOUJydk1fUVhtbXhnTVZBTVk1MVNIUzlUaUlxYkltUlFvOUdUbGEwdVloa0Q4SmtQUGY0N08tVg?oc=5",
+        "domain": "yaleclimateconnections",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260918T100322Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "Drought conditions worsen across Alabama, raising wildfire risk",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTmlESy1Rbks5Q2lzOFV6R3FsNURmT2NxOTdnUGlic1V0MUZ5WS1hYjlrZFNDdkROOFVyblhHWG4yVkdHMnA3ZGFYckV3WWRGNVJNNGh6RC1CS1BIYzdqZlVqUzNpZXA4dHI5SDNlZFVVSkszVVFTazVHbW1BemVRWS11UE5UVzRJaUIxMi0wcWtFVllrSGlsWVFIRdIBrwFBVV95cUxPcnlfUWU2alU1a2h3azVpMWNjc0NmSVRkM1lKYUh2elhvLWRKMzMwbWJYdzJ0eElkVHIzTUcxODhBNFJyUkw0OTBXRWdDTzBrSmZGd3dnZlZ4SXhvYlBNaGVHbVVRWVZRbnh5bUVJeFl4Y3JEMy00RDRaYlQ3UmVVbWNad1pzNUdIbzlCcUxDZThiQUtpdzJEVklkVzRHRkVydDIzU3RHU1FWZGVxNmpz?oc=5",
         "domain": "wbrc",
         "language": "",
         "tone": 0,
         "seendate": "20260918T025100Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Jamaica’s churches have become climate activists",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQm5uYzBsN25obkZvd3I4TWFJU19UZHRWdG9XTU9iZEV2ZmNlVXJqTjRBNmVaems3TWt0QjVGRnYxbGNCbFZsbXJzMzNEbHVKdTBOUkYyYW9CUGxwUndTbUdQbEZSbGNUbFdUbm02ZWNiX1lyel81MzV5Z2xDSm5jMDNHTFBuLTFkQTQ1N1A0UzU2Z19NRUJPT1gzTFhuUQ?oc=5",
-        "domain": "theeconomist",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260917T124501Z",
         "source": "GoogleNews"
       },
       {
@@ -89,201 +134,12 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Climate change had major role in triggering Nepal floods, scientists say",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaXo3QVpLWEtaLThwQU9XWWtKYmlQaHQ2SW92T2dpZEJtX2NPUGdLSHZTREtybVItNDE2ZXViSUxRZ3RrRWxVUi13Y2dYSG5qTU1FY0tlZUZKbUEzTWo2Ykl3R0ZHaUo3dUVfNFo5R042eF9Zem02M2hDT0VMakwzOFFkLVViRUQ0eEM3VjU1NGtvTWJqTkZWVFdFTnEwMHVzZlZRSUUtRHAxdmJkNHZMWnN30gG3AUFVX3lxTE9qQ2x0d3Q4Y0NLbHJ1dC10b191SlFOTUk1QWJuaVZncloyeTVnYVAwZTJaRFVBa3ZmaGltVE9uODJxN0k0dFVZdzdYWE9sQWcxV0F6Z0xCZEdKWFZNdjlLTDNBT090eXphVzhpQzFJRGxqT1VFS2w4ay1MT3J5WVBCSU9oZ3lNTC03a3d3UE5QMWlhaXctb2RlR1RQbWRvSTFRQWR2VlZBdU53anRmMmNFXzlSMGk2OA?oc=5",
-        "domain": "aljazeera",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260917T112315Z",
-        "source": "GoogleNews"
-      },
-      {
         "title": "Climate change contributing to permafrost thawing and glacial thinning",
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQV0xiMlJwenRIWFdBLW9LOHF2MWlXazJsVlVMdm5TMzVpYzFrV1E1UmhIYTgybW5QM21WSmFmTFJlbFNDYUJYeU5oOFJlQTJsSXo3TFZOaDNhVlJwb25DTFh6RHlrcFl0VVYxN3g3d2lfX3B0Rl80dTROWFk4dW5xaVVrcWplYzNTTFlr?oc=5",
         "domain": "phys.org",
         "language": "",
         "tone": 0,
         "seendate": "20260917T220004Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Drought Monitor shows dry and drought conditions in 15% of Iowa",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTVZxVzhKQnVYRDlHRTRqT09YLTZIQ0s0ekZidEpMWWk2dzFmRjN4d3pPdkV4QW9zYUJyVmJEWjNkMGlwYV9EYjBsN1pvSUR0Sm80SUtwLWwzLVk0RElqRzVJVkt0MjFWdHZpNmFHYkxKRmhTajk4cHhNN21OX1N1TUNNNXBWQUxvSzBXbWJjdFVwREVpY1JpUnBOMGJJc2lyN3c?oc=5",
-        "domain": "radioiowa",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260917T191907Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "The Colorado Sun wants to feature your climate-friendly recipes. Here’s how to participate.",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWDFWa05zelkzSkxxR2ptNGd1em9xUm04ZXJqOXFqZGMzVVlaUG52OVNocm5LUU8ybVJuY05GMUNlTlV3TFYxcFFfM0ZsRlozVDNQSHBKZkstWnhKRkdYS3NwM043SWhLZ2FkZFIzb3ViRnFYWmllUGhvMFkyV1V6MVphZw?oc=5",
-        "domain": "thecoloradosun",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260917T201247Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "FIRST ALERT FORECAST: Humidity drops for a couple days as the drought expands",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPenE5U3J6OGpNT3R5Z2dzQlFlUHM5RGp5US13UW8zTTlwWlRXM2FzVHNYS0R3WHZBaS1fSk90cUlCRU9Zd19zdk84X0xfZlJpMEI5UHNHcEhya3p4Wi1GSjhIWUJ2NldTeUJRV3hzcGVMUklUSkpZaVJBS19PZ0M4ZmZGNTUtckFVTzRxV0JkT04yc054eVRmZEVWUDI1Rk3SAbMBQVVfeXFMTzllVV9jeHZjSmVILUo2RFEwamtkVHVEV2RoSWdhT0FJSUpvWmFVS2tLZlRaaVloY3l3NmdndHdKNFFKdTdYSF8wVC01Q2FHZHlUNldaMnJRMWgxbU9sWFlpU3NzdXF5ZUR1TlBPdHVub3BNX1dMY0xrS0pXR2VsR2M5b0ljTXdFTjQ3MXN0Nm1EemhvLS1ucjNaWGc3eW9mdGJSQ3hMVHdlaWNNMmJOX1dIeWM?oc=5",
-        "domain": "kplc7news",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260917T221200Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "FEMA Was a Lifeline After Hurricane Helene Decimated What Was Once Considered a ‘Climate Haven",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNOFJnUkRFUXhGV1RNQ2o2SDh0bS1NNVJaX3d4bHJOUjJLUTZMQzUzZktJbzlrU0tHNENmQnRUVFZCelNzNHZwallPS0F3QURGSjkwVEtDMTdXNTdhU0NxclRTQVlQemlXUkd1WXhDdHhoZXRuUjZva0htcjRnd0pkYnVHTU16NEZ6aEVOTVpWekQwY24wRFp3bDkydXpoZXFWX0FsZXN0QkZsblhjRFJMaTBuY2tFNzF4T0RWcnlKX2hndVB2TWdudTRQX2h5Qndx?oc=5",
-        "domain": "centerforamericanprogress",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260917T150730Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Extreme Drought Now In Maine",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9kTTlzaW1HNGEzYnlORVN5OHU2dVd6LTdzMTRCLVJUY1IyU3pxOE9mOTZsUEUzd196QWFfUjUwdmttMl80cU5mc2d5RVFuZ2JmX2h3Ujh2cDIyU0xOa1o5OERiTHRaTGxYaV9iXzlmZl9qWmk2?oc=5",
-        "domain": "wmtw",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260918T014600Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Elevating Collaboration and Innovation at Climate Week NYC",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNN2VRcS1WWWJSRThVMXpYTnoza292bjNtT1ZZS3Z0LWhQbnoxTEkyQTREcGFDZWlSUTVWOTZJeVBUS3ZKZDNuTlpTLXpEd3FjRnVHd0ZMaFdwMlkzb0dybDItM0RnRW81RDhVQ09YMWFoUzc0OXdpTHk3RkkzdVRKRGtiUHFCNnkwTVZJRDc5M2tTaGpsdTR2ZFM2OA?oc=5",
-        "domain": "dartmouth",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260917T165701Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Tennessee Department of Agriculture Names Deputy Commissioner",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQS1h4MDZMUmJ3cUtsa3FvTUhVOHJLNGZJSkpYSnViUnltdnM1a1JjbS1ldEF6dFpMTXpPWnQ5NW1WYlh5blBVVUlRSEpWOEoxTlhVdmZxTzRYSXMyTm84dVNJWjNQMG45cjlJLUEtbU0xT2VzRmlYM3Z4SVhtanAtSkJvVkNERVIzbDdSaDY4cFVqS05YdWREQjU2dl9XN3lCR0VNSlF3eDRxV3oyLUFlN1RB?oc=5",
-        "domain": "tn.gov",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260917T153531Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Climate crisis probably weakened glacier that caused devastating Nepal-Tibet floods, first study finds",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOM014d0xNV2Q2SU1IQ0FGWkhZc0g2Qkg5VnltdkpYdlcyT0dDN0pTcmVLWlR4aG9fc1JHb2Nsbi1EeXR6enREc05UZmxHUHVQbUd0NDF2VEpRYkxXcGd4N21kQUhHZlBPZm5yRmF1aEVockZBWEEtbENDOUQ2bV9lYkJ2SlZIakY2SmpkTXFJQ3R5em1RNVJZcXhXTWZpUmxpYUYzbA?oc=5",
-        "domain": "theguardian",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260917T120100Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Why Germany Is Building an Ark for U.S. Climate Data",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5EWjN6ek5XUWJzMU9Kb0RoaXR6OTk2UzJRSDRSWHM3X0dpZm9PcnlJOFVDYXQ0U0JRMi1JY3hYSHlVbHA5aXp1UmE1eVVFZjFpMFVWR3FlTld0anMxbFdRU0llZ0I?oc=5",
-        "domain": "yalee360",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260917T080348Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Midcoast Maine slips back into extreme drought after dry summer",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qTklPQTAzOUx6RDFfTTBKR01fUTlJVFVqWEF6VGIwM1BWMGFaaFFNazlzdHhuSE1oclJ2WEcydnoxenJFNXprNThzZjNzWG5NMHZiREdBTUEyZw?oc=5",
-        "domain": "wgme",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260917T171856Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Drought Monitor Update — Thursday September 17, 2026",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMng2QXNMQ0l6V1FReC1oNmM2bURjdEh3VHhRbkFSWTFtM01ObXBnZWxGcHBnajFmcVZKZU9ZcGdUVVRzYThfQ1JOLTVXSjBTSEtsd1lNS2xYdllzM1M4NDVRNWNZSmJsTFNPaWE0QzhRUDRoRE0tR0F3V3VuSTlWWDlB?oc=5",
-        "domain": "wataugaonline.com",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260917T201922Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Oklahoma’s Current Drought Is Bad, but Residents Lived Through Worse, Climatologist Says",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQd09JVWdlYkFjaWZibUJWeEZNdzhZS1hlQ0JpZ2FETlpXTzI0NE9vUVJMejZCbkM5ZFdyMkJLVGtLa0IxU3RBTVhLV3d6el9OSVlaaHFDaFM4c3RRemx6TEUzUHFiQThKZ3lGM19zVTZFUlJ4QXJuTW9XaUtXRExua3BiT1N6enNxSTZWeVBEQU81RWFENFlHUHZRR1lIcFV6c3o4SldJSmQ2dkJDeWZEZzlFbUUzWGZwSGl4LU42dEdUVlo3b2RySi14V1I?oc=5",
-        "domain": "successfulfarming",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260917T182155Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Rethinking the Future of Food Security at Climate Week NYC",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNjJqcmVLdUVYWUFoVzFveEhLNFAxMlVyRy1QWEpfLXZiVlNHWTNjWGRnQkpWa3Q1OFFGdjVOaUxkNC1MZDBOVF9PUWZFektGb1dQdE50djNhYy1CelJCeWR2UllPV1ZseDVXQ25najFwME9lQWFWSWtzQ0JPMEZXeU55RzhlMEloXzNYWk1tMk5UYWZkRFNFeg?oc=5",
-        "domain": "foodtank",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260917T153939Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Thursday’s drought monitor displays worsening conditions across the Brazos Valley",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMXQyUE53Z2lqQ3VpbjVLVGRsY3dYOFRQZk9CdC03aUVQdUFEcEVSSnN2S3h3VXljVzdyUHNZODdjUGRuY3ZocGxIMlpWOVFKSGpDVFhPNjRGZ1NnR2dNUmlHT2ZzMkVnWXlxejRCV3NkcDEzVjRmYW1Ncks0MUJJQUtxYXJQZVp4WTg3dTc5N0FBXzBtYlRkTW1XNzdjNHFUOEM2MzdTeVl1LUt5eEHSAcIBQVVfeXFMTlBuS2I5N1JPaTR6ZHBBMVhHUEMxQUppbFB5YjQ3MURyaDJMZEhKbHM4eXFvMkdTV3JfWTF2MHZpUFVycUZNc0t6allXR213WU93M2k5WDVNR3FIUzg4N2RYbV9WLXJaQ3FYdmFiY3c1cXZfd3ljU3Y1MjlNcGUyZzNZd1EtZ2NkWm94ZUVxX2JMR0RQR0J5dG1DdGxqTzVhdGdTRkdRSlVXT0pGRVQ5bGhBTjZlQ2ZkR3FnRVkwaW5ReVE?oc=5",
-        "domain": "kbtxnews3",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260917T173200Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Drought conditions worsen across the Southeast",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZUxCX3lhZDVWZE5tOWNWdHZmSk9PQnhCdWR6MG9PTjIyU1VRamlVeDI0eXM2dFRXZlJGYmE0WlVTOWdQTEZ2V0NIcDBDQy1vNEt3azVaYTZLRzRsMFN0VVA2Qk5nSzNRck9uWFpKZDFuT1NTVmo4ZmJ2ZERBWU5CSEZFbF9KMDJPeGp1T1lKNDFMY3l4UXBzM3VJN09TMDV4NW1jSG03VFN2dw?oc=5",
-        "domain": "southcarolinapublicradio",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260917T164000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Texas A&M AgriLife finds widespread drought is impacting crop yield in Texas",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdHBXbV9sRmpWOFlwOUM2bGZadWZzVVZIRVNRd3c3RHRYSFpXdG9MV21pZVNTOWRkNkE4QmFPaUlqODBNdERHMGV3UVFGd2N2dTJISlJ2VkUxWWU3MWF4aWNkbmVQZ0YzUnRGaXQ1RkwweWxNcFc3VkRtblVXVk92UlFlVllqamgyQkVTeGpIb1ptYU1sNG1nVHNidXRMbGtD0gGmAUFVX3lxTE13TmIzYWpBMUdiUTl5ZHlYNXBKb0pvdnhuaVVZMzV0V2FyUGsweFY0TmRfcWJTVFU0T21kdUFhSVc1Ukc3TFZmN0ppd0Vudkp5RHZnaE82YnJXTlhqWTRrQnlrNjZDYXZLUk5XZkU2LUFGTkw3ZFQ1MXhqanBVVjdZX2ZUdnQ3SVFCYXpPZWZlYlNRSC0tTzVLNkV0U3Rva29xUTIwUmc?oc=5",
-        "domain": "abc13houston",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260917T215627Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Rain continues to keep drought conditions out of western Massachusetts",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcDZqSm52LTV0RDRwNmk0OWJOUEhKRDl1RG1wRWVCbUFQeTNEb1FWb214ZGVtUjRiQXlnYkdSaGg5TnNncVJIZkVxenZ2VGZMVnE5dzd1aHZFak5FVVdFQV82V2NLbkdFUjBHQWdJRk5XZmVuU0x2RnFVQlpkc1FKMVlPdjV0aDZiblRJSXQ0RWVqQXpYZnRQNTZyMWVBckNkQV9DazU5cDNwcGM3M0Nyb3dMSdIBuAFBVV95cUxPRjU0WHFuNkl5ZWpuUXVFVTRwUk80clFFZzhuQURZa1R0TGFqRWVxY19FN3dsb19lZ2xOUmpUa3FfN3gtdTU2TGlBM2FNRFVWcG1UZ3lwMktwS09raUt2OVk5SXFDaDdUWVZPcEJEZEd5Ym10Y3AzQUNnYTd6RVgwZW1CSEVBWEJWWVRqU0JtVTFmLXFWZkhBVHhFZndsWFN1QW9HU1Z5bzRVQ1BSZEpCd256TjZYcGRq?oc=5",
-        "domain": "wwlp.com",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260917T231448Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "These State Elections Could Reshape Climate and Energy Policy",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaHJtS2pzYWJ0cjk0TFFNZWx2RzdudXpObURVSmpVSVFWbG1rNDZ3US1QLW1CZ0xxY0dNdXQxTHZ1TlFwWHI4QU42WU94Zl85UklCUlQwQkJIcGZOWmd2eUpUNGlhZTdRMFhvZ1l6WkVMSjVNVl9JMFNKR2t0ZXVFaHc3dzFMZ0libXJBOQ?oc=5",
-        "domain": "insideclimatenews",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260917T130000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Extreme rainfall caused by climate change creates uneven risks to farming in China",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rREdBblE5YjBFcmp3UWFiT0xNbDE2ZXY3ME9fUXZfbnFRcDh6X1M2VVZrWGtZRUZuRHdlX2Q5XzF1X0FkLURHOE1LZHpjdjZzd2pMMjJtaG05anhDMmgwdlFTT2dscnpXcXR1UHFqQm1vS2hpWDQ1STUydnp5X0U?oc=5",
-        "domain": "phys.org",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260917T164027Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "“All Roads Lead Through China”: The Clinton Administration, Climate Diplomacy, and China’s Environmental Awakening",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZTZyaHNIX0pacWw3elNpSi05V3VvLUZMVTlpbmt0SW5MUVRYVDF2S2tFSWhyazNTZjAxLW9HUy1fV25YRllkcERJTmFzT2dkemw5VHlndXNxblVSOVM3WENmWl9USDZCWk41Z1RfaFNXbjZGbktMNkgxeDhMaFdvQ1RaQXhVa3RpTFNfVEpWTEFDa2dQRTVWa05GbUlydF9HaFBIWDVvdGdWakNiOXNpWGhKRGxiRXVKdjNRN09n?oc=5",
-        "domain": "nationalsecurityarchive",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260917T120000Z",
         "source": "GoogleNews"
       },
       {
@@ -296,6 +152,231 @@
         "source": "GoogleNews"
       },
       {
+        "title": "Extreme Drought Expands Across Southern Missouri as Dry Conditions Grip the Ozarks",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdEludm9EcmY0RnpfRTRlMkpxMG9xMmcwUFp3WmdsX1UxT3R0Q09Ud3VzY1dkSzZ3MWJraV9WR1JfeWh5Uk9oLXZTWHp3UVRxeWhtdXpFVkR0YWhUcjlweHRocTdnNGd5TGd0ZmRjZEN5c1JYVlNsVll1czN6a055V2JEeEZ4MFZBUTctMnlnemdidDkxUU4wZ2ZGaVd4ZEFzY2pQdU5Oa2hJXzNqZ1JyMXZROW5mZUJtQ2ZkMm1kR3BSMS1r?oc=5",
+        "domain": "legends1063.fm",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260918T105230Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Global ocean breaks records with 100 days of heat as El Niño adds new threat",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQT3NJQl8wYTFnM1Q5SnpTa3hBc1BPMHk0Sms3MXhjbXJCYmxYVEc5eUVTRXJFVnduTUV5RTM2dWt4V1kxRkp0b3dILWd1UzRNUElCZVd0ODNzVmFpQTRZck9DdmNiR2J0TUtNNDh5amZUT0pPVU5ETGpIYkJ5aEdrY3g1VlZsQ0NmVDdqUHRya1gyREExRVdkZmQ2eXdDeHJiNXdESDRXbXNfa29sWFh3bNIBtgFBVV95cUxQaXZlTmVaLWR3R0x6Z2tMejQ0X0wzS3R0b2Voa2dnUXlrSnBxRVhzYjFVcExtekJLdTZFZjViNlRFNVRDMkV2VGh0WDd5bWdlNS16TWZZYUgtMjRjWDdFaVJUYWZ2ZkRmOEtPZ19WeDFJVW1tMnJQQklTTFlKOEt2T2x5S2x1LUR0N2ZUc3pndlJWaVlEX0F3Wnp2bFYtWEl6dnFZWUc2VmJSSWxEWkgxSmRXd2Qtdw?oc=5",
+        "domain": "mongabay",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260918T104833Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Al Gore Is Still Sounding the Alarm About Climate Change",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1CeDlERWJrcmh6ZlppT3lqMGozN3hwOENqcTVhLWxkNnM1QWotRi0zNE5uQU5LUHd5MGhsZW1lWDZzV2FTWTkwdkpCRllWU3lQakE4UUt2cWR3QkdoMzVWTklVWUxRN0VEYVJlaXFzcVBXeGFieEJUN05Kdw?oc=5",
+        "domain": "thenewyorktimes",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260918T090321Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Ranchers discuss future of agriculture in the RFV",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUm14ZUoydXNrTjd6Zl9VS1FnZkZvWUk1TURkN3llNE1KRmZ2NXhhbnM3U0sxUzk0cmxwN1psTzQwS0RoX0FwUE9vYUxMTW1JRGFpREw5bFVfaEh0UXFxcWJ0X2dWdkhVb3YtQ09KNG45MkREckVnOEZiNWhQWXhMS0VIMV9sajRYWmp5akY0VjVfa1FpenFiQy1B?oc=5",
+        "domain": "aspendailynews",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260918T090436Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "August drought continues in areas of northern and western Iowa",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYnJmMklhWG5RdWdFcEF4bHhpOGNzbWlGTmoxRDFqZUxSMXVRaTZPWTZwbWgwSlhsTFFjQWNaanVaRkFJQVVDN1M0Q1ByLVYzczVIR1NJWlZwZ1BKVU5rOFY3bVF0NllGMG5razFKbVNMTzBnMmk3cVpBZnZJd0NsdGc5LV9VM2tSUDBBQ1FlaF8xdUZuYkc1bnFyNUlPWFhwbHptQmxqWjlzUHRtaFBSQzJVdFo2ZFpaYkMxSVgxV3JONEE?oc=5",
+        "domain": "northtamatelegraph",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260918T061118Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "For many Pittsburgh residents, wet basements pose health risks",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQjlXS3pmSGhObVhlcm9RbTB0WkpSR01sOG1aNDRSVjZOY1dVY0VCM3QzeENUTjRuRnlRNjlNMjJFTEdwdFQ2Q3lnVU83RWwtc1JJUGlqMGwxcWFvVnFFOUhZZFhrUFFPUWVpbUlmY283UTFibDZqOEdIY3VGSlEtekVDMzAxSlY0QTlGVzBodmJWbkZxbWxST3RObGdZTDJPY21SQ0F2c3Q?oc=5",
+        "domain": "yaleclimateconnections",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260918T105900Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "In hottest summer on record, 2 in 3 Americans say climate change is increasing heat-related illnesses",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaW95Y3VVUnhwSDFnQTZRbWVxU2JuT0I0RFNoS0NCWlBCbVhUeHFTdUo4U0NQVDBNZ2ZRaXRtR3NnbHpYTUtSRmZyb3JJaTNWcGZ0by12ME5QTnJCZkd2UldIZzN3S05ITE5TbW1USHdsYjRuWUpUQXc4QkVsVTBMSmUxWQ?oc=5",
+        "domain": "phys.org",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260918T022002Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Elevating Collaboration and Innovation at Climate Week NYC",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNN2VRcS1WWWJSRThVMXpYTnoza292bjNtT1ZZS3Z0LWhQbnoxTEkyQTREcGFDZWlSUTVWOTZJeVBUS3ZKZDNuTlpTLXpEd3FjRnVHd0ZMaFdwMlkzb0dybDItM0RnRW81RDhVQ09YMWFoUzc0OXdpTHk3RkkzdVRKRGtiUHFCNnkwTVZJRDc5M2tTaGpsdTR2ZFM2OA?oc=5",
+        "domain": "dartmouth",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260917T165701Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Jamaica’s churches have become climate activists",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQm5uYzBsN25obkZvd3I4TWFJU19UZHRWdG9XTU9iZEV2ZmNlVXJqTjRBNmVaems3TWt0QjVGRnYxbGNCbFZsbXJzMzNEbHVKdTBOUkYyYW9CUGxwUndTbUdQbEZSbGNUbFdUbm02ZWNiX1lyel81MzV5Z2xDSm5jMDNHTFBuLTFkQTQ1N1A0UzU2Z19NRUJPT1gzTFhuUQ?oc=5",
+        "domain": "theeconomist",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260917T124501Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Izard County drought emergency strains ranchers",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPM2VPQU5qbmtOWDlzT21WdEJNSGVsaGR1anpYQVBFcUFFVXdoR3FEZm95b0F2RENFalJQb0Vzbk02NnFJaFFudUQzcERMbGY0WHVhSVNPZ0RuNjBuRm5NX1EyNmpObzBsVnpGY1FlTHF5SVE3a0VaY0wwTHlWaDBUbDcxUERrTndo0gGcAUFVX3lxTFB0b3RQRVl2ZUVBUUJ6c0g3RnRiZjE5WDY2TzRaaUVGUG5leVpITlVUeTVBV0wtcTdvZ0lGWXJ0XzllaWEzaE1aM245bWtNSzFPU1JrM190MER6eTZtY2g4WG9SQ0NMOGZFYUtGMWtKUkR5bExXM1FMUzdia3R2R3RJUDRUSWlhaTViYlFuRTBPb3RYYXJJdFgxQlkycA?oc=5",
+        "domain": "k8newsjonesboroarkansas",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260918T003200Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Extreme Drought Now In Maine",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9kTTlzaW1HNGEzYnlORVN5OHU2dVd6LTdzMTRCLVJUY1IyU3pxOE9mOTZsUEUzd196QWFfUjUwdmttMl80cU5mc2d5RVFuZ2JmX2h3Ujh2cDIyU0xOa1o5OERiTHRaTGxYaV9iXzlmZl9qWmk2?oc=5",
+        "domain": "wmtw",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260918T014600Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Texoma’s Drought Worsens with the Latest Drought Monitor Update",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaUFnaWM0eTBOeFBtZXdsdUNtSVFNSUd0NUNaRHBEcVVQSXJJQ3ZXVzBiR05OQlRCN1hzWFBBY2J1T3RBcnVHVXJrRk5RMXZJcjg4VUxlNEd0Rkl0aDllejluN0VhRkI3cUVJVW9Sc3duRkZuYnVMb05FUHFEekxyTF96blhlOVJKdEMtQzFTakl6Q3VSRVhSOS0wUGJxblFnN1VNT0ZIbnM3UGNSSVB6ZW5rUUh0YTBLektyZHd4VndZX3NIVEVSWTJPOHJmcEk?oc=5",
+        "domain": "kten.com",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260917T225800Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Climate Risk Emerges as Power-Plant Design Question",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcXJPM3BtbEZGUUtDZDFKa0tsY1JZWVBmSW5DakptYlRMWXB1WWxxVjBOWFMxZktkX3ROOW5PWDhTalZPV0sxZGVMaXgtSFh2eHp3ZlUtaUxTXzRSNUxvWEZtRXBrMGNyR1dwT0lPU3VGaXBsU3FxOXRZUUYxeU55anVxa3BDZm1HWUpaQ3NOYklsYmdoWE1qYU9sVHVVMVBGU012ZWl3?oc=5",
+        "domain": "industrialinforesources",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260918T090552Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Midcoast Maine slips back into extreme drought after dry summer",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qTklPQTAzOUx6RDFfTTBKR01fUTlJVFVqWEF6VGIwM1BWMGFaaFFNazlzdHhuSE1oclJ2WEcydnoxenJFNXprNThzZjNzWG5NMHZiREdBTUEyZw?oc=5",
+        "domain": "wgme.com",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260917T171856Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Animal agriculture increases chances of climate disasters",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSFU3ejMydEt1RzhXWXo2cF9rclpDT0UwRDZjaVVYOXFJNkFtQ1R1Qy1IckpwUDVaS3IwalM0MzdoTV96bmZQaVJYMEZoYUltSnBBdzhXd1pMbXdjTVN5aXNIaFlyR3dQNlVoT2tEd0IxTjg2RnR2aTFYUGFOYlZ0T25TenFLNUN4azJUZXJn?oc=5",
+        "domain": "thenewsleaders",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260918T064524Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Climate change had major role in triggering Nepal floods, scientists say",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaXo3QVpLWEtaLThwQU9XWWtKYmlQaHQ2SW92T2dpZEJtX2NPUGdLSHZTREtybVItNDE2ZXViSUxRZ3RrRWxVUi13Y2dYSG5qTU1FY0tlZUZKbUEzTWo2Ykl3R0ZHaUo3dUVfNFo5R042eF9Zem02M2hDT0VMakwzOFFkLVViRUQ0eEM3VjU1NGtvTWJqTkZWVFdFTnEwMHVzZlZRSUUtRHAxdmJkNHZMWnN30gG3AUFVX3lxTE9qQ2x0d3Q4Y0NLbHJ1dC10b191SlFOTUk1QWJuaVZncloyeTVnYVAwZTJaRFVBa3ZmaGltVE9uODJxN0k0dFVZdzdYWE9sQWcxV0F6Z0xCZEdKWFZNdjlLTDNBT090eXphVzhpQzFJRGxqT1VFS2w4ay1MT3J5WVBCSU9oZ3lNTC03a3d3UE5QMWlhaXctb2RlR1RQbWRvSTFRQWR2VlZBdU53anRmMmNFXzlSMGk2OA?oc=5",
+        "domain": "aljazeera",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260917T112315Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "New monitor shows increased drought conditions across Tennessee",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUGFmSzZIWTVCQU1FTjh6TEw2NkdWVU1GSDRsbEJhZ3dBTnZRa3YzR3AyNURrbEp3WDNoWlhuRTlabEkyNm9TMFpVMnVSNmVlZmJvbkFBZzlBbERLQ1ZoNWJHS0p1NDNhWnJZeFhKOW9GbVlMbjhRdXZGZFFxOE5qdnZOUWZyUnFIRWU5UUdrVEtFRjlrOEIxS21CT1ZJWGJwcXM0MnBWSEp4ekhSQm5CMk9BQVdvZGM3Tktmc245aFpfbHlKZnlfenNSdkpfbTZtQzFObFgyRQ?oc=5",
+        "domain": "wbir.com",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260917T221000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "New Analysis Details Alarming Climate Impacts of Unfettered AI Data Center Buildout",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZ2REVUE3R2M5T3V0LXZST1F2eTc5TzAwSmMwYTdrVmJCNmpueDdZUjVzNzBlRGFMeFY0U1M0djJCOElVaEJRemdJMzBBZmJHQXE4TnBfSjhPdVlMaWI5T2t1RVh2ZGtfLXlZU2ZWbnQ4NjgxXy1meTVQUkFqR3lMMXFBSHV4RHVPTGFlWXBRT3Rtdk9QbUtlVG0zay1vWkI0eFlpa2hXX01KV2d3VTFRcVhLcDBVVWpRaXRHN2RWaUFaVTZwelZ5cg?oc=5",
+        "domain": "foodwaterwatch",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260918T014729Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Record heat, extreme drought continues across North Texas",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRGoxMXduTkdhUHZoOGp6b0J2d1Jqb3lKTWNncy1sa3lKdERDU1duWXR4S01FbGg3MkwtaXg2Um1nM0E1aEl6SF9Kbk5KX0ZESDlHdFluN2R5ZzB2YmR0ekNnbHhHeG1KN1hCOUZTcGFyMTYzSE80d21adEtZY21UaVJHNU9vQU1ERHJMRFVMbkNyeDUyTVgtSA?oc=5",
+        "domain": "cbsnews",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260918T032900Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "AI, climate and conflicts top Guterres’s agenda ahead of General Assembly",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5OcTZpOGpHeDFSM01DWlAzaHlWWWtzS3dQTEtyWXlIVjFVU2J5N1dtSFpjdWNDeUw3M1d1NHVDVkFJZllPTUh0V29wTVFVR0JuRzRKQlc2QQ?oc=5",
+        "domain": "unnews",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260916T153207Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "A Melting Glacier Set Tenzin Seldon’s Course. Now She Runs A $63 Million Climate Fund",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTzk3RzZPRWNxdkNVeks3Ri1yS2Rvc3dyejBKemhTcmlPX0Z5cXZNRER6azVqX290bFZ6dDdaSTRNSzJpRFAzWGlBUlVMUWczd1B4aW9RbXlEaVlqQldmMFZabGZGYWEyTUxoUm04X3E0d2ZjWHhaOG5IWGlVazFkZ3Vqd3h0RjZ1bUFQM0ZQSHg5bmI3LTVGWmNXODVvcHc1S0lLbUNEeXNwamx1R0d4bG1nMkxwY3FnUEpjWEtpSWZpcUxiV3hWQWw3WHY2dw?oc=5",
+        "domain": "forbes",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260918T104500Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Climate Change, Care, and Women-Led Businesses: The Missing Link in Climate Resilience",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kejE3SEFuR3pQdzNtU1VHbGNGT3NEOElqdW1VaWNmd0d4SnlvYmlmX09ITU82RDJveTljSDhoMUJna0otTkNXZDU5eUpGU0JsVUpMeDdhLWRza28wc1JEcVNQQUxHbDFrMXNDR25XMXV4WC1DbVlYeGxLbHZHQkk?oc=5",
+        "domain": "businessfightspoverty",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260918T091813Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Why Germany Is Building an Ark for U.S. Climate Data",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5EWjN6ek5XUWJzMU9Kb0RoaXR6OTk2UzJRSDRSWHM3X0dpZm9PcnlJOFVDYXQ0U0JRMi1JY3hYSHlVbHA5aXp1UmE1eVVFZjFpMFVWR3FlTld0anMxbFdRU0llZ0I?oc=5",
+        "domain": "yalee360",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260917T080348Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Editorial: Dangerous denialism on climate change",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWE0zaEJaMF9naXNiMWtWb2ZKY1dYX0xUbVhPekowaEx4eUxfYllqczhpMXBMY2RtMFloaWd1eFpqS3ZxZlhUR2ZoaDk1emhuck5xblY3N2xSdTRMQXc2eFJjM0tTRW5yNEU2dEtodXRxZE1pNTdJQXp1UWhkYmtOa2JJdlpkX2c4ZWlzaHRLVGsycjNhOE5YV1Jzd1N3QnRhcGc?oc=5",
+        "domain": "timesunion.com",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260918T083730Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "How the Iran war could affect the fight against climate change",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNSVdCN1h3TUoyR0lOZlBRYW1ZM1BkamVVLWRudmN6a29oWjJKSVdFOVUtR09mZHFpdWVNbWtlbW1FVUZZTERuaXY3c1Y1MF9na01hX0Y1cjFZVktWdkVnbkZIekExS19xUmJ4VEdDUnAtTmdoajRIYkxmejBqSWdIOUlPSDczUWdiUF9RMlA1R2QzOTBRUWpCeWRodEVKbzhFeTJhVWt2REw5MjQ3eTBvY0llRXJxcTFJZmJJa1hwMF9zOUdLOXllcEtyQV9CUGppckRLVWhaaTFNeXR0RjU4Z1VObjkzZ3Nqb0Y1N3hrdw?oc=5",
+        "domain": "wcnc",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260918T092300Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "Drought Monitor shows dry and drought conditions in 15% of Iowa",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTXRzMlVRMFd4SXFGcTBFNUphSmZtMFhIN3dELTdqTEpZaFlpbHhkbV9qTmRJQTR0QkFUenpCMGRaVXRkbjk1YkpNZ0wzbFlpZ2xxU01ZWTZKX1FXM2RVV3FWRkl5S0dGRmJIanJhM2ZBNDZ5RWRUQlpmanVqazlENnBRNjVKcndIeW1hNjNMd2h5d0pTckxyeTBfTUFqS3hUSHYw?oc=5",
         "domain": "stormlakeradio",
@@ -305,48 +386,21 @@
         "source": "GoogleNews"
       },
       {
-        "title": "St. Mary's Glacier among those in Colorado disappearing during drought",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSmJxc0FINm9XcmNHZHhCbkVZTFh1UDNXWlRZSWpjZ3JYZUtXRGRDbEZzOUxLOHYwdzhnbXc2NHl6NWVlMnVuQ0ZJWGJyUlpqQnNMU3dLQnFDLXpuQjZsMHdVUURZV05yS3VIRmt2Vjh1N1Vqb3FlYUs1NXhPNWJoZUd2bnROWV9sdDR1TlVR?oc=5",
-        "domain": "cbsnews.com",
+        "title": "Thursday’s drought monitor displays worsening conditions across the Brazos Valley",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMXQyUE53Z2lqQ3VpbjVLVGRsY3dYOFRQZk9CdC03aUVQdUFEcEVSSnN2S3h3VXljVzdyUHNZODdjUGRuY3ZocGxIMlpWOVFKSGpDVFhPNjRGZ1NnR2dNUmlHT2ZzMkVnWXlxejRCV3NkcDEzVjRmYW1Ncks0MUJJQUtxYXJQZVp4WTg3dTc5N0FBXzBtYlRkTW1XNzdjNHFUOEM2MzdTeVl1LUt5eEHSAcIBQVVfeXFMTlBuS2I5N1JPaTR6ZHBBMVhHUEMxQUppbFB5YjQ3MURyaDJMZEhKbHM4eXFvMkdTV3JfWTF2MHZpUFVycUZNc0t6allXR213WU93M2k5WDVNR3FIUzg4N2RYbV9WLXJaQ3FYdmFiY3c1cXZfd3ljU3Y1MjlNcGUyZzNZd1EtZ2NkWm94ZUVxX2JMR0RQR0J5dG1DdGxqTzVhdGdTRkdRSlVXT0pGRVQ5bGhBTjZlQ2ZkR3FnRVkwaW5ReVE?oc=5",
+        "domain": "kbtxnews3",
         "language": "",
         "tone": 0,
-        "seendate": "20260918T013500Z",
+        "seendate": "20260917T173200Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Most severe tier of drought expands in Colorado as recreation impacts continue",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdUU5bDJ4Vmw0MWx3VVFkRGFMSENKR1dXSHpHekZiSUM3Sko2R281dW9mN2M1UjBSSFN3RnEzNWh0VC00bk1vb2pHS0Q3Mk9aa2lUZmlNUjNiMXM0WEFDWlp4cE85b25Oc3hrQk96UF9nQ1BfdzIzd2pZTVVUdFBXcmhKejNyMkh0Vmx1ak1YRWJyaDc4OExhZ2p3V3E0Y09QRGhwQzZoNEtlM1hUTTkya2tLc0h1Q2xwRGE2NDZDZEhtX21wVUtGMjZSVFRhYUJTOHFz?oc=5",
-        "domain": "denvergazette",
+        "title": "Framing the climate science debate as a binary battle isn’t just wrong – it’s dangerous",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbEdHZEpmOVZaUWhQSFF2Y3RTeUlUM0dXMFRDYXlEU3VtVGhXOU5jTV80NTJuSEh4NU44bi1yMnR3cXNNZkh3Zk1JSlpJWmNITGFOU2F2MGx1a3JHdDFjNUJfV1FEeWJQY2IxSTdzZ1VsSkw5WlR3Wnhfb3R3VHNBVDY1VEpUTjlvdUNIc2U4ZmhyRlUzMTctb05OempMN2Rza1IxY3gzRksyTlVoV2I2eXpJR3ZRTF8xdUxwMTdydmZRVVRuSWpsYw?oc=5",
+        "domain": "climatehomenews",
         "language": "",
         "tone": 0,
-        "seendate": "20260917T205136Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Izard County drought emergency strains ranchers",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZmpXM1czaWt0OW84R1JaenV3SWlLWTl4MllRRFY3NXlTQnFWWGltbi1yRzZHX19IMlhRX2hLWkNpRHlGQnVDNHROTDJmY1BNLXpfa3NfX2ZhVU11QmxMbzYxNU5WX2VScUpqTEJWUnlPTV9DTTNqUkFBS05NNG0yWDVfZ3EwNG0zUE4wSWhhTlI?oc=5",
-        "domain": "k8newsjonesboroarkansas",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260917T235352Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Beaver reintroduction improves peatland water storage and drought resilience",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdHIwN1M4ZktyQUxjZ1ZrQ24wcnl6bHdiRnNOaWxXYUVoMnpGUm5USHNmWGZNX01aLUlCbnhwMTRwVEJnSm0tTGpJRk5hRFlqUDdWSEg1UTBfbUhLWGhNUEtrZDk5VG1BNUhidjBCUmxicDk2RTVncmh5VllaaW10VzY3UDY3NFl2?oc=5",
-        "domain": "phys.org",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260917T142001Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Climate change likely to have helped trigger Nepal glacier collapse, scientists say",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUEpMaTJFMGF2QmNhQ3RjLW9zRDhTSjZwQU4zc1BsR2tMeE1zSHlVRUtDRnJIOFBqbldnSWhsLU9qWE85SFllWXFtOE1iSDJCTGx4ajFoVldQS2RvdThnZjRTVXhGTGJWeGc4Ul9obi1YQldhOUZxN1JjMGJBOHRpNGNUbVN4UFE1S21ma3BaTlpjbmRpeXhjX1NWdVFoN29UZkFBcTZ0a2I2RUp0Zzc2NDRqRnZOS1VBbjlBUVl3M08tRGtOa1hDSEt5OGw2WmM?oc=5",
-        "domain": "reuters",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260917T005000Z",
+        "seendate": "20260918T034321Z",
         "source": "GoogleNews"
       },
       {
@@ -359,129 +413,75 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Drought relief expands across KELOLAND",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNb1lFdEtwd3VmV3dJdEkyb2Z4ellaRnBRX3BXajFIRTdnR25OMWZxdzhzcS1zNnlFc1kzYnR2UHVKa1NYOTlvUlhEcW9pREpVS0xvWThhdlFxTnJ3eUlRQXA2UjRobWdWWlJOWkhfYnlxbTRCZ2dtTHVwUG40ekFUWFdwSWIybWPSAYwBQVVfeXFMTkVlWDFGanR0MDV4QS1tT3k4Nkk1ZGVBSWVSNjZfYk9CS0RaWVQ4UEdsRVRuOGpUS3h4bEQtb09HNzZzSjJoSGd3ODRnWnRoUW80OFAtdkVORTlRdFF1R1o5QWdPbE1PWkRibk04UzVfWXNZUjY5WndqUGtIQnRFSDZ6QUhMbUpfcERQdnE?oc=5",
-        "domain": "keloland.com",
+        "title": "Texas A&M AgriLife finds widespread drought is impacting crop yield in Texas",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdHBXbV9sRmpWOFlwOUM2bGZadWZzVVZIRVNRd3c3RHRYSFpXdG9MV21pZVNTOWRkNkE4QmFPaUlqODBNdERHMGV3UVFGd2N2dTJISlJ2VkUxWWU3MWF4aWNkbmVQZ0YzUnRGaXQ1RkwweWxNcFc3VkRtblVXVk92UlFlVllqamgyQkVTeGpIb1ptYU1sNG1nVHNidXRMbGtD0gGmAUFVX3lxTE13TmIzYWpBMUdiUTl5ZHlYNXBKb0pvdnhuaVVZMzV0V2FyUGsweFY0TmRfcWJTVFU0T21kdUFhSVc1Ukc3TFZmN0ppd0Vudkp5RHZnaE82YnJXTlhqWTRrQnlrNjZDYXZLUk5XZkU2LUFGTkw3ZFQ1MXhqanBVVjdZX2ZUdnQ3SVFCYXpPZWZlYlNRSC0tTzVLNkV0U3Rva29xUTIwUmc?oc=5",
+        "domain": "abc13houston",
         "language": "",
         "tone": 0,
-        "seendate": "20260917T232943Z",
+        "seendate": "20260917T215627Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Texoma’s Drought Worsens with the Latest Drought Monitor Update",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaUFnaWM0eTBOeFBtZXdsdUNtSVFNSUd0NUNaRHBEcVVQSXJJQ3ZXVzBiR05OQlRCN1hzWFBBY2J1T3RBcnVHVXJrRk5RMXZJcjg4VUxlNEd0Rkl0aDllejluN0VhRkI3cUVJVW9Sc3duRkZuYnVMb05FUHFEekxyTF96blhlOVJKdEMtQzFTakl6Q3VSRVhSOS0wUGJxblFnN1VNT0ZIbnM3UGNSSVB6ZW5rUUh0YTBLektyZHd4VndZX3NIVEVSWTJPOHJmcEk?oc=5",
-        "domain": "kten",
+        "title": "Cornell professor gives talk on intersection of constitutional law and climate change",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOakJMNXFnWG9XNjZLY05sdmdWbXVGT09uQS11QkZJMEYwWnNSMG1iMk9fSHR2WFNzRFZLQnQ3STdkMHdZRjlOWWJmMmJpcC1WQjBDbDJHVlhSN1BLbnZQTWRKS3ZNMkNIU3FjS0VKVkhILU1Fc2lyMEZSa1hoNXFvODZWR1RwVlp4Uml5bmFLZEU4NG9IUTBFbDJEcnRfMVU0UlFSQ2FJRFlKV21Cd2xxb3hzY3FGSWlrbE83LQ?oc=5",
+        "domain": "theithacan",
         "language": "",
         "tone": 0,
-        "seendate": "20260917T225800Z",
+        "seendate": "20260918T015426Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Senate Agriculture Committee advances farm bill amid partisan dispute",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRDFVYUdEZk45aHVnbXNrTkpYMW4zYkNva1pkUGZjUERzNHk4UFlOdUF3MlhHb2s4c2RMazN6MXJkTm92cnZSdGZhbmkwcnA4Z2JqZ05sU0hQZ3VYVG1ZcTJyaGVOM3pQTm5DTWt4ZTVVRFdTTHlzQTNvQWkzYnhaVG1mZ2ZVU09BNmNDek05ZjROaEdIa0RoWHFpbi1yS3JwempRM0JvVVZnc3R0ckIybmFn?oc=5",
-        "domain": "valleynewslive",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260917T193400Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "U.S. House advances California climate recissions",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWmo4RllfZkcyc01KMkVuQ0xKWWdySkZhWml2ZllVZGktbVJYdW5qdVllUFBtV3BDNThaYm1GZHYtS1pjRHFUV0loZkxZOUZtTFljVDB3V0pvcEVzUDJpQTJTQk9tWTJuY2tQOTktWEhiNDhNWnYwN0FMaXlSX1ZsYnlNdFNOVHpKNEhpZjg5V0hweE1t0gGaAUFVX3lxTE1oLXNtN24zNzBiTGpRUk1BbmlrTUItWThFejhwWEVQbTFOa3RnT1BJcjE4Z1lNaE03Y21KWTNWdDFNamdnX1dkQlN3ZkRXUkdOT3dMT1VSS0N5VXo3OFZHOEpXRGJndklSLWZQY2xHOGU1WWdUS0l6YjBOdGNOTi1GLWRocTJaN0dPU3ZXR1NTZDFiMFU4b2N4YkE?oc=5",
-        "domain": "thecentersquare",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260917T161600Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Climate change is making it easier for invasive species to succeed",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9sbDBvcUpNVEdqd2gwMmRnY1lWZ0RUWmsxVFZlSHRKVVVDNGRRa0FiUXhVbDRJbEpUT0Vja29MN19mSU1hX29tU3c1U3NFSTZvQWZQUjJUbThIUU0wVjRRYjRfRW9zQzVNTzJTMXRERGROMG9HT2htb2NyWC16V2s?oc=5",
-        "domain": "phys.org",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260917T162027Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "El Niño and global heating pushes water vapour in Earth’s atmosphere to record levels in August",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNcVJtaTF4aXNjejh0ZHVfUHlVTE90am9VdTFhbXdBeG9wQThBYmhZUkl5ei1LT3NkNjZ6b2ZFbHlqOHdTZEUzT1RBazVtRVF1dHBMT3lScmdFTDJWc19mYjNYaE5FS3A3TV9LbVhNeE5SZWM0UjZwUnlWZlA5Y3JBUHYtR3NmUXlTWDhEM3RkeHZPTmFCR19adVRqbGlVOTR3Z3FaeU51M3BYZ0JpOUl4MFpiV1R1b0hlWXhpeFVBUk5sNzU1V1V3WHRNV0s0OURuNDQ1ZU92Vk1yZUczYWZ1R1hubGdQcUx4?oc=5",
+        "title": "Climate crisis probably weakened glacier that caused devastating Nepal-Tibet floods, first study finds",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOM014d0xNV2Q2SU1IQ0FGWkhZc0g2Qkg5VnltdkpYdlcyT0dDN0pTcmVLWlR4aG9fc1JHb2Nsbi1EeXR6enREc05UZmxHUHVQbUd0NDF2VEpRYkxXcGd4N21kQUhHZlBPZm5yRmF1aEVockZBWEEtbENDOUQ2bV9lYkJ2SlZIakY2SmpkTXFJQ3R5em1RNVJZcXhXTWZpUmxpYUYzbA?oc=5",
         "domain": "theguardian",
         "language": "",
         "tone": 0,
-        "seendate": "20260917T231300Z",
+        "seendate": "20260917T120100Z",
         "source": "GoogleNews"
       },
       {
-        "title": "In Hottest Summer on Record, 2 in 3 Americans Say Climate Change Is Increasing Heat-Related Illnesses",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPYkpwcWhaRjVSWXhUX283dUVnOThaMFJXRUJWeXl6NzhzaFJsR3BsdFhjYzlpd1pFNV96QWVMdWxld2VjQVhfX0J1c2U1a1JUeDVzUFVsZlR3bG9ibFlrSGY0cVdFQzJJdmc4X2hyQjRhT0gtZmRDdjRVdENNYk4yb1ZybFI2SGRrc25lamp4aDEyMHhCd3gtZ3pJM2VCZzVwWjEzQ0VFc0NDelczdURLQkNtWDNySEZZOTJRcXBBSXpTQUMxMV91aW9YcEd6OUlrTFc0TlNHb1dlZzFpMGc?oc=5",
-        "domain": "annenbergpublicpolicycenter",
+        "title": "Rain continues to keep drought conditions out of western Massachusetts",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcDZqSm52LTV0RDRwNmk0OWJOUEhKRDl1RG1wRWVCbUFQeTNEb1FWb214ZGVtUjRiQXlnYkdSaGg5TnNncVJIZkVxenZ2VGZMVnE5dzd1aHZFak5FVVdFQV82V2NLbkdFUjBHQWdJRk5XZmVuU0x2RnFVQlpkc1FKMVlPdjV0aDZiblRJSXQ0RWVqQXpYZnRQNTZyMWVBckNkQV9DazU5cDNwcGM3M0Nyb3dMSdIBuAFBVV95cUxPRjU0WHFuNkl5ZWpuUXVFVTRwUk80clFFZzhuQURZa1R0TGFqRWVxY19FN3dsb19lZ2xOUmpUa3FfN3gtdTU2TGlBM2FNRFVWcG1UZ3lwMktwS09raUt2OVk5SXFDaDdUWVZPcEJEZEd5Ym10Y3AzQUNnYTd6RVgwZW1CSEVBWEJWWVRqU0JtVTFmLXFWZkhBVHhFZndsWFN1QW9HU1Z5bzRVQ1BSZEpCd256TjZYcGRq?oc=5",
+        "domain": "wwlp",
         "language": "",
         "tone": 0,
-        "seendate": "20260917T172854Z",
+        "seendate": "20260917T231448Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Agriculture and community on display for more than 150 years at the Tunbridge World’s Fair",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTFdYcGswTnQzTWM3bXA1OGxiSUtsNVk1Y2s0Znl1ZktXQW9GS1Y5MG50X3c0ajlxUWhmT2VjMEJrdmYzX3NaV1lOUVpKY18yOTM3cmE0RTRRU0E5aTc0M0dqeFdVbmZSRUxFczJTazZneUN6ZnczX3JfM2c1ajhfTWRFUHRQZkw3ZDZ4SHNTX09HLUVCbGppUmRZVWxOMldsMkZ3NVFCeWZlSVZyX0NYWDdNWW03QjFqamx6eQ?oc=5",
-        "domain": "valleynews",
+        "title": "The Earthshot Prize Is Embracing the Idea of Positive Tipping Points",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeVNtdF9LdmhVZUhGekgzdFdZN3RrcmRsbG4zd1pXVk9hTXg1aXpDLTBWVlhrTDBVYlFWeDVoTFZWcFlhQXQxYjVzbFFEby1GSmYydERYal9LX3VEbXJQb2tvZHBpSTVTeEhrbXJIcVFmMzJ5VlN4czBhdTZCVzk2b0RYY05PSnZwT2c?oc=5",
+        "domain": "timemagazine",
         "language": "",
         "tone": 0,
-        "seendate": "20260917T180722Z",
+        "seendate": "20260918T100004Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Severe drought returns to central North Carolina",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPR25hVWU3enZWalhVcVE5ZlRkeTQ4Mlk4YTFfMXJ6cTVtek5uS2Rwakk0VG1pLVNWTnR4d2g3UGFnVFZTT3J0VDhyekhmZGJ2amNUV0V3dWdqNU5JVlVMWlZodXJmcld2WTVWRlRJd0NQZWFfU1cxbzZHeDlyQ0hZZHllMXZUbzd0WE5JQUFBUFlZdDJ1RU52RHg1VdIBoAFBVV95cUxQN0ltV0dDMm9kTkk2dFZsb0NkTE0wLUF0bk1kdGRMb0NESk9hNmFFdmtBWnpwZVNidEJNM0NjcEoyXzVIQzNtRlJheWZwdXd3Y3J6SG1GYVBuTnpLRk9uNVk2aUFvZVZOYjJoVlNsdlBoYXBFZ2ZJbFZWdFI3UHozc2d4SGQ0NHcwNXBjQk9hOEtybHpNZE0wOTRyMlZWa05S?oc=5",
-        "domain": "cbs17",
+        "title": "Human security relies on adapting to the world’s new climate reality",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdWhCU21yLUNZT1BSa2xSUXVIRFZQQ0pLMzJjWUFLNTAyNGtDNjFidDJQRjN3bkFkWWJGNWZKc1JDZGc5M1laTWwyb0gzcWhfNFhUTThHaEh5Mjd0U1d0UFlKSWRxTTl5VTk0a0dHTFpJMXBPLTJRdnZJeWVFU3h3U01mSU9lVXo4SFlqQlJUbWVGVVVXTXBjSkRIWl8yMjQzSWZtMm1hUjhiNG9DTFQtZnBOMA?oc=5",
+        "domain": "climatehomenews",
         "language": "",
         "tone": 0,
-        "seendate": "20260917T152518Z",
+        "seendate": "20260918T104926Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Covering Climate Now Announces Winners of the 2026 CCNow Journalism Awards",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPX3BSTzBRT0ZaazFTRlExTXBRQzc1dlZ1SnplWS0yUThhTXhweFBGZ0YySVBKMW41elF6Q05NZlNBMndTY2pQZl9zMnJqUkhEWXZjdW94LTNXTlQzSHFuVEpjOHlpTXNUbE9pMEhFQ3N6UmJSQmpjZDhycHA1QTd5U1NnTGFtNzJteW1CM3YtVE5FTFJjd0hZNzM2U0xfWnUtbWl6cWNfcHpKT19Zek5FZGVxY095aDYxa0ZGdA?oc=5",
-        "domain": "coveringclimatenow",
+        "title": "AI’s Climate Footprint Draws Growing Concern From Asset Owners",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5oNngxNm1GX2ROaXZILVRlbWZVeEpTY0Jud1I3cWoxUnV1ekk0NEFYUDJCMUJ5MGRhQlpianVXQlFERGNNV0tDeC1TcVRacnNvUEpoc284S19uV3hmTG83X3MwWEczMWJ3M0J6WjVvRzB4eG91OXZzeGVkQXZKUQ?oc=5",
+        "domain": "insurancejournal",
         "language": "",
         "tone": 0,
-        "seendate": "20260917T180829Z",
+        "seendate": "20260918T051535Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Worst drought area found in northern Guilford",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOb3M0QUdMeU9ySkdsSUdiY3ljVld5TjhzS2tPdEZ2OThfZzBpWm1rbU50YnM3cDhNZXU3V3J0N2ZaM3g1UllzUmNuV19RWkVpUUpWVkYzRkxxQ0QyajJxRjdISnJ1WHdfN2FXc0N2SWRubkd2ZUxhMHFBaFd5ZXExSmlpM2RXbkRfUk8yV2FPTUpyanBTU0hxTTV3Zk9WVmhrcUJibkVlOVQ0NG1NME4wUnNsTDFTaTJKbzZaZ3NLbG1hUQ?oc=5",
-        "domain": "highpointenterprise",
+        "title": "Climate change will harm our health. Here's what could protect us.",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUVNaNm1BTTNPNFpWYlN3N25ubm1rdGFmRzJfbWV3UEVmQWNaYkxaaC1kOFpRcnRDYnZJMVJhZi16T2lkZmlGSjlsZ21ORHVIdUhrYnJnaGRiVjAyTjU5VnFuU3hFdXlHeXVCOFRwb3ZaeE1yVUswVlBhUktFNzF6OEhmd2VkMzI5Nnd6QUYxVkpFQnZsbzgxU24yRFhmYlFuYXhVb3hxTDctMENJNE5xN3ozR0VmMVJhUUNN?oc=5",
+        "domain": "livescience",
         "language": "",
         "tone": 0,
-        "seendate": "20260917T232023Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Iowa agriculture secretary says farm bill, fuel costs top concerns as harvest begins",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYkcwTzhOZWhvYlBoZVhHVkpfVlliem5ZYzEwMFJrdTdCMHZXNDVBLUt2SWFSbE5kSkNuN0hkWUk5TVRGOEpxbWE4UFdYaFd6dmNOeGs5bzVaTXpwclFPUklKZFB0SGtKUWNGNXlLMzMydkVsMHg2c3FjQVJ6Q3hEdWp5UWsxTHhYSmNGd0ppd2gzVjN4b0thWXAycHI0OGx4WkdxYzVvb1BIV0thRFRaLW1Vd9IBxwFBVV95cUxQTlF5RGZFU2haem1tenNodEdZekdNeFZfaThBMUZueHB3VG5takRFbFBHaENXWlR6dDREbHdLZi02ZlZsUXhGWnpZV0w4RVVDWnJybkRkRDV0b2czUEpOekE5bEN4YTFrYlR3aXhFbGhQZGhaazFQS0tJT3ZpYlltNnFOWmhBdGRiaVJ0bkg3WE0tNlgwWkZaMXdmQk8tdTFmanJtTlpoS2hqVkFEd3Z2MHFHZzFLNVFKTFpMV3l3aS1VcFFZMFl3?oc=5",
-        "domain": "ktiv",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260917T172800Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Burn bans have been lifted across much of SWLA, but drought concerns are not leaving",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSEVtVHhRZGdxMERoTzdNWXdpeUlTX3g4SXozdktabXJvT29KTVVLejRQZFhWZ21mN1ptdExrcWdqVnRiLXhYNm1tTGQwanN6Z1lpQ2gtNFo5Rk5BU0F5dXZOdmlwUzVPT2xYY1J3akhLYm9WSUFUNlRRcXQ1amJBUE52NVhYam1qNnVuT25oTk1EUXZwYnRFVW1Bak9uM0ZnaE81UEl5NHNWU08tcjVuU1B2QWtJV0s2?oc=5",
-        "domain": "kplc7news",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260918T000200Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Record heat, extreme drought continues across North Texas",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRGoxMXduTkdhUHZoOGp6b0J2d1Jqb3lKTWNncy1sa3lKdERDU1duWXR4S01FbGg3MkwtaXg2Um1nM0E1aEl6SF9Kbk5KX0ZESDlHdFluN2R5ZzB2YmR0ekNnbHhHeG1KN1hCOUZTcGFyMTYzSE80d21adEtZY21UaVJHNU9vQU1ERHJMRFVMbkNyeDUyTVgtSA?oc=5",
-        "domain": "cbsnews.com",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260918T032900Z",
+        "seendate": "20260918T093543Z",
         "source": "GoogleNews"
       }
     ],
@@ -571,15 +571,6 @@
   "entities": [],
   "events": [
     {
-      "title": "Drought Update 09/17/26",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQ2Z0ZDdhWjJQZUFPTUxKQWNFYVpPZkt4VS00dDVkd3ZrZXI2VUdyNC11d0U0dDFvREVXcG9OdHV6WHBkS0tKQVlRRHQ3emJIbnUzaGhLRElMS3FrSUVSdTBpT2ZaQnBYWk9EdHRJOUlJOGwxbk9wNUdsZExWd3pFaFN2cVVJcFB5RUFZWkplMEVEZGxOQ0s0UWM1VTlxcE5YZWt3UzZR?oc=5",
-      "domain": "utahdivisionofwaterresources.gov",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260917T210946Z",
-      "source": "GoogleNews"
-    },
-    {
       "title": "Climate change made deadly Nepal glacier and rock collapse more likely, analysis finds",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOUQtdHJWdlIxOUlWUVMyMWNDVDgzOTZNNWh3S28xelB0VjlXNUVVOV9BMnJfVmU5TlRoSkE2UlhvZ2ZVRi1tQ0RfTHpKWEoyMjctSG92ZDYxRThQUUh4X3d0ZEdKTVVNSy1CM3Ria2VIWkRzTkpRQ3hNeVB0S1hqV1FweVpSZ0ZZTm1XV2lXM2N2aTRnWkhweGFzd25ma0RKQ1JrUmRYclEtMFBUQUtfMy1yNkZ0OU5JaGlSbnhiZ9IBxAFBVV95cUxNVTNORkU4UlRLVnFQSi1Wa1FxTDN5aTU3M3BsM2hUTU9hNHNXZUN4RG9haGNhRUdWUE5EYXhnbHdPUHZqbUNDazBXOUZRYUZwdExOVTZ3QUpTR3VqRFViY0R6RFdpRzI2VHY1b2F2U2xoM2pacUhkd2FmZVlUWklVZlB2N0F3bGFmUGpJTXgyQ19WZWFVaGRldlVibE96NVFEbFJJbnhhV2dWQmdMX29RNzZuSGtFMUJ4aHhXa3dPeDhYdjUy?oc=5",
       "domain": "pbs",
@@ -598,21 +589,75 @@
       "source": "GoogleNews"
     },
     {
+      "title": "Guatemala: Drought, Hunger, Dispossession, and an Unfulfilled Agrarian Agreement",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOFBST1VOQzhZYjktQjFsRWdhNXJZdHBLUTNzMHZkUUM2WmNoOWxjMFFoR3BDMTlGOGlMbXU1NnNxN1hma1liTnNmSWJuWjktUXJWQlY2bXNKcEtVYlBmQTBkYUZ0WWM0YzRHbDlZZDZUT01UeEh0SXdEeGxRdlhuMW5iWEM2cEFvbUgyZTFybmZEWlRMTFAxZEU4d2hVVXpIMzBDdDFmeXRkd2REVVhZSjRKSQ?oc=5",
+      "domain": "viacampesina.org",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260918T111423Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Drought Update 09/17/26",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQ2Z0ZDdhWjJQZUFPTUxKQWNFYVpPZkt4VS00dDVkd3ZrZXI2VUdyNC11d0U0dDFvREVXcG9OdHV6WHBkS0tKQVlRRHQ3emJIbnUzaGhLRElMS3FrSUVSdTBpT2ZaQnBYWk9EdHRJOUlJOGwxbk9wNUdsZExWd3pFaFN2cVVJcFB5RUFZWkplMEVEZGxOQ0s0UWM1VTlxcE5YZWt3UzZR?oc=5",
+      "domain": "utahdivisionofwaterresources.gov",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260917T210946Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "US wheat farmers navigate uncertainty amid drought and geopolitical chaos",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPN01TSnNxQ1poLUdQdXRuZlZ6RERDV21NekdOcWw4MEFyTjZ3bTZZNEpVRnhoVGlwN2xOVHFpeGZEYllPdEgwVXRGdnpleG5ONURFenRQWmVzSEcwbXFXMWxqVFBSMTBFQVBESTJBM2x2Wks2ZktFWENWVHRXcjlhMkJzdmpWTkxIOGc?oc=5",
+      "domain": "theguardian",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260918T110100Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Oklahoma’s current drought is bad, but residents lived through worse, climatologist says",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVEZKbFJZUERGTUhWdHVrZTI4cjdPSXBfMXJsUW8wU3JuUHo1dGp2TDVvazB6LXl1eUpBdzZhNDk2dXRJNU9ETlRuOHc0eWhidHdteHczYTFhbG40aUdLWVNsUVF4RUdRZTlZMzRwZ3o4TVR4b0N1ZmQzWkdjM3BGNk5pYjZuWm1UQTh5RVhhamFXZVBRTXJ2SVZtSk5kMUFJUDE0aXU1d3ItYXdsc0tpcHkzbEFmYWw5ZExlRG9YTzZoRXVJUk5ER21nc2tlOG5aMExj?oc=5",
+      "domain": "kgou",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260918T085800Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Science Behind the Forecast: How bees are adjusting to climate change",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRktqSEdaSGFmT1ZMazFhcHZyUUhBVUZFczVucXlPeGFVd0tnUjhEMU9oTHNXZmI4TXdjZFZnOHVYNmcwLXg2blZiUnBhU0NNRUlVcF95dzBBazBoY2hHSHM4NUJZWTRLMnpLckNPRVczUERiLTlEblFRSEVpVWdHS3pBNXc3a1o5cHBHa1BDZVdXbkpJRGppZ2NyUWM3Z2dDRS1YN3V3UQ?oc=5",
+      "domain": "louisvillepublicmedia",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260918T090000Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Burlington headquarters move to Philly highlights N.J. business struggles",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORnd2VnR1ZWVCYzRYRHFZV1lSS1NPaE9WSHh6WmFHVkdMT2hBVzMzeWxpcE03cUtJWksxUWUzTkx5RlhJWFphYUJMUExBekVWbUc3bmY0aFpqOWI0eWJoc19PZ1R0aHRNaG40T0ZJM1hMSlhnYWFINE1QZHF5R2YtOG5HZ0k0cXZiN3NFdUNyWFVWU1dMMlE?oc=5",
+      "domain": "whyy",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260918T093345Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Screenshot",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQU3JGRnRUUUFBYUp0TS1kd0ZmN1hJanNXUFdxSDF4VXVZZ1RCQzBqeWRCNWlYRXYxUUxvSjJodlJ2cnFBemx5WmZEdHZHMDY2M0ZQc1AtRXlwUEtfaFFWTVFac21qT2VobnphY1FvN1Rac0JRRUFYckp0UWkyZ3htVElYemlWOUJydk1fUVhtbXhnTVZBTVk1MVNIUzlUaUlxYkltUlFvOUdUbGEwdVloa0Q4SmtQUGY0N08tVg?oc=5",
+      "domain": "yaleclimateconnections",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260918T100322Z",
+      "source": "GoogleNews"
+    },
+    {
       "title": "Drought conditions worsen across Alabama, raising wildfire risk",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTmlESy1Rbks5Q2lzOFV6R3FsNURmT2NxOTdnUGlic1V0MUZ5WS1hYjlrZFNDdkROOFVyblhHWG4yVkdHMnA3ZGFYckV3WWRGNVJNNGh6RC1CS1BIYzdqZlVqUzNpZXA4dHI5SDNlZFVVSkszVVFTazVHbW1BemVRWS11UE5UVzRJaUIxMi0wcWtFVllrSGlsWVFIRdIBrwFBVV95cUxPcnlfUWU2alU1a2h3azVpMWNjc0NmSVRkM1lKYUh2elhvLWRKMzMwbWJYdzJ0eElkVHIzTUcxODhBNFJyUkw0OTBXRWdDTzBrSmZGd3dnZlZ4SXhvYlBNaGVHbVVRWVZRbnh5bUVJeFl4Y3JEMy00RDRaYlQ3UmVVbWNad1pzNUdIbzlCcUxDZThiQUtpdzJEVklkVzRHRkVydDIzU3RHU1FWZGVxNmpz?oc=5",
       "domain": "wbrc",
       "language": "",
       "tone": 0,
       "seendate": "20260918T025100Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Jamaica’s churches have become climate activists",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQm5uYzBsN25obkZvd3I4TWFJU19UZHRWdG9XTU9iZEV2ZmNlVXJqTjRBNmVaems3TWt0QjVGRnYxbGNCbFZsbXJzMzNEbHVKdTBOUkYyYW9CUGxwUndTbUdQbEZSbGNUbFdUbm02ZWNiX1lyel81MzV5Z2xDSm5jMDNHTFBuLTFkQTQ1N1A0UzU2Z19NRUJPT1gzTFhuUQ?oc=5",
-      "domain": "theeconomist",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260917T124501Z",
       "source": "GoogleNews"
     },
     {
@@ -625,15 +670,6 @@
       "source": "GoogleNews"
     },
     {
-      "title": "Climate change had major role in triggering Nepal floods, scientists say",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaXo3QVpLWEtaLThwQU9XWWtKYmlQaHQ2SW92T2dpZEJtX2NPUGdLSHZTREtybVItNDE2ZXViSUxRZ3RrRWxVUi13Y2dYSG5qTU1FY0tlZUZKbUEzTWo2Ykl3R0ZHaUo3dUVfNFo5R042eF9Zem02M2hDT0VMakwzOFFkLVViRUQ0eEM3VjU1NGtvTWJqTkZWVFdFTnEwMHVzZlZRSUUtRHAxdmJkNHZMWnN30gG3AUFVX3lxTE9qQ2x0d3Q4Y0NLbHJ1dC10b191SlFOTUk1QWJuaVZncloyeTVnYVAwZTJaRFVBa3ZmaGltVE9uODJxN0k0dFVZdzdYWE9sQWcxV0F6Z0xCZEdKWFZNdjlLTDNBT090eXphVzhpQzFJRGxqT1VFS2w4ay1MT3J5WVBCSU9oZ3lNTC03a3d3UE5QMWlhaXctb2RlR1RQbWRvSTFRQWR2VlZBdU53anRmMmNFXzlSMGk2OA?oc=5",
-      "domain": "aljazeera",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260917T112315Z",
-      "source": "GoogleNews"
-    },
-    {
       "title": "Climate change contributing to permafrost thawing and glacial thinning",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQV0xiMlJwenRIWFdBLW9LOHF2MWlXazJsVlVMdm5TMzVpYzFrV1E1UmhIYTgybW5QM21WSmFmTFJlbFNDYUJYeU5oOFJlQTJsSXo3TFZOaDNhVlJwb25DTFh6RHlrcFl0VVYxN3g3d2lfX3B0Rl80dTROWFk4dW5xaVVrcWplYzNTTFlr?oc=5",
       "domain": "phys.org",
@@ -643,66 +679,30 @@
       "source": "GoogleNews"
     },
     {
-      "title": "Drought Monitor shows dry and drought conditions in 15% of Iowa",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTVZxVzhKQnVYRDlHRTRqT09YLTZIQ0s0ekZidEpMWWk2dzFmRjN4d3pPdkV4QW9zYUJyVmJEWjNkMGlwYV9EYjBsN1pvSUR0Sm80SUtwLWwzLVk0RElqRzVJVkt0MjFWdHZpNmFHYkxKRmhTajk4cHhNN21OX1N1TUNNNXBWQUxvSzBXbWJjdFVwREVpY1JpUnBOMGJJc2lyN3c?oc=5",
-      "domain": "radioiowa",
+      "title": "Extreme drought creeps up on Maine’s coast",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVjd2S2gzQUREQW8tc25lZUo5QVlLZDI2NEJiSDRVOWktV0JOOFc4SXB2MjZBaU5ZOFJ5VFBXNy15RGNiejl1ZE45ajVIZVVkTzI4cm5nRXNxUHpLZmctaXBNTjR4R3NyRjRiOW90UmFiUHRSRm43OFA0LUFkbnlJd1VONzVMb2Zq?oc=5",
+      "domain": "portlandpressherald-mainesundaytelegram",
       "language": "",
       "tone": 0,
-      "seendate": "20260917T191907Z",
+      "seendate": "20260917T214256Z",
       "source": "GoogleNews"
     },
     {
-      "title": "The Colorado Sun wants to feature your climate-friendly recipes. Here’s how to participate.",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWDFWa05zelkzSkxxR2ptNGd1em9xUm04ZXJqOXFqZGMzVVlaUG52OVNocm5LUU8ybVJuY05GMUNlTlV3TFYxcFFfM0ZsRlozVDNQSHBKZkstWnhKRkdYS3NwM043SWhLZ2FkZFIzb3ViRnFYWmllUGhvMFkyV1V6MVphZw?oc=5",
-      "domain": "thecoloradosun",
+      "title": "Extreme Drought Expands Across Southern Missouri as Dry Conditions Grip the Ozarks",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdEludm9EcmY0RnpfRTRlMkpxMG9xMmcwUFp3WmdsX1UxT3R0Q09Ud3VzY1dkSzZ3MWJraV9WR1JfeWh5Uk9oLXZTWHp3UVRxeWhtdXpFVkR0YWhUcjlweHRocTdnNGd5TGd0ZmRjZEN5c1JYVlNsVll1czN6a055V2JEeEZ4MFZBUTctMnlnemdidDkxUU4wZ2ZGaVd4ZEFzY2pQdU5Oa2hJXzNqZ1JyMXZROW5mZUJtQ2ZkMm1kR3BSMS1r?oc=5",
+      "domain": "legends1063.fm",
       "language": "",
       "tone": 0,
-      "seendate": "20260917T201247Z",
+      "seendate": "20260918T105230Z",
       "source": "GoogleNews"
     },
     {
-      "title": "FIRST ALERT FORECAST: Humidity drops for a couple days as the drought expands",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPenE5U3J6OGpNT3R5Z2dzQlFlUHM5RGp5US13UW8zTTlwWlRXM2FzVHNYS0R3WHZBaS1fSk90cUlCRU9Zd19zdk84X0xfZlJpMEI5UHNHcEhya3p4Wi1GSjhIWUJ2NldTeUJRV3hzcGVMUklUSkpZaVJBS19PZ0M4ZmZGNTUtckFVTzRxV0JkT04yc054eVRmZEVWUDI1Rk3SAbMBQVVfeXFMTzllVV9jeHZjSmVILUo2RFEwamtkVHVEV2RoSWdhT0FJSUpvWmFVS2tLZlRaaVloY3l3NmdndHdKNFFKdTdYSF8wVC01Q2FHZHlUNldaMnJRMWgxbU9sWFlpU3NzdXF5ZUR1TlBPdHVub3BNX1dMY0xrS0pXR2VsR2M5b0ljTXdFTjQ3MXN0Nm1EemhvLS1ucjNaWGc3eW9mdGJSQ3hMVHdlaWNNMmJOX1dIeWM?oc=5",
-      "domain": "kplc7news",
+      "title": "Global ocean breaks records with 100 days of heat as El Niño adds new threat",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQT3NJQl8wYTFnM1Q5SnpTa3hBc1BPMHk0Sms3MXhjbXJCYmxYVEc5eUVTRXJFVnduTUV5RTM2dWt4V1kxRkp0b3dILWd1UzRNUElCZVd0ODNzVmFpQTRZck9DdmNiR2J0TUtNNDh5amZUT0pPVU5ETGpIYkJ5aEdrY3g1VlZsQ0NmVDdqUHRya1gyREExRVdkZmQ2eXdDeHJiNXdESDRXbXNfa29sWFh3bNIBtgFBVV95cUxQaXZlTmVaLWR3R0x6Z2tMejQ0X0wzS3R0b2Voa2dnUXlrSnBxRVhzYjFVcExtekJLdTZFZjViNlRFNVRDMkV2VGh0WDd5bWdlNS16TWZZYUgtMjRjWDdFaVJUYWZ2ZkRmOEtPZ19WeDFJVW1tMnJQQklTTFlKOEt2T2x5S2x1LUR0N2ZUc3pndlJWaVlEX0F3Wnp2bFYtWEl6dnFZWUc2VmJSSWxEWkgxSmRXd2Qtdw?oc=5",
+      "domain": "mongabay",
       "language": "",
       "tone": 0,
-      "seendate": "20260917T221200Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "FEMA Was a Lifeline After Hurricane Helene Decimated What Was Once Considered a ‘Climate Haven",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNOFJnUkRFUXhGV1RNQ2o2SDh0bS1NNVJaX3d4bHJOUjJLUTZMQzUzZktJbzlrU0tHNENmQnRUVFZCelNzNHZwallPS0F3QURGSjkwVEtDMTdXNTdhU0NxclRTQVlQemlXUkd1WXhDdHhoZXRuUjZva0htcjRnd0pkYnVHTU16NEZ6aEVOTVpWekQwY24wRFp3bDkydXpoZXFWX0FsZXN0QkZsblhjRFJMaTBuY2tFNzF4T0RWcnlKX2hndVB2TWdudTRQX2h5Qndx?oc=5",
-      "domain": "centerforamericanprogress",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260917T150730Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Extreme Drought Now In Maine",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9kTTlzaW1HNGEzYnlORVN5OHU2dVd6LTdzMTRCLVJUY1IyU3pxOE9mOTZsUEUzd196QWFfUjUwdmttMl80cU5mc2d5RVFuZ2JmX2h3Ujh2cDIyU0xOa1o5OERiTHRaTGxYaV9iXzlmZl9qWmk2?oc=5",
-      "domain": "wmtw",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260918T014600Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Elevating Collaboration and Innovation at Climate Week NYC",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNN2VRcS1WWWJSRThVMXpYTnoza292bjNtT1ZZS3Z0LWhQbnoxTEkyQTREcGFDZWlSUTVWOTZJeVBUS3ZKZDNuTlpTLXpEd3FjRnVHd0ZMaFdwMlkzb0dybDItM0RnRW81RDhVQ09YMWFoUzc0OXdpTHk3RkkzdVRKRGtiUHFCNnkwTVZJRDc5M2tTaGpsdTR2ZFM2OA?oc=5",
-      "domain": "dartmouth",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260917T165701Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Tennessee Department of Agriculture Names Deputy Commissioner",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQS1h4MDZMUmJ3cUtsa3FvTUhVOHJLNGZJSkpYSnViUnltdnM1a1JjbS1ldEF6dFpMTXpPWnQ5NW1WYlh5blBVVUlRSEpWOEoxTlhVdmZxTzRYSXMyTm84dVNJWjNQMG45cjlJLUEtbU0xT2VzRmlYM3Z4SVhtanAtSkJvVkNERVIzbDdSaDY4cFVqS05YdWREQjU2dl9XN3lCR0VNSlF3eDRxV3oyLUFlN1RB?oc=5",
-      "domain": "tn.gov",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260917T153531Z",
+      "seendate": "20260918T104833Z",
       "source": "GoogleNews"
     }
   ],
