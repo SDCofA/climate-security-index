@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "climate-security-index",
-    "generated": "2026-09-22T17:05:08.227428+00:00",
+    "generated": "2026-09-22T21:29:34.177553+00:00",
     "mode": "live",
     "sources": [
       "news_articles",
@@ -18,7 +18,7 @@
     },
     {
       "label": "News Domains",
-      "value": "45",
+      "value": "44",
       "delta": "deduplicated"
     },
     {
@@ -35,12 +35,57 @@
   "live_data": {
     "news_articles": [
       {
-        "title": "CCAC at New York Climate Week – Day 1",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0zSGVWdGxtT3JYelpxaHlqc3h5Mjdwd0k4LTVBWk9Bd2pIREtQdVQ1TjRrUzZjMUJMaXk2blF6MVhoX1k5eVB3UUYtZm4ya0s2d3FhQ3hwdG9JWGUtQ1AxeTk2Rk9IVzVMUk1OaEFTc1lIMWdj?oc=5",
-        "domain": "climateandcleanaircoalitionccac",
+        "title": "The court’s coming climate-change case and the very confused doctrine of preemption",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORGg5M1lfcVJ3eWFMN1JfUlRPMEg0cEZrak5yMHBma0lBb3NxUEFCMVJ2TlZLUW5jVlZMc3cwMDJmYUtkM0ozaFlVTWJGblVDaEI4bGo5Vk9pck1GVm03QUhPRkxvSDNGdlJ1aXhpVk9zNWQtamdtcmJFbE1OWktDNVR1dTBSSEVPemJwYlRNMm0wTlg3QzVpWWhmekJIREEwUGpVbzJCejl1X3BBcTZXci1ISE9JbElIcVE?oc=5",
+        "domain": "scotusblog",
         "language": "",
         "tone": 0,
-        "seendate": "20260922T100127Z",
+        "seendate": "20260922T135446Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Sudan’s historical famine echoes through latest hunger crisis",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOR3RiQmN1NUQ1UGFzMjhKdnpMN2hwS2VxcjRNcWo2ZkxIRGppc0d0WHlHVmU2Qnd3eVl3MjR3Z0ZxNXlmdkp2d0RSbTJXYThqNkxFczVOMHU5bFFzcUJGZG8tYVVQdGRpbFJKMzVNaGxYdFEtbW9RWHJTWU1XRmtlZTd5Mk4tcVdialFoTElkWFNoOXQyM2xCNUJMcDFwVF8zUnFn0gGoAUFVX3lxTFBOZ3NsYmhUSWRLMUZhODhSSl9BalFfXzNlZnlWMGpybjl0alMwZEwyanZTaUNkTWdSTkN6YzRwNzZSNXY1cmYySUZmbGVaU2ZyZnQ2anJVMjhidUZKalh3ZFVNWHBWNG5MN0JmUGI4SjB2UlRCbGlqazhNdGdfNTBXaE8zNkl6bGo2Q3VTSkRJZkhoS1oyRTRKVUVQWm5MZzJoYjhEVnQxMw?oc=5",
+        "domain": "aljazeera",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260922T175048Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Trump rejects AI regulation, citing parallels with climate change, in U.N. address",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOWZfbEItUmtMUWM5bklpRDBsQ0dPdTQxcDR0dnZaaDF1V0VoVFE1Tm1UWm1GWjVFVFl5aHJCZTlSckVMa3dYUFl6c3Bka1VHYlJHR1pZRHc1LWY1YmRlekV1aFNFbkM0THh4S2lYMXlwMGQ1MkZ6bmRpNnJrTU9ndnB5NjhUOFN1ZDNKUWZQd19aTFRjZGd5U2FLTVBtY3NHaUdFdUVIV1E3YWhLaTJVLTYybGVxOFJiR21TcjZ2WQ?oc=5",
+        "domain": "scientificamerican",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260922T160000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "October Agriculture and Natural Resources Programs",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOc1h1VHAyMFFucUlwa1FHU1BTTWg4Yi1nQkRLeFRXX3dDU3dVcDJBRDFqcjgxYjI4djB5SUdoZWtQSDlNUDlDQjdScXo0SHJnNnVSUFY3akM2ZjhRWDdVUWRvM2JPVWVVMmxJUzdMOHVSeU1tTUVxSjZDUjI0cTEzUm5vNnRhOVlIcDg4bXR0S2g4UU9JYWtZNE5UY0NrZk9IZzBHS2Rn?oc=5",
+        "domain": "alachuacounty",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260922T192102Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Climate change made Northeast droughts less intense",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOLWYtLWJRVXdMRnp0Z0pZZlhpcWZ5cTZsbGdFamhlLWl3b2tmUmw0QWZrVmM0djRIX2s2NUF1akI2Z0NaVVdKcUNLbjRhTVpLX3VsM2REbDJ0R3pFU0loQmw0eFdsaGZDRi1Bd0twUVBTQmh3VU52LWFicWFZU1o2ckRjSGlKdw?oc=5",
+        "domain": "valleynews",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260922T191455Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Lafayette’s Climate Action Plan 3.0 charts path for future",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZlBRRzZ1YTNJRFlFT1AxTlM0ejdvd1dObVlaSkhzNnhKaHhZQ2g0YU51a3NwVi1DeV9Rcm9WRENHdkU3TmhTbWRESTF6ckZyRmlQeG9MbkQ3cm1Qd2V1UjlvQUxCZTYwS0c4MDhuZmtXb2EwdjE0RUktTzZjcXkwTkVLODJ6ZzZ1Tzd0V2x2WFlSWVhFYVdaamlEalQ?oc=5",
+        "domain": "newslafayettecollege",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260922T200109Z",
         "source": "GoogleNews"
       },
       {
@@ -53,12 +98,48 @@
         "source": "GoogleNews"
       },
       {
-        "title": "The court’s coming climate-change case and the very confused doctrine of preemption",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORGg5M1lfcVJ3eWFMN1JfUlRPMEg0cEZrak5yMHBma0lBb3NxUEFCMVJ2TlZLUW5jVlZMc3cwMDJmYUtkM0ozaFlVTWJGblVDaEI4bGo5Vk9pck1GVm03QUhPRkxvSDNGdlJ1aXhpVk9zNWQtamdtcmJFbE1OWktDNVR1dTBSSEVPemJwYlRNMm0wTlg3QzVpWWhmekJIREEwUGpVbzJCejl1X3BBcTZXci1ISE9JbElIcVE?oc=5",
-        "domain": "scotusblog",
+        "title": "The Big Threat Has Been Climate Change. Now Comes A.I.",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcVIwd0dvR0hHT2JpZXQ4UEdEYkYwZnowaHptOVliQlRCb2dyaGo3SEsyX1hNVXZNV056aGpnNGlWRG8yeTMwU0FGY19WMFRlSThTcnJWU0ZmM2xmSDFDZGwyMUl6dGJLeUFCTWVBcUZfaUtxOHRWc3Q4c3hfTWhKejEwblZVM19PXzhTaWt3Z3pZd2hJN1RlOTlOcHdHZjloTVE?oc=5",
+        "domain": "thenewyorktimes",
         "language": "",
         "tone": 0,
-        "seendate": "20260922T135446Z",
+        "seendate": "20260922T163329Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "New Harvard Database Provides Policy Insights Into Climate Disclosures",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQa2ZhNFRKTS1YYXZzYkpQUjFGNDEtWU1SbWtCakEyNXQ3QnJMZi1aMDN0Xy11bk1ndGhwRGE4WGdJRjh4emg0TTZKMkpGbXU3eG9LX25jYXRLSGdnc0hZNkNRbDdfeUlkdXBKZDhSXzdwQlZsbkhtVFloMC01RkI1R0wtc05IUGhfUk5TV2VVem5COTBNZjgwdQ?oc=5",
+        "domain": "eelp.law.harvard.edu",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260922T192539Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Investing in climate resilience",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVzJmYVNVZlI3dlNlallQRkxPWkY1YXltTEJEVTBHVXQ5X0RJSWVraGFMS2ZxY04zakthNGo5WTVoTmp4NHVzeUJBM2NtUkpMelhERVJhUndlM3E4T1ZRYWdHSkMxc0tGbTNWOTAydlI2VU9NMm85Wks2TlVyUXFxYg?oc=5",
+        "domain": "universityofmiaminews",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260922T190909Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "How Saudi oil scientists ended up working on the world’s most important climate reports",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxON1RjMkRZdHI4clYwSGVIUmpwQTJoNjR6N0NkYjZ4Qk9VbWNDbFR6WVRmeDBfMDZWZkY0UGRQY08teEdNbkVCTFhsdGRXejZPNXJkNHl1V0FUTzdSTEN6X2RqQkNHQ1pRaUhEdDhHSFFBaFJlU3ZrbXNfOXFYTzlJaHVZLVUzTzcxQ2VUSVM1bWx4YmtBU0pDdmtmTnVZUDAzbUdBRl94c1BkVDQ?oc=5",
+        "domain": "theguardian",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260922T092600Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "What Happens When Countries Can't Cooperate",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUkpVdHhsUkFwU3N4VnUxUDY1TjhESUl1bEItWUhTVVhNQnFoVGh5V2dNTnFFNUhOeUFWMEgwcEZFZlVhUm94Rk1YWHF3MXNWczVHMW05RkFGdEhDZ0U5OWhpdGlQUzJwaGw3c2kwSXFBcGtuX2hXMW1zRFB2RFhPcEFtSGE?oc=5",
+        "domain": "katiecouricmedia",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260922T202615Z",
         "source": "GoogleNews"
       },
       {
@@ -71,66 +152,21 @@
         "source": "GoogleNews"
       },
       {
-        "title": "'Every Fraction of a Degree of Warming Matters' – UN Deputy Secretary-General at Climate Week",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPb1BZNEZpQUMtTndJT1FBN0NDOEExeDdOZGhVWVVVQ0JsRy1mQVpYbGgwTzlBTmg3RF9CSDBtd0s5Q0JRRnpWWXctX0N4YzNLQW1SdXlIb294dHh3Z2RXQkU4TmxsSXFSeTJnNEh2QzRhUFhFcDB6RjV2MXo3ZWYzckgxSzN2TFZES3liY1ZESGU3NERkLThpcXVnNGxxbU84TmRnOFdPUGJseTVrWXMtR3NNNElYSFFtbXFmX1JncVlxQUU?oc=5",
-        "domain": "unitednationssustainabledevelopmentgroup",
+        "title": "Building Thriving Farms: \"Farmers Cannot Carry the Climate Transition Alone\"",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUGV6MERaSW13cnFRcFVTVWs4Q2VwdVQ2ZklDOW1pbnpwSERsNl9ybjJZbjFtSFVlYi1NeGdVeFB3MGI0MnZKdnlUVDlMVXFIbHIxOUFKWFNGZ3NHcUFHRF9LVTJZYzdkU3luNnRFWFBvNjF5UzBWZlNhZWhWVGRmRHBROGM5ejhndFpFRGNjLUFVM2R5R0NCVWpkSXhJeWN2?oc=5",
+        "domain": "foodtank",
         "language": "",
         "tone": 0,
-        "seendate": "20260922T150116Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Water security in a changing climate: Learnings from Kiribati",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcTVUUGlpUHQtbnlud292Y2JKc0JXU1FsR2V6cjNUN1NRenB1RTUtQnM5UkM2d3BxTFhJVjN1VmV5bHR2VUdIc3VGbnh2bDRhbFBOTkdGSW1sZVdXYkM0TmNFVXJjejdwVGliLUQ5Y3M4UkU5MWRXTGdWdmdueEVyYW1nQjUyaFJDQnpRaC02QWRNUzJxdk1qVmtXWQ?oc=5",
-        "domain": "doctorswithoutborders",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260922T155745Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "The Big Threat Has Been Climate Change. Now Comes A.I.",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcVIwd0dvR0hHT2JpZXQ4UEdEYkYwZnowaHptOVliQlRCb2dyaGo3SEsyX1hNVXZNV056aGpnNGlWRG8yeTMwU0FGY19WMFRlSThTcnJWU0ZmM2xmSDFDZGwyMUl6dGJLeUFCTWVBcUZfaUtxOHRWc3Q4c3hfTWhKejEwblZVM19PXzhTaWt3Z3pZd2hJN1RlOTlOcHdHZjloTVE?oc=5",
-        "domain": "thenewyorktimes",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260922T090226Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "‘It’s my duty to tell the truth’: UN chief on the climate crisis, capitalism and reasons to be hopeful",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUW12MnRsdG1rUDhUVjNDd1lSUU5Bb09wU3E3WTNrbHNJZlkyRTg1TEdibWh5cVB0anBPZTJiUFZFSU1NcWVhU2JhUVpPejVWUHQxZVJ6TGJNWVhVZ0xQN2hqSFVZMVRxQlg0RnQyamFCS1FEaXN5TWVWcXpQbUZ0Yy0yWjZocU5teGRlUWo4OHFGZWVlczhGOTd1bHNIelhrajJqaFp6emtDRWc3WUppWXo4MA?oc=5",
-        "domain": "theguardian",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260922T130100Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Climate scientists fired by Trump step in to fill U.S. report gap",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNa2xobVY5N0ZtdXczSWFndmhNUjV6cUdDa2pjcDFjNkdVT0lDN2dsOVJxWHl6dWRIYTFZZFM4YkNFdVNYck01bEprQzBhNm5OVmc0c19qWVNUNldKTXRHd0J0b0Y4TENObW9YNUdOZjFGZU9abmRJbWJDdFV1VUUwQ2xXYjE5S0VEWnV2TlhCcVREaXhZVzdkSkNFdEh5T2xZeE1IZkdWTVFybDl3SlV2ZG53?oc=5",
-        "domain": "nbcnews",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260922T130000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Believe what you are seeing and feeling: The climate is changing",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRmp5RWhoYjNBY25oZVFZNENCU09xZXlLQnNCRWMwd0dFdHJ2Wng1eTZOMFVBdVVuSXJDZHhseE9ReWlnN1ZVcHpQRDdBSGtvZ3psaGFCeVpqZGNGT3NSN3JpVTB6Q1VqS3VEamlESzRnVGZPZWpFcHV0QnJ6dGN6MTdUSzc0UXJwdmxRQXFKWjlJVDI5WmtjWnhranpteVRjYVplQVdjYmU?oc=5",
-        "domain": "minnesotareformer",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260922T110451Z",
+        "seendate": "20260922T175844Z",
         "source": "GoogleNews"
       },
       {
         "title": "First Paper Published in the U.S. Climate Collection",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcFdZWFRjOFY0NFhvN1NLb1E4ZzdhQnJLdkZFT1NwRG1qUVI1Wm00ZGNnR0hFdDhULW1RRVFDWWpDam5SSTYyd3Rac20zWWdaekItV2NLTUVuc1dkV1dBZlh1alhNZWNXbWJUOVNSRHMzMExGdUtLdkpKY19UYTVCVXk1Si02NkdpUjNPZWZxUWQxTU5GVTZHYw?oc=5",
-        "domain": "amsheadlines",
+        "domain": "headlines.ametsoc.org",
         "language": "",
         "tone": 0,
-        "seendate": "20260922T145325Z",
+        "seendate": "20260922T160243Z",
         "source": "GoogleNews"
       },
       {
@@ -143,66 +179,48 @@
         "source": "GoogleNews"
       },
       {
-        "title": "U of A recognized as a leader in climate action with new Carnegie Classification",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVEdGZUlSaVRrdVN6ZGE1T1VGRkY4MDI5YU1aM2ZUcmhWQTVNQmxrUHg3aU9LYXpneERMT01kbExBNUc1V0ZrSzJBcEdBa0hCUG9aU3U1dTlqeXdma0hkUlVpci03YVlLaGJ0cHFHUDBsN0xZWHdsZmNrck5rZVQwSjBGSVM3LVR2WXA4OW0wZTFXVGU5ZXlz?oc=5",
-        "domain": "universityofarizonanews",
+        "title": "Water security in a changing climate: Learnings from Kiribati",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcTVUUGlpUHQtbnlud292Y2JKc0JXU1FsR2V6cjNUN1NRenB1RTUtQnM5UkM2d3BxTFhJVjN1VmV5bHR2VUdIc3VGbnh2bDRhbFBOTkdGSW1sZVdXYkM0TmNFVXJjejdwVGliLUQ5Y3M4UkU5MWRXTGdWdmdueEVyYW1nQjUyaFJDQnpRaC02QWRNUzJxdk1qVmtXWQ?oc=5",
+        "domain": "doctorswithoutborders",
         "language": "",
         "tone": 0,
-        "seendate": "20260922T153613Z",
+        "seendate": "20260922T155745Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Cambridge’s Drought Status Downgraded to Mild; Water Department Issues Update Regarding Reservoir Levels",
-        "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQMUxnNDhiLWFGOHNzRjVSRWwzXzF1YkMxNDBDcEEzWHB3RE1JUExRMjVmd05HMU9panRoSS1NaTFtaEo2LWQwUzVXM19SSVB5d1l4RDdrSkNIRGhPZ2Q5d29jemdZMXdVX09mRGhkdDc4Yk1QeU1SWVNUZWdDd1MxZVBOOC00eEE3Vmo3aFhjZ1Rqc0pmNXhrcmx4SUk5bDQzdUlYbHVHYTJ0TjhkMUQtQlVfYU9CNUFlYk44NGM2bm1VU1dJaXhzUkxOYjB6S2F1T3VuZHV5cWNMTk11ZE5VRkhDeHZ1bW5FM1NRNE5hcFpKUG9adTZSZWRiSW00Mlo4SGJCYmkteTdYQzcwc3BwM2Yyb1ZiVVdoUzNFcWFYVXFwdw?oc=5",
-        "domain": "thecityofcambridge.gov",
+        "title": "Climate risk is reshaping muni credit — and income opportunities",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSnVNSTY4UlVjZ3NBcHBzUTJ3RFhyelJlZUpsN1RjQ3ppSWtTTVFfZWo2TG1hbm9iQS1tNFUyekFWeEowR3ZXdm84YmdPX1NWUU9DcjNyMl8xS3VsNW9FaWJHNkg3ZWtVZ0F1OFNYV2k3MlZWcnllUnhzTWpUUVVZVFdhbUNuQVV3VHotb1JxZzRBZ1VxbEZmLTN0ZkdYcHF4?oc=5",
+        "domain": "cnbc",
         "language": "",
         "tone": 0,
-        "seendate": "20260922T143609Z",
+        "seendate": "20260922T190202Z",
         "source": "GoogleNews"
       },
       {
-        "title": "How Arctic Ecosystems Shape Our Climate",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA1WklSSDcxSFo5SjZSM2N6clNFSVY2cVhIVmdLQVIxSHNyQnBKWkxxZ3VGSzRYakx6eTAwbGRySUJJTWhXbTN2eDVic0dDS3FsYXAybGZLTy1TdHp4ZkR0aU42LWRRZ3BuNHV2VlBIS01UaWZLbUF5R3F3?oc=5",
-        "domain": "columbiauniversity",
+        "title": "Senior Lex Renkert's Leaf Physiology and Climate Research Receives National Funding",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUUcxbWN4OEpReFgwSEdqcUozZ2Iwd2hSVENQSzRoWkhSZHNTaUFVVm10Mk85YkNNWUd5T09YQXJMekc3VlVEcnQtelg5SFpRU0dTc1otbW5xT1NqRnV6ZVJlcmN0eVhXajRMSGF2TF9sVGxQOFdqcGlrTmF2dW9VMVY4RjU3MFBhREFHVjRfTXdJWG93T0h5bF9FUXktR25iZzYzU3hrWUtKVVkwMVJicnJfallMY0lfMXY2cFdJMTBKbGF0UW5NZlBuTGk?oc=5",
+        "domain": "bowdoincollege",
         "language": "",
         "tone": 0,
-        "seendate": "20260922T131330Z",
+        "seendate": "20260922T164318Z",
         "source": "GoogleNews"
       },
       {
-        "title": "UN leaders' meeting convenes with secretary-general calling for 'world built on interdependence'",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQendGemFFSmthSDlNMXV6R2QwWENmRE5XSzY0YU1pQ1VwWWtvWDUzTk96U0MyVmFLbWtnV0pleVFWX05oTzMxWHloQlplN3E3SkFvcWpIa29FUjBmSzB5dU81dDk3RFZZV3JVdkVqcXBtU2JOYzZyUG5oU3dBRVNaQlRRTi1TZU5lbm1TWnNXMzd4S0xyU0k4V2V1YUVYMmdEc1NiZDI3QUF0Zw?oc=5",
-        "domain": "apnews",
+        "title": "A Departing U.N. Chief’s Dire Warning on Climate Change",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcUhnNUxsbEI2WUI4ZGF3bHBrclBfQWlNTmc3VmZYbzdnNGphVEFOYnBvOXlRclVMR2UyaEZmX1JXdzYtN014c19BUWF1cVVCcjJOTUFmSDdDU0pOa1c0MkR2R0NJRG1UTjlNS2QwRnVCSlFvWGpzLXc2MVZCUW1aVnZZQ1VzUQ?oc=5",
+        "domain": "thenewyorktimes",
         "language": "",
         "tone": 0,
-        "seendate": "20260922T152300Z",
+        "seendate": "20260922T174534Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Building control and trust for farmers in agriculture’s generative AI transition",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbHM5WWlsTnI2bHI4OHU0MWo5S0NkUXVHVFVUM01WQW5RMDFEd0JvRFMzeHZ0M0hvcGN5MjJpbTQ3ckQ1Q1VxSDhoZVZ0bnlOcWY2TTZGYmExTjZxM3VIcmJCSXdxbFFqQjNaMGV4eUlpUjlwb2JRWTItNVVqVU9wMVNEXzlDRHozRHVlOWU5RUZ2VXgwN09xcHJEOTRHQk54VWR1Y0RxOV82bzA?oc=5",
-        "domain": "ifpri",
+        "title": "IRI",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB6RmVFcXpvRDBJX25EUXBjUHdFaTYzdl9ZeVBjNGQxRmtQOVE0VnNzMnB6a2tUYTgwQ0FiRHNycG85SXNmWXRHaTlkSUF4UW91Nkt5VGdfZEtaUmJnMlJJcUJpaHhrV3JRd01KOTZpM0pBZVJqZDBCb0Fn?oc=5",
+        "domain": "internationalresearchinstituteforclimateandsociety",
         "language": "",
         "tone": 0,
-        "seendate": "20260922T155648Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Autonomous tractors stay stalled in CA agriculture",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1NQjdUcDA5SUpuTnlwS1QydWJBX1JQVV9OOHlaN29QVUxTRnZMRDhvLVZuMngtNGxLT24zd18tc2NMV3lTSDNYRXNKdEQ1am1Jd2R1dlRDVU1FS2Nxa0xWT0N6WDZ3cGJDdjJGaWl6T0djVC0zd0dPdTB3?oc=5",
-        "domain": "capitolweekly",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260922T140603Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Could Abandoned Mines House Pennsylvania’s Unwanted Data Centers?",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLWQyQnNOMGFKa0tibnpIY3I1UjY0ajRsWDN2eUFZN2lkYVh5ajlNU1VxeGFvcmtOYVVjaUVhclVfZ0NFMTFka29XSmIteDNHSk1LM1ZFbmgxNENfWkswRDluZ3RJS3JFX2lEdGdHUVBUMi0zaDlPQU1TQ1h1Z09rY1RIOUIwcDFMUDBjU3NRaXZuOEtFUmZpSXFXWTJFREE?oc=5",
-        "domain": "insideclimatenews",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260922T090000Z",
+        "seendate": "20260921T070000Z",
         "source": "GoogleNews"
       },
       {
@@ -215,48 +233,129 @@
         "source": "GoogleNews"
       },
       {
-        "title": "2026 CALS Distinguished and Outstanding Alumni Honored",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTGVvUTZpSHM5NWxoLWVrWEt4YTZUWjlLSzJESlR5Q1dKUVdZbzAzMmNvdmxrckdKNGFibnMxTEhoaUZDdXZIZDNnWndxejFaRG93Z1dqQ1lycFdJcHNFQVFIZkVVWU9rS3Y2c195dWk4Sk9jcTdNb1lVWGEyZXBweHpOVU9md3VZc1E?oc=5",
-        "domain": "ncstateuniversity",
+        "title": "Can a long-lived seabird evolve fast enough to avoid extinction under a changing climate?",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5kQzNnLWRqRVRYeWdvT0Jrajc2QXhfMVA1aEhhektHX3hHSWphSUJHNjRaODZUT3NoOThFWHg0WXl3TFFwN2lhUG1Hamh6WkNVZ1FkMGRZamYxRUN5OEkxZ0NWdllkVzhkQkEwbVJZVnkxWml5Ykhoalpwc0hxdw?oc=5",
+        "domain": "phys.org",
         "language": "",
         "tone": 0,
-        "seendate": "20260922T122227Z",
+        "seendate": "20260922T152015Z",
         "source": "GoogleNews"
       },
       {
-        "title": "How NYC is preparing for climate change",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcUxwS2p5bTh4aVhKbnZvMWdMTnEtSUNzS05mOTlCU2pINWNsb0tDUjlHdHEwMGd3OG94YzN1V3dZS0VTNkNsemYzNVFmUTktWEFJbzBaQjVSTnpHT1FOZlY1VjVNQWw4RWJlTmxpZ2U1WlRDcmg3eDVHQXI2c3RiZ1JJRUVPUjJYLWNmNEFBMnFTVi1Lbk9CZ1g5R0FYUQ?oc=5",
-        "domain": "spectrumnewsny1",
+        "title": "CBP protects U.S. agriculture with first-in-nation pathogen interception at George Bush Intercontinental Airport",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVUZPR1ljc2ZlRG1EeXhsWmM1X1dSdjN4bFdhNzlMZmJQTFpJbUNYSjRRVEM1NlkzOHl3TzctUjQ3Vm1TQ09UM2NZTW9rdUtVYXRDR0lUc29Pc0gweF92R0k1emUzNFRTd1hYYmJSdmFUVk1sVVY5N2xHT0d0bzkzaXA4aE8ybmpyUkxsWFNwQnlmSWpFWmdfalRxZWZzSXBzakRCZEg1ckJnSnFuOW9wUGhnVmU0aTlYemc?oc=5",
+        "domain": "u.s.customsandborderprotection.gov",
         "language": "",
         "tone": 0,
-        "seendate": "20260922T114500Z",
+        "seendate": "20260922T134916Z",
         "source": "GoogleNews"
       },
       {
         "title": "Worsening El Nino threatens Asia with drought, potentially raising food prices globally",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQ0V0VjJVYmxicVZ1Y2o4VkRNeFlrcElraUllVC1LTm9pX3NLLUFaWmgwQ2VMRXlFeGhqQ2pybEhBSm9OeWpwMDVfdmZTSWRVc0dlcnM4UVR6amhfdXJ5cnRLanBmcXRzWDVpUWdoZEltNm9nMFpVa3k3SWw1c1E3NkExOHNDTGFMOHNRYTJYVnRWQThUWG4wb19xSVQ5MVFyNlBsVkVtY09LTDl0bm1IVWtzMG3SAboBQVVfeXFMUGo0QjJEa1BoY1djdmxTeVhSdzQ5YlZvYnhEQUtQMUFGNmhCeThTMWV1MFFZMzltZHIxbm5LU0x2SlBCOWNCTzdjZzdSVTNrMzYyTHJScWxLU2NXZG9UQWhfNnI4VWpDcHdadWZ5SFhoWjdPN0xjVWdDSktyV2ZpN1NvOG1PQy1EbmdjRnZJQ2FKYm8zaVJzUF9ITS1seXRnYXlPR3RKYy1GWm9TSUpZUzhraHVQYVBWLWN3?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVnhlT2ZPWmVNV18xQUFWQ0JQdHF6cThBUFd2bmJXSlo0Y0pzS1o3Y2MxT0kxRERpTTdjZFhjSGotNjN4VERUSWRybGl4SXBwY3VhQkFtekotTmYxMk1BaG9PVUphMmZsLW5PNjZCYWlHdEs4UnFsRHdUUjFXTFBJRmVvd3NHQTdNRU15VFFwN2dsQ3Z4U0ExaXc3WDhrYnhWVlhaR2Vsd2xVLXBjUjZUZWJ4bDRtbmdBWklDdlhmNE1KazFYNHNEREVB?oc=5",
+        "domain": "sentinelcolorado",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260922T192521Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Fall foliage season puts spotlight on Maine trees, drought conditions",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMWlzTzM5dzBLOGpiUHI4Y0ljbk5HNjAtWFJCb0hhSm9NbklyMy13cUVRUUJjSkVaMnZfeGpxbVJBaV9SMzZyRE9qYTlEc1VsRktiZkJWWW5od3RNM3Jsdl9hd0k3X0Z4MXZ2cjZVeEx2TndvSHJqT2xEeDlBR0pMTFYzTEoyYnRCdEhrSHZjd2ZINUFoaGVrbjN1Ukl2VUxZRkwyRTFJdUJ5VzIzQmlvN2I0R0dKY3J5ejk1bFlma0RoUQ?oc=5",
+        "domain": "spectrumlocalnews.com",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260922T180600Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "U of A recognized as a leader in climate action with new Carnegie Classification",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVEdGZUlSaVRrdVN6ZGE1T1VGRkY4MDI5YU1aM2ZUcmhWQTVNQmxrUHg3aU9LYXpneERMT01kbExBNUc1V0ZrSzJBcEdBa0hCUG9aU3U1dTlqeXdma0hkUlVpci03YVlLaGJ0cHFHUDBsN0xZWHdsZmNrck5rZVQwSjBGSVM3LVR2WXA4OW0wZTFXVGU5ZXlz?oc=5",
+        "domain": "universityofarizonanews",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260922T153613Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Believe what you are seeing and feeling: The climate is changing",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRmp5RWhoYjNBY25oZVFZNENCU09xZXlLQnNCRWMwd0dFdHJ2Wng1eTZOMFVBdVVuSXJDZHhseE9ReWlnN1ZVcHpQRDdBSGtvZ3psaGFCeVpqZGNGT3NSN3JpVTB6Q1VqS3VEamlESzRnVGZPZWpFcHV0QnJ6dGN6MTdUSzc0UXJwdmxRQXFKWjlJVDI5WmtjWnhranpteVRjYVplQVdjYmU?oc=5",
+        "domain": "minnesotareformer",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260922T110451Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "‘It’s my duty to tell the truth’: UN chief on the climate crisis, capitalism and reasons to be hopeful",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUW12MnRsdG1rUDhUVjNDd1lSUU5Bb09wU3E3WTNrbHNJZlkyRTg1TEdibWh5cVB0anBPZTJiUFZFSU1NcWVhU2JhUVpPejVWUHQxZVJ6TGJNWVhVZ0xQN2hqSFVZMVRxQlg0RnQyamFCS1FEaXN5TWVWcXpQbUZ0Yy0yWjZocU5teGRlUWo4OHFGZWVlczhGOTd1bHNIelhrajJqaFp6emtDRWc3WUppWXo4MA?oc=5",
+        "domain": "theguardian",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260922T130100Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Georgia Residents Sue Over OpenAI Data Center",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbzhzckNWVU9jYzVCb25RYnNLc2xzU01sYm4ydmVzQVNCMFFYTWk5QmNWeU1oRGNqNEt6Y3VvcjB6NXgyUVU0OGxBaEREU3JoTEQwS3I0RlNORnFQZHpCZkJuUXk1Wkl6aktiZTdvM2tXV3VHcFJQVTJlOExwcG85UXZnY3huSVZ3TkRjUHFudXpwcmlQ?oc=5",
+        "domain": "insideclimatenews",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260922T182351Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Climate scientists fired by Trump step in to fill U.S. report gap",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNa2xobVY5N0ZtdXczSWFndmhNUjV6cUdDa2pjcDFjNkdVT0lDN2dsOVJxWHl6dWRIYTFZZFM4YkNFdVNYck01bEprQzBhNm5OVmc0c19qWVNUNldKTXRHd0J0b0Y4TENObW9YNUdOZjFGZU9abmRJbWJDdFV1VUUwQ2xXYjE5S0VEWnV2TlhCcVREaXhZVzdkSkNFdEh5T2xZeE1IZkdWTVFybDl3SlV2ZG53?oc=5",
+        "domain": "nbcnews",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260922T130000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Building control and trust for farmers in agriculture’s generative AI transition",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbHM5WWlsTnI2bHI4OHU0MWo5S0NkUXVHVFVUM01WQW5RMDFEd0JvRFMzeHZ0M0hvcGN5MjJpbTQ3ckQ1Q1VxSDhoZVZ0bnlOcWY2TTZGYmExTjZxM3VIcmJCSXdxbFFqQjNaMGV4eUlpUjlwb2JRWTItNVVqVU9wMVNEXzlDRHozRHVlOWU5RUZ2VXgwN09xcHJEOTRHQk54VWR1Y0RxOV82bzA?oc=5",
+        "domain": "ifpri",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260922T155648Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Storytelling As A Catalyst For Change at Climate Week NYC Film Festival",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMTVZWjdaMHhDLWZzSWlMc1B6U3FFREROaUpuX2tNRGhQQ3pJSzBacTc0akdGU0ZheEd1c09xMkhfc1FDMkdobHp2bUxVaGI2WERQVnZZRHJ1OWptZGpHSWc2WHNBS1U2RGZFdXRCMzJCeEx5YW9JWktlMHNfanhDZWtsalRpV0Q0cGREYjg0ME1ESk5nOVpVNUVpcWNaTlNjT0swQlZEVEp2UQ?oc=5",
+        "domain": "foodtank",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260922T161543Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "How Arctic Ecosystems Shape Our Climate",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA1WklSSDcxSFo5SjZSM2N6clNFSVY2cVhIVmdLQVIxSHNyQnBKWkxxZ3VGSzRYakx6eTAwbGRySUJJTWhXbTN2eDVic0dDS3FsYXAybGZLTy1TdHp4ZkR0aU42LWRRZ3BuNHV2VlBIS01UaWZLbUF5R3F3?oc=5",
+        "domain": "columbiauniversity",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260922T131742Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "DFW Weather: More heat and drought to close September",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVFJwREJpSHR2WXZhaTJPTmQ4Y1JQUWlZMzRSa1I3Q2EyWlVybUtjZWxSczJWaHAwU1FMRnJacHZKQTlZNlNsb0RNVl96NW9CSzhxN0FOWlM4bEg2WUhSNHFzaFdhVnpGQ2hjNlR6QjB5REl2TUt6NDR6emliR2RYWXozVmhOMUJXZzhKY0U5TWxXXzBVUFczV2tNeWlyUHg0b1h4ZWh1WmR1bDF1Ym9IbUphSGdUcGY0bVhtUTVDcFlWd3phdS1WRi1B?oc=5",
+        "domain": "wfaa",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260922T203200Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Moldova to impose 60-day energy and water emergency due to drought and rising costs",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSXp4SGZWUDNYQ0gxUE5Mc21MeUJ6STUwRDZRNEVwMmxjTlJuMDZQZkxBdmZtWW01enBTakhxblZ4SkhuZkVneVBTV2dWWUUzU0tVQXVlWldNUHhQYlJERWlNSzduVkVCZDllbTFfQjJWZGQ2WFJLdHdRN0RmbzV0cW9Sd05qZUthbG1nZ3BrQzVMMWJvTFU4NmM1YzdCVXNxWGRqNNIBqgFBVV95cUxNNjg1UUlPeGs0SWhGUVdqQ2lrRWFFSW5VVEgtRWVKc2EwNTc3VU8zR011cWx6alVNd2o3U3FCVEZtbjJMbkRPbnZYZG1WX0ZsTXJYZ0FDZlB3dmxINmJrbDdCeTM3X3ZvMmNCY3ptMVUzOTNUT3BfSlVYelhQSVZia3gtaVJfNkxBNW9oUVcwdWtVdHMya28ta1hiQVY2SGVCUDh0dThfRG9IQQ?oc=5",
         "domain": "abcnews-breakingnewslatestnewsandvideos",
         "language": "",
         "tone": 0,
-        "seendate": "20260922T073726Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Climate Activists Target AI Data Centers & Amazon’s Plan to Build Largest U.S. Gas Power Plant",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAtQ1VOdzI1MVZYVWRFU2JGZm9aLW45OGc3MzQ1akRfVF9OaDZpQnhKQW9XejdzakhaRmxFeEFmdVJDRGphcXF6S3RNa2JLcFZzZ0J4a2E2SG1xbkRqTWdRQmVFelQ?oc=5",
-        "domain": "democracynow",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260922T120000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Deadly temperatures spotlight workers’ need for heat protection rules",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTmZiNldjbTBlOVN4bi00Nl9TTFBwVE5CMG5MbEhLMHJXVDdZMXdrMnQwMFdCY0syOWlUTWMtTG5MRmdVN3otWWYzdVpNSXpxUm9EQkVoWlUzR19SZmY5aVczV0U4amJRd0hOS3Y4S3p3b090bUFKc25PeGJkMl9adjJaM0pZRjJoZGxLcFF2WVBLd3NSQUtkRlJPY1pBZEhaWDdIX25YX2JFOXREYl9fS2NBaw?oc=5",
-        "domain": "environmentaldefensefund",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260922T161148Z",
+        "seendate": "20260922T195650Z",
         "source": "GoogleNews"
       },
       {
@@ -269,6 +368,96 @@
         "source": "GoogleNews"
       },
       {
+        "title": "Gov. Gavin Newsom touts California climate response as Super El Niño approaches",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYzRIZnlscUdmM1lvemtDMHlNTXhmcGRhNHEyMkJrcUdfc3otR2tWVUhXOGxGc2xuSkJoVU1qcE52U0J2OTM4dUVoUjVLSDZTR2xhZnpoMGswOEEzWnlQaUlqVFFVeWZObVdCNW5mWkp1cGJadURWQ1FsdU4xSGtOX3NCengyaXMzRzhn0gGLAUFVX3lxTE9RZURJd3hVWnJuTEoySV80cy01d2I2QUdWQ1o4ZjFlVHA2cEYtSkhoQmc0RXZGMWVZNk8zb3JlMFpfMjJHYkY2LV8wNWNGVm9PVkl4MFRsMVVLMnh6aEttVUxkX0NIR2xOWnlEWVBHaHg5SDQyQUt5Y0VLVHZjUEowWThtRkl6dWo0MHM?oc=5",
+        "domain": "sacramentobee",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260922T181540Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Climate Myths from the Comment Section",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQVpYUlVpRUIwc3Y2eFRlMFdKSUJUODJYdjVTOG15MjB3cmhfMmNmb3hmSV9vWlU2YlZXZWdIdVJ4YjZYNDVuTURrVktFcHlDUW0ydTJmZncxLVRlLXM5Vmttc1ZZWEpod1lsTURabTRFTmdqSlA1RE5TMlduQm4xOU5aQnVxVHgyblE?oc=5",
+        "domain": "plant-for-the-planetblog",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260922T194522Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Trump Compares AI Warnings to Past Climate Fears He Wrongly Says Were a “Hoax”",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPb3ZHQUJ6RlRfTFBVS2pQMGRqZVhHS1drZndSWDkwOVBXT29nd01JT1Fvc3NWdVpBOXdFcDdBb1lYSWNybTY4Zi1hSEZUYWJzQTdRN21nTVJOeHJKV21oU1Y1Z3YtRVUyVWcyblpmY2ZZVEJQU2x1dUpFeXFOa1FZZlpNbWNiSkYwcC1KU0c5U0ZqSG9xdHNQaVUzT3pfRjBMU1ZlUFdtbDNfQ1k?oc=5",
+        "domain": "truthout",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260922T183216Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "GSR correspondent Doreen Ajiambo wins climate journalism award for COP30 reporting",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTlhScjRaV0JSbDg5cU1mR1ppRGlCaUJXVHpfbmR0Q3BlN3RxdnNhMEdMSW5obXllbF9TTnhLbV8wMFJuXzJXNTZHdk5tZXNXcFlJczRTQUl1X2VVbENTd1NhbjY0dy1ENHd2aVFFQURBNUpFdk1YUE1IX3djOHJMS2tjdTdWYlo1V0FsVFYzSW1sZ19MQlFfWWpfMXZaUnVidENRWjNoWUYwaV8zWjFsUEFTRHk?oc=5",
+        "domain": "globalsistersreport",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260922T192811Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "The world laps America on climate",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeFNsaE8yVF9Rc2JfNW5LNDV2SkVhYkM0ZmpleWVZTGtHdjZlMDBLSUJCdGtlTTdDVWllNlVwbGlvczZIWVhxTWlTWFVjUUowZVktTmdPazZ3X1U4cmFjcmw2QnVLdkRZMU5FOElyekRKbTI0SjZaWlA1Q2V2alVGbWUxX0c5OEdZVnZBMzV1Q0hadXJLOVlJaEExYmQwcjBJYnJyQko3NDk?oc=5",
+        "domain": "politico",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260922T172440Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Judge Dismisses Unusual Climate Suit Claiming Oil Giants Broke Antitrust Law",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSW9Td0s3MExUbG1sbW5rRmw5bzZxMWw0Sy1IeENic2FpaGYza1Z0RFptcE1jVFAyNnVSUVZ1T25qSnFRZ3k0ZjZTVHhhSUk1XzBNRUp5eFh4V1ROWGliekNWb1A0bUZLbW1LR2t5N2xIZzBIWXBuNTVKb3hIdzk1RTd6ZWZIRlc1VUN6X21YcXktdw?oc=5",
+        "domain": "thenewyorktimes",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260922T205004Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Oklahoma Drought Commission Reallocates $2 Million in Relief Funds as Conditions Worsen",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQkFXRkxoT1JEby0yZ01veWxjbHpyMmJSUkZYWUlhYmpKYjdDNnhDSGNabGI0T1BaU3JZT05uS0E1REpyOVdJbVNPb0E0cUxWSWVjUkZobFYyMXdPYjgxaXVYVlZTTHlVRFhSMmQ1dG12T25wTmFyajFhZlRLNUw2Q25UQjZzZndHR1VTX1JlM3dBZ3pZRHJJR0FyUEhwVm1BLVhwMlJMM0FsOWdabjl0b2FuNV9QcDM0a1FVOEdvc2I0Nk4zdjB1eUhWTFNQdw?oc=5",
+        "domain": "oklahomafarmreport",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260922T184153Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Effort begins to fill the void left by terminated US climate report",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbzNUMmhjNGpXWXN5bTBqeHpvY2RXcmYzWXlCaEUtdVpqSlJRaHNxTVJlYlU0QUotTnFOSlBUVnRSN0ZEd1I2bTBVeFBQQUtZT0tJTWNQX05laGs2TDUzU1BVaU1HMjhBMnc2d2lCSHFJbU5uN3lBbS1PX2pPY2RXT0NHanFFRFJSUlhuNjMxdEhfQkVqNTJDYVZGZmF6bzBpdTQxcDZSdy1CM3g3?oc=5",
+        "domain": "arstechnica",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260922T162630Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "The Future Climate Benefits of AI Are Worth the Risks",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMYzYwOFd6MFpGcHA5RUpMV1I2SFh1dWFSYXhxM2llX3FiRWMxRVM2YWRzYWtWdUsycEVxY3A0VlJyaXRYa29FYTBSa2RfNnphSzlYbDA1SVJSQQ?oc=5",
+        "domain": "heatmapnews",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260922T163205Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Illinois EPA releases 'Comprehensive Climate Action Plan' to reach 'net zero' emissions",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOG5mV1U2LXBoLUhrdjNGNm5OV2xUT09raWFoOHp3YzN5MUxSbGpncjY0RE4yTjF6NWpoekFTOHl2WDM1OW8ySGZELUVfY1pyNWRpWUJXRG9MdHJkSkphMWg4SW96eEtCRlNHeGItamQ4WVp5ZGQ1TUQ0aGJhTTdnSGJxbzJSLTVIYWNVX3FPUnJYaVp0d3FsUTFpV1c5WmVMWk9vN3pKNk1SYUd4Y204UFRrNk5BZUZPcGpuVXpqX2E?oc=5",
+        "domain": "cbsnews.com",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260922T185143Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "My new NYT op-ed on climate change risk",
         "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE12Zy0xM0ZLeXZBVWhOc1c4Y0RTNjB0bk9ERldveW1rUzlsZm9lU3lVYV95ZlNqY3R5ZmdQNW94NWpYVkxGd0h4UDBUNWxKLWlxb1U3QWNKVDd0bk5EeUUtcUhOVERXb3h6S0N2cmNIcnZ1QmNfYlVB?oc=5",
         "domain": "theclimatebrink.com",
@@ -278,210 +467,21 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Widespread Rain Brings Relief to Northern Hills, Drought Persists",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeVdYVHoxTFd4aW1qZGt4SUNhY05INjBtWjhTdWRlR1RVczRuZ1NjSkN3RTkzejJCZVFBeE5MU25EYkZtNnNUNDNCelJRUlRLRUIxNGFVdWM0RGFWSlphNG1CUE92XzVSMVd3cEI0UzBlSnBIblhxMWVFWGx4S0NCc1g5MmtRakFOZERvLTRva2xGREtnbGJMekFKYUJvVlRsR09WTg?oc=5",
-        "domain": "kotaradio.com",
+        "title": "SWCD’s Ag Venture shows the many facets of agriculture in Wood County",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVkFUYlVzZTdfbjdHZEVWb2ZHd1p3OVY0WDlOZGIyaDEyd3BEOFhmbC1GQlNkSTlEQlZ3TzRERWdvYkRPZ01qbW9TUlBIOEtFdmJpQ2NmVzk0LTQ5c0p6RklSWHNwZlBWUnotUTNZYllnY2VCOFg0QWtLMVFvaDlzaTZGck0wUzZmU2J3UENsRUJvclZKSFlocnpGZ3Z0MVlMNnc?oc=5",
+        "domain": "bgindependentnews",
         "language": "",
         "tone": 0,
-        "seendate": "20260922T152739Z",
+        "seendate": "20260922T182916Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Forget gas prices. Pay attention to diesel.",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTVlxNU5UQ2dUYW10Y05DeFhLdHlsOWo1c3BuN3lPMU9DQ2VJamszRHNmYmhWZS1VVGEtbDdoZ3laVDZ3UkNfa3NKZEp3UVhnRHRqVVNRMUtWa2s0bDhobXFZZVdiUFBSUk85MV9TUGVZNzBpc0FDRGVCSm9HRGJQa2E1b1hPNVpXTjNDX29BMHlQdw?oc=5",
-        "domain": "yaleclimateconnections",
+        "title": "Agriculture leaders in Oxford detail pressures facing Alabama farms, forests and poultry",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbmU3YVJLanRhVUFJYzlaNVlubUNUOFRxSmh6bm1pRUp4bjRzOUR5ZEwwVy1NY3FFQXF3ZW9xRm9ZYVlxa1lfYWtZdzRiOHhOUVAwRU9RanhHU0hiZEt6M28zU04wcUdKUXNDV2dYckRUWE5PeGlSMUJpa19OQUxvLS1lX1JiSHpZbE1kMVQ1eXU4X3BUUFVKb29iczJfcHJOc0Z6eFoxWTN5a0FtcWpjeU1Pc2hZMjlYRUE?oc=5",
+        "domain": "wbma",
         "language": "",
         "tone": 0,
-        "seendate": "20260922T120000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Dallas weather: Sept. 22 morning forecast",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYW1DLTc3SEdsdXJyQ0V1T2MyMHprLUhMRzl2blNmU2lDdllTZlFacWQ0M0JiU09HSnN3VW5jVmFYV2FaV2pOM2VhSXlqNTF0UUIwcnM0YUN5OXlTTGRRdkRjaW5PNEhVMmg0UmlGdk5lQ19DOVBxWGNSbExjLWdGaTNjZkxYU25SeklTSVhzeDgxLXRhbFVtQ3VlRFEtWXFnN2ZhLXpsSGRYd9IBrwFBVV95cUxOaGFMd2t2LVMzb0FfdmlaU2sxMW0xVnR2S21pdGZoQ1JTaDRIQmFsUTlRR1hxdjVDR0gzSlRqMFVuVjdQcnRMSTJxalNvN3lzOVItOWdocnVPQUlhSE04V3JzRGlqcFlaVW8wYl9vcEp5ekFYSlRucVphc1BGT3NyVE9VYzJLaEZuUUtaSzNZNFk5U3Vyd0F1eURoa0FkTDdQT2Q3MGlIZU9CZnRDQkQw?oc=5",
-        "domain": "fox4newsdallas-fortworth",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260922T122448Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Trump rejects AI regulation, citing parallels with climate change in UN address",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOWZfbEItUmtMUWM5bklpRDBsQ0dPdTQxcDR0dnZaaDF1V0VoVFE1Tm1UWm1GWjVFVFl5aHJCZTlSckVMa3dYUFl6c3Bka1VHYlJHR1pZRHc1LWY1YmRlekV1aFNFbkM0THh4S2lYMXlwMGQ1MkZ6bmRpNnJrTU9ndnB5NjhUOFN1ZDNKUWZQd19aTFRjZGd5U2FLTVBtY3NHaUdFdUVIV1E3YWhLaTJVLTYybGVxOFJiR21TcjZ2WQ?oc=5",
-        "domain": "scientificamerican",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260922T160000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Can a long-lived seabird evolve fast enough to avoid extinction under a changing climate?",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5kQzNnLWRqRVRYeWdvT0Jrajc2QXhfMVA1aEhhektHX3hHSWphSUJHNjRaODZUT3NoOThFWHg0WXl3TFFwN2lhUG1Hamh6WkNVZ1FkMGRZamYxRUN5OEkxZ0NWdllkVzhkQkEwbVJZVnkxWml5Ykhoalpwc0hxdw?oc=5",
-        "domain": "phys.org",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260922T152015Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Committee to discuss what could be done, resources available after months of drought in Oklahoma",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMDlyQW41bVUtXzRNaExaWFlISFhOZG80bVV1NU9aM0RjSDBacjlRbmZCNzVEUzJkdHZWTU4xU1hvbUd1ejROY05WZnFZN1cxaUN2NjVtdzBGWDlkQ01fbVJySVRQOXdRWFhOUVVOZ2UzT2pXQ0xaQUZfWkIzQ01YVHFKWXFKVFJ4dzVoWTF4bHhHMUNWdkRR?oc=5",
-        "domain": "koco",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260922T142100Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "R Street Testimony for MD Commission on Climate Change in Support of AV Deployment in Maryland",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZnVKdjR6bml0U1ZkU2tZeG43Zmo5Qlk0S19PQjlEYUF3cV9QdnVJR2RpcWlKc1gzMWpUNXpmc21nMnYtSjl6a1lWMm40cW1jcHVEZ1dYWHByRUwyQ0dIZXB6a0s0TmZXNURINWNDdjN0UGtnSXh3SzRLalZON04zMXp1YzAwWmVuaEtJWWk0UkhvSUxYdVh3R08yU3RjRXpBcXR5QndXTWRYMGZtOWRXZWxYWjZwLTRwSlV2bEg0N1hpMHpBQWk4?oc=5",
-        "domain": "rstreetinstitute",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260922T113556Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "As drought returns to Houston area, some relief may be on the horizon",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVmRoYTlTYWk3UWNROGJ3WnNXM2s3RzNqc1cxd2NmS3ZfUHpod0VXUVNPRzJSVUNndUJkVmw5dU44Y3VoZGtCYm94SGowTWd3YW0wVVIwWlRSNVFCaDNobWJwMXZudUZsam0tSzdkcHB1azVsNVdZWFMyUWpzMmtDelRmdS1OUG0zRjFKbzYxSkJ0SEJqYnd3Q1FVWUVzS0E?oc=5",
-        "domain": "spacecityweather",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260922T115119Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Earth breaches 7 planetary boundaries as Climate Week opens",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Xa1NqWm9pQ1R5SzVzRXl2Z3BUV2Q4OFdmbTgzZVRYdVZUd0NBc1k4QlhKSzJMVF9yVFhwWVl6TUlISFRyVktJVldGano0bXpvdXVpNjNoUXNkN2JLd1lLdkpCTzFVZ0VlSmlvbWliODNaa1A1QVJqcFdDSQ?oc=5",
-        "domain": "qz.com",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260922T134107Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Climate adaptation solutions need to travel. But they cannot just be copied and pasted.",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNFRPN19IRllUVXFRUm9pOVl5aXR2ZEF6T3FyOEZmeHF3TElUTl80MUQ1dGhaRzMxbTc3YXc4MVZ5bXZocmxMRVRTM2pFT0xrazY4S1VjLTBVN2NJd0VxZXhaRFZoNmc4OW4tY3RJZEdFcGhvNm1xZFhvcjg4c0RaZUdTWkRhSlJSYW1RR1lJTkhzNVlsUzZtYnQxVWh5TmpBazRteTRCNjBSMFB0QkRrenVXQ29pTWFVcl9r?oc=5",
-        "domain": "climatekic",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260922T151146Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Letters to the Editor: We need more reporting on the climate activists pushing back",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdm9waGlMTmMyVExqMUhDQ1Z4aDFBcXZNeGdUQUtUMGdxUVhzVEdzc2dCMWZGeVhIMm1RNlVfT0R1bUJYVEl0cENRM0xQTkIzWUtRdnNLNjdFNVIyanVCSE0zOXIxUExraTF1ZDNFSVRfb0ZhaU1VM05Cams0NkJoZndiMlZEM3ZUa3dLN29xQ1NKUWVBQmVWNHl1SXM5d3c3NzdVb000YVRvTTg?oc=5",
-        "domain": "losangelestimes",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260922T164036Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Agrivoltaics: Solar and Agriculture Co-Location",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUldjc1BGWmtNMTF2X25rNlNhMXVpSGxGS2FxWGZwYUdNNHI5REhJcHozazh6NzRKSDkyOWJCeUlwSlgyNkYzd3pKLU5NTVA4OGx0cGJRWGVEU3Y1ajFlM2V2NVJpYkZ2UTN4blZFWFNVcktPRURjYUtZM0t5X20zMUpvdXZueXduN0E?oc=5",
-        "domain": "departmentofenergy.gov",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260918T180000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "“Politics Are Desperately Important at the Moment”: Bill McKibben on Midterms, Trump & Climate Crisis",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4xLXRaTG9zLTg4Q3otaHZIam1uTUpRZkprZ0xWTnZJMzhsbHh3MEI2bldwZHNtSHg5Y21zUG14SjRTUmhpVHM1SGQ2anZHUFBZd05IcjI0NU9fZl9ZNGx2WnVn?oc=5",
-        "domain": "democracynow",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260922T142153Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Oklahoma’s current drought is bad, but residents lived through worse, climatologist says",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdXdOal9jQmxpbFVjNkt2dk5fcHgxUngzVEdKaEVmdXl4WFlCQzhBSTlCY1VWNWNnYVpPU3B3VFE2TmdyLUFiQVZVem51NGlCQ2tjaUI5eWF3TFZqd0ZQUzdjRjBDZEwtdDJZakJDZzJ6b0YzbV83LUJ6UDNLMlpKaFctc3BEclN1TURib2Nvd24xSHNmWWxXbGlfZ1BCX2lrb1dMRjdMY2NFVTVfdnlDbXNlTkxHZw?oc=5",
-        "domain": "kiowacountypress",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260922T110000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "How regenerative agriculture builds more resilient food systems",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObW5idUJKS0N5cEFoQzJmcGZWMzVhMFVHTmhldmNlUjhQUnVpQ2pVZEZ5UVRFMVR0RmpiVWtpdDFaSXNDMjF6NV90Z2J3b21TWVJjaWRZcm9POG1mWjh6OTByRUctS0dhVUlqbDdGSWtJTDBJMWNtX0cwNzRhVFI4ZWlSUDBKYndYclREMzZSd2tTcU0xQ1ZtVTRKeEpfZUZxMUE?oc=5",
-        "domain": "fastcompany",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260922T132100Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Summit County businesses eligible for federal drought disaster loans",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdUt4Y1dmT2ZSTHlnVHJrRGNMVGs4dlAwWTZ2cTFLZE9saG1VSnlKb0dSRnlBd2xmZEZGZVZJTE5ab0dfZXFrTFlJV1N4VUZ5SEhLUWJKb1dIUFB3NHQ5TWd3S09QNDE1WnFvbWFydF9nWGU3WmYzQVNYOFA4X2EzZ1ZlRWdmdGVuZmZrMXktN2RVa0xaWVZ4amdrTVV2M2c?oc=5",
-        "domain": "townliftparkcitynews",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260922T161037Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Industry Leaders Talk Transparency And Trust At Annual Climate Week Brand Sustainability Summit",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQemtZZmd5VEJMYXYyOEU0WkRJM2lxRVFHdEMtMzNUMHhUUi01dVNuYzdZTGZ1S0lTazZBQVhlQ0U5eS1LRTJYTjUxLTBSZktZeHRTdVRCVFM2VHNhZU5BYk9IQURFUGZsZlVpb0Q3elUwOFdUUmYtRmJyQnllbEVGaVA5S1ktNWR0ZXBzbnJMano2aFJBd3ZqNkhYSnpZdjlJUDFEVWJUbkRtMXozRDM1Sl9HSzRaNFRBUmtYc2MwVGZYZG5hNl9Yekdn?oc=5",
-        "domain": "foodtank",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260922T051039Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Symposium on Climate (Im)Mobility and the African Court’s Climate Advisory Opinion: A Shared Call for Climate Justice - The Amicus Submissions Before the African Court",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNM3ZRY21CdW40bVNtTVZVekpBMFBpR0FmdHdRWlRxLXFSUHFtVWRzbEE3VTNVSm9SaGdlT1JHNkdMQl93bU9ZX3pvLWVaZ1R1cS14QnZtcm55VjBFcXZVU2pzM2kydFdJQlZFajJnTWFVdWFEalhJNUtuMFJ6NzZlajBuYkk0a3RjQU1acjZuazhaSVhCVDl0NldRTmt0UUVOSElOTkI2bVl4MGJhYzhIbnVLaVB2ZWM?oc=5",
-        "domain": "opiniojuris",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260922T120252Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Water and food shortages are directly linked to climate change- expert",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdEk3SjNLRW8wbTFHU3JTNXZxUTlOYnU1Nm5HM2xXcWtJTnd2VnBOMGFXUFJ6Rk1CWUxHVEdVS09nNEJWZGN4OGtGcHUwaGp3czlQTVhkd3RZc2JfSE5LMG9IUVhDa3NDM25hR25KOHZMNkk0SU4yOHU0ZmhaY19ubDNTT1M1SzdmUXltV2N4dVZSVkFuYS1DRDg4a3h1aEFhWEw0YW9wZXNWUkVyQ0R0Um1SamwxWHpzVHp2TThNZHdpQ1dV?oc=5",
-        "domain": "euronews.com",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260922T142836Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Development finance institutions rally private climate capital as US threatens multilateral banks",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSjRNTmV2Qmx6VzRVc3JMczZsLTZpUmZ3WmRtbzE0X1NZLXlSVkZXMElReDZOMEhSZ1hxT0tJMXVPdnFkQ09MSHlSdG16NkRiaWdJd2s0OXpZbHZtNDlSa3VJLUs3dGlyQUpjeC1RUDBKNl96NDdyemRyZy12QlpoVTNDUVYyVXQzX3Vha3QyVU9lTl9FeGZFUk5BTDdRV0VLS2huM2hrZFd4RGNhSGl6MmI1R1Fya3pjTnpXcEU3QQ?oc=5",
-        "domain": "impactalpha",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260922T105634Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Climate change, overfishing: Lake Chad sees fish stocks dwindle - Focus",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNM1NBZng4N09wUVhQZmw2aE9jeHVZc05XRnZkNXQ0VmlOWGtyd2ZnT0c0SXpHLVZjem5qTHA5U0RrT2RDYWRnTlFjSE1VLWw2ZkdQYzNvOFJ2QVc4ak1qOVFwZWZLczVpanRaaU9Cd2tRRVM2RjduY1o4S1NRaF82eTA0TWNYVllISWJNdWUyWjE3bFYzOUM1UmJOendEMVlHVkJqUUs4RTBmU29lQlpGV3d2dw?oc=5",
-        "domain": "france24",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260922T113056Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "World leaders address climate crisis before UN meet amid record-breaking El Niño",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOY3ZXUFotdXFXdFR3cjJwX0dfX1JaaUFaTmJySWdFQzd0QlZCWG5rNWx4eDBpSEc4SW9TU2tKMHRPRENqRFNpbUJOdW5hQkNibWhXek1kak1hZjlINWd0d1F1UUxKZ0tsVWgyZWlKTDUxSzRqYkkyVV9XYXpLT0pGTjh2aEhnZTdvb3JHRDVDUm11dw?oc=5",
-        "domain": "theguardian",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260921T233900Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Meet ‘Captain Noah: A Climate Change Superhero’",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQWppeEFtRkY4SDBWUmc3akN3V21qc1dYYmROQ3p1QV8zQ2ZiMzVOX25NaG5FNEg5OVNNNmxkT2VkeHVrQzZTQWd2OFdPZ2UybzNpM184YjY0NXZ2dnVYN1c4eFFlV1dua0ZNeWp1YVhKTzRQODhUN2lVd0o4ZG5idmJGTUZ0UQ?oc=5",
-        "domain": "fox8wghp",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260922T163935Z",
+        "seendate": "20260922T180254Z",
         "source": "GoogleNews"
       }
     ],
@@ -571,12 +571,57 @@
   "entities": [],
   "events": [
     {
-      "title": "CCAC at New York Climate Week – Day 1",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0zSGVWdGxtT3JYelpxaHlqc3h5Mjdwd0k4LTVBWk9Bd2pIREtQdVQ1TjRrUzZjMUJMaXk2blF6MVhoX1k5eVB3UUYtZm4ya0s2d3FhQ3hwdG9JWGUtQ1AxeTk2Rk9IVzVMUk1OaEFTc1lIMWdj?oc=5",
-      "domain": "climateandcleanaircoalitionccac",
+      "title": "The court’s coming climate-change case and the very confused doctrine of preemption",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORGg5M1lfcVJ3eWFMN1JfUlRPMEg0cEZrak5yMHBma0lBb3NxUEFCMVJ2TlZLUW5jVlZMc3cwMDJmYUtkM0ozaFlVTWJGblVDaEI4bGo5Vk9pck1GVm03QUhPRkxvSDNGdlJ1aXhpVk9zNWQtamdtcmJFbE1OWktDNVR1dTBSSEVPemJwYlRNMm0wTlg3QzVpWWhmekJIREEwUGpVbzJCejl1X3BBcTZXci1ISE9JbElIcVE?oc=5",
+      "domain": "scotusblog",
       "language": "",
       "tone": 0,
-      "seendate": "20260922T100127Z",
+      "seendate": "20260922T135446Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Sudan’s historical famine echoes through latest hunger crisis",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOR3RiQmN1NUQ1UGFzMjhKdnpMN2hwS2VxcjRNcWo2ZkxIRGppc0d0WHlHVmU2Qnd3eVl3MjR3Z0ZxNXlmdkp2d0RSbTJXYThqNkxFczVOMHU5bFFzcUJGZG8tYVVQdGRpbFJKMzVNaGxYdFEtbW9RWHJTWU1XRmtlZTd5Mk4tcVdialFoTElkWFNoOXQyM2xCNUJMcDFwVF8zUnFn0gGoAUFVX3lxTFBOZ3NsYmhUSWRLMUZhODhSSl9BalFfXzNlZnlWMGpybjl0alMwZEwyanZTaUNkTWdSTkN6YzRwNzZSNXY1cmYySUZmbGVaU2ZyZnQ2anJVMjhidUZKalh3ZFVNWHBWNG5MN0JmUGI4SjB2UlRCbGlqazhNdGdfNTBXaE8zNkl6bGo2Q3VTSkRJZkhoS1oyRTRKVUVQWm5MZzJoYjhEVnQxMw?oc=5",
+      "domain": "aljazeera",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260922T175048Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Trump rejects AI regulation, citing parallels with climate change, in U.N. address",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOWZfbEItUmtMUWM5bklpRDBsQ0dPdTQxcDR0dnZaaDF1V0VoVFE1Tm1UWm1GWjVFVFl5aHJCZTlSckVMa3dYUFl6c3Bka1VHYlJHR1pZRHc1LWY1YmRlekV1aFNFbkM0THh4S2lYMXlwMGQ1MkZ6bmRpNnJrTU9ndnB5NjhUOFN1ZDNKUWZQd19aTFRjZGd5U2FLTVBtY3NHaUdFdUVIV1E3YWhLaTJVLTYybGVxOFJiR21TcjZ2WQ?oc=5",
+      "domain": "scientificamerican",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260922T160000Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "October Agriculture and Natural Resources Programs",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOc1h1VHAyMFFucUlwa1FHU1BTTWg4Yi1nQkRLeFRXX3dDU3dVcDJBRDFqcjgxYjI4djB5SUdoZWtQSDlNUDlDQjdScXo0SHJnNnVSUFY3akM2ZjhRWDdVUWRvM2JPVWVVMmxJUzdMOHVSeU1tTUVxSjZDUjI0cTEzUm5vNnRhOVlIcDg4bXR0S2g4UU9JYWtZNE5UY0NrZk9IZzBHS2Rn?oc=5",
+      "domain": "alachuacounty",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260922T192102Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Climate change made Northeast droughts less intense",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOLWYtLWJRVXdMRnp0Z0pZZlhpcWZ5cTZsbGdFamhlLWl3b2tmUmw0QWZrVmM0djRIX2s2NUF1akI2Z0NaVVdKcUNLbjRhTVpLX3VsM2REbDJ0R3pFU0loQmw0eFdsaGZDRi1Bd0twUVBTQmh3VU52LWFicWFZU1o2ckRjSGlKdw?oc=5",
+      "domain": "valleynews",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260922T191455Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Lafayette’s Climate Action Plan 3.0 charts path for future",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZlBRRzZ1YTNJRFlFT1AxTlM0ejdvd1dObVlaSkhzNnhKaHhZQ2g0YU51a3NwVi1DeV9Rcm9WRENHdkU3TmhTbWRESTF6ckZyRmlQeG9MbkQ3cm1Qd2V1UjlvQUxCZTYwS0c4MDhuZmtXb2EwdjE0RUktTzZjcXkwTkVLODJ6ZzZ1Tzd0V2x2WFlSWVhFYVdaamlEalQ?oc=5",
+      "domain": "newslafayettecollege",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260922T200109Z",
       "source": "GoogleNews"
     },
     {
@@ -589,12 +634,48 @@
       "source": "GoogleNews"
     },
     {
-      "title": "The court’s coming climate-change case and the very confused doctrine of preemption",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORGg5M1lfcVJ3eWFMN1JfUlRPMEg0cEZrak5yMHBma0lBb3NxUEFCMVJ2TlZLUW5jVlZMc3cwMDJmYUtkM0ozaFlVTWJGblVDaEI4bGo5Vk9pck1GVm03QUhPRkxvSDNGdlJ1aXhpVk9zNWQtamdtcmJFbE1OWktDNVR1dTBSSEVPemJwYlRNMm0wTlg3QzVpWWhmekJIREEwUGpVbzJCejl1X3BBcTZXci1ISE9JbElIcVE?oc=5",
-      "domain": "scotusblog",
+      "title": "The Big Threat Has Been Climate Change. Now Comes A.I.",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcVIwd0dvR0hHT2JpZXQ4UEdEYkYwZnowaHptOVliQlRCb2dyaGo3SEsyX1hNVXZNV056aGpnNGlWRG8yeTMwU0FGY19WMFRlSThTcnJWU0ZmM2xmSDFDZGwyMUl6dGJLeUFCTWVBcUZfaUtxOHRWc3Q4c3hfTWhKejEwblZVM19PXzhTaWt3Z3pZd2hJN1RlOTlOcHdHZjloTVE?oc=5",
+      "domain": "thenewyorktimes",
       "language": "",
       "tone": 0,
-      "seendate": "20260922T135446Z",
+      "seendate": "20260922T163329Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "New Harvard Database Provides Policy Insights Into Climate Disclosures",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQa2ZhNFRKTS1YYXZzYkpQUjFGNDEtWU1SbWtCakEyNXQ3QnJMZi1aMDN0Xy11bk1ndGhwRGE4WGdJRjh4emg0TTZKMkpGbXU3eG9LX25jYXRLSGdnc0hZNkNRbDdfeUlkdXBKZDhSXzdwQlZsbkhtVFloMC01RkI1R0wtc05IUGhfUk5TV2VVem5COTBNZjgwdQ?oc=5",
+      "domain": "eelp.law.harvard.edu",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260922T192539Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Investing in climate resilience",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVzJmYVNVZlI3dlNlallQRkxPWkY1YXltTEJEVTBHVXQ5X0RJSWVraGFMS2ZxY04zakthNGo5WTVoTmp4NHVzeUJBM2NtUkpMelhERVJhUndlM3E4T1ZRYWdHSkMxc0tGbTNWOTAydlI2VU9NMm85Wks2TlVyUXFxYg?oc=5",
+      "domain": "universityofmiaminews",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260922T190909Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "How Saudi oil scientists ended up working on the world’s most important climate reports",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxON1RjMkRZdHI4clYwSGVIUmpwQTJoNjR6N0NkYjZ4Qk9VbWNDbFR6WVRmeDBfMDZWZkY0UGRQY08teEdNbkVCTFhsdGRXejZPNXJkNHl1V0FUTzdSTEN6X2RqQkNHQ1pRaUhEdDhHSFFBaFJlU3ZrbXNfOXFYTzlJaHVZLVUzTzcxQ2VUSVM1bWx4YmtBU0pDdmtmTnVZUDAzbUdBRl94c1BkVDQ?oc=5",
+      "domain": "theguardian",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260922T092600Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "What Happens When Countries Can't Cooperate",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUkpVdHhsUkFwU3N4VnUxUDY1TjhESUl1bEItWUhTVVhNQnFoVGh5V2dNTnFFNUhOeUFWMEgwcEZFZlVhUm94Rk1YWHF3MXNWczVHMW05RkFGdEhDZ0U5OWhpdGlQUzJwaGw3c2kwSXFBcGtuX2hXMW1zRFB2RFhPcEFtSGE?oc=5",
+      "domain": "katiecouricmedia",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260922T202615Z",
       "source": "GoogleNews"
     },
     {
@@ -607,102 +688,21 @@
       "source": "GoogleNews"
     },
     {
-      "title": "'Every Fraction of a Degree of Warming Matters' – UN Deputy Secretary-General at Climate Week",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPb1BZNEZpQUMtTndJT1FBN0NDOEExeDdOZGhVWVVVQ0JsRy1mQVpYbGgwTzlBTmg3RF9CSDBtd0s5Q0JRRnpWWXctX0N4YzNLQW1SdXlIb294dHh3Z2RXQkU4TmxsSXFSeTJnNEh2QzRhUFhFcDB6RjV2MXo3ZWYzckgxSzN2TFZES3liY1ZESGU3NERkLThpcXVnNGxxbU84TmRnOFdPUGJseTVrWXMtR3NNNElYSFFtbXFmX1JncVlxQUU?oc=5",
-      "domain": "unitednationssustainabledevelopmentgroup",
+      "title": "Building Thriving Farms: \"Farmers Cannot Carry the Climate Transition Alone\"",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUGV6MERaSW13cnFRcFVTVWs4Q2VwdVQ2ZklDOW1pbnpwSERsNl9ybjJZbjFtSFVlYi1NeGdVeFB3MGI0MnZKdnlUVDlMVXFIbHIxOUFKWFNGZ3NHcUFHRF9LVTJZYzdkU3luNnRFWFBvNjF5UzBWZlNhZWhWVGRmRHBROGM5ejhndFpFRGNjLUFVM2R5R0NCVWpkSXhJeWN2?oc=5",
+      "domain": "foodtank",
       "language": "",
       "tone": 0,
-      "seendate": "20260922T150116Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Water security in a changing climate: Learnings from Kiribati",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcTVUUGlpUHQtbnlud292Y2JKc0JXU1FsR2V6cjNUN1NRenB1RTUtQnM5UkM2d3BxTFhJVjN1VmV5bHR2VUdIc3VGbnh2bDRhbFBOTkdGSW1sZVdXYkM0TmNFVXJjejdwVGliLUQ5Y3M4UkU5MWRXTGdWdmdueEVyYW1nQjUyaFJDQnpRaC02QWRNUzJxdk1qVmtXWQ?oc=5",
-      "domain": "doctorswithoutborders",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260922T155745Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "The Big Threat Has Been Climate Change. Now Comes A.I.",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcVIwd0dvR0hHT2JpZXQ4UEdEYkYwZnowaHptOVliQlRCb2dyaGo3SEsyX1hNVXZNV056aGpnNGlWRG8yeTMwU0FGY19WMFRlSThTcnJWU0ZmM2xmSDFDZGwyMUl6dGJLeUFCTWVBcUZfaUtxOHRWc3Q4c3hfTWhKejEwblZVM19PXzhTaWt3Z3pZd2hJN1RlOTlOcHdHZjloTVE?oc=5",
-      "domain": "thenewyorktimes",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260922T090226Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "‘It’s my duty to tell the truth’: UN chief on the climate crisis, capitalism and reasons to be hopeful",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUW12MnRsdG1rUDhUVjNDd1lSUU5Bb09wU3E3WTNrbHNJZlkyRTg1TEdibWh5cVB0anBPZTJiUFZFSU1NcWVhU2JhUVpPejVWUHQxZVJ6TGJNWVhVZ0xQN2hqSFVZMVRxQlg0RnQyamFCS1FEaXN5TWVWcXpQbUZ0Yy0yWjZocU5teGRlUWo4OHFGZWVlczhGOTd1bHNIelhrajJqaFp6emtDRWc3WUppWXo4MA?oc=5",
-      "domain": "theguardian",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260922T130100Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Climate scientists fired by Trump step in to fill U.S. report gap",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNa2xobVY5N0ZtdXczSWFndmhNUjV6cUdDa2pjcDFjNkdVT0lDN2dsOVJxWHl6dWRIYTFZZFM4YkNFdVNYck01bEprQzBhNm5OVmc0c19qWVNUNldKTXRHd0J0b0Y4TENObW9YNUdOZjFGZU9abmRJbWJDdFV1VUUwQ2xXYjE5S0VEWnV2TlhCcVREaXhZVzdkSkNFdEh5T2xZeE1IZkdWTVFybDl3SlV2ZG53?oc=5",
-      "domain": "nbcnews",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260922T130000Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Believe what you are seeing and feeling: The climate is changing",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRmp5RWhoYjNBY25oZVFZNENCU09xZXlLQnNCRWMwd0dFdHJ2Wng1eTZOMFVBdVVuSXJDZHhseE9ReWlnN1ZVcHpQRDdBSGtvZ3psaGFCeVpqZGNGT3NSN3JpVTB6Q1VqS3VEamlESzRnVGZPZWpFcHV0QnJ6dGN6MTdUSzc0UXJwdmxRQXFKWjlJVDI5WmtjWnhranpteVRjYVplQVdjYmU?oc=5",
-      "domain": "minnesotareformer",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260922T110451Z",
+      "seendate": "20260922T175844Z",
       "source": "GoogleNews"
     },
     {
       "title": "First Paper Published in the U.S. Climate Collection",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcFdZWFRjOFY0NFhvN1NLb1E4ZzdhQnJLdkZFT1NwRG1qUVI1Wm00ZGNnR0hFdDhULW1RRVFDWWpDam5SSTYyd3Rac20zWWdaekItV2NLTUVuc1dkV1dBZlh1alhNZWNXbWJUOVNSRHMzMExGdUtLdkpKY19UYTVCVXk1Si02NkdpUjNPZWZxUWQxTU5GVTZHYw?oc=5",
-      "domain": "amsheadlines",
+      "domain": "headlines.ametsoc.org",
       "language": "",
       "tone": 0,
-      "seendate": "20260922T145325Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "We Have a Climate Imagination Problem",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kclpDNkZ1UGRBNTRXVVZFNW9YM2FIcHRuZDhoaHBUNGwwQ0kwZTFRYlJreWIwZ2tkSnVhRENBdXpoSDNTSENDeXhNTjRzcHN5QTFtelJ3blZ3S3VOM1pxZU9fN3pfa2R0WkxveVRPdEJwWkN6U1F1VGR5MV9pXzQ?oc=5",
-      "domain": "timemagazine",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260921T100004Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "U of A recognized as a leader in climate action with new Carnegie Classification",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVEdGZUlSaVRrdVN6ZGE1T1VGRkY4MDI5YU1aM2ZUcmhWQTVNQmxrUHg3aU9LYXpneERMT01kbExBNUc1V0ZrSzJBcEdBa0hCUG9aU3U1dTlqeXdma0hkUlVpci03YVlLaGJ0cHFHUDBsN0xZWHdsZmNrck5rZVQwSjBGSVM3LVR2WXA4OW0wZTFXVGU5ZXlz?oc=5",
-      "domain": "universityofarizonanews",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260922T153613Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Cambridge’s Drought Status Downgraded to Mild; Water Department Issues Update Regarding Reservoir Levels",
-      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQMUxnNDhiLWFGOHNzRjVSRWwzXzF1YkMxNDBDcEEzWHB3RE1JUExRMjVmd05HMU9panRoSS1NaTFtaEo2LWQwUzVXM19SSVB5d1l4RDdrSkNIRGhPZ2Q5d29jemdZMXdVX09mRGhkdDc4Yk1QeU1SWVNUZWdDd1MxZVBOOC00eEE3Vmo3aFhjZ1Rqc0pmNXhrcmx4SUk5bDQzdUlYbHVHYTJ0TjhkMUQtQlVfYU9CNUFlYk44NGM2bm1VU1dJaXhzUkxOYjB6S2F1T3VuZHV5cWNMTk11ZE5VRkhDeHZ1bW5FM1NRNE5hcFpKUG9adTZSZWRiSW00Mlo4SGJCYmkteTdYQzcwc3BwM2Yyb1ZiVVdoUzNFcWFYVXFwdw?oc=5",
-      "domain": "thecityofcambridge.gov",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260922T143609Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "How Arctic Ecosystems Shape Our Climate",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA1WklSSDcxSFo5SjZSM2N6clNFSVY2cVhIVmdLQVIxSHNyQnBKWkxxZ3VGSzRYakx6eTAwbGRySUJJTWhXbTN2eDVic0dDS3FsYXAybGZLTy1TdHp4ZkR0aU42LWRRZ3BuNHV2VlBIS01UaWZLbUF5R3F3?oc=5",
-      "domain": "columbiauniversity",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260922T131330Z",
+      "seendate": "20260922T160243Z",
       "source": "GoogleNews"
     }
   ],
