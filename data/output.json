@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "climate-security-index",
-    "generated": "2026-09-28T23:22:48.459440+00:00",
+    "generated": "2026-09-29T05:52:44.310139+00:00",
     "mode": "live",
     "sources": [
       "news_articles"
@@ -23,7 +23,7 @@
     },
     {
       "label": "Distinct news domains",
-      "value": "43"
+      "value": "42"
     }
   ],
   "live_data": {
@@ -36,6 +36,26 @@
         "publisher_url": "https://www.scotusblog.com",
         "language": "",
         "seendate": "20260928T193431Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Justice Alito Recuses Himself Days Before Major Climate-Change Case",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSkxvem9qMWtSa3plUVc1d0lRU3c1R1prZXM2M0NnWm90eFVQZHcxd3dOUUt5R3hSTklPekFxNTJkYTduWnpTY3lQQ3o4YXB3MUpPeHlrTzFKQWt3V0tYZ3FKS0o1M0E4Rl9BeFgtRHFWWFduNHdzNXVGS2FoQ2liT2t1Zmk2RjZiUXVBU09R?oc=5",
+        "domain": "www.nytimes.com",
+        "publisher": "The New York Times",
+        "publisher_url": "https://www.nytimes.com",
+        "language": "",
+        "seendate": "20260929T044100Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Samuel Alito steps aside in a major climate case amid scrutiny over oil stock holdings",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZWZ5eDBRbWhNM05xYW5pYkFPd2tpV21BMGJVVkdseXhLT3BneVEwUFdxSENuN3VMVzlndHNzdThXc2V3b3hBaVNEcjMyUjFSWFpfWEJfQXFtb2t3SUlHWFdhQ21nemVTZzNCMnA0ZWU4c2hpR0RTNmZNVlV2dGh6ZmI4QlVtTmhBVUs5Q0dSS0tMZG9KMlE?oc=5",
+        "domain": "www.theguardian.com",
+        "publisher": "The Guardian",
+        "publisher_url": "https://www.theguardian.com",
+        "language": "",
+        "seendate": "20260928T224200Z",
         "source": "GoogleNews"
       },
       {
@@ -55,7 +75,7 @@
         "publisher": "Politico",
         "publisher_url": "https://www.politico.com",
         "language": "",
-        "seendate": "20260928T192100Z",
+        "seendate": "20260928T182800Z",
         "source": "GoogleNews"
       },
       {
@@ -69,13 +89,23 @@
         "source": "GoogleNews"
       },
       {
-        "title": "US Supreme Court's Alito won't participate in climate case involving oil companies",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNmhUZzJOQUJ2ZDJ0ZldZRnlrQTM5UU51RHY0Q2pHenIyVFBKRi1vMzlZYUhzdXZrLWFWUlo2NGNweE42cHZSOUsxU2Zsdzkxel9hRGQxY2hMMmhzXzVTZGxUdXAwWkFTSlNKNlhfWlVGUklyR2EwcDJMWHJ6UXBRM1hOYTBkOGRrUHJhMTFUNTYxVWNSSzNIQjA0OU5QYzBZM016eXR3T3ZQTlhiWjdYaHcwYzV1dHM5bDJSdXk5ZU4xdE5PQ3o2Zg?oc=5",
-        "domain": "www.reuters.com",
-        "publisher": "Reuters",
-        "publisher_url": "https://www.reuters.com",
+        "title": "Five Takeaways From YSE Experts at Climate Week NYC",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdXhLNmxZV3MxVjJ2LS1SZmFYWUd5eG10a2tqUURYMmN5aV81X2FJTTVTd1NidXZxLVlzb2ZaVDJQZG96a1Zrd1BiSDdHZEt4UkZCVTRueDFXRXUwSk44NE9Vc0ZUOERKTWtNbVFKWmxlQ1ZMdmlMVUtKcm5MSXhhekl1OVFjR19sd2swLVVR?oc=5",
+        "domain": "environment.yale.edu",
+        "publisher": "Yale School of the Environment",
+        "publisher_url": "https://environment.yale.edu",
         "language": "",
-        "seendate": "20260928T181751Z",
+        "seendate": "20260928T190000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "What to expect for this year's fall foliage in NC as drought persists",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVFJRMURqbzFxMzlmVTM1cFV1S3gtNWNZQzNkdEpQak1yak9ydlhmQS1lZk81UDl0QVFCMzR1TF81azFVOGVEbVluVXA0dmpVLXBXeUdrRVZySTVFS01VZm1udEszdWpqVEgtMGMtWllicG9kbXNSNzhiOWprWTRKd3NIb3RSaUlNdy1yZzllb2pIdzF6ZDRYOHVGa2R1SHJhTkNmNF9hZmxwbFZkZnd6TEppX1M3U2hscG14TnJTOHduVDNqQ0RkUHNrWUVGN0U?oc=5",
+        "domain": "abc11.com",
+        "publisher": "ABC11 News",
+        "publisher_url": "https://abc11.com",
+        "language": "",
+        "seendate": "20260929T014015Z",
         "source": "GoogleNews"
       },
       {
@@ -89,6 +119,26 @@
         "source": "GoogleNews"
       },
       {
+        "title": "'Possible drought-buster:' Wednesday's Weather Impact Day forecast could 'potentially' be Colorado's most significant rain event since 2023",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNektrQVhyVm83YnRvcm44TVZHZVM2dlk3RUo5RWNHcjE3X3lJdFJ6U0JnaTJwT2gtV0paQ1RJek5CT1d5UEFiUlYzVEZJVUp5amZqRGdoQVYwZ3lZdy1LN2NqVXJRbnFZVVYya0xLZzdNNHM4QXBLT0VPaEhzVzRyMjU5bE9oRy1aci1yeFY1Tm1LZGpxNXQwM0Jjcl91RXN5UEQ3OHE3NWlvaG9FYlVnS0x0Q21YXzBoa2VBMXNaTjAtZEMzekYyQVhB?oc=5",
+        "domain": "www.9news.com",
+        "publisher": "9News",
+        "publisher_url": "https://www.9news.com",
+        "language": "",
+        "seendate": "20260928T203800Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Alito’s Recusal From Climate Case: Too Little, Too Late?",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTzdQa2pWbDhKT28wS2JaYy1qdE1xaXlsRXRhRU8zRlpoY3hxSmlKVmRHWFJLYTdYZERoM19ETHU3aFNTUkZvdWxUR3dqTFJoMXpyV0p3U2hPSDluS3lveWZBN003QTVtV3d4SUhHZjdheFVncTRSYzlZdm5XODNrV20wYnFJMHozQjRHQl9QTkpNN3pDX20xU1NwNGFmQQ?oc=5",
+        "domain": "insideclimatenews.org",
+        "publisher": "Inside Climate News",
+        "publisher_url": "https://insideclimatenews.org",
+        "language": "",
+        "seendate": "20260929T012448Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "Alito recuses from case that could toss climate suits against oil companies",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMTI5ZG1qQXh0M0NaVkNrVXRtZmdRUEo3Uk9SeFRBY1NVRmxQT3B4V2VpcDFUcEJCWnhUVlZUQ2hvd1RSS1ZCT3VSaWU5aXRIMENWbVRYN254Zk1uVVRPS1NRXzI3dDVOWnNVMXpmb2dXMmNDLWFtdHVRUUpuVUtncWV0VzgxeDhrcFhUa2FIVkFZWlBRY3NUZEVEczZEbXRtM29WZDhNbVZuTTk10gGyAUFVX3lxTE9IVFFpZ2QyamdRLVpLeEwxRXQzM3BXRURKWnlvNWNER2RxX0JDZkxybVZiRjFUOVJLdlRfeGdKY3c0elRoVmFRb1drbDBYVnNoU2xYd01lbV9RM09zTXJkQWJBazdCZnEySXo4ajVha2JSYUI3dTdCMGl4eUJtLTA2dEVIR2pleGtINkcxV29PZ09tUG41dXNnUlFIRkctdlBLNWoyX3E4VjB2T1I1b05idUE?oc=5",
         "domain": "thehill.com",
@@ -99,23 +149,33 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Justice Samuel Alito recuses himself from major Supreme Court climate change case",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcVNOS1dUTERROHByVkVJVEUtUlZnRjg1TTVEUkgwU2c3N1ZwcXRfbGs5TzF2dGhlaFVTcXc3MnFtcmNJejNpV2lLMTZXQm1wcElTWXQxZTFXQTU4Z0c0UmRLXzctbTF4RDVoVG9fa004VXBnLVdEblNnOFdiLWR6SUtoVWpDN2ZVZkMtS1VPODg3VVNTQkE?oc=5",
-        "domain": "www.cnn.com",
-        "publisher": "CNN",
-        "publisher_url": "https://www.cnn.com",
+        "title": "Local whales in trouble: Oregon's grey's impacted by climate change",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZXBSYVQtTGd0Tm14eWY4amZMSnhjbjk4cjdLWFkwM09peGYxTDREOTZOeVUtVzE5MGppNXVMZW5Xc3dHd0FvRkVvZFAySlZ0aVZTTkFXZm5ubmg3NG5WcWtBempFS243MTM1LW90c2lpODFOU20wSU9JNnVBWFpPYjgySG5WNFItaktPYzl5azZiME5mRFQ2NkV2R0lZZG9wUmdoV2JFZVNxTU9IUkpqNVdudUxUbFFNRVpFOW1iSF9ZcDQ?oc=5",
+        "domain": "www.klcc.org",
+        "publisher": "NPR for Oregonians",
+        "publisher_url": "https://www.klcc.org",
         "language": "",
-        "seendate": "20260928T180716Z",
+        "seendate": "20260928T221500Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Five Takeaways From YSE Experts at Climate Week NYC",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdXhLNmxZV3MxVjJ2LS1SZmFYWUd5eG10a2tqUURYMmN5aV81X2FJTTVTd1NidXZxLVlzb2ZaVDJQZG96a1Zrd1BiSDdHZEt4UkZCVTRueDFXRXUwSk44NE9Vc0ZUOERKTWtNbVFKWmxlQ1ZMdmlMVUtKcm5MSXhhekl1OVFjR19sd2swLVVR?oc=5",
-        "domain": "environment.yale.edu",
-        "publisher": "Yale School of the Environment",
-        "publisher_url": "https://environment.yale.edu",
+        "title": "US Supreme Court's Alito won't participate in climate case involving oil companies",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNmhUZzJOQUJ2ZDJ0ZldZRnlrQTM5UU51RHY0Q2pHenIyVFBKRi1vMzlZYUhzdXZrLWFWUlo2NGNweE42cHZSOUsxU2Zsdzkxel9hRGQxY2hMMmhzXzVTZGxUdXAwWkFTSlNKNlhfWlVGUklyR2EwcDJMWHJ6UXBRM1hOYTBkOGRrUHJhMTFUNTYxVWNSSzNIQjA0OU5QYzBZM016eXR3T3ZQTlhiWjdYaHcwYzV1dHM5bDJSdXk5ZU4xdE5PQ3o2Zg?oc=5",
+        "domain": "www.reuters.com",
+        "publisher": "Reuters",
+        "publisher_url": "https://www.reuters.com",
         "language": "",
-        "seendate": "20260928T190000Z",
+        "seendate": "20260928T181751Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Panamanian President José Raúl Mulino discusses sovereignty, migration, climate change at World Leaders Forum",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdkY1elN1bFZUMm5QQlVzNVJvcFFxYWdGSTE3SG95X3Fld2JYc05rOXpUdjJ3Vkk3T0FiOUJ6a3NleHZDNnpOel9KSXBnUnd5REhfOUtyRlFkcF9ja2E1WmZSMU1zdEVDbW5JbExsY3d5ekNBS1NFd1lEYVNscUV3ZG82UDRLNi0yOHJnd0V0REdNd3J6REhLRDk1WjVZUVpWUHZGTXhTVlE2aTBqTDlUR3NVQm9CaHZHeF9GRmltZmg4YVBoUjBHRndfVUN4dGV6SFhKTi1JVFl4VWdWWFdiTFA4NmJWbm5wSGxqQzV1UQ?oc=5",
+        "domain": "www.columbiaspectator.com",
+        "publisher": "Columbia Daily Spectator",
+        "publisher_url": "https://www.columbiaspectator.com",
+        "language": "",
+        "seendate": "20260929T005118Z",
         "source": "GoogleNews"
       },
       {
@@ -129,63 +189,23 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Tackling the drought early this week",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVDM3RExBb2hySGZCbXRiaGUzY0FYbFJhTXFxdFZEVG5WcXBiandDOUQ4elg3TVpEakVKQmd0ZF83Nm9WU1Bib0pTcG43Tlh5ZnlsaU14UWlUakVDYm1OR2dReWZFYWIzc2wzTFowLWlxSnNqWTlHSzAyb21jcFB4MzZTZw?oc=5",
-        "domain": "www.mprnews.org",
-        "publisher": "mprnews.org",
-        "publisher_url": "https://www.mprnews.org",
+        "title": "Changing climate may influence risks from deadly rodent-borne diseases",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Fb1pSMEhSVkpaTEZtUGxIQXFNbDFQWmhDSXdrN1dxZ2dJN2RjNHVhZndXY0t5czBzOFRTdkNFSlhDdGctRDZYVERKOU5tbEtLNk1mczhTZ2lmSm02VmF2S1ZsVWY3S04yd25ISVhMc3U2MkpveEc5MkNtUQ?oc=5",
+        "domain": "phys.org",
+        "publisher": "Phys.org",
+        "publisher_url": "https://phys.org",
         "language": "",
-        "seendate": "20260928T210000Z",
+        "seendate": "20260928T213001Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Breakfast at the Barn brings agriculture, elected officials together",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUWJudDdKcF9WRmo1RGs5ZU5WUTBUZS1OS24zelVoTW9rU3MyTXRxV3hBZWNPUXBmbGpNQUlUckFKc2YyS1lGbjFOM0lKU1QxejVsRV9USGZ4bUVOZ0d5aHNHZ0tneGhNOWdSbHYyZFh0REdfeEd2ekdjc0VqQzZFTS1sNEc4dDh3STdfT2dQNGpHNTY2cUVIcFlLUy0?oc=5",
-        "domain": "texasfarmbureau.org",
-        "publisher": "texasfarmbureau.org",
-        "publisher_url": "https://texasfarmbureau.org",
+        "title": "Justice Samuel Alito recuses himself from major Supreme Court climate change case",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcVNOS1dUTERROHByVkVJVEUtUlZnRjg1TTVEUkgwU2c3N1ZwcXRfbGs5TzF2dGhlaFVTcXc3MnFtcmNJejNpV2lLMTZXQm1wcElTWXQxZTFXQTU4Z0c0UmRLXzctbTF4RDVoVG9fa004VXBnLVdEblNnOFdiLWR6SUtoVWpDN2ZVZkMtS1VPODg3VVNTQkE?oc=5",
+        "domain": "www.cnn.com",
+        "publisher": "CNN",
+        "publisher_url": "https://www.cnn.com",
         "language": "",
-        "seendate": "20260928T163108Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Commissioner Miller’s Farm Fresh Challenge Connects Texas Agriculture and Federal Nutrition Programs",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPT2VtQ3JmREpxSF8tSUl6SHBkSElTZEpuX1RudEpqQmQ4OUU3SEc1eDNRak9rVDdWaG9sOGtfdzlucV9ZYkpVbDR4NXFSLUNKeGFyQTAzT0FnRWlQOU14eVJyVncxbXRLbER4NExKWTJxMmNOWVBuTVhOYVl1dEYySGtQRWQydHJoTzA3d2VRWWlFUnJiaG1Tekx0aVJoM0g2VVRzMlVXdG5mV0l3VTQzdm5saVBmdXAtNjd5ZEFkb2xaREp5UjRyODV6bDJMdW8?oc=5",
-        "domain": "texasagriculture.gov",
-        "publisher": "Texas Agriculture (.gov)",
-        "publisher_url": "https://texasagriculture.gov",
-        "language": "",
-        "seendate": "20260928T174705Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Kathy Castor on Climate & Energy: Where the Candidates Stand",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQWpTY3RfNVdxZHkzYV9XUW5jNW9hSjVySUU2ZUE1Z01FMF81M1lLNTdOYlVWU3VvV05DVWhET3BvclpLZUpYVmZiZUxuMm9UMTh5N3dHNU9hU2NHOF8xZ25pTnlMSlA2WFhiLXlLQjJ2VGZVWDJ1S1ZWSFgxZVFSbzBQRzVaTGNDYjQ4THNFZ3A?oc=5",
-        "domain": "cleanenergy.org",
-        "publisher": "cleanenergy.org",
-        "publisher_url": "https://cleanenergy.org",
-        "language": "",
-        "seendate": "20260928T193520Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Alito steps aside in a major climate case after scrutiny over oil stock holdings",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOb05BOEZIaVRxTlJIWlZTQl9xTEc2WS1FenVLMmpVeVY5WG1ZZGxTdUY4S1NmRzVhRmRmeVJUY2ZoNlhCTE5SYkdZek9wNzhDcWk2bl9QWjNmNTgwYTRMeXpMSzdOcTM2MFR4amRuLXlPdm9tOFpYVjZKcEhQeDI0Mzg3R2tzdTB4X2YtWlNUc1RPc2tZVW1adnNn0gGfAUFVX3lxTE9zS0tmZlBSWmptbTFjMWxuRDBwZnpMNUY3cUpZNTk0MnhjNzNLNC1JU0hzbnk1Z0hPZ3VoUEpwSEJqblVHQm5Cb2pWTnlLQnIxRlFibzY1TENVOUZVa0x3YW1WSDhVX1NBb0hRb3hTTk5jWGhJTHhrT3NyN3Z5Y0NGcjhudWQzdlBBNUVPN2Z5ZVBmYzBBV1BnV2dRekllNA?oc=5",
-        "domain": "abcnews.com",
-        "publisher": "ABC News - Breaking News, Latest News and Videos",
-        "publisher_url": "https://abcnews.com",
-        "language": "",
-        "seendate": "20260928T210452Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Justice Alito Recuses Himself Days Before Major Climate-Change Case",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSkxvem9qMWtSa3plUVc1d0lRU3c1R1prZXM2M0NnWm90eFVQZHcxd3dOUUt5R3hSTklPekFxNTJkYTduWnpTY3lQQ3o4YXB3MUpPeHlrTzFKQWt3V0tYZ3FKS0o1M0E4Rl9BeFgtRHFWWFduNHdzNXVGS2FoQ2liT2t1Zmk2RjZiUXVBU09R?oc=5",
-        "domain": "www.nytimes.com",
-        "publisher": "The New York Times",
-        "publisher_url": "https://www.nytimes.com",
-        "language": "",
-        "seendate": "20260928T213237Z",
+        "seendate": "20260928T180716Z",
         "source": "GoogleNews"
       },
       {
@@ -195,7 +215,37 @@
         "publisher": "WGBH",
         "publisher_url": "https://www.wgbh.org",
         "language": "",
-        "seendate": "20260928T202613Z",
+        "seendate": "20260928T203509Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Trump Slashes Fuel-Economy Standards in Blow to Climate, Health, EV Market",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY04ya0VXN2Z4SjhBZ0tBZ2ZWQmJORGdxNVdET2lXUEVwbGs5dWYzVmhMcTE5eXVIOVhnMUFSaXUyaHY2V1dtSFQtMmRkWGJJbGtGZG1wRzdYSkpOM0lBalpQcHFCX0RfWklaUVE2WHNIVnRWNllHa2tzQ2E0QXdMZnJMLUc5d2g3?oc=5",
+        "domain": "insideclimatenews.org",
+        "publisher": "Inside Climate News",
+        "publisher_url": "https://insideclimatenews.org",
+        "language": "",
+        "seendate": "20260928T232100Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Tackling the drought early this week",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVDM3RExBb2hySGZCbXRiaGUzY0FYbFJhTXFxdFZEVG5WcXBiandDOUQ4elg3TVpEakVKQmd0ZF83Nm9WU1Bib0pTcG43Tlh5ZnlsaU14UWlUakVDYm1OR2dReWZFYWIzc2wzTFowLWlxSnNqWTlHSzAyb21jcFB4MzZTZw?oc=5",
+        "domain": "www.mprnews.org",
+        "publisher": "MPR News",
+        "publisher_url": "https://www.mprnews.org",
+        "language": "",
+        "seendate": "20260928T210000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Despite recent rain, Eastern North Carolina farmers battle severe drought and heat damage",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNlZPdEg2WXpCYWZwUTlTU1JXT3lTSnkycktCNTdLUUpzRFBac0x1WkwyalFHcGIwbFpyVUMwR1ZYMGZNOThNNzJSUDF3RHg3ZW9sN25BUnp3Ymo1cnlWMWh2TkJ0V3F1dldDQlIwY0tDdk05UFZpX2pmcUdqbTdrdEtKNDRYVmxCR0RzN2s4MVNmV3VKSVo1ZHZCR3lJLWNMcUlab3BKbk1UaHJWQ0p0QkJjT0tlNFRk0gHMAUFVX3lxTE9Ud2g5TlBnX0hQb0xFQWN0Vm5naW1fdDQyMVNjS3dCMThVTzZmb1lKTjMzZGJvam1OendsdTJuZTRVNHVDYUNxYkpSZ1EzS21Pc2xyZGZFRzZ0MFlyeGROWG1aOXFBY09aalhNWTUxQ29Yc1BOUDNneDBFQzFPalZ3OVAzR3FTRWxBYVBBcXhiVmZkaXJJbHBsZmlhbjJLcGI2WFJPQW5KU2hoZlB6dGFrTUFleVBqYzZ1YW4xdF9QUGVOaEJVV0JjbS1jUQ?oc=5",
+        "domain": "www.witn.com",
+        "publisher": "WITN",
+        "publisher_url": "https://www.witn.com",
+        "language": "",
+        "seendate": "20260929T000200Z",
         "source": "GoogleNews"
       },
       {
@@ -209,143 +259,53 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Alumni Gift, Vision Powers Plans for a Multifaceted Climate Solutions Hub at UC Santa Barbara",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcW40eVZlM1o3TVp2Z2pGNThQdmJ0MXRBY2lYOGFNQzNwZ0Vxemt1MUFjOGtPWXN4bzJBNXI4VlJSTVlTQ1B5eXhmV2VlQzFjYlp4eWJqcVdiSnM0ZE01cFdJT3lJNjFHb2FUdmVTWFZHSWE2LWdDYjRydVR3UGpZNC1uc3ZwbjFiQ1JXZFU0Uzk4dHk1RzExV3FhREwxX3dhT1dwUkpFZVhfUk1zTUw5Njg0d2Z2c04zZ3ZHbExOTFpRXzRmekNlQnRMMHc?oc=5",
-        "domain": "www.independent.com",
-        "publisher": "The Santa Barbara Independent",
-        "publisher_url": "https://www.independent.com",
+        "title": "Drought lingers in Denver metro, as big weather system set to deliver Colorado with moisture",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZVg2MWNaclZZMWFad3FaQ1dHTkQtOUJoQldhYnB1YXhGbVB1QkljMndiV3pnWVZiU1pzNExIX2lsenJzeUU2UHV5SEJIUlptaXpxN3RvdmFLaGcyY284YkxpcTRycU16SjRMSFpjaklKV3NnQWhsbWdGWTVnUGpzbnRLYnZfSTIwSGJydnRVUHBHbkpELWNwQmk1U2h2VlQzSFNNeHZMeUR5a1ptekNBY0FNbzVWMjREeVFlcDQ5UC12dGlyOUJEbTJ3RWU4TFho?oc=5",
+        "domain": "www.9news.com",
+        "publisher": "9News",
+        "publisher_url": "https://www.9news.com",
         "language": "",
-        "seendate": "20260928T195230Z",
+        "seendate": "20260929T033900Z",
         "source": "GoogleNews"
       },
       {
-        "title": "El Niño could bring drought relief to Texas this winter",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZVQ1UWFVNG9SRE5ZX3lDRmQzcXBDLVlQUWo5cFdLcks3TGh6dHlGdTlCRmp4YW5zeTVfck8zcG5CejJQampwRW5LTzlSMk5oZzR4dlh1WE96ZnBfTFo4X096emxwMzBuTTJXbXpKV3A2YlRKTVg4YWJDZ09PTDNEZHl0NTZfVjdWaXVDSQ?oc=5",
-        "domain": "texasfarmbureau.org",
-        "publisher": "texasfarmbureau.org",
-        "publisher_url": "https://texasfarmbureau.org",
+        "title": "How A Bay Area Coffee Company Is Building A Climate-Resilient Business",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTUJWVDdDc0IxamVJQlJCT0p5cGUzV2JyVU81bll4NFNiVXRfc09nZzJ6NFpGeHJTMUJFSHZCVFpaaVBRUWtZM0lXbWYxSVZPeUh2WkIySjRpYXZmdlh1cUNpekY3ckhEVmZQdG1xbWdqeEVlcTdfS0VhTHc4UG91cjFEOV9LaDU1alg1Q09PdmJobFgweWNfQzdpVUdXc29WYWlybVRZZmpBUlI0NzV5RE9EdlBSNGQ5U1N5dVp5eHA?oc=5",
+        "domain": "www.forbes.com",
+        "publisher": "Forbes",
+        "publisher_url": "https://www.forbes.com",
         "language": "",
-        "seendate": "20260928T153803Z",
+        "seendate": "20260929T013427Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Revealing the Invisible Injustice of Extreme Heat",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE05MTVNQmFxSmZMZVdaeEJHcEREWXZZZ1p2eHE1YVhDclFaaXBSZTFTTzVjVzFBX2ZKWUpDQ0dMLVJybHdkNzFHZXJrU2w3OVhHY1VsU0VvRDNiTVpRWGdiS1JqZzMxV1pTUTNoU3gtSGN1OW5BN2c?oc=5",
-        "domain": "insideclimatenews.org",
-        "publisher": "Inside Climate News",
-        "publisher_url": "https://insideclimatenews.org",
+        "title": "Alito recuses himself days before major climate-change case",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSHJmLW8tWTl2RHl2RGNfdXJhTVFYcmE3cDkydjVaX1BqMm83X21YMlpmQzdFYmE4U24tOVBwV2JRRVFCN05vOUR3NmlNMGtTMXgyTDI4VGJuVmduVUs5WkNvVk5mVHZNZnRZM2dEOWNzaGhLeXhvWUpjLTNieG9BMVVxaFpOOW00VHU2eWxPY05NM2ZVWUtld3JXeTh0d1VUWE5Bb09ITHItTnZValVNVTZNQ2xGTWtOUWc?oc=5",
+        "domain": "www.seattletimes.com",
+        "publisher": "The Seattle Times",
+        "publisher_url": "https://www.seattletimes.com",
         "language": "",
-        "seendate": "20260928T090000Z",
+        "seendate": "20260929T023419Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Central Oregon reservoir to see rapid drawdown amid drought",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONEFsdnV1ZXEtXzFoT3JDaUNuR3JIbmd5d3czMERwR1RiS3J2Y2JGb2lCMWlTaHBpcHFESmtfM1Y2emdXckQ3VTQ3NXc3VUk2UHk2Q1lXUXVacHh4b01DQjd1SXdBZG5XOHZ0OFdIM0FDNEMwUzZmOVNWS1A3c1dmNzVXclZCWDJINmplUjc3dUtMZW42eHN1bmJ5ZVA?oc=5",
-        "domain": "capitalpress.com",
-        "publisher": "Capital Press",
-        "publisher_url": "https://capitalpress.com",
+        "title": "Drought reaches ‘exceptional’ levels in northwest Wisconsin",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcDhVLVRRYjg0YllYbW9tdXZpZ01WUTNZeUdQbTgtZDg4cF9BNjR2YnpIVFZ1aloyV0d6aGktU3E2eU9jZkozNWdXdk5wNDBXbTBEZ1FvT2NaR2cwRWotV3NRNldZZkRRZUR4NXQ3UWNoR28zbkJDMml5ZkE1eWEzVFZHQWV1c3JmejNjb0FGTGQtYXZmNUttZnQwdllFN03SAbMBQVVfeXFMTXVVN2FsWF91dTQwNGVYY1RSU2tpMVMtWmVEZE9abDdlb3poMnMxNmRuakQwU2RqZmx3LVlCbVhaSWtqYUcxY0RwbGtJSGhMSmpGWGZhdG9qZW11MnhZY3JWaFMxQ2JWVnhwUnhKYTRmeGY2OWc4Y2RLajFiODR4TzFHWFV2NlN4ZzQtMzJHUkVKZW9WRmJHWGVsMWxlaHFGY3pXLVlvTVVISEUzOXNsdmdyYWM?oc=5",
+        "domain": "www.northernnewsnow.com",
+        "publisher": "Northern News Now",
+        "publisher_url": "https://www.northernnewsnow.com",
         "language": "",
-        "seendate": "20260928T180426Z",
+        "seendate": "20260929T002700Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Record warm nights in September",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8yblc4RWU4dXR4ajREVFpxTHJiMzhzMTU2a2JuVDJQQlNHSEU5LVBuTHF0V1BKUU1oZUNIaU9kdW5YNl9iaU9ja25oTzlSQUFjc291akU4dXAwX2tuX0V5RjZmS0pXQQ?oc=5",
-        "domain": "nsco.unl.edu",
-        "publisher": "Nebraska State Climate Office",
-        "publisher_url": "https://nsco.unl.edu",
+        "title": "ASU theater's original show 'Anthropocene' performs at climate summit in Paris",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5pRVBLeU5LelZnekVrLTJDWHM5M2FHeTF2ODZHaEtuY3c4SG1BaVlqNGR1cHJxZXp0QUNpX3ZxTUZWNkJELW5RMGFKWG9aQmFvX3pPeGtXSTN2ZzFrc2xEZGFkSF84elhzQTdyNmxGbm1BbUZMNFptUg?oc=5",
+        "domain": "www.statepress.com",
+        "publisher": "The State Press",
+        "publisher_url": "https://www.statepress.com",
         "language": "",
-        "seendate": "20260928T203228Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Changing climate may influence risks from deadly rodent-borne diseases",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Fb1pSMEhSVkpaTEZtUGxIQXFNbDFQWmhDSXdrN1dxZ2dJN2RjNHVhZndXY0t5czBzOFRTdkNFSlhDdGctRDZYVERKOU5tbEtLNk1mczhTZ2lmSm02VmF2S1ZsVWY3S04yd25ISVhMc3U2MkpveEc5MkNtUQ?oc=5",
-        "domain": "phys.org",
-        "publisher": "Phys.org",
-        "publisher_url": "https://phys.org",
-        "language": "",
-        "seendate": "20260928T213001Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "The AI boom took over Climate Week and not everyone is happy about it",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSFI5d3MtRXI5M3JRQ1RTQWk4MWpUYTNXcVBNMnByeGpRV1ZuMFQ5WUZPR3VzeUdxaXZ0cTZiTFlKRnNMZGlpZW5xWWdwMnQxbWF3ZnI0NHVUcHk5TFNNZXcteTRSU3JBc2dhZXZlbVdsWUdfZ0dRazZCVGFQUmVWTXd2M2YyWmNmblE3RlUwU1l5UnlOS3ZvdF9SemJyQWJlOVVKeFNuYw?oc=5",
-        "domain": "techcrunch.com",
-        "publisher": "TechCrunch",
-        "publisher_url": "https://techcrunch.com",
-        "language": "",
-        "seendate": "20260928T192159Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Local whales in trouble: Oregon's grey's impacted by climate change",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZXBSYVQtTGd0Tm14eWY4amZMSnhjbjk4cjdLWFkwM09peGYxTDREOTZOeVUtVzE5MGppNXVMZW5Xc3dHd0FvRkVvZFAySlZ0aVZTTkFXZm5ubmg3NG5WcWtBempFS243MTM1LW90c2lpODFOU20wSU9JNnVBWFpPYjgySG5WNFItaktPYzl5azZiME5mRFQ2NkV2R0lZZG9wUmdoV2JFZVNxTU9IUkpqNVdudUxUbFFNRVpFOW1iSF9ZcDQ?oc=5",
-        "domain": "www.klcc.org",
-        "publisher": "klcc.org",
-        "publisher_url": "https://www.klcc.org",
-        "language": "",
-        "seendate": "20260928T221500Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Illinois passed the nation’s first climate migration law. The effort has languished since.",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcUZVaUJfdHpOTXFBUi1ta01vaG1uVzBONkxsclU3WWNQbTFTdUl2aVZPOHNoMmJDQ0llaVhMbnZjMDdwQlEyNzJOd09QZUdDZDZRLWMxYThwSEQ5bXB1b3JMNkVLMjJuWVhuV3pESm5JcFlfOUVkdnpOcUg1TThMYmppdlduMXNrRkdsN3MxMExuOEhydkxoM09tT2NPWnZYaVlDVjdZYXg0ZnoxLXd5U2g3d25PR2c?oc=5",
-        "domain": "grist.org",
-        "publisher": "grist.org",
-        "publisher_url": "https://grist.org",
-        "language": "",
-        "seendate": "20260928T083050Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Mike Beltran on Climate & Energy: Where the Candidates Stand",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSVdEb3N3R3V0YWNHdzhSbFA1WXQ1d1RtUVpuT1FFMWpyOFZ1TmdFWWtteGJEOFpnMUtKbThOVmJfWDZNRHNpSXZZd20zQXdEaFRWWU1pN0JiWkZoVHlLOG9tbW1FNHR2Z1kzR2F4a1Jrc1c2TURjaXZodEl1S0I1SlJ4SFkyemxLQ29DeS1OOE0?oc=5",
-        "domain": "cleanenergy.org",
-        "publisher": "cleanenergy.org",
-        "publisher_url": "https://cleanenergy.org",
-        "language": "",
-        "seendate": "20260928T193520Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Justice Alito steps away from major climate dispute",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdXJYd2hLMlFWQmZXdWY3bXdBdk5mdVlvYXJjSVJNbGstU1UxQkhsWkhCcHlfbmM0NUdtc0lfR2lTSDRvVURuTHQzYTk1V0FiRDRWUUlQX3Q2aHJnYnFDc2xDa0k1WTdJdHRqYlpadXlUTEptY0JpTFRfcmducmI1bEh4Zmx6S2E4QkE?oc=5",
-        "domain": "www.courthousenews.com",
-        "publisher": "Courthouse News",
-        "publisher_url": "https://www.courthousenews.com",
-        "language": "",
-        "seendate": "20260928T194115Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Extreme heat, drought take a tool on harvest potential in Kansas",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOT2ZEZ3RWMUlhd1pLX3VuVWJacC1RcXFxYnI4Q1NnMG5TWTB0MTlFa3RBbkZmdnNxb0ZRVTU1TG44RzFZTjd0V01hcVowUUhQeTFHa0pGNDBpQ1M0Qm5aN0ZtTWRzdkVaMjdMS3F3MkM4dW84NmwydUtsMzlidE1nTnNtRHdsQm56UGNuVC1XemtLbjJYQ0tCV2hnZkQyb0VPUTk1Uw?oc=5",
-        "domain": "www.brownfieldagnews.com",
-        "publisher": "brownfieldagnews.com",
-        "publisher_url": "https://www.brownfieldagnews.com",
-        "language": "",
-        "seendate": "20260928T202638Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Lamont, Fazio answer questions on business climate in Connecticut",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMUVxRFZZMFdYRDJ5VnJ2UW5FV3pENzJreUVyMURiSmVhcHpDYXJ6dXhxT0txaThibVZmaThWVGNIMHM3c1V2c01pN1NPZTlzdG1BZ2ViSHh0cmdDVmJpMHdRbm9CSFVmMDNySG9yQ1RHb19sUlplQWdjM0J1TEUxaTFtMFc4b1pQWmFoeXBBZDczaHdoU2Y0MkNpSUFkVFc5eUM40gGoAUFVX3lxTE1qOGZNMmFCYkZ1cHRYZ2ZIam9SSjJJb0RuaVNoSG5vM2VkNzF0LU9lQktqcEstWVdvWEhrSVlCbEwyNzR2cUN0Uld4QWYwbXNZN0E2aUhXbHc5Sk9XN3pHb0h0OWFNbkwyblFtRWtHWW1EdExfeUI2ekpwR2lVUUdSbFpIdzZoaXplQTBJbEhqYlc4QkpfVHk0OW8tTktPVHp2bUVsQWZMeg?oc=5",
-        "domain": "www.wtnh.com",
-        "publisher": "WTNH.com",
-        "publisher_url": "https://www.wtnh.com",
-        "language": "",
-        "seendate": "20260928T214229Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "U.S. Supreme Court to Hear Boulder Climate Case Monday",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObEszNFQyQ2tOY3kyRXl3TGZMQVhnaldSVkFOM1VvV0NVVjdXTEM3ODNjYVkwSGJucW1Sa1RadWpLci0xVGN5czhVQzdRVHAwdUhsckQtdFlsVEpicncyT1JsZnJYN1BnY1BsNS1mbnAxUWxxSzlOYlNtS3hWcE9PZHpXaGplWDFLa1E?oc=5",
-        "domain": "bouldercolorado.gov",
-        "publisher": "bouldercolorado.gov",
-        "publisher_url": "https://bouldercolorado.gov",
-        "language": "",
-        "seendate": "20260928T120000Z",
+        "seendate": "20260929T024700Z",
         "source": "GoogleNews"
       },
       {
@@ -354,76 +314,6 @@
         "domain": "www.politico.com",
         "publisher": "Politico",
         "publisher_url": "https://www.politico.com",
-        "language": "",
-        "seendate": "20260928T192400Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Climate Crisis Made Rare East Coast Nor’easter Up to 50 Times More Likely",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQc3VwTXBCTWpzV0VySkUwdkp6a1l1eDNQOEhuUmNmMmZlc2NjclkzSDV5UGFqbkN5Rk9VMmNGYmV0bnk2MUYwLS1WLXlNelkyVzlwc1dTcWFibW95SEFTNUc0WTdaNy1PcDdEanNaWGoyQThXakVOVHRuZ3J6UmRRMGNPMkJqOFlyYkpQdTJEYUJiUmFRWmVmNXVGaGVjUWl2VjF2Nktn?oc=5",
-        "domain": "truthout.org",
-        "publisher": "Truthout",
-        "publisher_url": "https://truthout.org",
-        "language": "",
-        "seendate": "20260928T162509Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Justice Samuel Alito recuses from Supreme Court climate case",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWWN5SFhwTkw2VzlTNTVaRk5NWUl0LXluNVFWbER5cE85VjVFMEZwVzMtZjZXV25ENFR0QjJiRlNiVGhMaUlSaThDRFRXOXNBeW5EeW4zTGt4dnlQTDhHWmNobkxfQ1FHU3VPWWZCR2ZQOGNKLTFhbGl4Y1k3RjdXb3l1VHNzLXpKRjNVT19GcXFkcEc1bnRXT1RMNlRyNDQ2TWl3d0xpN29mQnd6RVktdXFR0gG3AUFVX3lxTE1qVlRQblFOdXJKSmk4VzB1dmctQTZZYloxWnI0YmM0LUplZHlERUM4WFJyRzUyMnpPbWpnVUpscU1rekRVdHJtVlkzN2JJVExGTDJ6VFNzZ2ptWnhsZWhLUmZoMm1YZlNEdnJTSnkzT3F2dmx6V0hiSXZaWGhvSEVXWkNmQjRESVVEVTJnNE5ydEZYQkJ0TGxJekRzTC11TklMakhvRjhKVTlwSjlpeDYxdWVYVk1MZw?oc=5",
-        "domain": "www.upi.com",
-        "publisher": "upi.com",
-        "publisher_url": "https://www.upi.com",
-        "language": "",
-        "seendate": "20260928T200900Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "MI farmers celebrated during MSU ag day event: 'Everyone is impacted by agriculture'",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbkZrRW85bTBfdEIxeTNtMkFoby1adjRMODhHX2VDcTJQZFZ5ajVNYVFfeHl0ME5zLUp1Y2pwWEV4RGJmRmRGV2VDblQ0WDBuakhnWU1VejBEVk5xSUdCSV9OcFpEWGUxLVNBZTRpcTRfR29tWFZQaHBBSWxRMTdjUkYxVmpRMFBUVEF2RU1UMVFjTDlrUThJaGhScmkySHBranVjV1pLX1ZZTmxaRXJnYUt1c3dDNjhoajQtUEw1QTQwRzg?oc=5",
-        "domain": "www.michiganfarmnews.com",
-        "publisher": "Michigan Farm News",
-        "publisher_url": "https://www.michiganfarmnews.com",
-        "language": "",
-        "seendate": "20260928T180501Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "This grain could be an answer to drought-prone fields – if more Americans eat it",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOXFKYmN0d2RRQW9NWnpoSE5MeEdHQ3hRWDVURjhfQ2RtbEx5UEFTMEhnNkQ0SkN1MlFfNmdPM05TVWFWWncxckhIRHVHcDdBNklSVHVvMFN3YjZHNTctQ0JaYTVRSW04VkxHR0hWb1h3aGhvSnN5TjdNenBDUFNZa1o2b2hNZ1o4UXc?oc=5",
-        "domain": "www.kcur.org",
-        "publisher": "KCUR",
-        "publisher_url": "https://www.kcur.org",
-        "language": "",
-        "seendate": "20260928T090000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Climate Week highlight: a portable repair station and a giant phone",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOa3hRTkppSXNwRVo1Zk9LNVhZRDF5RzczWm5kZ3FLUC1kRjlmMS1JZklPSTAxZ0ZOaHpRbHVSR3FwTUhSQU9YMF9fNmt0ZU94ZlV5bk5PNHl2V0hBZUU2OVFwaHQ2TmdobWlobnoyMlktV1FFRm5LaEhkMDBKUndwZzYzYU10Wl9tcHRZTVJNQUd3ZWNaZDk1bw?oc=5",
-        "domain": "pirg.org",
-        "publisher": "PIRG",
-        "publisher_url": "https://pirg.org",
-        "language": "",
-        "seendate": "20260928T170705Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Corteva v. Inari: Agriculture Firms Settle Billion-Dollar Seed Tech Infringement Case In Midst of Trial",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUDV6SXh4T3hzOTJPdFgyZTh4cE1MUU1XQzNTN3hlaFNhZktwR3hnWjNhS0JvNk9aWW5jQzJHNVF3YkNMTnl1b3FwTzJJWVM5RWNnZlBqT1R0MENXMTlib0JhYzl2R1BzcVpwX3ZDTlFFQlA1bHVielFJNGZ2WjBGWkdReXNtRGJOLU5hRlpMSFVVNW5uS1Y5VFl1bDRsc3RGa0ZmTXhUdkJNaVI5V1F0NjdueHhlR3Z6WmY0c2x3YVVhMDJuS3BpQjNB?oc=5",
-        "domain": "thecapitolforum.com",
-        "publisher": "The Capitol Forum",
-        "publisher_url": "https://thecapitolforum.com",
-        "language": "",
-        "seendate": "20260928T175604Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "How Data Driven Regenerative Farming Absorbs Climate Risks Before They Hit Produce Shelves",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONEJMV3RraFlXNndieTlwRW5Zc3JyVnZMTE9vd0dpMXkwRDVpRHh4OFVBSXdDMmphOUJkYVhaRGZxa2JGS1hzLXY0TGQ1NV9DRVE3bk5IOGl4Y3N6ME1HNW1lZno3NUhhU2JIZDFtWkZzUWtjV09DZ29HZDZ1VVVYX1gzSnYxdGJOYWtoRGlmMlhaLWJMQXhLRm01WC1RdkNJWnBqMVZqMnlHRUdHU1RBRW5sY1c?oc=5",
-        "domain": "www.thepacker.com",
-        "publisher": "The Packer",
-        "publisher_url": "https://www.thepacker.com",
         "language": "",
         "seendate": "20260928T192400Z",
         "source": "GoogleNews"
@@ -439,33 +329,133 @@
         "source": "GoogleNews"
       },
       {
-        "title": "China purchases provide bullish signal for agriculture",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTXhvbWV2bEZHMDdEb2FXemhVa2JZS3ZQZTA2VUFvVGlTbkVnT0R2WEd5aVJoNGJxVzNtX0dwQnU5Z3ZLdTkyY3BfaWtTUzFYZVU0c24wc1ZOaFZjYnA5Y1YwVlBSMTgtd1U2REhqTzFGeTNsc0lIa3U5MW5heHlrZHVmNGxfUTRzZWpuQkFBMUgySXZpVGdHYg?oc=5",
-        "domain": "www.brownfieldagnews.com",
-        "publisher": "brownfieldagnews.com",
-        "publisher_url": "https://www.brownfieldagnews.com",
+        "title": "Senator Cortese Secures $2.625 Million for Our City Forest to Expand Urban Forestry and Climate-Resiliency Across Silicon Valley!",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSHZJaWMzcUJqLTVmWk1LeDJURnJMS2Y4TnlwVVJ4eXJMb2RXdGJ5dTFXV2NOVXlQbmFTYlFobHJ4OWZEa3ZvNWotdjc5Tm5jMkJlekZ2VlFESGVjRTdrd0dDbVRfTUFJOS1SMmpDQTNxMzRzYlVIOXhkNmFfSzAzcWY4UEFieFNIZ2RKM1d0bWpFbnZ6RDZqa2lwbHJkUG1MRlRMNE9Eb2lhcXhiNnBIS0xRS3RCYjVqUXc?oc=5",
+        "domain": "sd15.senate.ca.gov",
+        "publisher": "sd15.senate.ca.gov",
+        "publisher_url": "https://sd15.senate.ca.gov",
         "language": "",
-        "seendate": "20260928T170141Z",
+        "seendate": "20260928T213730Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Justice Alito Won’t Participate in Supreme Court Case on Climate Change",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaFhmRGstVjM4M2FCdHhzVnBSdVVMWTRfcUM3blJySGFkX0NqUVFuUktWM0FCeGhvWFh6eEtodE1wQmE3VE1zaHQ2V0NNTVo4ZklFTEF5MU1kaGdoQXI3WGxLVGxqZUp1LXhtanUyZ3c1b29iOWdhZm8xbmFNSzNsNVdTT01WTWtXbEdidHlEb0tmdGJJY0dEZkZmbHBSSGV6NVcycUsyWk1iWnFzdnhpYw?oc=5",
-        "domain": "www.wsj.com",
-        "publisher": "WSJ",
-        "publisher_url": "https://www.wsj.com",
+        "title": "‘Under the Radar’: From Drought to Downpours Across Kansas",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPN1dVNUVuUWd3M09qTUptenA1V1NyaFFTVkgxTFNsczV2TWZiMmh0Q0c1b21md01GSkRFdkVqLUZiVmFOd1dmM19kVUh1YjlrTENKWEhYZnJMOW5FQWRDNG1CdjNjRUkzaGp4VnRWTnlwSG5oS0twb1JDeXlqZXlIczI1dnpDZFY4M19JYzVDSGptUTZTOWZwQTZIVHlSU0NHbnfSAacBQVVfeXFMUFIycm9tN1BIc3N2RTU4VVk4WmFxNmVncDM1SWJ2X1gyYU95eVF2RVZxVXFPS2JHeTRnM0l3djBYc0dsZDhsRFZyTWJBN2NUWGVldmtRenNKTUpSNmxiSnJhQUlWYkpuTk85U28xQmItd0xkS2Z0VEFoTERTUHJ3eDAtZ3hjN3RFRTRRNzJVV25MNW1FeXJvTGFtb1Y1a2ZocnQzMEx4RUE?oc=5",
+        "domain": "www.ksn.com",
+        "publisher": "KSN-TV",
+        "publisher_url": "https://www.ksn.com",
         "language": "",
-        "seendate": "20260928T203900Z",
+        "seendate": "20260929T025556Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Justice Alito Recuses From Supreme Court Suncor Climate Case (1)",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRjJNMkJqRGxGV3hmZ2F3dnAzaHozN1NwdGxpNHdsMW5hbEQ5RmtGaGxFRGFVSm1BX3A5OEFpRDRhWGI5RWJQVzdSdWdKWFhVeUtaY3FqMk1Obl8xeWp5aVF2VDVUZDYyVlNHRnd2T2VLenZWUWoxUUUzeDdyV2ZyQzJtVTN3WUpsdkQzd0ozS0w4cDhhdm1GWHRMZFRNQzJqcXRzWHcyR0U?oc=5",
-        "domain": "news.bloomberglaw.com",
-        "publisher": "Bloomberg Law News",
-        "publisher_url": "https://news.bloomberglaw.com",
+        "title": "Justice Alito steps away from major climate dispute",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdXJYd2hLMlFWQmZXdWY3bXdBdk5mdVlvYXJjSVJNbGstU1UxQkhsWkhCcHlfbmM0NUdtc0lfR2lTSDRvVURuTHQzYTk1V0FiRDRWUUlQX3Q2aHJnYnFDc2xDa0k1WTdJdHRqYlpadXlUTEptY0JpTFRfcmducmI1bEh4Zmx6S2E4QkE?oc=5",
+        "domain": "www.courthousenews.com",
+        "publisher": "Courthouse News",
+        "publisher_url": "https://www.courthousenews.com",
         "language": "",
-        "seendate": "20260928T180100Z",
+        "seendate": "20260928T194357Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "The AI boom took over Climate Week and not everyone is happy about it",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSFI5d3MtRXI5M3JRQ1RTQWk4MWpUYTNXcVBNMnByeGpRV1ZuMFQ5WUZPR3VzeUdxaXZ0cTZiTFlKRnNMZGlpZW5xWWdwMnQxbWF3ZnI0NHVUcHk5TFNNZXcteTRSU3JBc2dhZXZlbVdsWUdfZ0dRazZCVGFQUmVWTXd2M2YyWmNmblE3RlUwU1l5UnlOS3ZvdF9SemJyQWJlOVVKeFNuYw?oc=5",
+        "domain": "techcrunch.com",
+        "publisher": "TechCrunch",
+        "publisher_url": "https://techcrunch.com",
+        "language": "",
+        "seendate": "20260928T192159Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Lamont, Fazio answer questions on business climate in Connecticut",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMUVxRFZZMFdYRDJ5VnJ2UW5FV3pENzJreUVyMURiSmVhcHpDYXJ6dXhxT0txaThibVZmaThWVGNIMHM3c1V2c01pN1NPZTlzdG1BZ2ViSHh0cmdDVmJpMHdRbm9CSFVmMDNySG9yQ1RHb19sUlplQWdjM0J1TEUxaTFtMFc4b1pQWmFoeXBBZDczaHdoU2Y0MkNpSUFkVFc5eUM40gGoAUFVX3lxTE1qOGZNMmFCYkZ1cHRYZ2ZIam9SSjJJb0RuaVNoSG5vM2VkNzF0LU9lQktqcEstWVdvWEhrSVlCbEwyNzR2cUN0Uld4QWYwbXNZN0E2aUhXbHc5Sk9XN3pHb0h0OWFNbkwyblFtRWtHWW1EdExfeUI2ekpwR2lVUUdSbFpIdzZoaXplQTBJbEhqYlc4QkpfVHk0OW8tTktPVHp2bUVsQWZMeg?oc=5",
+        "domain": "www.wtnh.com",
+        "publisher": "WTNH.com",
+        "publisher_url": "https://www.wtnh.com",
+        "language": "",
+        "seendate": "20260928T214229Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Justice Alito steps aside from major Supreme Court climate case",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZVRLYVlFTmZSMTducnVsTkNsNVhqUFA5OWFtNUlGT3ZiQVV2VWFrLWN5YTFGczFOTENHSEVHU0t3ZkVRMzdMeC15RWFSdmRkbm9vYVRpWnUyLU5HME41M1Y5d1prX3VZRHNMMGh3YUV6NW1uT0l5bU11d0Vid0FxdDg1Y0NtN3gzQjY1Y1pTbjh2R0M0bXM0blZsaGoyMFk?oc=5",
+        "domain": "www.newsweek.com",
+        "publisher": "Newsweek",
+        "publisher_url": "https://www.newsweek.com",
+        "language": "",
+        "seendate": "20260928T190400Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "How Data Driven Regenerative Farming Absorbs Climate Risks Before They Hit Produce Shelves",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONEJMV3RraFlXNndieTlwRW5Zc3JyVnZMTE9vd0dpMXkwRDVpRHh4OFVBSXdDMmphOUJkYVhaRGZxa2JGS1hzLXY0TGQ1NV9DRVE3bk5IOGl4Y3N6ME1HNW1lZno3NUhhU2JIZDFtWkZzUWtjV09DZ29HZDZ1VVVYX1gzSnYxdGJOYWtoRGlmMlhaLWJMQXhLRm01WC1RdkNJWnBqMVZqMnlHRUdHU1RBRW5sY1c?oc=5",
+        "domain": "www.thepacker.com",
+        "publisher": "The Packer",
+        "publisher_url": "https://www.thepacker.com",
+        "language": "",
+        "seendate": "20260928T192400Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Drought and wildfires 'brought people together to protect nature'",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9wNEs1Ri00N3lSUm5TcE82UkU0LU9jY0NuSnJGMzVSNFBubGh5dHIwNktnOUYzR1dZWU0xWVhEYzZrSW5jZEw5SnNLTHQ3TzNsbGxZcFVUREQxVDg?oc=5",
+        "domain": "www.bbc.com",
+        "publisher": "BBC",
+        "publisher_url": "https://www.bbc.com",
+        "language": "",
+        "seendate": "20260929T045750Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Alumni Gift, Vision Powers Plans for a Multifaceted Climate Solutions Hub at UC Santa Barbara",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcW40eVZlM1o3TVp2Z2pGNThQdmJ0MXRBY2lYOGFNQzNwZ0Vxemt1MUFjOGtPWXN4bzJBNXI4VlJSTVlTQ1B5eXhmV2VlQzFjYlp4eWJqcVdiSnM0ZE01cFdJT3lJNjFHb2FUdmVTWFZHSWE2LWdDYjRydVR3UGpZNC1uc3ZwbjFiQ1JXZFU0Uzk4dHk1RzExV3FhREwxX3dhT1dwUkpFZVhfUk1zTUw5Njg0d2Z2c04zZ3ZHbExOTFpRXzRmekNlQnRMMHc?oc=5",
+        "domain": "www.independent.com",
+        "publisher": "The Santa Barbara Independent",
+        "publisher_url": "https://www.independent.com",
+        "language": "",
+        "seendate": "20260928T195256Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Record warm nights in September",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8yblc4RWU4dXR4ajREVFpxTHJiMzhzMTU2a2JuVDJQQlNHSEU5LVBuTHF0V1BKUU1oZUNIaU9kdW5YNl9iaU9ja25oTzlSQUFjc291akU4dXAwX2tuX0V5RjZmS0pXQQ?oc=5",
+        "domain": "nsco.unl.edu",
+        "publisher": "Nebraska State Climate Office",
+        "publisher_url": "https://nsco.unl.edu",
+        "language": "",
+        "seendate": "20260928T203130Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Revealing the Invisible Injustice of Extreme Heat",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE05MTVNQmFxSmZMZVdaeEJHcEREWXZZZ1p2eHE1YVhDclFaaXBSZTFTTzVjVzFBX2ZKWUpDQ0dMLVJybHdkNzFHZXJrU2w3OVhHY1VsU0VvRDNiTVpRWGdiS1JqZzMxV1pTUTNoU3gtSGN1OW5BN2c?oc=5",
+        "domain": "insideclimatenews.org",
+        "publisher": "Inside Climate News",
+        "publisher_url": "https://insideclimatenews.org",
+        "language": "",
+        "seendate": "20260928T090000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Trump administration to slash clean car rules aimed at cutting climate emissions",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNT2NWTEJlbTBsN0NBLTBsMWhYT19sY3BhUGU5emhUUEUtclFoSV9zX0dtcmZXS1Vib2ZYUDVfcGRTbDZnSjBralpGM1FjNjdObS0wVC1jZ21LWUJtZ0pOZVRBRTh5dTRldHJLTWlmMkduUm82ZXpIY1g5S2JWMEV3NFZYYTNSLXpSbW1hQU5QYURzYUFBb0VN?oc=5",
+        "domain": "www.theguardian.com",
+        "publisher": "The Guardian",
+        "publisher_url": "https://www.theguardian.com",
+        "language": "",
+        "seendate": "20260928T150500Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Downed Limbs Highlight Haverhill’s Nor’easter Bout; Rain Fails to Break Drought",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZmJsdlZZcGpuMEk3R0g2LW5nMmwxZzZJbUhLcmR4UmMyeXVQdjNOS3RzbVZXSTVXaHBhaXYzUjg5UnhQUGxqM1M2UHRiUHNjeXRpUDVmejM2S3hGUFJsVWZKb1p4Z3RydHhydDZkMzFmTHh5bldDT2xwWkpZMER4U2RGajR4SHZ3R1hKT1d3ekNtT2dyaklWRzRiZHVoeXJWTWpOc2tMaWg?oc=5",
+        "domain": "whav.net",
+        "publisher": "WHAV",
+        "publisher_url": "https://whav.net",
+        "language": "",
+        "seendate": "20260929T030230Z",
         "source": "GoogleNews"
       },
       {
@@ -475,17 +465,7 @@
         "publisher": "thebusinessjournal.com",
         "publisher_url": "https://thebusinessjournal.com",
         "language": "",
-        "seendate": "20260928T220408Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Knicks, Jalen Brunson ready for next journey after ending title drought",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTTlSQ2hBQ1d0MmRCb21KN09xLTZRTTdxZkJJYmk5MFp2Skx5Y1FDSHoyQS1GWE1GRjJpWWVEMEROZGpiNm5paklTZ3o1N3VxUS0xTUJBSE5aT0xnbGpnRWxSRGQxMDk0M1FqSms2Q3N0MHNTNHEwbDdBRXRMRVJ0ZmpXa1h2MXZraW15bzZlRVdrTUFPVWpWVVRDVGIwWFVKWnJtdVdRM0lQNE9qaWdXLW5JQ0g?oc=5",
-        "domain": "www.reuters.com",
-        "publisher": "Reuters",
-        "publisher_url": "https://www.reuters.com",
-        "language": "",
-        "seendate": "20260928T214446Z",
+        "seendate": "20260928T221248Z",
         "source": "GoogleNews"
       },
       {
@@ -499,33 +479,53 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Malnutrition killed Wyoming pronghorn in peak summer as vegetation withered during record heat, severe drought",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeXBIWndCTmdoMDlLOG43RmZ1RWZ6ZzdhTFEwaUF6RFBRdlBacGxwTmJkemJWMU1wRFNuWVd1bGd3TE5LM2l6cWNCRnlLbHcxMmEwYm04VmtZRVBmbjd2QklBZWpIMFpkZWIzdU1VeEhEMGdwQmNXUDRuT2RrLU5rOW15UGtWTS1SWUF6c1FmdUpydFE0MS11aExHdVlWLWpRTjlIZlh4VzNQbGpmSnFoZDR6ZldDWlVlbXRCTXBXc3JCaUpDcnlUX2l3?oc=5",
-        "domain": "wyofile.com",
-        "publisher": "WyoFile",
-        "publisher_url": "https://wyofile.com",
+        "title": "Justice Alito Won’t Participate in Supreme Court Case on Climate Change",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaFhmRGstVjM4M2FCdHhzVnBSdVVMWTRfcUM3blJySGFkX0NqUVFuUktWM0FCeGhvWFh6eEtodE1wQmE3VE1zaHQ2V0NNTVo4ZklFTEF5MU1kaGdoQXI3WGxLVGxqZUp1LXhtanUyZ3c1b29iOWdhZm8xbmFNSzNsNVdTT01WTWtXbEdidHlEb0tmdGJJY0dEZkZmbHBSSGV6NVcycUsyWk1iWnFzdnhpYw?oc=5",
+        "domain": "www.wsj.com",
+        "publisher": "WSJ",
+        "publisher_url": "https://www.wsj.com",
         "language": "",
-        "seendate": "20260928T230016Z",
+        "seendate": "20260928T203900Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Alito will not participate in pivotal climate change case",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOLXo3ZHhGQ0dFRG1DRmRNbTFPVEVNal96Zi1mTS1GTWVmMjU0QThvcG1jdFFHTk9veFlLZmVMekxfY1dSVmtzS0c3SlRKcXQ1d29XQjdwZTAxUGNpQ1dic3FEeVlZVWplZTExakZ0dTFtb3dPMlp5MFp2VHpiWXVlMWR2X0pDR2o0YmlNN2lhdzlac0Zu0gGaAUFVX3lxTE1xT3JXdFJVNlZlV2M1bGd4WnhiWTZXci1aS05ycmNNejFiWkJISm1TQ243LUduUHh0ajI4bG9ta2ZEWnc3UWg0TENDYkp5d01qVVhxVDI1ZFRIUjFLOThIbktuYm5LYUw5SVVNTEc1STJubXlrcEp3NVhZTklabFQwazNfbEx6UEtQb3JWSHJzaVh4N2pfVmZ0V2c?oc=5",
-        "domain": "www.thecentersquare.com",
-        "publisher": "The Center Square",
-        "publisher_url": "https://www.thecentersquare.com",
+        "title": "Drought reaches exceptional levels in northwest Wisconsin",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcGdkWFhSNDFiVDd5UWNVSExWOTBDT2xLOUkzY2lGb29ia2RqMUVodG0xTE9rSGJJcWw3d0I2VTBWWHY3UEVOTmpnS2JLZkI3X1hNd2xfNGhDOVdJVktiQ3dYS2o5SE1aT0c4U0xURWFNejFDWGxUU0ZtdzEzWU9DRzU0R1lqZjdqazM4Wk81a1kyaUwwTGp2NEszcy1HekxBbndTMUhxVQ?oc=5",
+        "domain": "www.northernnewsnow.com",
+        "publisher": "Northern News Now",
+        "publisher_url": "https://www.northernnewsnow.com",
         "language": "",
-        "seendate": "20260928T200900Z",
+        "seendate": "20260929T002600Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Our food system is vulnerable to El Niño, warns UK climate minister",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTC1HdW5EcUdubDQyZW85dFE4NjZVeThTemZWcmU0QzZKanNoWWl1SUVER1YxblZkMW1MMEFhSV9tb1FYWUpOcjQ5WDM3Nl95YVRDRVo5LXZ1RHZac0lJWVFDWDVpelBDeVFyTmNhbEdFRnQ4MzF4SW5Lbmp4QktlREFBcFdmR2NEY1pDQjYyYkE3UzY4WUszRmNXLXZ0SHZ4a3ZhQUtMZ2JqWGt1TU5YZ0t3?oc=5",
-        "domain": "www.newscientist.com",
-        "publisher": "New Scientist",
-        "publisher_url": "https://www.newscientist.com",
+        "title": "Des Moines Art Center awarded $100,000 climate grant",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQV2pRUkV6NVRyYkRjVVBWRS1TeGJPaERjV2k2VV9tUGMxeEVWT0RYZVNXc2pPWmRXX3BtM2t0dUVDdXJlcVJpOU4zWXBBNHRTY2ZiSFl6VmFqNnc2RFljcXVQVWJaRVBiLUU5c1FaYjFiVG5iaTdFNW9WVmlwbkxPWVlPdldvUFlfRXc?oc=5",
+        "domain": "www.businessrecord.com",
+        "publisher": "businessrecord.com",
+        "publisher_url": "https://www.businessrecord.com",
         "language": "",
-        "seendate": "20260928T201057Z",
+        "seendate": "20260928T213207Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Illinois passed the nation’s first climate migration law. The effort has languished since.",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcUZVaUJfdHpOTXFBUi1ta01vaG1uVzBONkxsclU3WWNQbTFTdUl2aVZPOHNoMmJDQ0llaVhMbnZjMDdwQlEyNzJOd09QZUdDZDZRLWMxYThwSEQ5bXB1b3JMNkVLMjJuWVhuV3pESm5JcFlfOUVkdnpOcUg1TThMYmppdlduMXNrRkdsN3MxMExuOEhydkxoM09tT2NPWnZYaVlDVjdZYXg0ZnoxLXd5U2g3d25PR2c?oc=5",
+        "domain": "grist.org",
+        "publisher": "grist.org",
+        "publisher_url": "https://grist.org",
+        "language": "",
+        "seendate": "20260928T083050Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "A Tropical Island Drought May Make Your Sneakers Pricier",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQa2JyYUNMV3lxa0k4NF9VTmJSaUJaYUxiVWUxS2VGTm96WFlsamJoMWxRMXZLWmlVQjcybjFPU2lZeDUxMjRseVBRWTVhMVIxUzVhSzEyMjJQejkzNEFNMlFvRnhmQklyV1lMZWpYTXN1Z19Wem1EOUZvd0xpWi1LZ0hJQmNIdEtnRks1LTY2UFFYeDdpVUJrZEg3bWpjeks0NjQ0REpjMGs?oc=5",
+        "domain": "www.bloomberg.com",
+        "publisher": "Bloomberg.com",
+        "publisher_url": "https://www.bloomberg.com",
+        "language": "",
+        "seendate": "20260928T190018Z",
         "source": "GoogleNews"
       }
     ]
@@ -539,6 +539,26 @@
       "publisher_url": "https://www.scotusblog.com",
       "language": "",
       "seendate": "20260928T193431Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Justice Alito Recuses Himself Days Before Major Climate-Change Case",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSkxvem9qMWtSa3plUVc1d0lRU3c1R1prZXM2M0NnWm90eFVQZHcxd3dOUUt5R3hSTklPekFxNTJkYTduWnpTY3lQQ3o4YXB3MUpPeHlrTzFKQWt3V0tYZ3FKS0o1M0E4Rl9BeFgtRHFWWFduNHdzNXVGS2FoQ2liT2t1Zmk2RjZiUXVBU09R?oc=5",
+      "domain": "www.nytimes.com",
+      "publisher": "The New York Times",
+      "publisher_url": "https://www.nytimes.com",
+      "language": "",
+      "seendate": "20260929T044100Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Samuel Alito steps aside in a major climate case amid scrutiny over oil stock holdings",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZWZ5eDBRbWhNM05xYW5pYkFPd2tpV21BMGJVVkdseXhLT3BneVEwUFdxSENuN3VMVzlndHNzdThXc2V3b3hBaVNEcjMyUjFSWFpfWEJfQXFtb2t3SUlHWFdhQ21nemVTZzNCMnA0ZWU4c2hpR0RTNmZNVlV2dGh6ZmI4QlVtTmhBVUs5Q0dSS0tMZG9KMlE?oc=5",
+      "domain": "www.theguardian.com",
+      "publisher": "The Guardian",
+      "publisher_url": "https://www.theguardian.com",
+      "language": "",
+      "seendate": "20260928T224200Z",
       "source": "GoogleNews"
     },
     {
@@ -558,7 +578,7 @@
       "publisher": "Politico",
       "publisher_url": "https://www.politico.com",
       "language": "",
-      "seendate": "20260928T192100Z",
+      "seendate": "20260928T182800Z",
       "source": "GoogleNews"
     },
     {
@@ -572,13 +592,23 @@
       "source": "GoogleNews"
     },
     {
-      "title": "US Supreme Court's Alito won't participate in climate case involving oil companies",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNmhUZzJOQUJ2ZDJ0ZldZRnlrQTM5UU51RHY0Q2pHenIyVFBKRi1vMzlZYUhzdXZrLWFWUlo2NGNweE42cHZSOUsxU2Zsdzkxel9hRGQxY2hMMmhzXzVTZGxUdXAwWkFTSlNKNlhfWlVGUklyR2EwcDJMWHJ6UXBRM1hOYTBkOGRrUHJhMTFUNTYxVWNSSzNIQjA0OU5QYzBZM016eXR3T3ZQTlhiWjdYaHcwYzV1dHM5bDJSdXk5ZU4xdE5PQ3o2Zg?oc=5",
-      "domain": "www.reuters.com",
-      "publisher": "Reuters",
-      "publisher_url": "https://www.reuters.com",
+      "title": "Five Takeaways From YSE Experts at Climate Week NYC",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdXhLNmxZV3MxVjJ2LS1SZmFYWUd5eG10a2tqUURYMmN5aV81X2FJTTVTd1NidXZxLVlzb2ZaVDJQZG96a1Zrd1BiSDdHZEt4UkZCVTRueDFXRXUwSk44NE9Vc0ZUOERKTWtNbVFKWmxlQ1ZMdmlMVUtKcm5MSXhhekl1OVFjR19sd2swLVVR?oc=5",
+      "domain": "environment.yale.edu",
+      "publisher": "Yale School of the Environment",
+      "publisher_url": "https://environment.yale.edu",
       "language": "",
-      "seendate": "20260928T181751Z",
+      "seendate": "20260928T190000Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "What to expect for this year's fall foliage in NC as drought persists",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVFJRMURqbzFxMzlmVTM1cFV1S3gtNWNZQzNkdEpQak1yak9ydlhmQS1lZk81UDl0QVFCMzR1TF81azFVOGVEbVluVXA0dmpVLXBXeUdrRVZySTVFS01VZm1udEszdWpqVEgtMGMtWllicG9kbXNSNzhiOWprWTRKd3NIb3RSaUlNdy1yZzllb2pIdzF6ZDRYOHVGa2R1SHJhTkNmNF9hZmxwbFZkZnd6TEppX1M3U2hscG14TnJTOHduVDNqQ0RkUHNrWUVGN0U?oc=5",
+      "domain": "abc11.com",
+      "publisher": "ABC11 News",
+      "publisher_url": "https://abc11.com",
+      "language": "",
+      "seendate": "20260929T014015Z",
       "source": "GoogleNews"
     },
     {
@@ -592,6 +622,26 @@
       "source": "GoogleNews"
     },
     {
+      "title": "'Possible drought-buster:' Wednesday's Weather Impact Day forecast could 'potentially' be Colorado's most significant rain event since 2023",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNektrQVhyVm83YnRvcm44TVZHZVM2dlk3RUo5RWNHcjE3X3lJdFJ6U0JnaTJwT2gtV0paQ1RJek5CT1d5UEFiUlYzVEZJVUp5amZqRGdoQVYwZ3lZdy1LN2NqVXJRbnFZVVYya0xLZzdNNHM4QXBLT0VPaEhzVzRyMjU5bE9oRy1aci1yeFY1Tm1LZGpxNXQwM0Jjcl91RXN5UEQ3OHE3NWlvaG9FYlVnS0x0Q21YXzBoa2VBMXNaTjAtZEMzekYyQVhB?oc=5",
+      "domain": "www.9news.com",
+      "publisher": "9News",
+      "publisher_url": "https://www.9news.com",
+      "language": "",
+      "seendate": "20260928T203800Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Alito’s Recusal From Climate Case: Too Little, Too Late?",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTzdQa2pWbDhKT28wS2JaYy1qdE1xaXlsRXRhRU8zRlpoY3hxSmlKVmRHWFJLYTdYZERoM19ETHU3aFNTUkZvdWxUR3dqTFJoMXpyV0p3U2hPSDluS3lveWZBN003QTVtV3d4SUhHZjdheFVncTRSYzlZdm5XODNrV20wYnFJMHozQjRHQl9QTkpNN3pDX20xU1NwNGFmQQ?oc=5",
+      "domain": "insideclimatenews.org",
+      "publisher": "Inside Climate News",
+      "publisher_url": "https://insideclimatenews.org",
+      "language": "",
+      "seendate": "20260929T012448Z",
+      "source": "GoogleNews"
+    },
+    {
       "title": "Alito recuses from case that could toss climate suits against oil companies",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMTI5ZG1qQXh0M0NaVkNrVXRtZmdRUEo3Uk9SeFRBY1NVRmxQT3B4V2VpcDFUcEJCWnhUVlZUQ2hvd1RSS1ZCT3VSaWU5aXRIMENWbVRYN254Zk1uVVRPS1NRXzI3dDVOWnNVMXpmb2dXMmNDLWFtdHVRUUpuVUtncWV0VzgxeDhrcFhUa2FIVkFZWlBRY3NUZEVEczZEbXRtM29WZDhNbVZuTTk10gGyAUFVX3lxTE9IVFFpZ2QyamdRLVpLeEwxRXQzM3BXRURKWnlvNWNER2RxX0JDZkxybVZiRjFUOVJLdlRfeGdKY3c0elRoVmFRb1drbDBYVnNoU2xYd01lbV9RM09zTXJkQWJBazdCZnEySXo4ajVha2JSYUI3dTdCMGl4eUJtLTA2dEVIR2pleGtINkcxV29PZ09tUG41dXNnUlFIRkctdlBLNWoyX3E4VjB2T1I1b05idUE?oc=5",
       "domain": "thehill.com",
@@ -602,83 +652,33 @@
       "source": "GoogleNews"
     },
     {
-      "title": "Justice Samuel Alito recuses himself from major Supreme Court climate change case",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcVNOS1dUTERROHByVkVJVEUtUlZnRjg1TTVEUkgwU2c3N1ZwcXRfbGs5TzF2dGhlaFVTcXc3MnFtcmNJejNpV2lLMTZXQm1wcElTWXQxZTFXQTU4Z0c0UmRLXzctbTF4RDVoVG9fa004VXBnLVdEblNnOFdiLWR6SUtoVWpDN2ZVZkMtS1VPODg3VVNTQkE?oc=5",
-      "domain": "www.cnn.com",
-      "publisher": "CNN",
-      "publisher_url": "https://www.cnn.com",
+      "title": "Local whales in trouble: Oregon's grey's impacted by climate change",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZXBSYVQtTGd0Tm14eWY4amZMSnhjbjk4cjdLWFkwM09peGYxTDREOTZOeVUtVzE5MGppNXVMZW5Xc3dHd0FvRkVvZFAySlZ0aVZTTkFXZm5ubmg3NG5WcWtBempFS243MTM1LW90c2lpODFOU20wSU9JNnVBWFpPYjgySG5WNFItaktPYzl5azZiME5mRFQ2NkV2R0lZZG9wUmdoV2JFZVNxTU9IUkpqNVdudUxUbFFNRVpFOW1iSF9ZcDQ?oc=5",
+      "domain": "www.klcc.org",
+      "publisher": "NPR for Oregonians",
+      "publisher_url": "https://www.klcc.org",
       "language": "",
-      "seendate": "20260928T180716Z",
+      "seendate": "20260928T221500Z",
       "source": "GoogleNews"
     },
     {
-      "title": "Five Takeaways From YSE Experts at Climate Week NYC",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdXhLNmxZV3MxVjJ2LS1SZmFYWUd5eG10a2tqUURYMmN5aV81X2FJTTVTd1NidXZxLVlzb2ZaVDJQZG96a1Zrd1BiSDdHZEt4UkZCVTRueDFXRXUwSk44NE9Vc0ZUOERKTWtNbVFKWmxlQ1ZMdmlMVUtKcm5MSXhhekl1OVFjR19sd2swLVVR?oc=5",
-      "domain": "environment.yale.edu",
-      "publisher": "Yale School of the Environment",
-      "publisher_url": "https://environment.yale.edu",
+      "title": "US Supreme Court's Alito won't participate in climate case involving oil companies",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNmhUZzJOQUJ2ZDJ0ZldZRnlrQTM5UU51RHY0Q2pHenIyVFBKRi1vMzlZYUhzdXZrLWFWUlo2NGNweE42cHZSOUsxU2Zsdzkxel9hRGQxY2hMMmhzXzVTZGxUdXAwWkFTSlNKNlhfWlVGUklyR2EwcDJMWHJ6UXBRM1hOYTBkOGRrUHJhMTFUNTYxVWNSSzNIQjA0OU5QYzBZM016eXR3T3ZQTlhiWjdYaHcwYzV1dHM5bDJSdXk5ZU4xdE5PQ3o2Zg?oc=5",
+      "domain": "www.reuters.com",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
       "language": "",
-      "seendate": "20260928T190000Z",
+      "seendate": "20260928T181751Z",
       "source": "GoogleNews"
     },
     {
-      "title": "Justice Alito recuses himself from major Boulder climate lawsuit",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQnNPX0xVOWRRRWsteUVKNy1xVTQ0dkUzVnZOVk1oTzVyNnNwWHQ0SFpiVVF4dTY4blUwVGtkcDRFb1p2bC1ob3Bqb0Q2SHVWSUVfYkptZ3hNWW16WlZRMjJoR1k1aWhIam9JVW94S2xFcjVsY2RneV9nczdjQS1wMGNnck14NkoyNG5Z?oc=5",
-      "domain": "www.cpr.org",
-      "publisher": "Colorado Public Radio",
-      "publisher_url": "https://www.cpr.org",
+      "title": "Panamanian President José Raúl Mulino discusses sovereignty, migration, climate change at World Leaders Forum",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdkY1elN1bFZUMm5QQlVzNVJvcFFxYWdGSTE3SG95X3Fld2JYc05rOXpUdjJ3Vkk3T0FiOUJ6a3NleHZDNnpOel9KSXBnUnd5REhfOUtyRlFkcF9ja2E1WmZSMU1zdEVDbW5JbExsY3d5ekNBS1NFd1lEYVNscUV3ZG82UDRLNi0yOHJnd0V0REdNd3J6REhLRDk1WjVZUVpWUHZGTXhTVlE2aTBqTDlUR3NVQm9CaHZHeF9GRmltZmg4YVBoUjBHRndfVUN4dGV6SFhKTi1JVFl4VWdWWFdiTFA4NmJWbm5wSGxqQzV1UQ?oc=5",
+      "domain": "www.columbiaspectator.com",
+      "publisher": "Columbia Daily Spectator",
+      "publisher_url": "https://www.columbiaspectator.com",
       "language": "",
-      "seendate": "20260928T211353Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Tackling the drought early this week",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVDM3RExBb2hySGZCbXRiaGUzY0FYbFJhTXFxdFZEVG5WcXBiandDOUQ4elg3TVpEakVKQmd0ZF83Nm9WU1Bib0pTcG43Tlh5ZnlsaU14UWlUakVDYm1OR2dReWZFYWIzc2wzTFowLWlxSnNqWTlHSzAyb21jcFB4MzZTZw?oc=5",
-      "domain": "www.mprnews.org",
-      "publisher": "mprnews.org",
-      "publisher_url": "https://www.mprnews.org",
-      "language": "",
-      "seendate": "20260928T210000Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Breakfast at the Barn brings agriculture, elected officials together",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUWJudDdKcF9WRmo1RGs5ZU5WUTBUZS1OS24zelVoTW9rU3MyTXRxV3hBZWNPUXBmbGpNQUlUckFKc2YyS1lGbjFOM0lKU1QxejVsRV9USGZ4bUVOZ0d5aHNHZ0tneGhNOWdSbHYyZFh0REdfeEd2ekdjc0VqQzZFTS1sNEc4dDh3STdfT2dQNGpHNTY2cUVIcFlLUy0?oc=5",
-      "domain": "texasfarmbureau.org",
-      "publisher": "texasfarmbureau.org",
-      "publisher_url": "https://texasfarmbureau.org",
-      "language": "",
-      "seendate": "20260928T163108Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Commissioner Miller’s Farm Fresh Challenge Connects Texas Agriculture and Federal Nutrition Programs",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPT2VtQ3JmREpxSF8tSUl6SHBkSElTZEpuX1RudEpqQmQ4OUU3SEc1eDNRak9rVDdWaG9sOGtfdzlucV9ZYkpVbDR4NXFSLUNKeGFyQTAzT0FnRWlQOU14eVJyVncxbXRLbER4NExKWTJxMmNOWVBuTVhOYVl1dEYySGtQRWQydHJoTzA3d2VRWWlFUnJiaG1Tekx0aVJoM0g2VVRzMlVXdG5mV0l3VTQzdm5saVBmdXAtNjd5ZEFkb2xaREp5UjRyODV6bDJMdW8?oc=5",
-      "domain": "texasagriculture.gov",
-      "publisher": "Texas Agriculture (.gov)",
-      "publisher_url": "https://texasagriculture.gov",
-      "language": "",
-      "seendate": "20260928T174705Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Kathy Castor on Climate & Energy: Where the Candidates Stand",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQWpTY3RfNVdxZHkzYV9XUW5jNW9hSjVySUU2ZUE1Z01FMF81M1lLNTdOYlVWU3VvV05DVWhET3BvclpLZUpYVmZiZUxuMm9UMTh5N3dHNU9hU2NHOF8xZ25pTnlMSlA2WFhiLXlLQjJ2VGZVWDJ1S1ZWSFgxZVFSbzBQRzVaTGNDYjQ4THNFZ3A?oc=5",
-      "domain": "cleanenergy.org",
-      "publisher": "cleanenergy.org",
-      "publisher_url": "https://cleanenergy.org",
-      "language": "",
-      "seendate": "20260928T193520Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Alito steps aside in a major climate case after scrutiny over oil stock holdings",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOb05BOEZIaVRxTlJIWlZTQl9xTEc2WS1FenVLMmpVeVY5WG1ZZGxTdUY4S1NmRzVhRmRmeVJUY2ZoNlhCTE5SYkdZek9wNzhDcWk2bl9QWjNmNTgwYTRMeXpMSzdOcTM2MFR4amRuLXlPdm9tOFpYVjZKcEhQeDI0Mzg3R2tzdTB4X2YtWlNUc1RPc2tZVW1adnNn0gGfAUFVX3lxTE9zS0tmZlBSWmptbTFjMWxuRDBwZnpMNUY3cUpZNTk0MnhjNzNLNC1JU0hzbnk1Z0hPZ3VoUEpwSEJqblVHQm5Cb2pWTnlLQnIxRlFibzY1TENVOUZVa0x3YW1WSDhVX1NBb0hRb3hTTk5jWGhJTHhrT3NyN3Z5Y0NGcjhudWQzdlBBNUVPN2Z5ZVBmYzBBV1BnV2dRekllNA?oc=5",
-      "domain": "abcnews.com",
-      "publisher": "ABC News - Breaking News, Latest News and Videos",
-      "publisher_url": "https://abcnews.com",
-      "language": "",
-      "seendate": "20260928T210452Z",
+      "seendate": "20260929T005118Z",
       "source": "GoogleNews"
     }
   ],
