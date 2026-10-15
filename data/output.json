@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "climate-security-index",
-    "generated": "2026-10-14T21:48:32.613097+00:00",
+    "generated": "2026-10-15T04:52:31.392322+00:00",
     "mode": "live",
     "sources": [
       "news_articles"
@@ -23,7 +23,7 @@
     },
     {
       "label": "Distinct news domains",
-      "value": "38"
+      "value": "41"
     }
   ],
   "live_data": {
@@ -49,13 +49,43 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Federal disaster loans available for northern Wisconsin businesses impacted by drought",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNY253UFRodEFJRndUcDBEcmpxUXVtNGRITEtRakRLWkhLNS1wWHpqNWJEZTFyTGZSRmF2aFY0S0FTa2psSlkyZlZscHByWm5oVUNwRnRBekRUelk2WXdxOFA3Y0tGc2ZIaG1yRHFyaTIwRXBpMmdDelV1YjBEdVBKUVI0amZtOUVqY096bnZVY1V1Zy0yaU1qQXFVcVZSdWpBa0pleXBNdUlpc3MzUVFEZWZBMEhvdlgyQndvU1dCOERnUQ?oc=5",
-        "domain": "civicmedia.us",
-        "publisher": "Civic Media",
-        "publisher_url": "https://civicmedia.us",
+        "title": "Climate Change Is a Given in Every Extreme Weather Event, Why Do We Keep Needing to Prove It?",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYUJTMVBUYXotZUVCRndESC1iN0xBYTNWN2Noa2k5MWpQNDRwUE01OUhORkFnQUZyVmd2VTJYOUh6OVdxdnRQU0RzRG92XzV3cHMtQ05WTFphOExGdlRMenNBTl9xQWlqWDloSTNPa2kxbE93QUs1U3A5Z3dQRVVCd1hrX25mMVdnVDJDdkQ2eHVFT3dERnlWNVpxOWJFSUFORVlDazdERkZrOVFhdnh2TGlJdkotVHh0OFEwMjlGa2N3eUE?oc=5",
+        "domain": "blog.ucs.org",
+        "publisher": "The Equation - Union of Concerned Scientists",
+        "publisher_url": "https://blog.ucs.org",
         "language": "",
-        "seendate": "20261014T190000Z",
+        "seendate": "20261015T000249Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Climate change pushed Earth to its limits in 2026 as certain \"vital signs\" reach record extremes, report says",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9hS3RWNVM0cEtxZHA3ellTYzZxQllyMVhoN2hlYnIyT0JLRGg3cjdvOUw0R2gzM2JNdHlkWURWeU1lYzZTaU1Oc29fNTc5Q3JUSE9FWjN2aWFfcldGdVgtejRkVGlYWEp5Sm5DaHVSWEplOV94dnV2a1ctQQ?oc=5",
+        "domain": "www.cbsnews.com",
+        "publisher": "CBS News",
+        "publisher_url": "https://www.cbsnews.com",
+        "language": "",
+        "seendate": "20261014T192700Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Fires surge in Brazil's Amazon, fueled by El Niño and climate change",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOenRUYXZUaGVKRl9KUVpYVWJIZWlGeXFnVGRCUnh1a1owN0RUUjlkN0pUUjFSbzc3TnNFNXZMVkhTNWxWc0RLN004bG5USmliNGpMbzN0MG1WOS1nYldKSERXbFdoeURULTA5Q1BseW9TUHVqSXJpNExIdS1LMFZ4Tl80Y2t1dVRLOTh2OUlNLXNLeEItdlJQN3ZDTjJaVzdUSDBBRzhObldWTW9rZFl6bHNiRGRoZw?oc=5",
+        "domain": "www.reuters.com",
+        "publisher": "Reuters",
+        "publisher_url": "https://www.reuters.com",
+        "language": "",
+        "seendate": "20261014T145344Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "New facility builds on long WSU, USDA partnership to boost agriculture",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZnMtMmt5X3dMQmRVTk1TSkJjdVlzN24waXd6Nm92ZGVRbmt1bURSRXRCU2NXRHYzSkFNZUQtQVREcjVMMWFqTFNyb211QlNZbGFtMzItSHRNLWVuVUFKY1JnWXc1V0JXSzVMOWxMNFF6N0t0OUhpWV8yOGV4WUwzbWxLakN6bnJERzhtdVV4eE5JT1lHZTJ5TF9kRDMtdWVFbmdMWGN6c0FuUjg?oc=5",
+        "domain": "news.wsu.edu",
+        "publisher": "WSU Insider",
+        "publisher_url": "https://news.wsu.edu",
+        "language": "",
+        "seendate": "20261014T181025Z",
         "source": "GoogleNews"
       },
       {
@@ -66,6 +96,46 @@
         "publisher_url": "https://insideclimatenews.org",
         "language": "",
         "seendate": "20261014T180000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Why caring about climate change does not always translate into greener holidays",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1xTFlIeVpndE8yTlN6MElvVTZLMEQweGltX181TF92WHVNRkpRVERpT0E1bV9Od2M2aUlSMmJfbVp3T2xHSEdUdmR5djlDa2xIYkdNU3VDcF80M1ZUWHRtQ3dBSkt1cmRuVFhz?oc=5",
+        "domain": "phys.org",
+        "publisher": "Phys.org",
+        "publisher_url": "https://phys.org",
+        "language": "",
+        "seendate": "20261015T012002Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Federal disaster loans available for northern Wisconsin businesses impacted by drought",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNY253UFRodEFJRndUcDBEcmpxUXVtNGRITEtRakRLWkhLNS1wWHpqNWJEZTFyTGZSRmF2aFY0S0FTa2psSlkyZlZscHByWm5oVUNwRnRBekRUelk2WXdxOFA3Y0tGc2ZIaG1yRHFyaTIwRXBpMmdDelV1YjBEdVBKUVI0amZtOUVqY096bnZVY1V1Zy0yaU1qQXFVcVZSdWpBa0pleXBNdUlpc3MzUVFEZWZBMEhvdlgyQndvU1dCOERnUQ?oc=5",
+        "domain": "civicmedia.us",
+        "publisher": "Civic Media",
+        "publisher_url": "https://civicmedia.us",
+        "language": "",
+        "seendate": "20261014T190000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "“Stunningly short-sighted” NOAA grant cuts threaten US climate resilience",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOR3U5dU5RZ1Zmdk9YeWRyOUd5TnQ3QnpaWHFQV1FMN1lhc3dFcm1Cems2cHBPdXRKRmVIMEV0dTdYY3lITDV6ak9melh1WFFIQlpuZDBrNVF1YUp5UWlLdGo1b041Ukk0WkxjNm1BLXV5NkFWM1NQeXlUMnQtZVc1RmpWSm51Zk94LU5VcEZ0TG5DUGh5OWxCZFRrU01TOUNCNVFBLUJJS3NYeDR6UmlXYmpwUlBnQURwcmFRYw?oc=5",
+        "domain": "news.mongabay.com",
+        "publisher": "news - Mongabay",
+        "publisher_url": "https://news.mongabay.com",
+        "language": "",
+        "seendate": "20261014T225409Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "AI and climate: Hero or villain?",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRHpBdUNPWjNxb3Y5WWxCaWJYcF9iYzA3ZW1zRFBHQ3FkQUJfRmtDdzQ2dWt4aGlrOFpzMW1FMldFZTVLMnV0VjdDNWJhTW03VWxyWU9lQlBCd1hUR0xqTGJuMjdyNlVpMUVERnNwM1p6NnFSSlB6bU5jMDhEM2YzME05VnFZQQ?oc=5",
+        "domain": "www.latitudemedia.com",
+        "publisher": "Latitude Media",
+        "publisher_url": "https://www.latitudemedia.com",
+        "language": "",
+        "seendate": "20261014T231126Z",
         "source": "GoogleNews"
       },
       {
@@ -99,6 +169,16 @@
         "source": "GoogleNews"
       },
       {
+        "title": "Penn experts say Trump EPA rollback will drive nation off ‘climate cliff’",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeEhuX3dGdHdLai1SLWpRWUI3ekNEZkM4NF9OTlpGWTZOYjlYN05hRVU1QVVfaE5MekVVQm5VSEc1RXBLb244T3FEd0xqWVpiLVZ3aUthRC05cF9wODJFaWlDdXFGNlpmUG5wOUhiSGtfTlhJdFJjSHNaUnVpNjBmZlVZYS1sR19kTlM2bXB5bThUUEtL?oc=5",
+        "domain": "www.thedp.com",
+        "publisher": "The Daily Pennsylvanian",
+        "publisher_url": "https://www.thedp.com",
+        "language": "",
+        "seendate": "20261015T040313Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "I work for a major insurer. Much of my industry is fudging the numbers in the face of the climate crisis | Anonymous",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcEdpQW1nZ0wzTXZsMlhuc21rLWh2RHpxMkJsTktmZXZKSzJNeUhJdnloODEwWHBzU3JSbTZqTk5yd1FzZ1Bsc3l3X1BSTV9JNTQ4SERzUDFkdFB6aGg3ZC16MjQxblMzZS0wYjNaQWRIZW1kbmJscGM2ZlVyeXRMNjVRVnZPUEZyUjh3S0k2R2JXeC0wUWdjV3hvcGdsdjZXSk5QcVhCdw?oc=5",
         "domain": "www.theguardian.com",
@@ -106,26 +186,6 @@
         "publisher_url": "https://www.theguardian.com",
         "language": "",
         "seendate": "20261014T161100Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "New facility builds on long WSU, USDA partnership to boost agriculture",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZnMtMmt5X3dMQmRVTk1TSkJjdVlzN24waXd6Nm92ZGVRbmt1bURSRXRCU2NXRHYzSkFNZUQtQVREcjVMMWFqTFNyb211QlNZbGFtMzItSHRNLWVuVUFKY1JnWXc1V0JXSzVMOWxMNFF6N0t0OUhpWV8yOGV4WUwzbWxLakN6bnJERzhtdVV4eE5JT1lHZTJ5TF9kRDMtdWVFbmdMWGN6c0FuUjg?oc=5",
-        "domain": "news.wsu.edu",
-        "publisher": "WSU Insider",
-        "publisher_url": "https://news.wsu.edu",
-        "language": "",
-        "seendate": "20261014T181025Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Op-Ed | Women Farmers Are Shaping the Future of Food and Agriculture Systems",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQc0dLazJsZGxENkxvWTAzQzNxSi1fc0x3MTl0S0hSbTV0eVhWODZtbEFtMHNmVlo5bUF5dFBtZ0NJa2RJQzN4T0tPYUtCYk1PZXJmR1RwM0g0aDU4dkJtRjd0VzBibWxfN3haSXpZcHB1VWRXV0N5eUNQalQ0UGtZMUlXRTZ2RUh1UXNEWkpCcEZ0TlpDNi1QVEZnaGdmeHN2R1lXZTVZMHlGOWwyVlE?oc=5",
-        "domain": "foodtank.com",
-        "publisher": "Food Tank",
-        "publisher_url": "https://foodtank.com",
-        "language": "",
-        "seendate": "20261014T195002Z",
         "source": "GoogleNews"
       },
       {
@@ -139,43 +199,13 @@
         "source": "GoogleNews"
       },
       {
-        "title": "New Mexico farmers say rising fuel costs, drought pinching operations",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQd1F4dDhGYjB6MUVMQkJOaEVkaTZrYmJ6WV82WHlJb0w3SGxyLV9VUkpsOWp5TXl0RTZEaXlwSU03ZEUtYVJ2eUlWdkdIUkxIWXJ5dFlGR0JqX0R6cFRDaV96Y1RJN2I1N2twN2hEVUswOUFtOUtTRjlLd1F4T2dWUDdOQWkxQ1JKZ0hSU1BqbS14eHh6OGw1Y1Q3NA?oc=5",
-        "domain": "searchlightnm.org",
-        "publisher": "Searchlight New Mexico",
-        "publisher_url": "https://searchlightnm.org",
-        "language": "",
-        "seendate": "20261014T151812Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Warmer climate could reshape hurricane risk and its relationship with El Niño around Hawai'i",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTW52dE9NdnZJQVdlcnVxZV92Ymx0Tk9sTld6YWFhY3NqNW9HRGNWTTM3Z2J5cmcxcGJKUS1MR3BzY0VpUUJZZ1lYd3hYN1d2b1hoMlVpeEZ1N3M3QkNOdktvZlA2b2VUcldhYzB1MmxUNjVMT3NxVjMzR1QyMzRQVFc3Qm94OG8?oc=5",
+        "title": "Climate adaptation's delivery gap: Turning national plans into action",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE94Mk1fRWVlVndBMmdpSTlMMm5yYjY0ZTA2eFJhNkxabER5XzFmMzBHc0tkNmQwNUZYOWlxczBWcjE4VFNRVnNJYXhDNzhiVGJzLUF3NXctc0lxaXhSRHdHYi11TnhZRi1vRTRyQnFHTzRlTTN5dDJsQWszZw?oc=5",
         "domain": "phys.org",
         "publisher": "Phys.org",
         "publisher_url": "https://phys.org",
         "language": "",
-        "seendate": "20261014T212017Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "The Earth’s vital signs are concerning, a new report says",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNTFHanVQdE9fd3ZkeWdtRUlmT0FKU1ZqRDNzUkZJaGRvc1NpWnBUdTY5eS01bS00QndNVHVrcG93cVoxV3E3ODFpUWd3UzNSNS1UajJ2WlFpNURUWG9jeGMtdVFUcGVGREZUSkhOcjFmWkFPQmN3WjBUQkI1YldjQTJMbnFJVVZreHNDNWtiNHloSmNLR2FzSEJfTHFxa1NfVVROY2dqMnFaV0N1SnZBSHdR?oc=5",
-        "domain": "www.washingtonpost.com",
-        "publisher": "The Washington Post",
-        "publisher_url": "https://www.washingtonpost.com",
-        "language": "",
-        "seendate": "20261014T200000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Climate change pushed Earth to its limits in 2026 as certain \"vital signs\" reach record extremes, report says",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9hS3RWNVM0cEtxZHA3ellTYzZxQllyMVhoN2hlYnIyT0JLRGg3cjdvOUw0R2gzM2JNdHlkWURWeU1lYzZTaU1Oc29fNTc5Q3JUSE9FWjN2aWFfcldGdVgtejRkVGlYWEp5Sm5DaHVSWEplOV94dnV2a1ctQQ?oc=5",
-        "domain": "www.cbsnews.com",
-        "publisher": "CBS News",
-        "publisher_url": "https://www.cbsnews.com",
-        "language": "",
-        "seendate": "20261014T192726Z",
+        "seendate": "20261015T020011Z",
         "source": "GoogleNews"
       },
       {
@@ -189,33 +219,53 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Drought, fuel costs and farm bill delays pressure producers",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTkVKM1Z0cUhlMjlpTVlHNll0eFh6Yjl6OGptcXoxZ3R6Q29VdkI3enNTVG8teWpNcXdIVjBfODQzRVZUdkJhV1lETUZFcjZPNUVWWmNvWC01blBZQVR3dnZEbXg4T2RpUkVZbFNFUENjaXVubUU1c3JUM2xJclA2QVBXR0l3NzBlVDJpcHd4b0pVTnBfUTd4VmJBSmhpY096dGI4XzJoaEpnaXpQMXdz?oc=5",
-        "domain": "www.ksjd.org",
-        "publisher": "KSJD",
-        "publisher_url": "https://www.ksjd.org",
+        "title": "Warmer climate could reshape hurricane risk and its relationship with El Niño around Hawai'i",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTW52dE9NdnZJQVdlcnVxZV92Ymx0Tk9sTld6YWFhY3NqNW9HRGNWTTM3Z2J5cmcxcGJKUS1MR3BzY0VpUUJZZ1lYd3hYN1d2b1hoMlVpeEZ1N3M3QkNOdktvZlA2b2VUcldhYzB1MmxUNjVMT3NxVjMzR1QyMzRQVFc3Qm94OG8?oc=5",
+        "domain": "phys.org",
+        "publisher": "Phys.org",
+        "publisher_url": "https://phys.org",
         "language": "",
-        "seendate": "20261014T200100Z",
+        "seendate": "20261014T212017Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Reidsville prepares for water restrictions amid drought across the Triad: Officials",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaWhUU01FOTVmenZfRmdkajROVDBWaWdVdENQOGg0UXcyTWZkOU44WUs2ZkdLcTJFWFFISDNhVmtpRzc3S0p6MjE4VlV1UlRJTXotb0JXRmszZDJOUDc0dWFpMGx4dnp6ZU04bWhYYTRWbEk4S1EtNUxXWDgtMG9xa1dmampzY1JFUVBj?oc=5",
-        "domain": "www.wxii12.com",
-        "publisher": "WXII",
-        "publisher_url": "https://www.wxii12.com",
+        "title": "Report identifies investment priorities for low-emissions agriculture",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQmtreDk2Ym53clZWNEhBcFJVZzJ1Qm5xOVdDX1RMbFhEZmtBOWdNdmtLS1NaUTZTTGRla0kwbnZYNDI2X0lCSmlMVXN1ZFk3YXhtWVpNVzBTQzA4eGZnQXFnUUZOendXNE9xQXNDUXo2VkJZclJtSkstUDdYTENJalNDR1I?oc=5",
+        "domain": "phys.org",
+        "publisher": "Phys.org",
+        "publisher_url": "https://phys.org",
         "language": "",
-        "seendate": "20261014T195500Z",
+        "seendate": "20261015T030001Z",
         "source": "GoogleNews"
       },
       {
-        "title": "After a decade of wildfires, an overlooked election could shape California’s climate future",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcDc5Z0szejZiWW8yME5BcjhrUjd0azlFU1VTQ09GU1VkSmliQmZUSzBOTGltQ2tjaWZVUTlzNDA3alFsWU9GS204Y3ItV1UxZmYxZWhzeW9fRmFnLXJWTlpKOG1nYmh2cEw2cHRDY3ZBUGN3RGhORVFOamFoVERHWnhoaHRmUkY1UHR6ay1JQUNLY2xLQjFqRHdNVXlac1pSbUhYWWYwMGRnb2d6WW14d0tzMA?oc=5",
-        "domain": "grist.org",
-        "publisher": "Grist",
-        "publisher_url": "https://grist.org",
+        "title": "If Modern Agriculture Were a Person, It Would Be a Sociopath: Can Regenerative Farming Save Us From Ourselves?",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeHVKQ051dUpFNi1vZUh5NzBldGswWURERFNnVHpJSmtFRWlFaVM4elloQ3hRWjlKU3dlVmJkT0tHd3o3aXNjbmpTR2NWellxYXhnVTRRYjliY1Q1QU5BNWNoSm1xV2lRSlN2N0RVODlqOHlqdFBhWEhHbll0MmdzS1dzVWV6Nl96N0lFd3R2aGtoVXV3ZDh1dTdhOXJSZXpaNTdJQkwtcXdJX2JXSVVlR0lqUHBhekFpWEhoZDg5YlAwYks2WnhrZGtfcFZPTGNiSU51aXp2MFp4OUs3dmc?oc=5",
+        "domain": "cleantechnica.com",
+        "publisher": "CleanTechnica",
+        "publisher_url": "https://cleantechnica.com",
         "language": "",
-        "seendate": "20261014T125108Z",
+        "seendate": "20261015T012602Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Op-Ed | Women Farmers Are Shaping the Future of Food and Agriculture Systems",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQc0dLazJsZGxENkxvWTAzQzNxSi1fc0x3MTl0S0hSbTV0eVhWODZtbEFtMHNmVlo5bUF5dFBtZ0NJa2RJQzN4T0tPYUtCYk1PZXJmR1RwM0g0aDU4dkJtRjd0VzBibWxfN3haSXpZcHB1VWRXV0N5eUNQalQ0UGtZMUlXRTZ2RUh1UXNEWkpCcEZ0TlpDNi1QVEZnaGdmeHN2R1lXZTVZMHlGOWwyVlE?oc=5",
+        "domain": "foodtank.com",
+        "publisher": "Food Tank",
+        "publisher_url": "https://foodtank.com",
+        "language": "",
+        "seendate": "20261014T195002Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Guest column: Central Oregon needs leaders who act on climate",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORnROalJBdURodDl0bVNvbHZwQUxueWs4SUJsSUNIUjVpRndqeXczT3hLZ3BUZEp6eklUNk1YRl81VFdJX3NwVldxZURPWmtkZ3h4eEcyMXgxd1pZdjhDNDdfQVRrWWljSVNmTEFaek1PY29HZEN6MHdrbEJNR1ZYZWlyX2IwNjlFeFdUT1BTQ0I0dmd0UmcyU1ctbEN0Zw?oc=5",
+        "domain": "bendbulletin.com",
+        "publisher": "Bend Bulletin",
+        "publisher_url": "https://bendbulletin.com",
+        "language": "",
+        "seendate": "20261014T190159Z",
         "source": "GoogleNews"
       },
       {
@@ -229,133 +279,33 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Low-Income Countries’ Push for Climate Money for Health Meets German Pushback Ahead of COP31",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUjhFV0FaUnd1LUROZ25makhfdHZQN2xWd2RRUGdHY2I5VWRPY2w0WHo4ZXZfRTJCSThWUzhNRk01elJwSHBLMkYyTmxjTFNEeGRzMXdYQndkRXlvbXNOaGdjVHJxTEFGYTluX1c0a25zU1lvaXFqcEd5Ry1sTlc2dVpCaXFCakg0aV9OdGhJaldsUHU1Q0VlT0FQV3k2WTBhSkpuVVRmUkFoZldQTmxLaGVONmpSZmxfaVN6bVoxcFdpUQ?oc=5",
-        "domain": "healthpolicy-watch.news",
-        "publisher": "Health Policy Watch",
-        "publisher_url": "https://healthpolicy-watch.news",
+        "title": "UC San Diego Awarded $2.35 Million from Google to Advance AI-Driven Climate Modeling",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYTVRQTJSbm1ORzJRY1NaNTMwV1hIbFNtLUNsT2NjOE5TMlVsRVNFVXlFdS1lQ0hTSmI5aThEMExFWTc2cmpCZXlJNGUwR1ZSejNnY0pvUEgyZVBvN0xubjcya1NCR3JvWjZkOVhIRDFSeXhuME8zYlR0QlFhMGQtX3JiQ3JDUXA2TFBlOVNOYXFHY3YxU21IWlNhbVBRWDlRVlVlczdPUG1EeW5ZWTlwOGh3?oc=5",
+        "domain": "today.ucsd.edu",
+        "publisher": "UC San Diego Today",
+        "publisher_url": "https://today.ucsd.edu",
         "language": "",
-        "seendate": "20261014T180043Z",
+        "seendate": "20261014T225730Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Challenging the Conventional Wisdom of Climate Politics",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVDhwUVRpMlVKTDY5NVNwNG5PNmQ4NHRQT0RhNGdKNzRTY3ZyX2I0dndTTTNpVFptd3RJdzJSVThGWWxib3dxSTF3VUxEYW4wOWo1Y1JhSDBEM0ZUams5aXIzNUFHZGMyMExVYlpwRXpjUXd3eHJ1bS1SN1pzWlVnSEh1a3VUU1lsVHlFZUFuTFo2T1FvTXc?oc=5",
-        "domain": "spia.princeton.edu",
-        "publisher": "Princeton School of Public and International Affairs",
-        "publisher_url": "https://spia.princeton.edu",
+        "title": "Despite efforts, Northwest cruise ships collide with whales, climate",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPalVSTGNES1RodUo1U0NBb2txSnBPVVprX3dobDJjVVRYZ3NLWlM0amJsSnpYelB2U2ltYU9oNV90eWNMejdkUXczZnJ4UlR5bE1pSmhsWWlVNlV1WUMtZ2FEVUR4LU5TRnNYVDFQcms5YXFqc3c0RG9JUEZOX2trU0Y0ZXYxOHMtclp5Tld6N3JnSnQyVFByRWFSWVdENjBRa2oyS0NWbU5DNmJNS2U4?oc=5",
+        "domain": "www.kuow.org",
+        "publisher": "KUOW",
+        "publisher_url": "https://www.kuow.org",
         "language": "",
-        "seendate": "20261014T130524Z",
+        "seendate": "20261015T010800Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Earth’s Condition Is ‘Serious and Getting Worse’ as Climate Change Intensifies",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PXzM1dm9zZFlqQ2oyb2FQeFBkOHZFSWw2ekE1MFdjU1FtUmVoQjVQX05xcDl5bnhCMTV6QWdDV1loYW91WE1xR3kxTGV4QjFtZFpPZUVNeDB2OGR5NVZ2YVhGME9UQ0hDT0VpRkg0VzI5X29qbWNyYnQzZXJWcFk?oc=5",
-        "domain": "www.wired.com",
-        "publisher": "WIRED",
-        "publisher_url": "https://www.wired.com",
+        "title": "After a decade of wildfires, an overlooked election could shape California’s climate future",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcDc5Z0szejZiWW8yME5BcjhrUjd0azlFU1VTQ09GU1VkSmliQmZUSzBOTGltQ2tjaWZVUTlzNDA3alFsWU9GS204Y3ItV1UxZmYxZWhzeW9fRmFnLXJWTlpKOG1nYmh2cEw2cHRDY3ZBUGN3RGhORVFOamFoVERHWnhoaHRmUkY1UHR6ay1JQUNLY2xLQjFqRHdNVXlac1pSbUhYWWYwMGRnb2d6WW14d0tzMA?oc=5",
+        "domain": "grist.org",
+        "publisher": "Grist",
+        "publisher_url": "https://grist.org",
         "language": "",
-        "seendate": "20261014T140000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Municipalities consider lifting water bans as drought declaration ends in Connecticut River Valley",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4tS2E2MkFfc1ZsN29CM0xObXNpOTVPODNxX2U3SmxfUHgxai1GWXpuclltMmhkX0lJeUVKZHBLLVZfYnRqX2lWWGdlVzdOTkluRjdmanBwcF9Da2FlS25wREpkTFk3cEtWWFF4Q3VjV2lkVGhWaTA4ZEpR?oc=5",
-        "domain": "recorder.com",
-        "publisher": "Greenfield Recorder",
-        "publisher_url": "https://recorder.com",
-        "language": "",
-        "seendate": "20261014T175633Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Peruvian caves sound the alarm for global long-term drought, a team of researchers at Union discover",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUEdzQWtULUQzeWFGdklHcW9Za19GWG5rVXZRYTdZWVcyOXNpOTlkamhOdEZMdkdXTEF2X2pLQ09DOE9yUVJxQ0hKek44SWtrQnRmMlpzUkNYaDk5VjNoYll1ZTlLNE5kaVFGME1xR1pTaGlSVnhPNm8zXzYxd3c3Q3R2LXFINzFiMkFkbGtpT0RBb2VjMVhiTFg3bGhseTFsZWRPRUdOaWtSdl9Oc0FjTDUyV1VLRm9wdXJBbml4Tm9obXc?oc=5",
-        "domain": "www.union.edu",
-        "publisher": "Union College",
-        "publisher_url": "https://www.union.edu",
-        "language": "",
-        "seendate": "20261014T155421Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "International business is influenced by local political climate, study finds",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQlg1azZvNkdqbW1LTTFvY25lMEJvR1NJSnJCMzNlWXgtLVM5MmxwQlJfMEM4SndENXF0V1ZVbTEwTUY3eEw2YjJiY3dVX0ZQVk1vVGU1ZThGUjlRQ29wMXNjZVMxWlEyV3BVaGlxbnFyVkJoWWpxWHZZVTFxOGtmWlY0TUZpVzdT?oc=5",
-        "domain": "phys.org",
-        "publisher": "Phys.org",
-        "publisher_url": "https://phys.org",
-        "language": "",
-        "seendate": "20261014T204011Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Middle Tennessee farmers adapt as drought conditions threatens crops",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ0R3emFqVUNxR284SGZOX1NZWkVVaU1PWDRsdzYwYjRvZlI1ajdZTjB1d05HcE5Ja0ZibW5YNTl3S1lzZWRZX19XOEV3ZDlnU3Z4clZOT2U2Q0Q5ekZPbWlIeHpBYzJzb0EtQ291cjV2WGoxaDV1ZVhNSks1c0FCNUtYSGxmZjZlcWJ5VTd0dXdMRHY4X0VQYVVEX2prZzB4MDBZQWlYZw?oc=5",
-        "domain": "www.wsmv.com",
-        "publisher": "WSMV",
-        "publisher_url": "https://www.wsmv.com",
-        "language": "",
-        "seendate": "20261014T213700Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Climate scientists issue a sobering diagnosis about Earth's 'vital signs'",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcFNFUE1WX3Q4TUJRTVRzdUxIazRzRWFlQThnN2VuOHloVTUtMTJ2TFIwdm05S2JONUhRLTFpZllnSnhZWDFCU055SVNveWg5bzJPeUw2YUNldU1CeUp5VDJ0MUVpZExidDBwTHhiTnRkejhxb1NDM2Z3aW1SeFBzbXJCOHRHcGxuai12bXBOS1d2dTZBV3JJUzdjUmRwSjFlT3NiNHZyZ0NrUV9nMzVTaEhLNE4?oc=5",
-        "domain": "www.scientificamerican.com",
-        "publisher": "Scientific American",
-        "publisher_url": "https://www.scientificamerican.com",
-        "language": "",
-        "seendate": "20261014T140000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Keeping community voices on the frontlines of climate solutions in Fresno County and beyond",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNGhvLWRPZnZIRDFfaUhnTWRQTTRIMXlmN1FwWFJNMXVwMC13eU9xdTc4ZlZ0ZTA5RnZnTVlRc2R6bEJTa1dHeWo2SmNoTElZTGI1VUQyOUJGN3JjWl9vTEd5MkV5Y2VGQUxQYnQweVhnaHdSUFpXQVB3c0RFMWpfMngwS3oxSnM3Z0RsSzJMX2FJLW5qeWRQWEZjU2cwelVBczlpWktvR2lBQ194MkZjMU9ZNklPazNndWRqNHRLUQ?oc=5",
-        "domain": "kresge.org",
-        "publisher": "Kresge Foundation",
-        "publisher_url": "https://kresge.org",
-        "language": "",
-        "seendate": "20261014T163835Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Putting Weeds to Work: A Circular Agriculture Solution for Insect Farming",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcS1kS1c3UFBIWmdyclgzYjcxMXVTSWU1Q2E2NUMya2FvUDhwUFhSLUpsM3ppSFR0VVA0M25xSGVDbGtfcmt0eFRXNVgxR2s3TU5BUzVCQjdDdVhYb3JDekxVRWZjS0YyUjBrMkZubkpWMVViaFlOUFdrVXZ1UWlQd0NId19FMzhzWlpwVXRBV2g2REVBYkFQTk5fUV9BY19DajAxamd5WnJvZDlzWnRCOE10dw?oc=5",
-        "domain": "entomologytoday.org",
-        "publisher": "Entomology Today",
-        "publisher_url": "https://entomologytoday.org",
-        "language": "",
-        "seendate": "20261014T171736Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Earth's climate system increasingly unstable, but signs of positive change emerge",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1Obm83RDI2Tm9VWm1PQmNpaGRFWlRWQmMxRTVCaVl6YW42UlpiTXNERTN2RFpqNl9mbEFpZTUwZFF2d3FQY2RHaVJqcGVwM3ZxSjRhcDN5SmYxc0NYWjVtdHZFT1B3Z25xMWp5T1p6Nk1aVE1RbE1tTFR3MFFpdw?oc=5",
-        "domain": "phys.org",
-        "publisher": "Phys.org",
-        "publisher_url": "https://phys.org",
-        "language": "",
-        "seendate": "20261014T130005Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Building opportunity: How Fair Share Housing Center is helping New Jersey create more equitable, climate-resilient communities",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPZHpqaWs5MFNrMGVJcWF4UmF1QXBudy1SZll4bk1HMVJxMTl1M2Q3azVwUTh3Y19pTUJnY00xUk95dnE0SlgwamNIUkJjR1dRN1h3YlFsNXFDTkt0N0Nkend4VUwwQ3puY09STXJtcmhFMVlobUtBbW1teS1sWTFweW9YQXljM1VOY0pFb2dRWjBmbzFWX2h2Nmc3UVhPLTVGQ05aZ0VrNUYxR21ieXZHQ1RINTlSM3JGVGtaWGl4LVJMWDZrRGNMWmJXX19Dc1VBMTV6S21RWE9LNnplYjlINGt4ZjNhQ3dnTTRn?oc=5",
-        "domain": "kresge.org",
-        "publisher": "Kresge Foundation",
-        "publisher_url": "https://kresge.org",
-        "language": "",
-        "seendate": "20261014T192908Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Making Memories: CALS Returns to the State Fair",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wYm4wbHRmbjBzQzFnRWRDbDlJWjdHSFdHN3NMZW94eTB3dVRoejhDV3VqdzFVTGViRW90M0VpdEcxNjdzUlF3QkJJYUthWndyNW5NMGUzaDlLOFI5bEpJV1RfZmctcUtxR1lGZHZ1ZW1xYTM4bDFVcDF3YWw0dFk?oc=5",
-        "domain": "cals.ncsu.edu",
-        "publisher": "NC State University",
-        "publisher_url": "https://cals.ncsu.edu",
-        "language": "",
-        "seendate": "20261014T122050Z",
+        "seendate": "20261014T125108Z",
         "source": "GoogleNews"
       },
       {
@@ -369,63 +319,183 @@
         "source": "GoogleNews"
       },
       {
+        "title": "Municipalities consider lifting water bans as drought declaration ends in Connecticut River Valley",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4tS2E2MkFfc1ZsN29CM0xObXNpOTVPODNxX2U3SmxfUHgxai1GWXpuclltMmhkX0lJeUVKZHBLLVZfYnRqX2lWWGdlVzdOTkluRjdmanBwcF9Da2FlS25wREpkTFk3cEtWWFF4Q3VjV2lkVGhWaTA4ZEpR?oc=5",
+        "domain": "recorder.com",
+        "publisher": "Greenfield Recorder",
+        "publisher_url": "https://recorder.com",
+        "language": "",
+        "seendate": "20261014T175633Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Fair climate transitions need more than financial support, evidence review suggests",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ1ZkLW1KMFYzdVdmaUZOVEV5MXdUbDZiT3VrYkRDY3NGTnVRMEpIaGszWlBqWUltRm5IQmVUeVFwNUw0ZzZnek91TU43WHNXVFZHdWFkSlREV1lSR0QyVzFKYXluQzdIMGY2b1JicjBBckpfRnoyRHFTek5HSGp1ZEg2THU?oc=5",
+        "domain": "phys.org",
+        "publisher": "Phys.org",
+        "publisher_url": "https://phys.org",
+        "language": "",
+        "seendate": "20261015T002001Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Putting Weeds to Work: A Circular Agriculture Solution for Insect Farming",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcS1kS1c3UFBIWmdyclgzYjcxMXVTSWU1Q2E2NUMya2FvUDhwUFhSLUpsM3ppSFR0VVA0M25xSGVDbGtfcmt0eFRXNVgxR2s3TU5BUzVCQjdDdVhYb3JDekxVRWZjS0YyUjBrMkZubkpWMVViaFlOUFdrVXZ1UWlQd0NId19FMzhzWlpwVXRBV2g2REVBYkFQTk5fUV9BY19DajAxamd5WnJvZDlzWnRCOE10dw?oc=5",
+        "domain": "entomologytoday.org",
+        "publisher": "Entomology Today",
+        "publisher_url": "https://entomologytoday.org",
+        "language": "",
+        "seendate": "20261014T172132Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Challenging the Conventional Wisdom of Climate Politics",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVDhwUVRpMlVKTDY5NVNwNG5PNmQ4NHRQT0RhNGdKNzRTY3ZyX2I0dndTTTNpVFptd3RJdzJSVThGWWxib3dxSTF3VUxEYW4wOWo1Y1JhSDBEM0ZUams5aXIzNUFHZGMyMExVYlpwRXpjUXd3eHJ1bS1SN1pzWlVnSEh1a3VUU1lsVHlFZUFuTFo2T1FvTXc?oc=5",
+        "domain": "spia.princeton.edu",
+        "publisher": "Princeton School of Public and International Affairs",
+        "publisher_url": "https://spia.princeton.edu",
+        "language": "",
+        "seendate": "20261014T130524Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Colorado River drought drives unprecedented pattern of groundwater loss",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOeFVTWXpYMXJYYlZGUjdtSDh1SzZZZFhXaWdkVkpteG5ORTRlcjFEajRkc3MzZVFkUXJqcVBfMERsN0tBLU9jQlBubGJfNk5sQi1GcXh1WGlrZVUtVlR5a1lTZktEOFdqQ3BQVjR6aHdCMHkxbEpuSkZOMEs2ZHl0a3gzQ1UtZw?oc=5",
+        "domain": "phys.org",
+        "publisher": "Phys.org",
+        "publisher_url": "https://phys.org",
+        "language": "",
+        "seendate": "20261013T174011Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "New Mexico farmers say rising fuel costs, drought pinching operations",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQd1F4dDhGYjB6MUVMQkJOaEVkaTZrYmJ6WV82WHlJb0w3SGxyLV9VUkpsOWp5TXl0RTZEaXlwSU03ZEUtYVJ2eUlWdkdIUkxIWXJ5dFlGR0JqX0R6cFRDaV96Y1RJN2I1N2twN2hEVUswOUFtOUtTRjlLd1F4T2dWUDdOQWkxQ1JKZ0hSU1BqbS14eHh6OGw1Y1Q3NA?oc=5",
+        "domain": "searchlightnm.org",
+        "publisher": "Searchlight New Mexico",
+        "publisher_url": "https://searchlightnm.org",
+        "language": "",
+        "seendate": "20261014T151812Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "San Diego Climate Week starts at the water — with hazmat suits",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSFVlWmExemN1QlNRYnVPYloxbjJoWTktb3ViQ2pPSEZOd0lybHF1ZGZoNW9CdkROT1Z2WjMycENNZkRORDBiUVNicGJHNlVoWkpGQ19uVzEybU44eXJKUW02VGtyZ0xNUFNEV3ROUzh2ZUt5ZTF5MzJ4MDBtVWk0LVNTWXhGQjVXcXozYVE5NTZ1YU4wZi1tZlFn?oc=5",
+        "domain": "www.daylightsandiego.org",
+        "publisher": "Daylight San Diego",
+        "publisher_url": "https://www.daylightsandiego.org",
+        "language": "",
+        "seendate": "20261014T221736Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Insurance insiders speak out: The industry will not protect society from climate change",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTm9jcnJlYUk0RlJyY1ZXeXkyNTZpTXJMU282ZHBiWDBVbTdnclFDdGNEazk2Z0lLdDFrMHBlZnVSN0JkSTF3MGlTekpyNF94MXlKMWYxb1pqWDdDaWFsQXlWdl9wc0UwdmtweTFiOHpTSTVwbEoyZDlzVzQ3TWhuSzBkckhkUUNkb25WaHo2cGZnd3diSE9FaFVKbG1XUnB1WlVQNldNZENLV01NR0xBMllKc2c0T3NkM0k1VGxTNkN5NEk?oc=5",
+        "domain": "ourfinancialsecurity.org",
+        "publisher": "Americans for Financial Reform",
+        "publisher_url": "https://ourfinancialsecurity.org",
+        "language": "",
+        "seendate": "20261014T225559Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Reidsville to enact level 1 water restrictions amid drought across the Triad",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaWhUU01FOTVmenZfRmdkajROVDBWaWdVdENQOGg0UXcyTWZkOU44WUs2ZkdLcTJFWFFISDNhVmtpRzc3S0p6MjE4VlV1UlRJTXotb0JXRmszZDJOUDc0dWFpMGx4dnp6ZU04bWhYYTRWbEk4S1EtNUxXWDgtMG9xa1dmampzY1JFUVBj?oc=5",
+        "domain": "www.wxii12.com",
+        "publisher": "WXII",
+        "publisher_url": "https://www.wxii12.com",
+        "language": "",
+        "seendate": "20261014T223700Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "Hungary reusing fish farm water to alleviate drought",
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNX2lCd2hPNXdERWxDNHlucGFjeEtpcXBpWld1MkVocnA2bWNaVXhkcFZxTUk3eThHdzhCNTNnRUxRMW55R0I2RGNrR1lkdTduWUU2eVI0RjBMMG9TYU5hQTc0QVdfSWQwbzFwTWUxbC1wZ1ZxaGR1dWsyaHoxR3drWHZFbXBqdl9SNzEwRWRKRkw?oc=5",
         "domain": "www.seafoodsource.com",
         "publisher": "SeafoodSource",
         "publisher_url": "https://www.seafoodsource.com",
         "language": "",
-        "seendate": "20261014T162248Z",
+        "seendate": "20261014T162332Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Scandal-hit agriculture minister Yana announces resignation",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUkNwRVFjX19KOGRrTzBxbmdWSU5SR1cyN1Y1RkZpSnpNMkx6LTBxaTFMUmVESHZ2UUp0Zk5MV3htWXFwQkdNZFlIQlBmMmFjSVdkM0dKM3UtZTd3Z1ZaQVBLSXZGeVRQd2VTTWxZVE5Ua3BrT3hOTlllWkFDaWlXNmh3aEwtckZ1b1F6T0YtY2g5Tk9VQjdqTTNUNTNxRzhYUVRn?oc=5",
-        "domain": "www.japantimes.co.jp",
-        "publisher": "The Japan Times",
-        "publisher_url": "https://www.japantimes.co.jp",
+        "title": "Earth’s Condition Is ‘Serious and Getting Worse’ as Climate Change Intensifies",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PXzM1dm9zZFlqQ2oyb2FQeFBkOHZFSWw2ekE1MFdjU1FtUmVoQjVQX05xcDl5bnhCMTV6QWdDV1loYW91WE1xR3kxTGV4QjFtZFpPZUVNeDB2OGR5NVZ2YVhGME9UQ0hDT0VpRkg0VzI5X29qbWNyYnQzZXJWcFk?oc=5",
+        "domain": "www.wired.com",
+        "publisher": "WIRED",
+        "publisher_url": "https://www.wired.com",
         "language": "",
-        "seendate": "20261014T152634Z",
+        "seendate": "20261014T140000Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Fires surge in Brazil's Amazon, fueled by El Niño and climate change",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOenRUYXZUaGVKRl9KUVpYVWJIZWlGeXFnVGRCUnh1a1owN0RUUjlkN0pUUjFSbzc3TnNFNXZMVkhTNWxWc0RLN004bG5USmliNGpMbzN0MG1WOS1nYldKSERXbFdoeURULTA5Q1BseW9TUHVqSXJpNExIdS1LMFZ4Tl80Y2t1dVRLOTh2OUlNLXNLeEItdlJQN3ZDTjJaVzdUSDBBRzhObldWTW9rZFl6bHNiRGRoZw?oc=5",
-        "domain": "www.reuters.com",
-        "publisher": "Reuters",
-        "publisher_url": "https://www.reuters.com",
+        "title": "Low-Income Countries’ Push for Climate Money for Health Meets German Pushback Ahead of COP31",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUjhFV0FaUnd1LUROZ25makhfdHZQN2xWd2RRUGdHY2I5VWRPY2w0WHo4ZXZfRTJCSThWUzhNRk01elJwSHBLMkYyTmxjTFNEeGRzMXdYQndkRXlvbXNOaGdjVHJxTEFGYTluX1c0a25zU1lvaXFqcEd5Ry1sTlc2dVpCaXFCakg0aV9OdGhJaldsUHU1Q0VlT0FQV3k2WTBhSkpuVVRmUkFoZldQTmxLaGVONmpSZmxfaVN6bVoxcFdpUQ?oc=5",
+        "domain": "healthpolicy-watch.news",
+        "publisher": "Health Policy Watch",
+        "publisher_url": "https://healthpolicy-watch.news",
         "language": "",
-        "seendate": "20261014T145344Z",
+        "seendate": "20261014T180043Z",
         "source": "GoogleNews"
       },
       {
-        "title": "El Niño myths busted",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA4djdkQWxRWHRBQ0dqNlZrb1lmZGs2dTBuU2JDaDRYOXNlbF9WYVh6TGNackZJNWsxSTZiT29kNDZ3aU9fQ0FRZHBxVWtWQXdva1ZZdDJyOVdxWVljRk13Q1BR?oc=5",
-        "domain": "www.cnn.com",
-        "publisher": "CNN",
-        "publisher_url": "https://www.cnn.com",
+        "title": "Discover this month's must-read climate and nature stories",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdWxaWkRVZ0hjUllGelhDd1VJcUlCRW9HVklpenM2bEp3T2Z4VFpkOEdrZjY2UWwwNDJjcVZUR1A4TURxV29HQU5HS21YUHpxWXNGd1kxOUYxZ3JsTGFVQXdZS0ExUDQ3eDUtcTFUVm1ITTZVSlZSWjlvbGtSM1N6dGoxdllmQ0NOWnVLZjBNZ1M0S1M0ajRQYjdMYlpaa2xjekE?oc=5",
+        "domain": "www.weforum.org",
+        "publisher": "The World Economic Forum",
+        "publisher_url": "https://www.weforum.org",
         "language": "",
-        "seendate": "20261014T124440Z",
+        "seendate": "20261014T214144Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Don’t Let Post-Drought Pasture Green-Up Turn Lethal",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTHBVYThQakdzNVRNMkdjaEVMbUtFaHQ1MUlUdTJ0blBpeG1xZmNoRnZsb1pJS1BzUzFqbWIxb2VfN2diSFFxWXFJazNnZGRSRC1VRXhBenFFOWJURkVPTU5LTVRSS3JFRXJGS3Q1cTJSY2FlTWRnWUxNX0xHZG8yT05R?oc=5",
-        "domain": "www.drovers.com",
-        "publisher": "Drovers Magazine",
-        "publisher_url": "https://www.drovers.com",
+        "title": "Climate scientists issue a sobering diagnosis about Earth's 'vital signs'",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcFNFUE1WX3Q4TUJRTVRzdUxIazRzRWFlQThnN2VuOHloVTUtMTJ2TFIwdm05S2JONUhRLTFpZllnSnhZWDFCU055SVNveWg5bzJPeUw2YUNldU1CeUp5VDJ0MUVpZExidDBwTHhiTnRkejhxb1NDM2Z3aW1SeFBzbXJCOHRHcGxuai12bXBOS1d2dTZBV3JJUzdjUmRwSjFlT3NiNHZyZ0NrUV9nMzVTaEhLNE4?oc=5",
+        "domain": "www.scientificamerican.com",
+        "publisher": "Scientific American",
+        "publisher_url": "https://www.scientificamerican.com",
         "language": "",
-        "seendate": "20261014T152354Z",
+        "seendate": "20261014T140000Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Businesses could be barred from non-essential water use amid supply threat",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcXptaDhLdVI0bmdHUFRsQnIwdGFQR2s4bGZvTnNlbTlsVUtWZ1hxLTRuaFBva0xCTDgzaE9VLWdGcG45N1RlcVhYVmUyMkVaUVc0TWJ3c0t0VEZqSFl3MDNlcWVQVTVxTXBCa2cyeFFUc1g0RkNkbTVCSldHWHRUY2pRRl82ODNqbUtHTWx3bTN6VWx4Sm9UTGV0Tko2VmNERzFCNnB3WUczdG0telE?oc=5",
-        "domain": "www.theguardian.com",
-        "publisher": "The Guardian",
-        "publisher_url": "https://www.theguardian.com",
+        "title": "Drought, fuel costs and farm bill delays pressure producers",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTkVKM1Z0cUhlMjlpTVlHNll0eFh6Yjl6OGptcXoxZ3R6Q29VdkI3enNTVG8teWpNcXdIVjBfODQzRVZUdkJhV1lETUZFcjZPNUVWWmNvWC01blBZQVR3dnZEbXg4T2RpUkVZbFNFUENjaXVubUU1c3JUM2xJclA2QVBXR0l3NzBlVDJpcHd4b0pVTnBfUTd4VmJBSmhpY096dGI4XzJoaEpnaXpQMXdz?oc=5",
+        "domain": "www.ksjd.org",
+        "publisher": "KSJD",
+        "publisher_url": "https://www.ksjd.org",
         "language": "",
-        "seendate": "20261014T060000Z",
+        "seendate": "20261014T200100Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Earth's climate system increasingly unstable, but signs of positive change emerge",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1Obm83RDI2Tm9VWm1PQmNpaGRFWlRWQmMxRTVCaVl6YW42UlpiTXNERTN2RFpqNl9mbEFpZTUwZFF2d3FQY2RHaVJqcGVwM3ZxSjRhcDN5SmYxc0NYWjVtdHZFT1B3Z25xMWp5T1p6Nk1aVE1RbE1tTFR3MFFpdw?oc=5",
+        "domain": "phys.org",
+        "publisher": "Phys.org",
+        "publisher_url": "https://phys.org",
+        "language": "",
+        "seendate": "20261014T130005Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "SC will have a new Commissioner of Agriculture for the first time in 20 years. Here's where each candidate stands.",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeE9DRXNQU3RxTkxaNnF3ekRXbW5ETm5WQWVDRjZoNzloLWM3S0p0SDlTLWxpZ2NPMmtjNl9pLVJrbWRRNDQ1SGlBLW1IQVhvbFhvZmxSSnBlZWpULXR6ZXJMTnFrWWtMQTIxek1JSkJlMjB4dVI2VGVhSXFwc3lOZHU5OXIxd0NFV3ZQSEd2RS05c21VUEgxSURlNWNZRFZHUDNfTVpBWlZkUjd1cjd0R2dubnFJRXdNdWsyckdaaTNwenJ2M1hSWWRfbDhKZGxyeFJudUVzZHVFOHFV?oc=5",
+        "domain": "www.wltx.com",
+        "publisher": "WLTX",
+        "publisher_url": "https://www.wltx.com",
+        "language": "",
+        "seendate": "20261014T223200Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Q&A: UW doctoral student on expanding climate models to better capture the complexities of public health | Newswise",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbk1nSnpyY3hMdGMxSS1tWW5iMzdTN0JCaWF6WlE5Mk1uTm9QbVg0TmhkZE5lOXhGb1BqbGVsbGpSNDNfLV9YQXdSOWZsREhLUUVjV0xUVk5oanFtdmxlbkVzMEd5N0hOazVodU93aThFUmxGRlhWenFJdUsyaWZOSS1tRS1XMHRCOFhqWUpMdTZ1aHVrS0tCd0tYWnFjTTRDV1FPOThWMnZRcDVRVGFyLWFYc3FIUk9adFNQU1pmWVZtT2drOW03bDBKZHJ1eUtYT0HSAdIBQVVfeXFMTW5NZ0p6cmN4THRjMUktbVluYjM3UzdCQmlhelpROTJNbk5vUG1YNE5oZGROZTl4Rm9QamxlbGxqUjQzXy1fWEF3UjlmbERIS1FFY1dMVFZOaGpxbXZsZW5FczBHeTdITms1aHVPd2k4RVJsRkZYVnpxSXVLMmlmTkktbUUtVzB0QjhYallKTHU2dWh1a0tLQndLWFpxY000Q1dRTzk4VjJ2UXA1UVRhci1hWHNxSFJPWnRTUFNaZllWbU9nazltN2wwSmRydXlLWE9B?oc=5",
+        "domain": "www.newswise.com",
+        "publisher": "Newswise",
+        "publisher_url": "https://www.newswise.com",
+        "language": "",
+        "seendate": "20261014T222500Z",
         "source": "GoogleNews"
       },
       {
@@ -435,67 +505,17 @@
         "publisher": "The Claremont Independent",
         "publisher_url": "https://www.claremontindependent.com",
         "language": "",
-        "seendate": "20261014T181152Z",
+        "seendate": "20261015T001152Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Climate change and drone attacks exacerbate the humanitarian situation in war-torn Sudan",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYWZnMGZrbTdHNi16V1hMRC0yRVFKS0pxV1JPOXlqRVVPVzVjei01UkhpOWRQTzJqaVhHQllFeEhKX3FqOE0zbWR2ZFF0UnBYS0VsXzdIR2djU1UtMFYwREthMEdsYTNtYndlUU1TWE5STjhydXcxYk5xWVAxM2dFWXg4RTh3eWdvUy1ZaGo2LXhxREc4UEo3dk1kQ0RRSU9DLU4zMU1JQTZGRWk2SUJpNU85RGtwUmotREHSAboBQVVfeXFMTlBBZUotUGdTRG5ZbVBiZnJKQ2hueVZCRVNsbWNkMmJEOVU3V2FhTDMzc0UzZzBGR1V4U0dwdzhsSDVheXhFcWhmWEhNWW1IRWpOWlRwcWZwSjVLM3lMVGplQ1lDbU1KbnNfRGItYVk5WUdnSzNRZjdMUjlQTG9BQjFpNlZEQ1lFQl9CdFkzdEJ3dmV0d2c4a1VXQW9OWVpGSFN2LWhWc0xJNklGSG1vMVI3emVZUVdPTTBn?oc=5",
-        "domain": "www.dw.com",
-        "publisher": "DW.com",
-        "publisher_url": "https://www.dw.com",
+        "title": "Why COP31 Could Surprise Us",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAtaEM4c01qTlJ1UjdKalFCQTRndmRTUkpMeUhBY3ZWWGhrY1pWLXFkNmstR2M0a2FhNy02RUZMcTA2LS1WZmQ5enpZeGdIRTJlME55ZHBWTmFoMF90WFJJSWR6UVhCaVZHTWZvQnBLV2U5UGc?oc=5",
+        "domain": "coveringclimatenow.org",
+        "publisher": "Covering Climate Now",
+        "publisher_url": "https://coveringclimatenow.org",
         "language": "",
-        "seendate": "20261014T163640Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Amit Forlit, the Israeli Private Eye at the Heart of a Climate Hacking Scandal",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVWhSVzJocWwxb3pYM3M5VFExWHY3bWwxWHRWVlV0VHlRcHZReV9pM1BfNE15N1hVZ0NqaGRTOHlfcGwtRERmRjYtaHpnckc2SDVlZi1wNHU5V2pzbGJ2bkZUQThQQk4tLXRJaVJ6UldrLUV6Rkc2TEJPdUxnTUlrSlEwTEZSc2s4MXA2Umh3UWc?oc=5",
-        "domain": "www.nytimes.com",
-        "publisher": "The New York Times",
-        "publisher_url": "https://www.nytimes.com",
-        "language": "",
-        "seendate": "20261014T141349Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Guest column: Central Oregon needs leaders who act on climate",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORnROalJBdURodDl0bVNvbHZwQUxueWs4SUJsSUNIUjVpRndqeXczT3hLZ3BUZEp6eklUNk1YRl81VFdJX3NwVldxZURPWmtkZ3h4eEcyMXgxd1pZdjhDNDdfQVRrWWljSVNmTEFaek1PY29HZEN6MHdrbEJNR1ZYZWlyX2IwNjlFeFdUT1BTQ0I0dmd0UmcyU1ctbEN0Zw?oc=5",
-        "domain": "bendbulletin.com",
-        "publisher": "Bend Bulletin",
-        "publisher_url": "https://bendbulletin.com",
-        "language": "",
-        "seendate": "20261014T190059Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Immigration, climate, guns: key Trump policies to be tested at supreme court",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOd0VJSTdMbWYtX3JkclozUHUxT3Q3Z19PbC1UdkpMWGhVbmpQV2tLdDRrYTNXZS04WjN0WWJYYXM2SXBiVVFBZ3V2dnhMcW1Ja1ZYVnRiQk90ZlZIYWUyQ2lrejBTckRRQWF0MUwySEctdjAzMkh2RVhIWW5iOGhhRFNwVQ?oc=5",
-        "domain": "www.theguardian.com",
-        "publisher": "The Guardian",
-        "publisher_url": "https://www.theguardian.com",
-        "language": "",
-        "seendate": "20261014T125100Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "How drought shapes the impact of Xylella fastidiosa on almond trees",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQME5GTktTeC1kbHBFYS1DbGRiYV9qYmdVN0R0NDlxaldZSjZ2RC1kbVZaX3lTaDlOTldHdElsQ0g2cnR1T19LR2N1Ulo2QWM2czJmd3gwRXdfeW1YYXZvNkozVUZodFZMcHhUdWlpOUlWRkNmeENrODdndFlHdUs3Mg?oc=5",
-        "domain": "phys.org",
-        "publisher": "Phys.org",
-        "publisher_url": "https://phys.org",
-        "language": "",
-        "seendate": "20261014T170008Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "A tale of two (climate) migrations",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOR1o2QmdqZWNFb2g0REVjRk9DQ1FPYjJ6akVBR05LUVpkTlZZTXRIdzJqNzNENG05LTRqUzBWcGhzMHE3TUJlRUZQaWN6Rk0xZWdIZGxvTGF6bjdiT1luQndUWkVuVnR5aUJ3MnpyV0dWVlRsOWlnQlA4dzYwWVFsbUlVT24yS3otd2tCYVVpTEFQaGpfOU5DSmU2RQ?oc=5",
-        "domain": "www.wxxinews.org",
-        "publisher": "WXXI News",
-        "publisher_url": "https://www.wxxinews.org",
-        "language": "",
-        "seendate": "20261014T125400Z",
+        "seendate": "20261015T003237Z",
         "source": "GoogleNews"
       },
       {
@@ -506,26 +526,6 @@
         "publisher_url": "https://booktrib.com",
         "language": "",
         "seendate": "20261014T182039Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Ancient climate shifts may explain why today's flowering plants are so diverse",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0zR204czJROEQzazRpN1huQzg1dHZQWENlZXVjQjRfbV9LeFBOSlZQMXp5YjA2dE1VYW5HSmtyTjVPaERHa2tzRkhYejM3alVmTVRKN1ZPZk5rNnRGYXZ3QmYyWnIxZVJzdlhCQWN0WklNQzlsMnBrdXRNbw?oc=5",
-        "domain": "phys.org",
-        "publisher": "Phys.org",
-        "publisher_url": "https://phys.org",
-        "language": "",
-        "seendate": "20261014T090006Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Learning Brief: Promoting Climate-Resilient Learning - Protecting learning from environmental shocks and climate change through Education in Emergencies – October 2026",
-        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPRGNab3J4c08yVzhmVHV2aWNTczdLdE13UzNrdDhmMnl2ZUF0aDNCUHUtY09jcVNuLTRuS2tjWlJ4bWI3MXBocTh1RlQ3UXJjVl90T2JubjNfcEw0SFdWNHR4YXF0THJYa3hsMUVMdXZTMlhKa2pwbXdqMmtUWXVMRGpBNVNtX2J3S3pKYml0MjgwNXNucmhrN3NTLUZBcmFwbkRSVGNIa1Q5NXJCUnhuaXdFUWNWNEJyRjRhQzRZdXhMRHZYd3dDMEdEMnFIeGxnNVU5Z1ZRVHRqS1ZnSG84bmhHV2pBQ0twbWs4SWlSSGpINnFWdlluZGJBdkFYV3lwcm95Tzh4WURsbjZneDZRb0JHMXhqRjlw?oc=5",
-        "domain": "reliefweb.int",
-        "publisher": "ReliefWeb",
-        "publisher_url": "https://reliefweb.int",
-        "language": "",
-        "seendate": "20261014T124809Z",
         "source": "GoogleNews"
       }
     ]
@@ -552,13 +552,43 @@
       "source": "GoogleNews"
     },
     {
-      "title": "Federal disaster loans available for northern Wisconsin businesses impacted by drought",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNY253UFRodEFJRndUcDBEcmpxUXVtNGRITEtRakRLWkhLNS1wWHpqNWJEZTFyTGZSRmF2aFY0S0FTa2psSlkyZlZscHByWm5oVUNwRnRBekRUelk2WXdxOFA3Y0tGc2ZIaG1yRHFyaTIwRXBpMmdDelV1YjBEdVBKUVI0amZtOUVqY096bnZVY1V1Zy0yaU1qQXFVcVZSdWpBa0pleXBNdUlpc3MzUVFEZWZBMEhvdlgyQndvU1dCOERnUQ?oc=5",
-      "domain": "civicmedia.us",
-      "publisher": "Civic Media",
-      "publisher_url": "https://civicmedia.us",
+      "title": "Climate Change Is a Given in Every Extreme Weather Event, Why Do We Keep Needing to Prove It?",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYUJTMVBUYXotZUVCRndESC1iN0xBYTNWN2Noa2k5MWpQNDRwUE01OUhORkFnQUZyVmd2VTJYOUh6OVdxdnRQU0RzRG92XzV3cHMtQ05WTFphOExGdlRMenNBTl9xQWlqWDloSTNPa2kxbE93QUs1U3A5Z3dQRVVCd1hrX25mMVdnVDJDdkQ2eHVFT3dERnlWNVpxOWJFSUFORVlDazdERkZrOVFhdnh2TGlJdkotVHh0OFEwMjlGa2N3eUE?oc=5",
+      "domain": "blog.ucs.org",
+      "publisher": "The Equation - Union of Concerned Scientists",
+      "publisher_url": "https://blog.ucs.org",
       "language": "",
-      "seendate": "20261014T190000Z",
+      "seendate": "20261015T000249Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Climate change pushed Earth to its limits in 2026 as certain \"vital signs\" reach record extremes, report says",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9hS3RWNVM0cEtxZHA3ellTYzZxQllyMVhoN2hlYnIyT0JLRGg3cjdvOUw0R2gzM2JNdHlkWURWeU1lYzZTaU1Oc29fNTc5Q3JUSE9FWjN2aWFfcldGdVgtejRkVGlYWEp5Sm5DaHVSWEplOV94dnV2a1ctQQ?oc=5",
+      "domain": "www.cbsnews.com",
+      "publisher": "CBS News",
+      "publisher_url": "https://www.cbsnews.com",
+      "language": "",
+      "seendate": "20261014T192700Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Fires surge in Brazil's Amazon, fueled by El Niño and climate change",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOenRUYXZUaGVKRl9KUVpYVWJIZWlGeXFnVGRCUnh1a1owN0RUUjlkN0pUUjFSbzc3TnNFNXZMVkhTNWxWc0RLN004bG5USmliNGpMbzN0MG1WOS1nYldKSERXbFdoeURULTA5Q1BseW9TUHVqSXJpNExIdS1LMFZ4Tl80Y2t1dVRLOTh2OUlNLXNLeEItdlJQN3ZDTjJaVzdUSDBBRzhObldWTW9rZFl6bHNiRGRoZw?oc=5",
+      "domain": "www.reuters.com",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "language": "",
+      "seendate": "20261014T145344Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "New facility builds on long WSU, USDA partnership to boost agriculture",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZnMtMmt5X3dMQmRVTk1TSkJjdVlzN24waXd6Nm92ZGVRbmt1bURSRXRCU2NXRHYzSkFNZUQtQVREcjVMMWFqTFNyb211QlNZbGFtMzItSHRNLWVuVUFKY1JnWXc1V0JXSzVMOWxMNFF6N0t0OUhpWV8yOGV4WUwzbWxLakN6bnJERzhtdVV4eE5JT1lHZTJ5TF9kRDMtdWVFbmdMWGN6c0FuUjg?oc=5",
+      "domain": "news.wsu.edu",
+      "publisher": "WSU Insider",
+      "publisher_url": "https://news.wsu.edu",
+      "language": "",
+      "seendate": "20261014T181025Z",
       "source": "GoogleNews"
     },
     {
@@ -569,6 +599,46 @@
       "publisher_url": "https://insideclimatenews.org",
       "language": "",
       "seendate": "20261014T180000Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Why caring about climate change does not always translate into greener holidays",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1xTFlIeVpndE8yTlN6MElvVTZLMEQweGltX181TF92WHVNRkpRVERpT0E1bV9Od2M2aUlSMmJfbVp3T2xHSEdUdmR5djlDa2xIYkdNU3VDcF80M1ZUWHRtQ3dBSkt1cmRuVFhz?oc=5",
+      "domain": "phys.org",
+      "publisher": "Phys.org",
+      "publisher_url": "https://phys.org",
+      "language": "",
+      "seendate": "20261015T012002Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Federal disaster loans available for northern Wisconsin businesses impacted by drought",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNY253UFRodEFJRndUcDBEcmpxUXVtNGRITEtRakRLWkhLNS1wWHpqNWJEZTFyTGZSRmF2aFY0S0FTa2psSlkyZlZscHByWm5oVUNwRnRBekRUelk2WXdxOFA3Y0tGc2ZIaG1yRHFyaTIwRXBpMmdDelV1YjBEdVBKUVI0amZtOUVqY096bnZVY1V1Zy0yaU1qQXFVcVZSdWpBa0pleXBNdUlpc3MzUVFEZWZBMEhvdlgyQndvU1dCOERnUQ?oc=5",
+      "domain": "civicmedia.us",
+      "publisher": "Civic Media",
+      "publisher_url": "https://civicmedia.us",
+      "language": "",
+      "seendate": "20261014T190000Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "“Stunningly short-sighted” NOAA grant cuts threaten US climate resilience",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOR3U5dU5RZ1Zmdk9YeWRyOUd5TnQ3QnpaWHFQV1FMN1lhc3dFcm1Cems2cHBPdXRKRmVIMEV0dTdYY3lITDV6ak9melh1WFFIQlpuZDBrNVF1YUp5UWlLdGo1b041Ukk0WkxjNm1BLXV5NkFWM1NQeXlUMnQtZVc1RmpWSm51Zk94LU5VcEZ0TG5DUGh5OWxCZFRrU01TOUNCNVFBLUJJS3NYeDR6UmlXYmpwUlBnQURwcmFRYw?oc=5",
+      "domain": "news.mongabay.com",
+      "publisher": "news - Mongabay",
+      "publisher_url": "https://news.mongabay.com",
+      "language": "",
+      "seendate": "20261014T225409Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "AI and climate: Hero or villain?",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRHpBdUNPWjNxb3Y5WWxCaWJYcF9iYzA3ZW1zRFBHQ3FkQUJfRmtDdzQ2dWt4aGlrOFpzMW1FMldFZTVLMnV0VjdDNWJhTW03VWxyWU9lQlBCd1hUR0xqTGJuMjdyNlVpMUVERnNwM1p6NnFSSlB6bU5jMDhEM2YzME05VnFZQQ?oc=5",
+      "domain": "www.latitudemedia.com",
+      "publisher": "Latitude Media",
+      "publisher_url": "https://www.latitudemedia.com",
+      "language": "",
+      "seendate": "20261014T231126Z",
       "source": "GoogleNews"
     },
     {
@@ -602,83 +672,13 @@
       "source": "GoogleNews"
     },
     {
-      "title": "I work for a major insurer. Much of my industry is fudging the numbers in the face of the climate crisis | Anonymous",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcEdpQW1nZ0wzTXZsMlhuc21rLWh2RHpxMkJsTktmZXZKSzJNeUhJdnloODEwWHBzU3JSbTZqTk5yd1FzZ1Bsc3l3X1BSTV9JNTQ4SERzUDFkdFB6aGg3ZC16MjQxblMzZS0wYjNaQWRIZW1kbmJscGM2ZlVyeXRMNjVRVnZPUEZyUjh3S0k2R2JXeC0wUWdjV3hvcGdsdjZXSk5QcVhCdw?oc=5",
-      "domain": "www.theguardian.com",
-      "publisher": "The Guardian",
-      "publisher_url": "https://www.theguardian.com",
+      "title": "Penn experts say Trump EPA rollback will drive nation off ‘climate cliff’",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeEhuX3dGdHdLai1SLWpRWUI3ekNEZkM4NF9OTlpGWTZOYjlYN05hRVU1QVVfaE5MekVVQm5VSEc1RXBLb244T3FEd0xqWVpiLVZ3aUthRC05cF9wODJFaWlDdXFGNlpmUG5wOUhiSGtfTlhJdFJjSHNaUnVpNjBmZlVZYS1sR19kTlM2bXB5bThUUEtL?oc=5",
+      "domain": "www.thedp.com",
+      "publisher": "The Daily Pennsylvanian",
+      "publisher_url": "https://www.thedp.com",
       "language": "",
-      "seendate": "20261014T161100Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "New facility builds on long WSU, USDA partnership to boost agriculture",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZnMtMmt5X3dMQmRVTk1TSkJjdVlzN24waXd6Nm92ZGVRbmt1bURSRXRCU2NXRHYzSkFNZUQtQVREcjVMMWFqTFNyb211QlNZbGFtMzItSHRNLWVuVUFKY1JnWXc1V0JXSzVMOWxMNFF6N0t0OUhpWV8yOGV4WUwzbWxLakN6bnJERzhtdVV4eE5JT1lHZTJ5TF9kRDMtdWVFbmdMWGN6c0FuUjg?oc=5",
-      "domain": "news.wsu.edu",
-      "publisher": "WSU Insider",
-      "publisher_url": "https://news.wsu.edu",
-      "language": "",
-      "seendate": "20261014T181025Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Op-Ed | Women Farmers Are Shaping the Future of Food and Agriculture Systems",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQc0dLazJsZGxENkxvWTAzQzNxSi1fc0x3MTl0S0hSbTV0eVhWODZtbEFtMHNmVlo5bUF5dFBtZ0NJa2RJQzN4T0tPYUtCYk1PZXJmR1RwM0g0aDU4dkJtRjd0VzBibWxfN3haSXpZcHB1VWRXV0N5eUNQalQ0UGtZMUlXRTZ2RUh1UXNEWkpCcEZ0TlpDNi1QVEZnaGdmeHN2R1lXZTVZMHlGOWwyVlE?oc=5",
-      "domain": "foodtank.com",
-      "publisher": "Food Tank",
-      "publisher_url": "https://foodtank.com",
-      "language": "",
-      "seendate": "20261014T195002Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Middle Tennessee farmers adapt as drought conditions threatens crops",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcEFEc01lMWlYcXFBMlpyNm9Qc3Y2anVybG9JWnF6MkhZWGZlSVVSdHlaUGduX0RUaEk5c1p4OTVYdktJUFlCdGRPMHA5ZHUtQ00xOGFsZUNWRXJxRXB2c2F4QUVBV2trSDVTM285TmJsZmdqT09NbU1mTzBBYS0xNFdHSDdkTHJLX2w3TGhJVnhfMU5HVmM0TGZSMkcyRW8?oc=5",
-      "domain": "www.wsmv.com",
-      "publisher": "WSMV",
-      "publisher_url": "https://www.wsmv.com",
-      "language": "",
-      "seendate": "20261014T180600Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "New Mexico farmers say rising fuel costs, drought pinching operations",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQd1F4dDhGYjB6MUVMQkJOaEVkaTZrYmJ6WV82WHlJb0w3SGxyLV9VUkpsOWp5TXl0RTZEaXlwSU03ZEUtYVJ2eUlWdkdIUkxIWXJ5dFlGR0JqX0R6cFRDaV96Y1RJN2I1N2twN2hEVUswOUFtOUtTRjlLd1F4T2dWUDdOQWkxQ1JKZ0hSU1BqbS14eHh6OGw1Y1Q3NA?oc=5",
-      "domain": "searchlightnm.org",
-      "publisher": "Searchlight New Mexico",
-      "publisher_url": "https://searchlightnm.org",
-      "language": "",
-      "seendate": "20261014T151812Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Warmer climate could reshape hurricane risk and its relationship with El Niño around Hawai'i",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTW52dE9NdnZJQVdlcnVxZV92Ymx0Tk9sTld6YWFhY3NqNW9HRGNWTTM3Z2J5cmcxcGJKUS1MR3BzY0VpUUJZZ1lYd3hYN1d2b1hoMlVpeEZ1N3M3QkNOdktvZlA2b2VUcldhYzB1MmxUNjVMT3NxVjMzR1QyMzRQVFc3Qm94OG8?oc=5",
-      "domain": "phys.org",
-      "publisher": "Phys.org",
-      "publisher_url": "https://phys.org",
-      "language": "",
-      "seendate": "20261014T212017Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "The Earth’s vital signs are concerning, a new report says",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNTFHanVQdE9fd3ZkeWdtRUlmT0FKU1ZqRDNzUkZJaGRvc1NpWnBUdTY5eS01bS00QndNVHVrcG93cVoxV3E3ODFpUWd3UzNSNS1UajJ2WlFpNURUWG9jeGMtdVFUcGVGREZUSkhOcjFmWkFPQmN3WjBUQkI1YldjQTJMbnFJVVZreHNDNWtiNHloSmNLR2FzSEJfTHFxa1NfVVROY2dqMnFaV0N1SnZBSHdR?oc=5",
-      "domain": "www.washingtonpost.com",
-      "publisher": "The Washington Post",
-      "publisher_url": "https://www.washingtonpost.com",
-      "language": "",
-      "seendate": "20261014T200000Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Climate change pushed Earth to its limits in 2026 as certain \"vital signs\" reach record extremes, report says",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9hS3RWNVM0cEtxZHA3ellTYzZxQllyMVhoN2hlYnIyT0JLRGg3cjdvOUw0R2gzM2JNdHlkWURWeU1lYzZTaU1Oc29fNTc5Q3JUSE9FWjN2aWFfcldGdVgtejRkVGlYWEp5Sm5DaHVSWEplOV94dnV2a1ctQQ?oc=5",
-      "domain": "www.cbsnews.com",
-      "publisher": "CBS News",
-      "publisher_url": "https://www.cbsnews.com",
-      "language": "",
-      "seendate": "20261014T192726Z",
+      "seendate": "20261015T040313Z",
       "source": "GoogleNews"
     }
   ],
