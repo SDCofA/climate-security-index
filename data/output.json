@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "climate-security-index",
-    "generated": "2026-11-03T23:30:07.156326+00:00",
+    "generated": "2026-11-04T06:41:56.665554+00:00",
     "mode": "live",
     "sources": [
       "news_articles"
@@ -23,19 +23,139 @@
     },
     {
       "label": "Distinct news domains",
-      "value": "40"
+      "value": "48"
     }
   ],
   "live_data": {
     "news_articles": [
       {
-        "title": "North Atlantic’s ‘cold blob’ may contain climate nuance",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUTN0UERPNVRNcDBmZXdEYUpnbExXNXhOdGNOeTNwM1A5Zm1CQ2hqRlZTSXh3eFhvWWFuV0NVb2swQmNOZDhIbjdpNTZScXp4YW12MU9QeDh3UGdpMno3a3gwOGlqMHYwZEZqLXE4U0JfenMtMTQ1eFV0blp3VmU4ZzBvQVF1LW5NMjU4eEhfb0VEZjgtQnlwdG5vUWlVZGdpRzRrSVdYOURJQllpdHVJ?oc=5",
-        "domain": "www.psu.edu",
-        "publisher": "The Pennsylvania State University",
-        "publisher_url": "https://www.psu.edu",
+        "title": "Clayton Tucker poised to become first Democratic agriculture commissioner in nearly 40 years",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQzMtQVFYZm9ZVmVWVzYwSnVQTW8tZlVjSTJhLXFfRHlkY1YxRjNaVDRrbVdQeVJPT1huNFd6R1hXMkJnVVhLTVNRMGJsT0Q3SERpeWlfeEgzR0xBaG04aHZ6SC1kdEc5OXlPWkl5dWlNRThqLXNKV01XaGNMdGZFbGZHejJESmdIZW9ZU1BrOGZuTUItZ3JmdEp3UkJkVGoxT1preHNBaDhwVUFJRlI3TXNTOA?oc=5",
+        "domain": "www.texastribune.org",
+        "publisher": "The Texas Tribune",
+        "publisher_url": "https://www.texastribune.org",
         "language": "",
-        "seendate": "20261103T164014Z",
+        "seendate": "20261104T051511Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Election Results: Wilton Simpson wins second term as Florida agriculture commissioner",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORWQxM0VVTFZQYnItdWtfeWpodDQwZE4zV1llcmFCMFMxSUUtam51Zk4tNTFlN1dNTmRtMGFtX2tvYnBvRE5JM0o3QXRUZVI2T1A1ZEc3bWV1ZDhiUENJVUFILXNQNWQ5OHBMUE02cXc1Y1BRcTV0UGdNTlBjOVBlUEdMWnJkandiWDJ1b3lpamhyTHl6aGc0cHEtTHV5SnMyYk5WSEItdnJiWV9vbEVSejFiRG9oRFY4ZlZ1RVA5MWlNOFow?oc=5",
+        "domain": "www.alligator.org",
+        "publisher": "The Independent Florida Alligator",
+        "publisher_url": "https://www.alligator.org",
+        "language": "",
+        "seendate": "20261104T034700Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Election Results: Iowa Secretary of Agriculture 2026",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNS0hGRTVYWE5ITEw3dm4xdW9DRDlLXzdiSlFfWTJLaUpaUGFuUEdWcmtLR1dLUnAza1VSNUdOQ1dQalBKOUFpTTRzR0xGS3BHTWNlTERaaWN3RHc4OWhfYlplOThMWWdwbWtPNWJyOWZ3NE5qZWZDaF9acmlrMVJ5MHk1WUE0XzhMd0Vzcjh4WHhVQ0ZQS1htOEhTRUp5QQ?oc=5",
+        "domain": "www.iowapublicradio.org",
+        "publisher": "Iowa Public Radio",
+        "publisher_url": "https://www.iowapublicradio.org",
+        "language": "",
+        "seendate": "20261104T043054Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "What a historic ‘blue wave’ midterm means for climate action",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbkFCdTdvbFYtZEEwNFBEaUxadkxiYWRTb1Z5UHlJa0dmcWQwV05rODJIR0VXbElHM3hkYUJ3RXh1SXkzWXVBMXB1dGJyYmtCNmlKclFoTGFPUlNrUDYwcnprNVA5czlCZ09GMDJqZjhHQ1Y1UEt5eHVLNVd3bXNLTXNpYmQ0dw?oc=5",
+        "domain": "grist.org",
+        "publisher": "Grist",
+        "publisher_url": "https://grist.org",
+        "language": "",
+        "seendate": "20261104T051127Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Rep. Simpson wins re-election as Florida agriculture commissioner",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNa3NQamZ6YldwSnJ3NVlIYjZzOFZ4WDhNd2ZnczJ4UUF2UHZPLU9RZHhuMWhIODE4OTVXLXM1VkRPaEFDVUtDeGFyS0VQbVBvVzFvV1RoX29QUnczQVNIMzR4dkEzcUNEdE9wZ0FPcE9mQzZXd3FTeTFiLThiUUNrZldaY2d0cks0OHF5QnF6b29xdlEtQS00TTRuNlg4alhUTW5VeTJLS0VGam5rbHdjZHVhVkExTDRmV05VOFNSRXI4VlU4ZnZsZFA1TERsb0VwZlVtUjZSX2laQTZpa3ZHZmlicERpM0ttbW10cEFMWUhUZEwwc3RJX3oyT0JQaHB0TkRkRURCNWpkYnhL?oc=5",
+        "domain": "www.tallahassee.com",
+        "publisher": "Tallahassee Democrat",
+        "publisher_url": "https://www.tallahassee.com",
+        "language": "",
+        "seendate": "20261104T030800Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "How anxiety over climate change affects college students",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRXhJMldTVkFLYWVEeElBa2dJMWdpUV9saFRJdVRaSWh4SWt0RHVuOGZWb0dxOWNIUS1ZbmF0OFRjU3U3MlV5Um9qM01INXltTG1sQzRKVkpuZk9WRVUxbktSdlE5c0JKSkxlOTBRNEhTSnBSSG9xYm5rMDJhSGJnaA?oc=5",
+        "domain": "phys.org",
+        "publisher": "Phys.org",
+        "publisher_url": "https://phys.org",
+        "language": "",
+        "seendate": "20261104T030001Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Democrat Katherine Juhan-Arnold ousts Tyler Harper for Georgia agriculture commissioner",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONHlYWExEZ2NnbXdtZFpyeG5jaGN6dTBIRlFpTEdRbzdWRnV3MndzNFliblFkcmpRM3g3aHdQUzU2TS04LTNnenlxdXdtVXE0N1UyeFFvR3RlLWVUcFlRMnZjdUVNYld1aFdiYWpxeEwteTUzbk1SWXRWZ2pOMFdGOFpMUGtKeFJjSU11WnpTWDNwQmNSU2FVd3ktT0xhY2NWQm9Bc2RYeWJkMEJkNnU4UXZKeGd6anU1VElaRzl5Qm1icVYycTY0?oc=5",
+        "domain": "www.atlantanewsfirst.com",
+        "publisher": "Atlanta News First",
+        "publisher_url": "https://www.atlantanewsfirst.com",
+        "language": "",
+        "seendate": "20261104T043500Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Republican Sheets, Democrat Tucker running to take over agriculture commissioner seat",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSVhLeFJ2X1ptV1A1aWxzNVpvdzk1VHU4aVpZZmxwUVNDbHVKZUlMSlhGdGsyR0E0MFpaUGZHNnZ3NXBJeEVBNENiZVM3ajRqemtNNEJMQnBQT2RiRWt3M2kzREhzWFB0emFMYUk4RkN0NVBfcTdtREY1czRuVnNEeW9hZEF0TE9jYUlvbS1YRFpwSG1xLU5tRWJhcEhTcjMybGJFdkpPeWZ4Ym1lN0lUVm9xTjI?oc=5",
+        "domain": "www.kltv.com",
+        "publisher": "KLTV.com",
+        "publisher_url": "https://www.kltv.com",
+        "language": "",
+        "seendate": "20261103T234400Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Florida live midterm election results: Wilton Simpson reelected as agriculture commissioner",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVEpNN0o5STZwOUxNcXFDVWpEeGZEQWRyRVdtVjhLRmJfX0pVcVUyazRoWDgxZzV6blRxNHU3aVR3U0xmaDFpTTN4MFY2T0Z0XzViRXh1U2tPcTZsQU91NDM1MmRXRUpSUmpuVzdZMGxXbzNMOWxzcGV2RW1qOUxxZlVEOTllekhrTkpUbzRyVnpVZHo2LTdocQ?oc=5",
+        "domain": "www.fox13news.com",
+        "publisher": "FOX 13 Tampa Bay",
+        "publisher_url": "https://www.fox13news.com",
+        "language": "",
+        "seendate": "20261103T230017Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Wilton Simpson wins reelection for Florida's Agriculture Commissioner",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYjFwaVhWa21TczVvcy1Lb0EtUUdqdXNmSlp6WDF0SldERUhBWWNKOUkxV1lyb3M2NWhwdjVUMzV3ZmRta3QzOGlUS3dOUWJ2TFZrWHFGd1d6TkxOa2FFTmlCVHVZcXdhdXdPMTA1eFZEa3Z3TlVKRFRqcUw5SlB3aEUxQzBPVDBSbm0zLUF5eng3R0Q1V1RUQ3VoZjBQLXNyNHRmcW5tOUNoZw?oc=5",
+        "domain": "www.wesh.com",
+        "publisher": "WESH",
+        "publisher_url": "https://www.wesh.com",
+        "language": "",
+        "seendate": "20261104T022900Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Did heavy rain help Arizona's drought? Here's what one expert says",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSnprM0N3blNvMnlZc1RPWTRPRE9sd0pJcmpBczEyRHZWajFQdC1HWGFtbzlmUmtSRXkxT0hSMnNEd05uRFZEbnhkblI5dl8tR2pnSzBrX1EtMzZkem90ai00TXFDbUtyV29yTjZtYjdWT0VGZkJNVm54dG0yblRacEg0WUNuTks5NGg0ekJQMGZ2dFByTzVVT2FrNVhfSUxNOFk1b1E2RQ?oc=5",
+        "domain": "www.kjzz.org",
+        "publisher": "KJZZ",
+        "publisher_url": "https://www.kjzz.org",
+        "language": "",
+        "seendate": "20261103T203200Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Nate Sheets, Clayton Tucker battle to serve as agriculture commissioner",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbTJVdlRGQjhIcU1obGVVZGVoUkdDTTJmdmo4REFNRGUyWHFkVTZ3QzNENlBYNy1wdmt1WjNjSzJJaHIxenVHTXhwOXQwQ1N3WVN0Sy1fdTlSY1pzcElEWUZmMl81NkxXd0tkeHl2YkpkbVRxRFZicWt0bkZJakM2Znl0dGFSUDZBbEFLTzY3SWNDRmtiQzVYMVV0TzE0MmtWeEJSSTZKQnI?oc=5",
+        "domain": "www.dallasnews.com",
+        "publisher": "Dallas News",
+        "publisher_url": "https://www.dallasnews.com",
+        "language": "",
+        "seendate": "20261104T043138Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Democrats Seize Congress, Statehouses in Referendum on the Economy",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQlhPTENfT0VveTVXaWxfNHdVeXBhVG1LaVRVeXR5bnVSZnNOMXN4TzBsUUdEQ21RU1lKN2tyTWQ2REZIQWpnZEdKb2thQ3MyZkpIUmwyTVFHLXg2Yy1XTjhYNzM1dHBqRWh1eFZock8td2tUZ2FfVnRtb3BJU0ZyNld6S2lSNEY3VE9MS3h5bWtpSGdrcTIzSWcyTDFGalhfdEVObV9FemVHM3RUQzRR?oc=5",
+        "domain": "insideclimatenews.org",
+        "publisher": "Inside Climate News",
+        "publisher_url": "https://insideclimatenews.org",
+        "language": "",
+        "seendate": "20261104T052510Z",
         "source": "GoogleNews"
       },
       {
@@ -49,6 +169,36 @@
         "source": "GoogleNews"
       },
       {
+        "title": "California’s Climate Disclosure Rule: Commenters Want Clarity, More Than Changes",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUkVVQmtubjl2VGZXSHp1bzB3S0lTUE5OQ2ZZc0k2YkhmWkl2U2VtX1BINlR5WEFKbXlUSm5rOGhZWHNSRVhvZG43SkVXM3p1cE9UUDE1MjVZazV3bGNsNUh3TVdUcWc2TUFzOUQ5MEE4X2VMcTdJU3R5UE1xWVQzN1hTTFlKTTlBT3lQNWFNNkRJY3FnUTBYMzMwNXZoalQ2ellv?oc=5",
+        "domain": "cafwd.org",
+        "publisher": "California Forward",
+        "publisher_url": "https://cafwd.org",
+        "language": "",
+        "seendate": "20261104T000933Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Goehring hangs on to North Dakota agriculture commissioner seat",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMXd5NHR6Ni00akdHbGpJVVU2NDloSkUxQzNPX1Z6RllIYU5DWmJydUFQWlUyY3AwMURBSHYyVlhRT2wzTnZoMmZkc0wxN3RybUtINFdWcy16ODR2OVBITWlXNklWcUJSUTIyakZoWWVfXzhjUHJMUDQ3QjhYb3haeklXUHNDN05RdUp3d0FXaGhsWDBkd01lYndkWXVHY0FsZUNNb0ctNERldw?oc=5",
+        "domain": "northdakotamonitor.com",
+        "publisher": "North Dakota Monitor",
+        "publisher_url": "https://northdakotamonitor.com",
+        "language": "",
+        "seendate": "20261104T060826Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Climate, security and prosperity: Connecting climate action to our economic realities at COP31",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaXRhenNvdldza3NPTnF4alBBR1RzdVgxTW5NbU0zWmFraTVUQmFYMFlsd2dpalVwOVhXbDdjUk4xX2pOT0VtckJ0aXdlNXQ3bEpucmFUV2hlLXVLMG4tSmpFczV3MTZZRTdpeTB5Q3ZRbUpjVk5OOWJVVW9QeWhaTmZkd3NkRVliRG03bWJBZFVKUDU4SDhPZVdMX2RpcWV4NlVaR1RXSDRXTFJG?oc=5",
+        "domain": "blogs.edf.org",
+        "publisher": "Environmental Defense Fund",
+        "publisher_url": "https://blogs.edf.org",
+        "language": "",
+        "seendate": "20261104T013345Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "Mitch McConnell’s climate legacy",
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcnBsckVQWHlRVXVYOXp6THI4em9ESVhWdHhWYm9hV0pUWWlTNi1FQnp4SlFEUElHaXdpNG1IbTJaTjBaekk4dm10U2h3ZDBfV0J4R1BNNEVtV3dCS1Q4aGZ3ZWtCV0JzUm0wRnhHS0VzakJpdnlkWFczUVJLQTdSNg?oc=5",
         "domain": "yaleclimateconnections.org",
@@ -59,33 +209,53 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Eckerd College professor’s book on climate change to publish with Columbia University Press",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbkNfRFVZem44eUMtQWJYRmJ4T2NscTRJUE91VVRYUFR5SXJTQVBQUDdicHdmV0NsQ3FnMEdsbEZLRGx4MnlJbkt5MGZ3Vl81ajhUUHVpajdqTk5WeDBENExISkN3TnBrMGN5VUF1LWxsNzBnRnl1ZTgxUWpsZ3RULXhjSUhjREZqcndocjk2djFMLUdyQkM5TWZUQ0RxX0RSZXQ1cGYteW8tdkg2UXRmaVBfamE4ZXNITWt3dUtiY1Y3dw?oc=5",
-        "domain": "www.eckerd.edu",
-        "publisher": "Eckerd College",
-        "publisher_url": "https://www.eckerd.edu",
+        "title": "North Atlantic's 'cold blob' may contain climate nuance",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ldThYTjExaDF6bnNFN2tGV25CVkU0b3M5dkxMeUZ6dXNUY0FzOUhac05NdFdpNVRaT2JscVcyWGtObkFqYWJqSmNLWjFUVUhPQm9zS0hPdTFLQjZuSVVBTzhfenJseXNQWEFCSnAzWXhRMVZGNlE?oc=5",
+        "domain": "phys.org",
+        "publisher": "Phys.org",
+        "publisher_url": "https://phys.org",
         "language": "",
-        "seendate": "20261103T150138Z",
+        "seendate": "20261104T004006Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Is It Better to Speak, or to ‘Hush’?",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTHA1aTNzbFpobERTZUxFREJzb3dtNmo2MmNtcGh2a21COUxNSjFVRFBhcHJCQXdPdGc3Mmpldmh3VFhzYWVERENfT0Z2SmNFUmNzX3hKTTR6WnpId21YOG5YMnU3dEpOa05rOUtFYnM2Y3U3MzZMNjJLODJEMU5sM0h3?oc=5",
-        "domain": "insideclimatenews.org",
-        "publisher": "Inside Climate News",
-        "publisher_url": "https://insideclimatenews.org",
+        "title": "Republican Wilton Simpson reelected as Florida agriculture commissioner|2026 election results",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPLU5mbDFvWjRJTGpyVWlGUE9IQkxEbmJyWXNyVkN1TVFoZGtMU2lBaGFOZGE5MUhhNUNsWWZZNms3MUxGeTFEUjBPeTMzSV8wWS1tYnJ2YXJwZEZPRXluX2h5eDc2UUdzQjZrYllPaTM2MlYyekJwSDI2SHI4aDhFRUtxbnVDLXI5MUp3Vi04SW9ZWVpXcjNyZ3VTYXVGVXl2cUVqczdDLU00d19STDU2SXdmV05EYXc?oc=5",
+        "domain": "www.wusf.org",
+        "publisher": "WUSF",
+        "publisher_url": "https://www.wusf.org",
         "language": "",
-        "seendate": "20261103T170238Z",
+        "seendate": "20261104T044700Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Why Floodwaters Won’t Solve the Southwestern Water Crisis",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPa2ZpYzJhLUpHQ1ExSDBvS01xRl9CdzJzcDV0ZFMxcWVqbE5xWTM3NUk1QnZ6SE02V1FqaUFUbzNudnpIb3pxbUN5bmZwNnJvTlpJTXFSUEdwaUgtVEF5NFJqYWxPVnhIZ2Z1dTRyRDJtZDZIa25LandiRFNLS1N1am9NSmtHdmtsMlJR?oc=5",
-        "domain": "www.nytimes.com",
-        "publisher": "The New York Times",
-        "publisher_url": "https://www.nytimes.com",
+        "title": "Is climate change propelling the rise of superbugs?",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeXdVeThnWHFONG9Sa09vdmtRMThIYmJUVktvcXJUdXg3ZUd0X3dRYm96ZWhEZko3dUJwcm1RQlVONWctWEptZUJSbDRCZlNhNEU4UFJKNHNOS09qSVJGTldCb1VCMEpYNnJJNFdzV1E1WTBRVFpiTGV1d0RRVkVMZEs0d3VxR0lDRmNqd3lFV18?oc=5",
+        "domain": "www.unep.org",
+        "publisher": "UNEP - UN Environment Programme",
+        "publisher_url": "https://www.unep.org",
         "language": "",
-        "seendate": "20261103T210637Z",
+        "seendate": "20261104T044753Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Moderate drought has expanded, yet another dry fall in Mid-Michigan",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOV0pzZHcyM014QjdOSGFmeDV1YVhGa1B4MVNVWXAzOUVDLXcxYmR2d0JnVkd6N1BVcnJpMU9nR3psTmc1NVlfeElHQUxQdDRKTmhlV3dlLXpGYmYzeFRVa2w4eVJxaDl4UHVwVHN6cTgxRFpFMEl5eklZcjNUTEJyVXZ3clVlZHBhUzBHTHdoZDVPMV9ycmJPNjVPSFDSAbABQVVfeXFMUFd6aHI1MFRUSjAyLWN2NXJqVm1GazBhc1RmMldtTFZ6Tm1pX011U1VJejFwQjJlcGFUXzNVZ3JXNndIdVllWmJSZlhySFBCaXR4TmhWWFB5bWRRSmx4bmFzaGdubXNtZW5OWjBnQlZrcUZPNkdTR210Z1dBZFJVcUhNTDB5RmJsXzVrVVlINFVJbVh6LWFHYld0Y08yN3RrYWUwcWhpTERGNU5rR0VCcmg?oc=5",
+        "domain": "www.wnem.com",
+        "publisher": "WNEM",
+        "publisher_url": "https://www.wnem.com",
+        "language": "",
+        "seendate": "20261104T023800Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Florida midterm election results: Wilton Simpson reelected as agriculture commissioner, beats Joey Atkins",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQM2U2TDcwTV9Qd1Vic0Z3LXotZzRPQXNjeUI5VXFHdUFvbjVlVS12Z1lTSlBXbGc5RnJUQzJQQ2c3MG9wNTJhOXJyc2Y4Mk5PdThlanA2SGpwRjlScmdoX2lGZmNvbndoR0NlOW93WXBhc2hMRkFBLWN6TnhFVGlVNVZheGl5cTFYY3hFckh2a2N6bkZJdEJiVWRxbEU?oc=5",
+        "domain": "www.fox35orlando.com",
+        "publisher": "FOX 35 Orlando",
+        "publisher_url": "https://www.fox35orlando.com",
+        "language": "",
+        "seendate": "20261103T230043Z",
         "source": "GoogleNews"
       },
       {
@@ -99,53 +269,33 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Monthly Attribution Overview – October 2026",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVTZZQklRRUdjYkNnRldXOUxfRmdjdzZ1WTNHSUdnbDdtMkpwUm9NVHFfZ25UTUZJc2NDQWhlQmI1MFBIbnVVcjBDX3lNVXhVa1o4ZmpfanNSZFV5WFB6Y2s0ME5TX3RZbXlDRldrVXVlTHhmV0dsY01lcWpIMUY2bTlpN21RZw?oc=5",
-        "domain": "www.climatecentral.org",
-        "publisher": "Climate Central",
-        "publisher_url": "https://www.climatecentral.org",
+        "title": "Despite rainfall, Oregon remains in deep drought",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQel91MjlkMXhYVDFuck9OZnF3RE8tMk5uX05aWHFEcjZxVmNZbGV2ZzdJSzZUdzVvRzg0ZngzNzB0U3NoRzdiOThDZVdpV2p4XzVHUHdUTVZ5WUoyTkJhOHNDZ2VuajFHZ0VodEwxal9lMFphVDRSMV82RUV0UVNNWFROZndDM1JDU1A3Sg?oc=5",
+        "domain": "bendbulletin.com",
+        "publisher": "Bend Bulletin",
+        "publisher_url": "https://bendbulletin.com",
         "language": "",
-        "seendate": "20261103T170135Z",
+        "seendate": "20261103T232056Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Drought Grips Southern Cow Country Heading into Winter",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaktZSmx3M0ZpY3hqS2NxOFotdjZzWGxqWU1YOEtGbC1ELTl0MUgzaEt1endxNHZEWDYyVzBTTk1YZi1aREl2a2tycUhJU1BWV1ViOGlQSnA3Wmtyc1BuSVRvbUJvc215bUxyaVhSeDBrVGFMLVRjZnZqTzRmVlMtZWduTndUVjExdlhKckZyRHZ4SndDTzgzc0E2UTZyYjZVczh3?oc=5",
-        "domain": "www.oklahomafarmreport.com",
-        "publisher": "Oklahoma Farm Report",
-        "publisher_url": "https://www.oklahomafarmreport.com",
+        "title": "Wilton Simpson defeats Joey Atkins in Florida agriculture commissioner race",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQb0JzZ1BabGdoSGRUdzJ1Sl9DR2N4QnBfa0dFUUxNQnd1elgxZ19wS0lKamhXMjBtRUZIZGs3dW1xcnhpbURaTnVKYnBNdjhKZ09jb0M2Y0o1Nk5tZEgtQ0NSNjBQdmZKN19Tbmg5dXU0dGpNNnRpNmxZb01KcmQ2WlRtUGgtZk4tOTBQcHEzU2FidG9SbGRLMzZhRFI1ZG9uVUxMM3ZnV1Z1d0h2enBJSw?oc=5",
+        "domain": "floridatrib.org",
+        "publisher": "The Florida Trib",
+        "publisher_url": "https://floridatrib.org",
         "language": "",
-        "seendate": "20261103T161316Z",
+        "seendate": "20261104T034514Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Brazil’s data-driven plan for climate-resilient healthcare",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1yQk1xQmMzNVhWQVEzVy1zT0dtNmxKb01UbnI5c2VrTDlnQWNIZFp4LW1tM0ViNUg0c2gyWU9MR0hlbkZ2U05sN3NmZE92eWlfZU5uU1ROV2lxa1lFX0dB?oc=5",
-        "domain": "www.nature.com",
-        "publisher": "Nature",
-        "publisher_url": "https://www.nature.com",
+        "title": "Celebrating Community, Culture, and a Shared Commitment to Protecting California Agriculture",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcVNsX2RESHhack5EVHBCZ3hYVnh3QUk1U1VNenpENl9DVE9pQjlfVWxqaXRBSkI1YWFqWW1HdkRFaTBQb0lSOHZXRnZDUS1adXRtTy1nRFMxNVhXNTFFN09rZkRCVEw2QnNnTG5NNWw5ZU1JQnVMYnNWLXd0RVh2a29FM09HaXRoWDF5azNjd29iZ1k5S1AxaGZ1U0I5aGxZVWRkVHUtUTN2NnFRYjRHZ2ZoWU9MVU9xQnVUM1dDUy1wcUVDX1huNjE1OEdyRUVCMW0zdHBqNVgyY3h5Qmgycmg2dDU?oc=5",
+        "domain": "plantingseedsblog.cdfa.ca.gov",
+        "publisher": "California State Portal | CA.gov",
+        "publisher_url": "https://plantingseedsblog.cdfa.ca.gov",
         "language": "",
-        "seendate": "20261103T172041Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Towards Integrated Climate, Migration and Health Action in the MENA Region",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPd05aUlNZWVQ3Y19tUUwya0VDT0hwUThVaW1GZm1JeEtaOEVJd3Exdi1vaF95TDVyX2h3OENWcXNCcFRnWVA1a2RvcDFkOThoNmlMbEVoa1daaVVtR3hpUHhnWWVCY2c1NmYxc3hTb0d3TWktVmk3RFpScU5Jcnd1WUtCdTMxalZ3U3BQYjc4WnU4T1B3ZUd0SW5YeXNuZS1ySy1z?oc=5",
-        "domain": "reliefweb.int",
-        "publisher": "ReliefWeb",
-        "publisher_url": "https://reliefweb.int",
-        "language": "",
-        "seendate": "20261103T143634Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Chemists make an impact on agriculture with Herman Frasch grants",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSUhmaFJiT2NmWUZvS0laOVc2a3FteFBsVlB0S3NBMWYzbVFKazJNLVkydW5DRnc2b3dxMnZ5THVaSHhSS1VjVHQ1TEFtSV9wa0x6dGhQcXdUNi1ENEQtbC1wbExzYm54RkFjM1dYaTl4SDBjOUJVb3BZQmUzakE1QWtCZmFjTmVLcjhOQUIybUZaV0Fxa1E?oc=5",
-        "domain": "cen.acs.org",
-        "publisher": "Chemical & Engineering News",
-        "publisher_url": "https://cen.acs.org",
-        "language": "",
-        "seendate": "20261103T142148Z",
+        "seendate": "20261103T234146Z",
         "source": "GoogleNews"
       },
       {
@@ -159,53 +309,23 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Afghanistan's Taliban officials will attend a UN climate summit for the second time as observers",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPTlhQd05QOEFGOUNtZEx0RFotN2ZrSkoyRzNZWHZ2QUx5aDF5UVNrZ2o3bWoyU3BsZENTS2NRc2pQcDdEWTFvdGlJVFJ5VTRXdFJINWIzcEw0SV91c0ZlQk1HX184V0QxRnJRSTVETVpFVkRHU1g5T2dwRi1OUjRqNkkxTHcyOXZBSUNFWGtKREJvWUdsWWRnU1V3ZlZXYkNuOVVPd2tTWU9YaTNua1ZEWWVWSTNYMzZWUzMxdVo0NWtUbE9MQkFwb2RLaENDd2tCRDdFWTZhV2JkX0FV?oc=5",
-        "domain": "news.mongabay.com",
-        "publisher": "news - Mongabay",
-        "publisher_url": "https://news.mongabay.com",
+        "title": "Wilton Simpson reelected Florida Commissioner of Agriculture",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTktaNXVqZ1I1QXlfeG1RSElmbnZiSkxPdGZOa3VhRnNuNzNISnFyQkp2RDZ1bUJXaEV0QXhGTVhlUkQ1b0pMRV9qUDRsXzFwZVI0RUFDbXJTVVQzbHdRamdmVjAwVzBfVjdOZ3IxNE9NQ0N0cU1mUm41VFdRSy1oWjhRRkVvZ2k3UTN4MWgxSTk0eHBk?oc=5",
+        "domain": "www.wjhg.com",
+        "publisher": "WJHG",
+        "publisher_url": "https://www.wjhg.com",
         "language": "",
-        "seendate": "20261103T160447Z",
+        "seendate": "20261104T030500Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Teens say they’re concerned about climate change — but also don’t know much about it",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZjRoT19zTkRSSVExSUhtSXpEOVJpYW5VZFMweTk5VWcxTUhXSDJJYnA3Mmc3NzYySTBaVHNZbnZidXlyaVY2ZlY3d21NaUltMnN6NW9ZTk0zVDVyQVhHZnhnUjZ1Y2JZS1E4NGQzWGRLeGlUVUw3bGhYLVdXWG43M0NIbUJ6NDd5WVhlVHk3U0tEWk9YU09lci1rTEFsWEZUSTBJTENMMDBtMWtxbjVmMHVqYmtKYkxCOVd2a3FB?oc=5",
-        "domain": "www.kjzz.org",
-        "publisher": "KJZZ",
-        "publisher_url": "https://www.kjzz.org",
+        "title": "10 Things to Know About the Great Medieval Famine",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3d1hWTjVZWjFuU1NqMFQ0dUZXbnlXbmlKQnBKaW9TN0xJZFVOR2RqSW5CQjExTHFTLU5yamFnbGo1RVJqZjFNQkZXbUVzYTBnZ3hTYWRYMXJ5cjN3RHBWR1Vub29vYnk2SW9Z?oc=5",
+        "domain": "www.medievalists.net",
+        "publisher": "Medievalists.net",
+        "publisher_url": "https://www.medievalists.net",
         "language": "",
-        "seendate": "20261103T201100Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Al Gore on Midterms 2026: “To Solve the Climate Crisis, We Need to Address the Democracy Crisis”",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdUl4cGI4UlVuLTQ5UnF0aWstUWRjOE5LRE5oeTFTWnRPRGJPT0tqbmZOdjczUk16LWZtdG9nZHlqUzQxSXZLMDFsS2RTeGhGZjlCVWRXVDVkMUN6MXhqaU5Vc0YxaFVhOHlGdHBNUE9COFd6bk9pZHJMb3Z4YWxBV2VoSWMtS25sMWp2T1ZDYWRRY1dUOWwtOW93?oc=5",
-        "domain": "www.teenvogue.com",
-        "publisher": "Teen Vogue",
-        "publisher_url": "https://www.teenvogue.com",
-        "language": "",
-        "seendate": "20261103T194046Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "William Nordhaus Dies; Nobel Winner Influenced Climate Policy.",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeFZVM0FTb2NWWnVST2ZRV3RObFU0MUhJckJBZWFCMEJQcTNXcFI3cjh2ZWZnbktfNE5zQVZka0VGd3NJZTZLSExoaWU3eWhPOGRra0xBX2piblljUFROVmRIMDY0WGdLUGtlT3B3all0cWplSVJWZUxPQ1kwR1BGTnJBUGhva09HZ3F5Y3RB?oc=5",
-        "domain": "www.nytimes.com",
-        "publisher": "The New York Times",
-        "publisher_url": "https://www.nytimes.com",
-        "language": "",
-        "seendate": "20261103T150200Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Bearing the borderlands",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5oWFhJdUhWZ1pmOUJqMlU1cWZrX2dQZXpKa1ppbUdzMHNyZDNrUmRVdmdZMXg2NGNseVYwRkVFTDFibFk3ZFhrTFRLV0cwRlVET09hMkltR2I4LWRIZXFVbDk2SWY2S3RMaXBfbU45S0hJNXR0NXc?oc=5",
-        "domain": "yaleclimateconnections.org",
-        "publisher": "Yale Climate Connections",
-        "publisher_url": "https://yaleclimateconnections.org",
-        "language": "",
-        "seendate": "20261103T163802Z",
+        "seendate": "20261104T013037Z",
         "source": "GoogleNews"
       },
       {
@@ -219,63 +339,33 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Zero emissions commitment depends on warming level",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1mWnRpVXVpOWpxalFPRUU1THpNNmxDX3c1UW1Hc2U2a004NTZIU3NMUEVFbWE0a2VvTnVOeE9SVml0algzc2tENkd0VEdHVTJJdWh4OFBQT2F5UTF0NjE4?oc=5",
-        "domain": "www.nature.com",
-        "publisher": "Nature",
-        "publisher_url": "https://www.nature.com",
+        "title": "Wilton Simpson secures second term as Agriculture Commissioner",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN1kwaFZRb2NwOGtLU1hhc0J6bkpoSzYyNG0zbEhDeUtsRUZETnpaRGdsT0g1WE8wVk00aWQwR194UkNuWUpZeWF1S0xpTFJlSWFfVWRDNDdEM3dLbXU0SEtzaENQMjZmaTczbDFNNGNsaHZCVTQxVHppcmU3SWJPQnJXZU8zNTNyaEFZOUJuQWdTcnl4cGdHaUhsSWttNV9wc0NjUHl6a2FUalU?oc=5",
+        "domain": "floridapolitics.com",
+        "publisher": "Florida Politics",
+        "publisher_url": "https://floridapolitics.com",
         "language": "",
-        "seendate": "20261103T111003Z",
+        "seendate": "20261104T024246Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Despite rainfall, Oregon remains in deep drought",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQel91MjlkMXhYVDFuck9OZnF3RE8tMk5uX05aWHFEcjZxVmNZbGV2ZzdJSzZUdzVvRzg0ZngzNzB0U3NoRzdiOThDZVdpV2p4XzVHUHdUTVZ5WUoyTkJhOHNDZ2VuajFHZ0VodEwxal9lMFphVDRSMV82RUV0UVNNWFROZndDM1JDU1A3Sg?oc=5",
-        "domain": "bendbulletin.com",
-        "publisher": "Bend Bulletin",
-        "publisher_url": "https://bendbulletin.com",
+        "title": "Missouri faces drought and extended warmth despite Election Day rain",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYkdIMVVtOWUxVG1CbFlOOHhCc1BEMnRlaWt0b2pIdjF0czJOSGV0Wlh3NzJQc0VlWmk4dXFPaktQZ05YNXJFVzF1UDFMa3RITWgyQkFMUURYNmpjZzFJSm5GWDZwMEtpQ05NQ0F5eFZEQ0NVNWx3dnhWcE1LV2lVXy1FNFJjM3Z4LURwSnJCSm5PNGFDOTRVWkJ4XzUwcFVTZUNmWlhGaHdvY0M4aEtvZnZEWWRyY1lURzNQUE1zTFE?oc=5",
+        "domain": "abc17news.com",
+        "publisher": "ABC17NEWS",
+        "publisher_url": "https://abc17news.com",
         "language": "",
-        "seendate": "20261103T232048Z",
+        "seendate": "20261104T000428Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Mitch McConnell’s climate legacy",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9tOWxYSWtVUGcyNEpuRk8wUUlCZDdPSk1iZGFwZEFXR1JDWFN1Sk9HeU5qZzJRYkRFT1FEdTNoVmhIRkFBeUVnUDR6dWdfd3R5UnM1dW1aV1dGQXQwZ0xJSw?oc=5",
-        "domain": "www.ehn.org",
-        "publisher": "Environmental Health News",
-        "publisher_url": "https://www.ehn.org",
+        "title": "Fresno County agriculture hits record $9.64B in 2025, up 6.8% from 2024",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNb3lSVzFIcE1lamZLYjhBR3hZZzRpRXRZaDhfaFo1bHRJRF8weEhFYW9FWURxZlFKT0R5YkpESkNPLTBkZmZycmxCMlJDMWhjRm8ySjRIRmlabnI2cHNCSnY3NmgxQ0g4QXdBd0hfZHk5NEVzaVRHYm5xWTI1YXhMa2pGemNQZDNKb184U3MyU2hpOVpwTHp5S3RB?oc=5",
+        "domain": "kmph.com",
+        "publisher": "KMPH Fox 26",
+        "publisher_url": "https://kmph.com",
         "language": "",
-        "seendate": "20261103T165634Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "15 School Districts Recognized for Commitment to Serving Local Food to Students",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWDJPZC1DVm1yNi1xSGZVRWwtb1RFZXY4UjRac3BvT3p1dEJRVWt1MzhWLUo4T2ZIMlM4SDRGbm5EMWZiRG44R1FKbWdFVE5laWhtMjVZck9tbnphSkthdTJpTERzYUU5SnZDdVIzdENsalRXVUoyWGJsb3hKbUdIYVAxbGlRQkZkV1lQcG4zdE5Vd3ZncGpSZDhDUkRmWHR2M3JKbjVvMlB4UFU?oc=5",
-        "domain": "agriculture.sc.gov",
-        "publisher": "South Carolina Department of Agriculture (.gov)",
-        "publisher_url": "https://agriculture.sc.gov",
-        "language": "",
-        "seendate": "20261103T155007Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Mitch McConnell’s climate legacy",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOGp4QVpyUE1YUVpBMnF3VFBRdkI3V05CRVF2MG5IR1dMXzFDTXRJVmJFekdTdTBUZDgtRFk3YkU5N3gtOHZJOV9jaDhKdEdqUUtaMWVUX2NPRWFwWG44RlBRTG1BVzBDby05Y0F4cHF3R0FMSXJwRUJINDJxbTFJTFJ3cDc?oc=5",
-        "domain": "yaleclimateconnections.org",
-        "publisher": "Yale Climate Connections",
-        "publisher_url": "https://yaleclimateconnections.org",
-        "language": "",
-        "seendate": "20261103T130000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Unpacking wheat's water use for drought research",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4xZU0zdmdUTUVEbXBrclN5TGc4XzFxUVR2RFg0OU91TjQyWUh2LXZ3UEx1VkdCczhvQzJQQU92SlY3NVZWRDlBcV9WYzc2NXJ5SjZOZEVaeU5SUFhy?oc=5",
-        "domain": "phys.org",
-        "publisher": "Phys.org",
-        "publisher_url": "https://phys.org",
-        "language": "",
-        "seendate": "20261103T134001Z",
+        "seendate": "20261104T002335Z",
         "source": "GoogleNews"
       },
       {
@@ -289,13 +379,33 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Climate Vulnerability, SIDS and the Pacific: How Could Australia Best Champion Their Cause at COP31",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTDJaSUF0ckFxdmJYRmVDZEl4LUIxNnphczc5cUpFZDJ4dmFpUDdLUjkzcGRaOHEyR1hqQVdnelpSd0FfemhTbjhxNlZrVE9DUXVFTG5OSFpDNktpREMxMzAyZHh6bzljcG4zY2JTd0xFYkIySXlvTGFvOHhzVmh0WHpMeFpyckI5Z2J6WHU0d3lNcEVkcGVvS0tkcUFjclVOS0FLemJuWnp6RDhQVkpYcFdRT3Vpb191?oc=5",
-        "domain": "www.cgdev.org",
-        "publisher": "Center for Global Development",
-        "publisher_url": "https://www.cgdev.org",
+        "title": "Wilton Simpson reelected Florida's commissioner of agriculture",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOQXBSRmlOR0pWRzBoZ1ZHZ2ZBMlMwTjl0OFp6bTN3SHdRbTZpdEFoNHJweC1wcUliRXk3V0ZMVTZBTGxaUzJyVUlPSHg3a3VHX0FCOUg5MFBRUFQzZzlIRVlPU0lIaGItaENLdGRQZlBoWXBMUXg0YVZDN0IyaHFiV3hudkJUcDE4bkc3SzVuTDg3b2x0YUNJNGN3MkpHcjF4U01CUk56VzZ6eHVEZjRhYlgwYTE3T3RPQkluWjFfeU0wWVdMOW5XR1RoYmhyTDJmVEdKdEV5ekNNcnNORWEwMGNSZXlSMzlhRFE0?oc=5",
+        "domain": "cbs12.com",
+        "publisher": "WPEC",
+        "publisher_url": "https://cbs12.com",
         "language": "",
-        "seendate": "20261103T133932Z",
+        "seendate": "20261104T032932Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Al Gore on Midterms 2026: “To Solve the Climate Crisis, We Need to Address the Democracy Crisis”",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdUl4cGI4UlVuLTQ5UnF0aWstUWRjOE5LRE5oeTFTWnRPRGJPT0tqbmZOdjczUk16LWZtdG9nZHlqUzQxSXZLMDFsS2RTeGhGZjlCVWRXVDVkMUN6MXhqaU5Vc0YxaFVhOHlGdHBNUE9COFd6bk9pZHJMb3Z4YWxBV2VoSWMtS25sMWp2T1ZDYWRRY1dUOWwtOW93?oc=5",
+        "domain": "www.teenvogue.com",
+        "publisher": "Teen Vogue",
+        "publisher_url": "https://www.teenvogue.com",
+        "language": "",
+        "seendate": "20261103T194046Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Overshoot Demands a New Era of Adaptation, Loss & Damage, and Climate Justice",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOd2x4VEQ2dEIydVVoa1E1TjNjTTdKOHZGVV9QdlVTTjlNcmxZRjhaRjlHT1JITXhMUWJER0ZwRV9Qcl9DMTU4TzF4TTlYSFdnMGtIaXV2ZS1XME1nTElKQzVvbFpCaDF1WW5hdTgwU1BLSTl5R0lCVzJ0OEFNV1l3R2VFeE1YOG8yVUF2Y3VzeUIwTW5uNS1NN19JTnFGRUQ5dXU4SDJoUjJiVmRSUDM4SA?oc=5",
+        "domain": "cleantechnica.com",
+        "publisher": "CleanTechnica",
+        "publisher_url": "https://cleantechnica.com",
+        "language": "",
+        "seendate": "20261103T235616Z",
         "source": "GoogleNews"
       },
       {
@@ -309,66 +419,6 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Featured Audio: Invested in Agriculture, Inspired by FFA",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdEw0eWZIakVQd0JZZVpHc2ZNbFRTNS1STkFTOUptUVFwMGNyTktsTlZGVGNLRjc4cTctMzlfTmJObFJxXzVSRGNiaVByWUkyX3VaOENhbkNFSmxqTXQ0RElNU3N5Qi16aGp3LWU3VWgzNE9EVVdSTGpmQ1lkZndLZlhmalVRdw?oc=5",
-        "domain": "ocj.com",
-        "publisher": "Ohio's Country Journal",
-        "publisher_url": "https://ocj.com",
-        "language": "",
-        "seendate": "20261103T201500Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Cold without consequences? Short-term climate fluctuations appear to have had less impact on early farmers",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5CdVdRcFRHZGtSSXFFT3lBUzJ1NEpEZVo4SllwMTV2RkZ6T0IteFJmUXFMMWNJaEQwTFNrNnJxbHpOdU5fclRSRFlDTTBRRTdBOEY1WEt3ZjExSXRmTGxKNkNXTng4UmdMX3U3T2R2UUViY2pHc2FoWjJlcw?oc=5",
-        "domain": "phys.org",
-        "publisher": "Phys.org",
-        "publisher_url": "https://phys.org",
-        "language": "",
-        "seendate": "20261103T184022Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Afghanistan's Taliban officials will attend a UN climate summit for the second time as observers",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQXzB3dTN5WXJhejNwZkRwdzZXRW9Ka09uNFljcjZKd2lyZW9QTUIzNEFlZHQtXzJvcmt5bnNHWkpZa05uWlNlWkRBTFpPUXN2WlAzZU1GenJITTJ3bUdGaXpfRGgwQU5qQ0VmdU9BUDhEUG1ZN2prWDJObWxzZ3drS05BRjgtejNrM3NxaW5rbmVzN1U2cmZIUUlkZHlzdDNTTktIOEZrYjZSRHpWeE5WNFBPUjFpcXlrUU5LTWt5c0dROUR5ZVI0UlJaRQ?oc=5",
-        "domain": "www.wral.com",
-        "publisher": "WRAL",
-        "publisher_url": "https://www.wral.com",
-        "language": "",
-        "seendate": "20261103T183345Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Drought and equipment problems kill 130,000 trout at Virginia hatchery",
-        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPXzlzNU9FYm1CaEVLLVVpVUlTVUo2SVRVLU9jNHJ3bVBCc2o5elQ4a2lLUFY5Tzdtd3ctS241Wjk5bGJrZXFSaE0tcDVWOGEydmNwSlpHN0tFUUZFZS1QQ2NaVlFEOWgweElHMnhTY0tfYnBrY041LWJlMEhENEpZM3hwQjJzZWJsWDFHVWFzVVhYSmdMNjg3eWd0Tmhyc3ZnTzJnQlg5VkJBT1pIWVlHQ3RFMklZZXZTb21wXzY1X1FtdFFvdkhITGw3SHNUV0pSUXJKXzBDYmpwbk1FSlhBOVdNVlo5cjhaaWxyNUFHeDZ4TlRn?oc=5",
-        "domain": "www.bayjournal.com",
-        "publisher": "Bay Journal",
-        "publisher_url": "https://www.bayjournal.com",
-        "language": "",
-        "seendate": "20261103T153400Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "What climate extremes of 2026 teach Europe about resilient infrastructure",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQmVFbXZ1Qk1vVk14bzBQTGlBQ0VoOXlCZkpQWHJtUUFLQkJidnNvMmdpN3dBamtQU3VqY3dURHlWRHhiUGx3YXh3WEtNcjFVMjdta2RvWkpBUF9ZbE9XY3ZsR01QVDg1OF9RNEtmWFJVR3dTd01TUWo0V29pUHdTa19QRHJFdEkybjhqWC1ycEpyYmVlbmpWRG8zcDRpM2VWS0FWMW5hUEpKeEtpZ1h0ZVJvTmM?oc=5",
-        "domain": "www.eea.europa.eu",
-        "publisher": "European Environment Agency (EEA)",
-        "publisher_url": "https://www.eea.europa.eu",
-        "language": "",
-        "seendate": "20261103T070221Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "USDA expands regenerative agriculture program for Nevada farmers and ranchers",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMk1Ta0FKbnNIdXZ6ZS11X2ZSa0dGTVJ3VFJXM2NzeU5mX1Jtc0RFaFIwMlNsbUdnSzcyS01Ld3dvRmhOTlBibzAzc1JqeGtPT045V1N6YTQ2S3RfbzVzWVY4YUdudGtCSm5YdHFMOVVyMExVcEJ6eG0xZVBtLU80UGUzOXNGV3VEU042WGFmT1lQdjRub1llU21wQVpfR2VfZXVxaUtncU9uOVpRQmc?oc=5",
-        "domain": "thisisreno.com",
-        "publisher": "This Is Reno",
-        "publisher_url": "https://thisisreno.com",
-        "language": "",
-        "seendate": "20261103T170000Z",
-        "source": "GoogleNews"
-      },
-      {
         "title": "Folarin Balogun Ends Goal Drought, Replaces Ansu Fati On Monaco Squad",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSDNTdVdZa21Ia0R6RWtXUVZKZTMtVFV3RU1UMF94Q2tJMTZsV3p3bmU2YWdYY0V0R1dvX09XTVF6WnZGWFNHZjRUSGtORmUtUGlhbDBvNXhCbks5S0JQLTdZcnhycVhzMENSRTRjVEg3dGdINVUzLW5lZEdORTFObFlpUnZiS1FpU2o3SXMwTTBDbzNfMndXY3Y0eGhPWFhHT0RqY0sydHBsd9IBqgFBVV95cUxPTVhCc182Y3kzNThiQ0JnNnhCd2t3dFpTeXlaWTM5MzlJdXRBQnlMMWVwcjRQS1NkMVpZb1VpbXAtbnFBdTJkbmtKWFJBd01EZkdFVmV5a3pLWGlrR0ZKRy0yN0swWnRVX3NuOWc2cWRvOG00bG9neVB4eV9MWVl6aWZBRjhITURRUXB3dGtPSUVTV3NJdEVCZ3dRdUFFTzQ1Q0NjQVRWbEpadw?oc=5",
         "domain": "www.foxsports.com",
@@ -379,117 +429,87 @@
         "source": "GoogleNews"
       },
       {
-        "title": "State of the climate: 2026 likely to tie with 2024 as the warmest year on record",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRUtJVmhqWVozRXE2MVJNWkVzVUZSTkhIang2SzJNSDJ3M2ZLX25GV0lPQWZkcGxPcjQzWVBoYnVvS0NCRFlZSjdueXVmX3lPN1ptU3pNSjZzbm1QWnRsMEJhcmQtTGtMSVNLOXJaVHAyeldZUkxPWVZVbmd3R3NXSVV5akVab2oxcld6SXVvbGg3dTBzR3pIaTNsbEFOaWstVjNRZjgtZ182Wms?oc=5",
-        "domain": "www.carbonbrief.org",
-        "publisher": "Carbon Brief",
-        "publisher_url": "https://www.carbonbrief.org",
+        "title": "Talarico Defeats Paxton in Texas Senate Race, Ending a Three-Decade Drought for Democrats",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBvSmY2NFdsc3BIQzVNSXd3bHJyZDJ0X1pOM1Y0Mk9wTlB3Q3RyWi1SY3hYR2tfcWR3eEVsZHluNk1FZjZiYU16Z0M2NVo0TmxocGw1OVo1Um16dy1WQzdidHBsTEZ4Qmhna1BPOHpQNnFyd2VEM21FOXM1VQ?oc=5",
+        "domain": "www.nytimes.com",
+        "publisher": "The New York Times",
+        "publisher_url": "https://www.nytimes.com",
         "language": "",
-        "seendate": "20261103T135817Z",
+        "seendate": "20261104T040517Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Brazil Puts Forward Global Plan to Wean World Off Fossil Fuels",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZU5adDF5Mzg3TXFEMmpBNnBnbkEyTWt4QVRrS18tYWlMczhTMEFabXVLT0xwRkpxSHl5b0YyN0M2VGk0blhrTzZPNHdWQjV6NFV6LTBpWjJ0ei1sR1JpdWFIamhtRkZ0aTNUeTBubnJwdnFJTWI2WExtMHA3RHg2RVQ3X1lTWVZhTVdjMW1pNkdXX291RDhvYkRmZkFNdHR4YVVXRGZLZzVtTzhjeTlZcFZhYVIwSm5oU2U3Vg?oc=5",
-        "domain": "www.bloomberg.com",
-        "publisher": "Bloomberg.com",
-        "publisher_url": "https://www.bloomberg.com",
+        "title": "Zero emissions commitment depends on warming level",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1mWnRpVXVpOWpxalFPRUU1THpNNmxDX3c1UW1Hc2U2a004NTZIU3NMUEVFbWE0a2VvTnVOeE9SVml0algzc2tENkd0VEdHVTJJdWh4OFBQT2F5UTF0NjE4?oc=5",
+        "domain": "www.nature.com",
+        "publisher": "Nature",
+        "publisher_url": "https://www.nature.com",
         "language": "",
-        "seendate": "20261103T231658Z",
+        "seendate": "20261103T111003Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Climate change is killing hundreds of thousands – a kidney specialist’s concerns",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSjNBX3dwY1ZnMjJNU2c0aW41LTJ2UjFWT0V6ZXRKQ1lXSlF1ZDJhWmszNDBhcXlWZlV4NmlJbXBsVEpiYzJDb1FwLVcxdVI2UkViZ18xTmpFd2FqZ0JsZk81Y0ZEbkpyb2llSjFEbzdkVHd1aGlvcUlfV2NyeHQ5VnBWeUNrdldIV3UzU3RJc3h5UG1iUGw1M1kzXzJGWW9OVVlrWG9OWXRTNnJiSG10V1NR?oc=5",
-        "domain": "theconversation.com",
-        "publisher": "The Conversation",
-        "publisher_url": "https://theconversation.com",
+        "title": "Clayton Tucker projected as Texas Agriculture Commissioner Winner",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUkc5SFdUNzBJdHZhSGEydS1kcU5NWTVzMEpkd1c5bzRmVlpkMFczcWtRMVRXei10Y1d1ZTdiUG54Z2FZbWNYeTZ3S2M4UklPbzFOaGJfdmZ1aTcwdk5Tb0pLeDc1em9iOGNXZUpXWjNsTUhqdlJ6dmdYMVk4MUJCVGR5UHNJMGpKWUFocVhfQXBtd1VHNWtN0gGcAUFVX3lxTE9VNy1ULVF5bnY1bU1LQms2cF9WSDVkczlxLVRJX1dyT0ZkdkluOTJBTjZBbHZEUVFvXzNFYXQyMHZTTVNEYmRGT1lmVjVucUVuaDNnU1hJNjRWQTRCNWpaU0RhaEt6WlRhOFpDS3lYb3BqZlNlcTdHVGN6N1ROZk1fSUtYNkZWU0xFeVFKNzRnSWJXZFZ1YWdsUG9mTQ?oc=5",
+        "domain": "www.ktsm.com",
+        "publisher": "KTSM 9 News",
+        "publisher_url": "https://www.ktsm.com",
         "language": "",
-        "seendate": "20261103T164205Z",
+        "seendate": "20261104T055729Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Release: Farmers Market Advocates Call for Delaying New Rule Amidst Uncertainty",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNb0JvUEFjMjdiOHl3THBoZDhzck0xQ3NaNUhGT3ZhOWFwQXhCYkRqRjR1YnRGa0otM1dOdlczc21PTUdFVFZLaFFOYVVMQ2NNU0huQW1RSGNITHBYdEIwY3lFWHBVdHhUUERZOVg3YTRpZzNJLVRnWWlZR3Q5bVFMRlV0dTZKbUhoVGE1Qk55Y2NfamhLX1AzOHdhVE04Nzh6NVNLV0Z5cXRTLUI5V3hSYW0ya0o4MEJGN3Bv?oc=5",
-        "domain": "sustainableagriculture.net",
-        "publisher": "National Sustainable Agriculture Coalition",
-        "publisher_url": "https://sustainableagriculture.net",
+        "title": "James Talarico flips Texas Senate seat, ending Democrats' statewide drought",
+        "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxONWR4OUp0WjBQaHQ3eFlNMVBMZGNIYllGZmdDSmZPM0pqckhxZUhXN3VYWlNuTTlSTzJaVVhTNVZaN2JlYzBsYWRtZ1hBQ29GQ0hvU0xncm1LbW00VjYwOTVtWVVqSlEwTjZtSzE2clRURldqUnFla05kRXFZM0N0MEIwZm1ubm8zcmVYQ0d1aWN0cXBHSzE2bFpUWWNpUVI0alJudk45WVhRdDVLbko1TnNESTRsbVdVVFhvM2ZRX0s5SHZiUW5WV3JXaVQ4V2FsOTh2UUJBSnJwWFZyajZaUXZFY3UxTjZvT0JmVEhvSkJCREwtRDFaQjlEYlYxc3ZwRE1KR0V0cVA0TVYySngxa1Z5cm04NVJQMDNjQ3E0ZDdlTk9lNXdTcjZwU1VGSW52TGRTZVdxRUFKQW9uX3RCRTBwaE10aUU?oc=5",
+        "domain": "turnto10.com",
+        "publisher": "WJAR",
+        "publisher_url": "https://turnto10.com",
         "language": "",
-        "seendate": "20261103T230216Z",
+        "seendate": "20261104T042053Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Feds declare drought a natural disaster in much of Maine, unlocking relief",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdTFUdFVuRFoyaUE1VkRSYU9qU2l2VlVwYzQwMTRNbW1mT3RXZy1aWUsxREd2LV9QNUJEa1NnZjA2bkdVV2dLWVRoTlp2WS1iSUJnbDVsY3JKdmpMOTFabVZmd2lSOTg4UGc4OXR1b201UmtZLTNXdjVlTEthMXN5ZUlfaHRqNjJ2OU5lRVFtMjREOXA0SnhaODZ0eWdRSXFKVEV3WHdzdlVDbEpoSTNTVA?oc=5",
-        "domain": "www.bangordailynews.com",
-        "publisher": "Bangor Daily News",
-        "publisher_url": "https://www.bangordailynews.com",
+        "title": "AI boosts operational efficiency but not systemic climate action, global study finds | Newswise",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOek5sazJuYkdBWlljSFVZeDdEc0JsTFBZbVQ1YXZDelBPNXZrUFR3bWk5UlNPSGY1OEJPSzhHRkJxVFBBdUJtUU8yeVpXR2thWGJodTZocFZVMk4yLVRQY2I3azl6QXhib1VuRVExUDNJSjFOQ2EtNmZqYlctcXQ2STRBNkNwb3ZDM0NMTEd2T0pOUngtV1UxYVNkQWF1Nmo3LWlSQzNvMUJsWENFV2ZpbmpJSjFUbzdCQnfSAboBQVVfeXFMTnpObGsybmJHQVpZY0hVWXg3RHNCbExQWW1UNWF2Q3pQTzV2a1BUd21pOVJTT0hmNThCT0s4R0ZCcVRQQXVCbVFPMnlaV0drYVhiaHU2aHBWVTJOMi1UUGNiN2s5ekF4Ym9VbkVRMVAzSUoxTkNhLTZmamJXLXF0Nkk0QTZDcG92QzNDTExHdk9KTlJ4LVdVMWFTZEFhdTZqNy1pUkMzbzFCbFhDRVdmaW5qSUoxVG83QkJ3?oc=5",
+        "domain": "www.newswise.com",
+        "publisher": "Newswise",
+        "publisher_url": "https://www.newswise.com",
         "language": "",
-        "seendate": "20261103T141531Z",
+        "seendate": "20261104T044500Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Southeast beef cows in drought",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVTNKLWhpYlJIZGw0ZS1wakFlVVZGQzFhMnk1OXRtQTFfZ3lBa3ZUOS1oNlR2cjlXb0hYdmRBbUF5WlJQYmtSZWFzM2o3UFN1ZWZHcWVRZlkxNkdBcXFJY05WMFdKRi03THpkQUN2TUs5U2I1Nkg4a1p3YzJ0NE9DRjBoMlQxSFowZlBUNw?oc=5",
-        "domain": "www.beefmagazine.com",
-        "publisher": "Beef Magazine",
-        "publisher_url": "https://www.beefmagazine.com",
+        "title": "MSF Youth in Agriculture Scholarship Deadline January 15",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSEtsVFRkOTFZY0xrb2d6RWJWclJTd2hFc05ObTJkeFRKRm5POVRURUlXVHE1NzNrcXRLV3FpMW9sZERSX2RGeTdDUUZ1UWt2U3dWeE9XMmVoRHFRZlRrQUFZVDJ2MHI0Nk9BN3Z3eThYREdtYnpjMEg3dE5TZUI3YU1PVHB5M2cwckFtREFNdkRFZ3pxSThrRWIwT2lvbjBkMGdMM0F4djFmYnJRSTBLTVdaWVU0OFU?oc=5",
+        "domain": "www.waynecojournalbanner.com",
+        "publisher": "www.waynecojournalbanner.com",
+        "publisher_url": "https://www.waynecojournalbanner.com",
         "language": "",
-        "seendate": "20261103T161013Z",
+        "seendate": "20261104T060518Z",
         "source": "GoogleNews"
       },
       {
-        "title": "USDA designates 7 Maine counties as drought disaster areas",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSEh3TVZvVzF6aDZIRW5NMUtoS18wY2hTeVFtVldUMExSczVZYVhXWlRPX0xJMDZxZE5TQTNaVUExWVVnM05aNURFc21DcW80YWJtYTB4SFk5TnN5bHZYSDRLd1FseEJTYW1ZUFJqVGFIbXlVM3RPdDFKMGphX0ZFSnVSR1o5NlZ3eUZxeXhTUGtydlNyTTJGaVJaTW4?oc=5",
-        "domain": "www.wmtw.com",
-        "publisher": "WMTW",
-        "publisher_url": "https://www.wmtw.com",
+        "title": "TPG raises a $10.4 billion climate fund as institutional LPs gravitate to bigger managers",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSjQwMzFwSHdPa01sZFZEVlZwUHJoOUgxLThpSklOa3dVRTJfU29xTzVoV3dvZzF1OXF3Z1pLbGtxRkRrbXlxQ1dvWDM0TmQ4WEFBSFpyR2U5cFdJeGo0b1BfZ0pmTllwWWw5N1VsX1JVRjBqVkVNMDRuenN2V29NZ21BTFJ4b29wblZobGNOUnJGWk5KdHpHTzBrMnlFNG5DOUZfT3FSVUJneWRrZERZUFNBTQ?oc=5",
+        "domain": "impactalpha.com",
+        "publisher": "ImpactAlpha",
+        "publisher_url": "https://impactalpha.com",
         "language": "",
-        "seendate": "20261103T134700Z",
+        "seendate": "20261104T014137Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Screenshot",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQTlhZWN2UVJrM0pZTnAyMFg2NnNPMVE1SVZKSFM5dFlxWEhKa0FqVXZjcDBxaHdvY1NmaW44LTlRS0luY3JtVmxVVHktZWk5akpuc09FMFQwM3ljSXB5N0k2QWd4R2hnSFh4bnowd3NNVk1KdEdhSUppOEJfVkVzWmFhVUstQWRMaGJ1dlk4WG5GdlE3M01yTUY4SW1DbF9jVmhJbEpVVDFaSF8wR044OWlYcm4xa2gxZjJxVThHZmxldk1hcVlFbnpKYVJzTUIwX3ItYlVmcU00Tlozay1B?oc=5",
-        "domain": "yaleclimateconnections.org",
-        "publisher": "Yale Climate Connections",
-        "publisher_url": "https://yaleclimateconnections.org",
+        "title": "Clayton Tucker poised to become first Democratic agriculture commissioner in nearly 40 years",
+        "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQZHdLRW1XVnRfWE5pOW5CMXgyT1VacWREQ0tKZVU5cVhWc0VCY29HOWpZRzZyd3h6RHlZVTd0Zmx0UGU4Y2ExVUVLX2dVZnRncUJ1LXhRQlgtMkYyMmY3bGJWWnF3VzJkcTdqcHBwZTJIN2htbjZVa2lmS2NIXzNhZTJLN1ZQNjZRWE9DYzY3LXdUUlZlcE82Z3RWUExldFJwOWx2ZTRoSFhRZk5BWXpCLU1NWEVqa1pPWXZCTU0yNG9ZN0pHcDE2UUs5ZTg2bGRKS0d0WG1SaVdBaklxVDExWGczMklIbDhwWlB0ZE9MdEdUMzZiS0gtdEkxU3pFbXNTWGNleU9qc3J0Um5XR0xQTEVlX010VDF0R2JOMHRNUFM?oc=5",
+        "domain": "www.southtexasnews.com",
+        "publisher": "SouthTexasNews.com",
+        "publisher_url": "https://www.southtexasnews.com",
         "language": "",
-        "seendate": "20261103T230939Z",
+        "seendate": "20261104T061700Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Why the US Midterms Matter for the Cl…",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQ20yQmhMLXY3TmNYWDl6T3d0b3pscmxReVdsNWJZbGpGUk1QVWY2TEoxUVdCSUxvdDNlazZGa3JfTTZIQ3VPbEM5T3lRcDR6Vlk0Y1k0NmxjWm1qNjBSbEIwRmNVQTZQcW85SVVKVTB6azlUbkVUNHVEZE9XNVd6SUcxb1pkajREMDUtdFpJR055bXhyU1ZBcEp3VUNldUZzb0FETnhIcndQZUI0RmtMdE85VkpKVnhxb19FYklvcm5wUQ?oc=5",
-        "domain": "www.earthisland.org",
-        "publisher": "Earth Island Institute",
-        "publisher_url": "https://www.earthisland.org",
-        "language": "",
-        "seendate": "20261103T173741Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Exploring the Nexus between Climate Change, Migration and Sexual and Reproductive Health and Rights–HIV in Southern Africa",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOUXFWTkQ2QTlhZ09RNUNFYXZ2bmJMa2dlUzNmWXhKdDJPT0NpRFExZWRSTzZQWlpVUmNiUHZSS2xacV9MRkV0dU84Q2tKdmotRkN5T3RlcC1SYjNTVEZORTlOYjBWRmFDNDBCZjNKa09ZV2s2aVpSSTV5WmtyRU5QdDRzc1BYYlhoXzZjUVRVQ3NVWC0zV0o4eUhKcGY1dzM4YlhRLTA1Q3ZVdWxGN0hoRzJqdjB4Uy1ZLTJ0a2Exc1FMbTEtang5LXF4MHFtNFNiZW1zWHV5WjNOaTBQem1Td1JXRHFCZw?oc=5",
-        "domain": "reliefweb.int",
-        "publisher": "ReliefWeb",
-        "publisher_url": "https://reliefweb.int",
-        "language": "",
-        "seendate": "20261103T145604Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "New study reveals where drought and extreme heat converge across Oman",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9DNkpBdFF0bTJfMTNnZkFFeDNXbGdheWpIdFAyZjR2c2NwOFJpZHc3ZGtvTmlPR2pKdlcxU1dqWjhJQVluVm5JNnc5emxRaVpoZUU0RGJPQWFkSkxtdmtVN0YyNkhqQjhPbmpneG11ak9TQmh4TEJqOXZ4alk?oc=5",
-        "domain": "phys.org",
-        "publisher": "Phys.org",
-        "publisher_url": "https://phys.org",
-        "language": "",
-        "seendate": "20261103T120004Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "NJDEP| Drought Information | New Jersey Drought Information",
+        "title": "Drought Information | New Jersey Drought Information",
         "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDUGI5Rm9SN3lTUC1yb0dlcW9PS1RfMG5pTFhmeHNhYS1jTjQ0dWxwVkJoLVdDRnlWWm5MOVZHV2s?oc=5",
         "domain": "dep.nj.gov",
         "publisher": "NJ.gov",
@@ -499,46 +519,146 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Jerry Jones' coaching philosophy explains why Cowboys can't end playoff drought",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeFBnejB5VVNab21JRVprVUE4OHlKT1piTWl4YmdJdzFmeW9HQ3NwMmpLb21KS3hYaWxSckZweFpSSG5laE0xbTlIN3NIMmI0MThyRzQ1VzRZbnlnTlJVd04zbmJ1ajhUZW5WUWxTRVJNX01oVS1xNF9kaHEwaFc2N0VENWdwdmJ3cVZxQkNuTDNlT0U?oc=5",
-        "domain": "www.cbssports.com",
-        "publisher": "CBS Sports",
-        "publisher_url": "https://www.cbssports.com",
+        "title": "Pennsylvania’s legislature is losing its climate champion",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWjdDY1diZ2duSnZ4QUxFTkViN3JzZnBVZ2FiSVNyWmc1dTl2dUhRb2pXbGpraHRFM3AwVTFoUWI2dkZWak54ekY4SFpBRGFjVVh5NVIzT3dxdnlCUHFyZ0tTc3BpWDc0R0xvVjNZUDFZSGtyVUhDUWZteWxUTFdIV2I0NDhvUEVvQkxwb0dScERDcDNFNG84OXdfVVR4ZEZNSWRJanQ3MS1RNWs?oc=5",
+        "domain": "www.lockhaven.com",
+        "publisher": "Lock Haven Express",
+        "publisher_url": "https://www.lockhaven.com",
         "language": "",
-        "seendate": "20261103T165213Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Agriculture, small business shine in debut Ohio Proud holiday gift box",
-        "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxQV1JwbTc4a3hydkozTVdPaDh6emRhbnY5OFpvWEhnQTZkNjFHbldGblh6ZHVldFNzQjJWU3BkR005WG5mOWxWWGJXLV9DYlFaOVlSNkZQaVVOYmxQU0hwQ0pBamkzQ0lDZklWMm9JTUxDLXNHSUVOM09neGw2TDFfaFBnVHJVT1BObkI0UUtaWW1IME5HUFNWWmVpOENiby1BLWFoTlpWVkYxWk52ZFhJZ3llYnlhVHVaQzU4X3ZYM1p5WUR6X1RObnRiS2c0cmRveDRSVnBma01YV2RDNkQ5MVlBYkhmSExJaU96dHd1U1BiWmdPekJiWXRtYlY3RmQzT2h1ZHRVel9GV2J1aEo3eE1JZVROOHkwVXBnWFA3ZjNYOW5LUHdxNFczNWI1aXRrZmE0?oc=5",
-        "domain": "abc6onyourside.com",
-        "publisher": "WSYX",
-        "publisher_url": "https://abc6onyourside.com",
-        "language": "",
-        "seendate": "20261103T175509Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Beyond the Threshold: The Tyranny of Climate Apathy",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQX0tFZnp4ZU01ckdmMW5zWmJoWDBhX0dicWZ3NHNHZEhoZDFkQjVhLUVqT2M4QTg2LWpDWk5fcGJHTGxkV1VEOFdFcUNDZ09wVi11RHE1UDR1RHpkWnNYRVhtVGtMdEFwYnU2Y3RMS29mVXMydzlTVnZ1bFUxZ0NOcFdlblNvZzJmVHJ2SnBtR1ZvRklLRlVqQk1n?oc=5",
-        "domain": "mexicobusiness.news",
-        "publisher": "Mexico Business News",
-        "publisher_url": "https://mexicobusiness.news",
-        "language": "",
-        "seendate": "20261103T133000Z",
+        "seendate": "20261104T062105Z",
         "source": "GoogleNews"
       }
     ]
   },
   "events": [
     {
-      "title": "North Atlantic’s ‘cold blob’ may contain climate nuance",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUTN0UERPNVRNcDBmZXdEYUpnbExXNXhOdGNOeTNwM1A5Zm1CQ2hqRlZTSXh3eFhvWWFuV0NVb2swQmNOZDhIbjdpNTZScXp4YW12MU9QeDh3UGdpMno3a3gwOGlqMHYwZEZqLXE4U0JfenMtMTQ1eFV0blp3VmU4ZzBvQVF1LW5NMjU4eEhfb0VEZjgtQnlwdG5vUWlVZGdpRzRrSVdYOURJQllpdHVJ?oc=5",
-      "domain": "www.psu.edu",
-      "publisher": "The Pennsylvania State University",
-      "publisher_url": "https://www.psu.edu",
+      "title": "Clayton Tucker poised to become first Democratic agriculture commissioner in nearly 40 years",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQzMtQVFYZm9ZVmVWVzYwSnVQTW8tZlVjSTJhLXFfRHlkY1YxRjNaVDRrbVdQeVJPT1huNFd6R1hXMkJnVVhLTVNRMGJsT0Q3SERpeWlfeEgzR0xBaG04aHZ6SC1kdEc5OXlPWkl5dWlNRThqLXNKV01XaGNMdGZFbGZHejJESmdIZW9ZU1BrOGZuTUItZ3JmdEp3UkJkVGoxT1preHNBaDhwVUFJRlI3TXNTOA?oc=5",
+      "domain": "www.texastribune.org",
+      "publisher": "The Texas Tribune",
+      "publisher_url": "https://www.texastribune.org",
       "language": "",
-      "seendate": "20261103T164014Z",
+      "seendate": "20261104T051511Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Election Results: Wilton Simpson wins second term as Florida agriculture commissioner",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORWQxM0VVTFZQYnItdWtfeWpodDQwZE4zV1llcmFCMFMxSUUtam51Zk4tNTFlN1dNTmRtMGFtX2tvYnBvRE5JM0o3QXRUZVI2T1A1ZEc3bWV1ZDhiUENJVUFILXNQNWQ5OHBMUE02cXc1Y1BRcTV0UGdNTlBjOVBlUEdMWnJkandiWDJ1b3lpamhyTHl6aGc0cHEtTHV5SnMyYk5WSEItdnJiWV9vbEVSejFiRG9oRFY4ZlZ1RVA5MWlNOFow?oc=5",
+      "domain": "www.alligator.org",
+      "publisher": "The Independent Florida Alligator",
+      "publisher_url": "https://www.alligator.org",
+      "language": "",
+      "seendate": "20261104T034700Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Election Results: Iowa Secretary of Agriculture 2026",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNS0hGRTVYWE5ITEw3dm4xdW9DRDlLXzdiSlFfWTJLaUpaUGFuUEdWcmtLR1dLUnAza1VSNUdOQ1dQalBKOUFpTTRzR0xGS3BHTWNlTERaaWN3RHc4OWhfYlplOThMWWdwbWtPNWJyOWZ3NE5qZWZDaF9acmlrMVJ5MHk1WUE0XzhMd0Vzcjh4WHhVQ0ZQS1htOEhTRUp5QQ?oc=5",
+      "domain": "www.iowapublicradio.org",
+      "publisher": "Iowa Public Radio",
+      "publisher_url": "https://www.iowapublicradio.org",
+      "language": "",
+      "seendate": "20261104T043054Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "What a historic ‘blue wave’ midterm means for climate action",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbkFCdTdvbFYtZEEwNFBEaUxadkxiYWRTb1Z5UHlJa0dmcWQwV05rODJIR0VXbElHM3hkYUJ3RXh1SXkzWXVBMXB1dGJyYmtCNmlKclFoTGFPUlNrUDYwcnprNVA5czlCZ09GMDJqZjhHQ1Y1UEt5eHVLNVd3bXNLTXNpYmQ0dw?oc=5",
+      "domain": "grist.org",
+      "publisher": "Grist",
+      "publisher_url": "https://grist.org",
+      "language": "",
+      "seendate": "20261104T051127Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Rep. Simpson wins re-election as Florida agriculture commissioner",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNa3NQamZ6YldwSnJ3NVlIYjZzOFZ4WDhNd2ZnczJ4UUF2UHZPLU9RZHhuMWhIODE4OTVXLXM1VkRPaEFDVUtDeGFyS0VQbVBvVzFvV1RoX29QUnczQVNIMzR4dkEzcUNEdE9wZ0FPcE9mQzZXd3FTeTFiLThiUUNrZldaY2d0cks0OHF5QnF6b29xdlEtQS00TTRuNlg4alhUTW5VeTJLS0VGam5rbHdjZHVhVkExTDRmV05VOFNSRXI4VlU4ZnZsZFA1TERsb0VwZlVtUjZSX2laQTZpa3ZHZmlicERpM0ttbW10cEFMWUhUZEwwc3RJX3oyT0JQaHB0TkRkRURCNWpkYnhL?oc=5",
+      "domain": "www.tallahassee.com",
+      "publisher": "Tallahassee Democrat",
+      "publisher_url": "https://www.tallahassee.com",
+      "language": "",
+      "seendate": "20261104T030800Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "How anxiety over climate change affects college students",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRXhJMldTVkFLYWVEeElBa2dJMWdpUV9saFRJdVRaSWh4SWt0RHVuOGZWb0dxOWNIUS1ZbmF0OFRjU3U3MlV5Um9qM01INXltTG1sQzRKVkpuZk9WRVUxbktSdlE5c0JKSkxlOTBRNEhTSnBSSG9xYm5rMDJhSGJnaA?oc=5",
+      "domain": "phys.org",
+      "publisher": "Phys.org",
+      "publisher_url": "https://phys.org",
+      "language": "",
+      "seendate": "20261104T030001Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Democrat Katherine Juhan-Arnold ousts Tyler Harper for Georgia agriculture commissioner",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONHlYWExEZ2NnbXdtZFpyeG5jaGN6dTBIRlFpTEdRbzdWRnV3MndzNFliblFkcmpRM3g3aHdQUzU2TS04LTNnenlxdXdtVXE0N1UyeFFvR3RlLWVUcFlRMnZjdUVNYld1aFdiYWpxeEwteTUzbk1SWXRWZ2pOMFdGOFpMUGtKeFJjSU11WnpTWDNwQmNSU2FVd3ktT0xhY2NWQm9Bc2RYeWJkMEJkNnU4UXZKeGd6anU1VElaRzl5Qm1icVYycTY0?oc=5",
+      "domain": "www.atlantanewsfirst.com",
+      "publisher": "Atlanta News First",
+      "publisher_url": "https://www.atlantanewsfirst.com",
+      "language": "",
+      "seendate": "20261104T043500Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Republican Sheets, Democrat Tucker running to take over agriculture commissioner seat",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSVhLeFJ2X1ptV1A1aWxzNVpvdzk1VHU4aVpZZmxwUVNDbHVKZUlMSlhGdGsyR0E0MFpaUGZHNnZ3NXBJeEVBNENiZVM3ajRqemtNNEJMQnBQT2RiRWt3M2kzREhzWFB0emFMYUk4RkN0NVBfcTdtREY1czRuVnNEeW9hZEF0TE9jYUlvbS1YRFpwSG1xLU5tRWJhcEhTcjMybGJFdkpPeWZ4Ym1lN0lUVm9xTjI?oc=5",
+      "domain": "www.kltv.com",
+      "publisher": "KLTV.com",
+      "publisher_url": "https://www.kltv.com",
+      "language": "",
+      "seendate": "20261103T234400Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Florida live midterm election results: Wilton Simpson reelected as agriculture commissioner",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVEpNN0o5STZwOUxNcXFDVWpEeGZEQWRyRVdtVjhLRmJfX0pVcVUyazRoWDgxZzV6blRxNHU3aVR3U0xmaDFpTTN4MFY2T0Z0XzViRXh1U2tPcTZsQU91NDM1MmRXRUpSUmpuVzdZMGxXbzNMOWxzcGV2RW1qOUxxZlVEOTllekhrTkpUbzRyVnpVZHo2LTdocQ?oc=5",
+      "domain": "www.fox13news.com",
+      "publisher": "FOX 13 Tampa Bay",
+      "publisher_url": "https://www.fox13news.com",
+      "language": "",
+      "seendate": "20261103T230017Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Wilton Simpson wins reelection for Florida's Agriculture Commissioner",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYjFwaVhWa21TczVvcy1Lb0EtUUdqdXNmSlp6WDF0SldERUhBWWNKOUkxV1lyb3M2NWhwdjVUMzV3ZmRta3QzOGlUS3dOUWJ2TFZrWHFGd1d6TkxOa2FFTmlCVHVZcXdhdXdPMTA1eFZEa3Z3TlVKRFRqcUw5SlB3aEUxQzBPVDBSbm0zLUF5eng3R0Q1V1RUQ3VoZjBQLXNyNHRmcW5tOUNoZw?oc=5",
+      "domain": "www.wesh.com",
+      "publisher": "WESH",
+      "publisher_url": "https://www.wesh.com",
+      "language": "",
+      "seendate": "20261104T022900Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Did heavy rain help Arizona's drought? Here's what one expert says",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSnprM0N3blNvMnlZc1RPWTRPRE9sd0pJcmpBczEyRHZWajFQdC1HWGFtbzlmUmtSRXkxT0hSMnNEd05uRFZEbnhkblI5dl8tR2pnSzBrX1EtMzZkem90ai00TXFDbUtyV29yTjZtYjdWT0VGZkJNVm54dG0yblRacEg0WUNuTks5NGg0ekJQMGZ2dFByTzVVT2FrNVhfSUxNOFk1b1E2RQ?oc=5",
+      "domain": "www.kjzz.org",
+      "publisher": "KJZZ",
+      "publisher_url": "https://www.kjzz.org",
+      "language": "",
+      "seendate": "20261103T203200Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Nate Sheets, Clayton Tucker battle to serve as agriculture commissioner",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbTJVdlRGQjhIcU1obGVVZGVoUkdDTTJmdmo4REFNRGUyWHFkVTZ3QzNENlBYNy1wdmt1WjNjSzJJaHIxenVHTXhwOXQwQ1N3WVN0Sy1fdTlSY1pzcElEWUZmMl81NkxXd0tkeHl2YkpkbVRxRFZicWt0bkZJakM2Znl0dGFSUDZBbEFLTzY3SWNDRmtiQzVYMVV0TzE0MmtWeEJSSTZKQnI?oc=5",
+      "domain": "www.dallasnews.com",
+      "publisher": "Dallas News",
+      "publisher_url": "https://www.dallasnews.com",
+      "language": "",
+      "seendate": "20261104T043138Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Democrats Seize Congress, Statehouses in Referendum on the Economy",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQlhPTENfT0VveTVXaWxfNHdVeXBhVG1LaVRVeXR5bnVSZnNOMXN4TzBsUUdEQ21RU1lKN2tyTWQ2REZIQWpnZEdKb2thQ3MyZkpIUmwyTVFHLXg2Yy1XTjhYNzM1dHBqRWh1eFZock8td2tUZ2FfVnRtb3BJU0ZyNld6S2lSNEY3VE9MS3h5bWtpSGdrcTIzSWcyTDFGalhfdEVObV9FemVHM3RUQzRR?oc=5",
+      "domain": "insideclimatenews.org",
+      "publisher": "Inside Climate News",
+      "publisher_url": "https://insideclimatenews.org",
+      "language": "",
+      "seendate": "20261104T052510Z",
       "source": "GoogleNews"
     },
     {
@@ -552,133 +672,13 @@
       "source": "GoogleNews"
     },
     {
-      "title": "Mitch McConnell’s climate legacy",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcnBsckVQWHlRVXVYOXp6THI4em9ESVhWdHhWYm9hV0pUWWlTNi1FQnp4SlFEUElHaXdpNG1IbTJaTjBaekk4dm10U2h3ZDBfV0J4R1BNNEVtV3dCS1Q4aGZ3ZWtCV0JzUm0wRnhHS0VzakJpdnlkWFczUVJLQTdSNg?oc=5",
-      "domain": "yaleclimateconnections.org",
-      "publisher": "Yale Climate Connections",
-      "publisher_url": "https://yaleclimateconnections.org",
+      "title": "California’s Climate Disclosure Rule: Commenters Want Clarity, More Than Changes",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUkVVQmtubjl2VGZXSHp1bzB3S0lTUE5OQ2ZZc0k2YkhmWkl2U2VtX1BINlR5WEFKbXlUSm5rOGhZWHNSRVhvZG43SkVXM3p1cE9UUDE1MjVZazV3bGNsNUh3TVdUcWc2TUFzOUQ5MEE4X2VMcTdJU3R5UE1xWVQzN1hTTFlKTTlBT3lQNWFNNkRJY3FnUTBYMzMwNXZoalQ2ellv?oc=5",
+      "domain": "cafwd.org",
+      "publisher": "California Forward",
+      "publisher_url": "https://cafwd.org",
       "language": "",
-      "seendate": "20261103T120000Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Eckerd College professor’s book on climate change to publish with Columbia University Press",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbkNfRFVZem44eUMtQWJYRmJ4T2NscTRJUE91VVRYUFR5SXJTQVBQUDdicHdmV0NsQ3FnMEdsbEZLRGx4MnlJbkt5MGZ3Vl81ajhUUHVpajdqTk5WeDBENExISkN3TnBrMGN5VUF1LWxsNzBnRnl1ZTgxUWpsZ3RULXhjSUhjREZqcndocjk2djFMLUdyQkM5TWZUQ0RxX0RSZXQ1cGYteW8tdkg2UXRmaVBfamE4ZXNITWt3dUtiY1Y3dw?oc=5",
-      "domain": "www.eckerd.edu",
-      "publisher": "Eckerd College",
-      "publisher_url": "https://www.eckerd.edu",
-      "language": "",
-      "seendate": "20261103T150138Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Is It Better to Speak, or to ‘Hush’?",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTHA1aTNzbFpobERTZUxFREJzb3dtNmo2MmNtcGh2a21COUxNSjFVRFBhcHJCQXdPdGc3Mmpldmh3VFhzYWVERENfT0Z2SmNFUmNzX3hKTTR6WnpId21YOG5YMnU3dEpOa05rOUtFYnM2Y3U3MzZMNjJLODJEMU5sM0h3?oc=5",
-      "domain": "insideclimatenews.org",
-      "publisher": "Inside Climate News",
-      "publisher_url": "https://insideclimatenews.org",
-      "language": "",
-      "seendate": "20261103T170238Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Why Floodwaters Won’t Solve the Southwestern Water Crisis",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPa2ZpYzJhLUpHQ1ExSDBvS01xRl9CdzJzcDV0ZFMxcWVqbE5xWTM3NUk1QnZ6SE02V1FqaUFUbzNudnpIb3pxbUN5bmZwNnJvTlpJTXFSUEdwaUgtVEF5NFJqYWxPVnhIZ2Z1dTRyRDJtZDZIa25LandiRFNLS1N1am9NSmtHdmtsMlJR?oc=5",
-      "domain": "www.nytimes.com",
-      "publisher": "The New York Times",
-      "publisher_url": "https://www.nytimes.com",
-      "language": "",
-      "seendate": "20261103T210637Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Climate change takes a back seat in campaigns, but research suggests voters still care",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZlgxbndUdVpaUUhZaXpRR244VjFEYlVFQ1BiUXlmNUpGY2tsZ3NhQk1jaXhWYy1hNnlaN3h4NTdrcTlKX2ttRzZiUXVocmZJSS1NRUU5eTRmNVZsOWlDU2xyVWQxejVrV3dLdjUycmNWeWFIOTJfVW9YV3Jxb2s2WjFNYmpvME01TWxuMVBqY3N3U3kwb3BZ?oc=5",
-      "domain": "www.wral.com",
-      "publisher": "WRAL",
-      "publisher_url": "https://www.wral.com",
-      "language": "",
-      "seendate": "20261103T212747Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Monthly Attribution Overview – October 2026",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVTZZQklRRUdjYkNnRldXOUxfRmdjdzZ1WTNHSUdnbDdtMkpwUm9NVHFfZ25UTUZJc2NDQWhlQmI1MFBIbnVVcjBDX3lNVXhVa1o4ZmpfanNSZFV5WFB6Y2s0ME5TX3RZbXlDRldrVXVlTHhmV0dsY01lcWpIMUY2bTlpN21RZw?oc=5",
-      "domain": "www.climatecentral.org",
-      "publisher": "Climate Central",
-      "publisher_url": "https://www.climatecentral.org",
-      "language": "",
-      "seendate": "20261103T170135Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Drought Grips Southern Cow Country Heading into Winter",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaktZSmx3M0ZpY3hqS2NxOFotdjZzWGxqWU1YOEtGbC1ELTl0MUgzaEt1endxNHZEWDYyVzBTTk1YZi1aREl2a2tycUhJU1BWV1ViOGlQSnA3Wmtyc1BuSVRvbUJvc215bUxyaVhSeDBrVGFMLVRjZnZqTzRmVlMtZWduTndUVjExdlhKckZyRHZ4SndDTzgzc0E2UTZyYjZVczh3?oc=5",
-      "domain": "www.oklahomafarmreport.com",
-      "publisher": "Oklahoma Farm Report",
-      "publisher_url": "https://www.oklahomafarmreport.com",
-      "language": "",
-      "seendate": "20261103T161316Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Brazil’s data-driven plan for climate-resilient healthcare",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1yQk1xQmMzNVhWQVEzVy1zT0dtNmxKb01UbnI5c2VrTDlnQWNIZFp4LW1tM0ViNUg0c2gyWU9MR0hlbkZ2U05sN3NmZE92eWlfZU5uU1ROV2lxa1lFX0dB?oc=5",
-      "domain": "www.nature.com",
-      "publisher": "Nature",
-      "publisher_url": "https://www.nature.com",
-      "language": "",
-      "seendate": "20261103T172041Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Towards Integrated Climate, Migration and Health Action in the MENA Region",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPd05aUlNZWVQ3Y19tUUwya0VDT0hwUThVaW1GZm1JeEtaOEVJd3Exdi1vaF95TDVyX2h3OENWcXNCcFRnWVA1a2RvcDFkOThoNmlMbEVoa1daaVVtR3hpUHhnWWVCY2c1NmYxc3hTb0d3TWktVmk3RFpScU5Jcnd1WUtCdTMxalZ3U3BQYjc4WnU4T1B3ZUd0SW5YeXNuZS1ySy1z?oc=5",
-      "domain": "reliefweb.int",
-      "publisher": "ReliefWeb",
-      "publisher_url": "https://reliefweb.int",
-      "language": "",
-      "seendate": "20261103T143634Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Chemists make an impact on agriculture with Herman Frasch grants",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSUhmaFJiT2NmWUZvS0laOVc2a3FteFBsVlB0S3NBMWYzbVFKazJNLVkydW5DRnc2b3dxMnZ5THVaSHhSS1VjVHQ1TEFtSV9wa0x6dGhQcXdUNi1ENEQtbC1wbExzYm54RkFjM1dYaTl4SDBjOUJVb3BZQmUzakE1QWtCZmFjTmVLcjhOQUIybUZaV0Fxa1E?oc=5",
-      "domain": "cen.acs.org",
-      "publisher": "Chemical & Engineering News",
-      "publisher_url": "https://cen.acs.org",
-      "language": "",
-      "seendate": "20261103T142148Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "William Nordhaus, Nobelist who influenced climate policy, dies at 85",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5HYm9CYWZLWTJtYnZVRkRzZHBubmFlUjFIdWI2SFFIaVRpWGRkNzBwcXJCNW91Z2dYY1lYcTQyR0FHVzhac0t4REdReEFfd0k2SUcwSG1NYWlDRXloRTItd3FscDJwQU5HN1JMOGlHZEtySnU2elBVN2E5Zw?oc=5",
-      "domain": "www.inquirer.com",
-      "publisher": "Inquirer.com",
-      "publisher_url": "https://www.inquirer.com",
-      "language": "",
-      "seendate": "20261103T195451Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Afghanistan's Taliban officials will attend a UN climate summit for the second time as observers",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPTlhQd05QOEFGOUNtZEx0RFotN2ZrSkoyRzNZWHZ2QUx5aDF5UVNrZ2o3bWoyU3BsZENTS2NRc2pQcDdEWTFvdGlJVFJ5VTRXdFJINWIzcEw0SV91c0ZlQk1HX184V0QxRnJRSTVETVpFVkRHU1g5T2dwRi1OUjRqNkkxTHcyOXZBSUNFWGtKREJvWUdsWWRnU1V3ZlZXYkNuOVVPd2tTWU9YaTNua1ZEWWVWSTNYMzZWUzMxdVo0NWtUbE9MQkFwb2RLaENDd2tCRDdFWTZhV2JkX0FV?oc=5",
-      "domain": "news.mongabay.com",
-      "publisher": "news - Mongabay",
-      "publisher_url": "https://news.mongabay.com",
-      "language": "",
-      "seendate": "20261103T160447Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Teens say they’re concerned about climate change — but also don’t know much about it",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZjRoT19zTkRSSVExSUhtSXpEOVJpYW5VZFMweTk5VWcxTUhXSDJJYnA3Mmc3NzYySTBaVHNZbnZidXlyaVY2ZlY3d21NaUltMnN6NW9ZTk0zVDVyQVhHZnhnUjZ1Y2JZS1E4NGQzWGRLeGlUVUw3bGhYLVdXWG43M0NIbUJ6NDd5WVhlVHk3U0tEWk9YU09lci1rTEFsWEZUSTBJTENMMDBtMWtxbjVmMHVqYmtKYkxCOVd2a3FB?oc=5",
-      "domain": "www.kjzz.org",
-      "publisher": "KJZZ",
-      "publisher_url": "https://www.kjzz.org",
-      "language": "",
-      "seendate": "20261103T201100Z",
+      "seendate": "20261104T000933Z",
       "source": "GoogleNews"
     }
   ],
